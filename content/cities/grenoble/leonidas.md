@@ -1,5 +1,5 @@
 ---
-title: "Léonidas"
+title: "Leonidas"
 url: /grenoble/leonidas/
-shop: charcuterie
+shop: chocolat
 ---
