@@ -1,6 +1,6 @@
 ---
 title: Suze
 url: /suze/
-latitude: 44.7604089
+latitude: 44.7604118
 longitude: 5.114381000000001
 ---

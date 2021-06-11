@@ -1,5 +1,5 @@
 ---
 title: "Grana"
 url: /vienne/grana/
-shop: boulangerie
+shop: pâtisserie
 ---

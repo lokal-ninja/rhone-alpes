@@ -1,6 +1,6 @@
 ---
 title: Scientrier
 url: /scientrier/
-latitude: 46.1131304
-longitude: 6.3316838
+latitude: 46.1188775
+longitude: 6.3163228
 ---

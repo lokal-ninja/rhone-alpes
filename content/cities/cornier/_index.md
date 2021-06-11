@@ -1,6 +1,6 @@
 ---
 title: Cornier
 url: /cornier/
-latitude: 46.093611
-longitude: 6.300556
+latitude: 46.0936296
+longitude: 6.299397300000001
 ---

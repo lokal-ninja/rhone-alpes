@@ -1,5 +1,5 @@
 ---
-title: "Epicerie Le Fournil"
+title: "Épicerie Le Fournil"
 url: /rocles/epicerie-le-fournil/
 shop: commodité
 ---
