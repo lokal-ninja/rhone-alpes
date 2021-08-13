@@ -1,5 +1,5 @@
 ---
 title: "Noz"
 url: /privas/noz/
-shop: shop
+shop: magasin de variétés
 ---

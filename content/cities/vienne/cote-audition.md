@@ -1,5 +1,5 @@
 ---
-title: "Cote Audition"
+title: "Côté Audition"
 url: /vienne/cote-audition/
-shop: photo
+shop: les appareils auditifs
 ---

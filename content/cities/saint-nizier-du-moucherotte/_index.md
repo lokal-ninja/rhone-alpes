@@ -1,6 +1,6 @@
 ---
-title: Saint-Nizier-Du-Moucherotte
+title: Saint-Nizier-du-Moucherotte
 url: /saint-nizier-du-moucherotte/
-latitude: 
-longitude: 
+latitude: 45.1706954
+longitude: 5.629664900000001
 ---

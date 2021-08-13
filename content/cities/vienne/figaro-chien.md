@@ -1,5 +1,5 @@
 ---
-title: "Figaro chien"
+title: "Figaro Chien"
 url: /vienne/figaro-chien/
-shop: animal de compagnie
+shop: toilettage des animaux
 ---

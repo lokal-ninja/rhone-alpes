@@ -1,5 +1,5 @@
 ---
-title: "Indiana coiffure"
+title: "Indiana Coiffure"
 url: /vienne/indiana-coiffure/
 shop: coiffeur
 ---

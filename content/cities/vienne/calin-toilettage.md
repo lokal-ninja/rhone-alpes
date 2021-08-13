@@ -1,5 +1,5 @@
 ---
-title: "Calin toilettage"
+title: "Calin Toilettage"
 url: /vienne/calin-toilettage/
-shop: animal de compagnie
+shop: toilettage des animaux
 ---

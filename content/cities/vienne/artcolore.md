@@ -1,5 +1,5 @@
 ---
 title: "Artcolore"
 url: /vienne/artcolore/
-shop: cadre
+shop: artisanat
 ---

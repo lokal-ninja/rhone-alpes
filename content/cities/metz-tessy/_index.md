@@ -1,6 +1,6 @@
 ---
 title: Metz-Tessy
 url: /metz-tessy/
-latitude: 45.9401615
-longitude: 6.1056853
+latitude: 45.9390377
+longitude: 6.1062754
 ---

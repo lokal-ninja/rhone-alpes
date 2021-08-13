@@ -1,5 +1,5 @@
 ---
-title: "Bicyclopresto"
+title: "BicycloPresto"
 url: /grenoble/bicyclopresto/
 shop: vélo
 ---

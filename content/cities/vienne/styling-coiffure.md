@@ -1,5 +1,5 @@
 ---
-title: "Styling coiffure"
+title: "Styling Coiffure"
 url: /vienne/styling-coiffure/
 shop: coiffeur
 ---
