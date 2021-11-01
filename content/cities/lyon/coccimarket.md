@@ -1,5 +1,5 @@
 ---
-title: "coccimarket"
+title: "CocciMarket"
 url: /lyon/coccimarket/
-shop: magasin de variétés
+shop: commodité
 ---

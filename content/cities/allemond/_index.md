@@ -1,6 +1,6 @@
 ---
 title: Allemond
 url: /allemond/
-latitude: 
-longitude: 
+latitude: 45.131089200000005
+longitude: 6.0369453
 ---
