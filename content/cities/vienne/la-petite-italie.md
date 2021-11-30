@@ -1,5 +1,5 @@
 ---
-title: "La petite Italie"
+title: "La Petite Italie"
 url: /vienne/la-petite-italie/
-shop: commodité
+shop: charcuterie
 ---

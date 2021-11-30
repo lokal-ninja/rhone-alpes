@@ -1,5 +1,5 @@
 ---
-title: "Go sport"
+title: "GO Sport"
 url: /montelimar/go-sport/
 shop: sports
 ---
