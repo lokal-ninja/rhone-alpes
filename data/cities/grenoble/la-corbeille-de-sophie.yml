@@ -7,5 +7,5 @@ city: Grenoble
 street: "Cours Berriat"
 housenumber: 166
 phone: ""
-opening_hours: "Mo 08:00-12:30, 15:00-19:00; Tu 08:00-12:30; We-Fr 08:00-12:30, 15:00-19:00"
+opening_hours: "Mo-Fr 08:00-12:30, Mo,We,Fr 16:00-18:00"
 website: ""
