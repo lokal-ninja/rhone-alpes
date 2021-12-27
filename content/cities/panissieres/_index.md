@@ -1,6 +1,6 @@
 ---
 title: panissières
 url: /panissieres/
-latitude: 
-longitude: 
+latitude: 45.784
+longitude: 4.352
 ---

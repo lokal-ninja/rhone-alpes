@@ -1,6 +1,6 @@
 ---
 title: Thônex
 url: /thonex/
-latitude: 
-longitude: 
+latitude: 46.199
+longitude: 6.221
 ---

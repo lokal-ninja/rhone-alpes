@@ -1,6 +1,6 @@
 ---
 title: Samoëns
 url: /samoens/
-latitude: 
-longitude: 
+latitude: 46.081
+longitude: 6.727
 ---

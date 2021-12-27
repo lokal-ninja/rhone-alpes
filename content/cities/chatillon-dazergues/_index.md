@@ -1,6 +1,6 @@
 ---
 title: Chatillon d'Azergues
 url: /chatillon-dazergues/
-latitude: 
-longitude: 
+latitude: 45.877
+longitude: 4.645
 ---

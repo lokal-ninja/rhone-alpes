@@ -1,6 +1,6 @@
 ---
 title: Jussy
 url: /jussy/
-latitude: 45.9147763
-longitude: 5.9602149
+latitude: 46.242
+longitude: 6.306
 ---

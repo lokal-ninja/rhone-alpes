@@ -1,6 +1,6 @@
 ---
 title: Ampuis
 url: /ampuis/
-latitude: 45.4888765
-longitude: 4.811206
+latitude: 45.505
+longitude: 4.832
 ---

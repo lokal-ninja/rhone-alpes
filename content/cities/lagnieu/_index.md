@@ -1,6 +1,6 @@
 ---
 title: Lagnieu
 url: /lagnieu/
-latitude: 45.9034952
-longitude: 5.3480192
+latitude: 45.903
+longitude: 5.348
 ---

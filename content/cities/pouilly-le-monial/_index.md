@@ -1,6 +1,6 @@
 ---
 title: Pouilly le Monial
 url: /pouilly-le-monial/
-latitude: 
-longitude: 
+latitude: 45.96
+longitude: 4.648
 ---

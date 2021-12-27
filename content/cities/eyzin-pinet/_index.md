@@ -1,6 +1,6 @@
 ---
 title: Eyzin-Pinet
 url: /eyzin-pinet/
-latitude: 
-longitude: 
+latitude: 45.474
+longitude: 4.999
 ---

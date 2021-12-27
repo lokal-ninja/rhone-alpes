@@ -1,6 +1,6 @@
 ---
 title: Vernaison
 url: /vernaison/
-latitude: 45.6467
-longitude: 4.8098600000000005
+latitude: 45.647
+longitude: 4.813
 ---

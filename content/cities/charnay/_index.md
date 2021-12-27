@@ -1,6 +1,6 @@
 ---
 title: Charnay
 url: /charnay/
-latitude: 46.171056500000006
-longitude: 4.2531627
+latitude: 45.891
+longitude: 4.668
 ---

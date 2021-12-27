@@ -1,6 +1,6 @@
 ---
 title: Saint-Alban-Leysse
 url: /saint-alban-leysse/
-latitude: 
-longitude: 
+latitude: 45.574
+longitude: 5.953
 ---

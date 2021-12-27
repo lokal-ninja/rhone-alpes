@@ -1,6 +1,6 @@
 ---
 title: avoriaz
 url: /avoriaz/
-latitude: 
-longitude: 
+latitude: 46.192
+longitude: 6.777
 ---

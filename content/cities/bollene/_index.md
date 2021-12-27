@@ -1,6 +1,6 @@
 ---
 title: Bollène
 url: /bollene/
-latitude: 
-longitude: 
+latitude: 44.324
+longitude: 4.742
 ---

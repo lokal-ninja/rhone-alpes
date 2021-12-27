@@ -1,6 +1,6 @@
 ---
 title: Chirens
 url: /chirens/
-latitude: 45.4138
-longitude: 5.55661
+latitude: 45.406
+longitude: 5.563
 ---

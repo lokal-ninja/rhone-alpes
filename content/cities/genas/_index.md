@@ -1,6 +1,6 @@
 ---
 title: Genas
 url: /genas/
-latitude: 45.733058500000006
-longitude: 4.9965605
+latitude: 45.731
+longitude: 5.004
 ---

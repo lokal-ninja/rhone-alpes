@@ -1,6 +1,6 @@
 ---
 title: Plagne Soleil
 url: /plagne-soleil/
-latitude: 45.508037400000006
-longitude: 6.6871086
+latitude: 45.509
+longitude: 6.685
 ---

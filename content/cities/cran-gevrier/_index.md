@@ -1,6 +1,6 @@
 ---
 title: Cran-Gevrier
 url: /cran-gevrier/
-latitude: 45.9079102
-longitude: 6.1065380000000005
+latitude: 45.895
+longitude: 6.11
 ---

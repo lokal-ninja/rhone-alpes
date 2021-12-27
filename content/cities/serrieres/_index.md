@@ -1,6 +1,6 @@
 ---
 title: Serrières
 url: /serrieres/
-latitude: 45.6928798
-longitude: 5.3358423
+latitude: 45.318
+longitude: 4.765
 ---

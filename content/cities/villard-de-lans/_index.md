@@ -1,6 +1,6 @@
 ---
 title: Villard-de-Lans
 url: /villard-de-lans/
-latitude: 45.070536600000004
-longitude: 5.5515360000000005
+latitude: 45.079
+longitude: 5.534
 ---

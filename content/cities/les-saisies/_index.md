@@ -1,6 +1,6 @@
 ---
 title: Les Saisies
 url: /les-saisies/
-latitude: 
-longitude: 
+latitude: 45.759
+longitude: 6.536
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pierre-Chatel
 url: /pierre-chatel/
-latitude: 
-longitude: 
+latitude: 44.955
+longitude: 5.778
 ---

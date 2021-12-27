@@ -1,6 +1,6 @@
 ---
 title: Veyras
 url: /veyras/
-latitude: 
-longitude: 
+latitude: 44.729
+longitude: 4.569
 ---

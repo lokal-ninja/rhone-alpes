@@ -1,6 +1,6 @@
 ---
 title: Saint-François-Longchamp
 url: /saint-francois-longchamp/
-latitude: 45.408603500000005
-longitude: 6.345571400000001
+latitude: 45.421
+longitude: 6.364
 ---

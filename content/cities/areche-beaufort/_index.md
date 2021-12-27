@@ -1,6 +1,6 @@
 ---
 title: Arêche Beaufort
 url: /areche-beaufort/
-latitude: 
-longitude: 
+latitude: 45.687
+longitude: 6.569
 ---

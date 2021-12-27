@@ -1,6 +1,6 @@
 ---
 title: Arbin
 url: /arbin/
-latitude: 45.5077931
-longitude: 6.063970500000001
+latitude: 45.507
+longitude: 6.074
 ---

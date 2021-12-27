@@ -1,6 +1,6 @@
 ---
 title: Les Carroz
 url: /les-carroz/
-latitude: 46.0254794
-longitude: 6.6383866000000005
+latitude: 46.025
+longitude: 6.637
 ---

@@ -1,6 +1,6 @@
 ---
 title: Décines
 url: /decines/
-latitude: 
-longitude: 
+latitude: 45.763
+longitude: 4.963
 ---

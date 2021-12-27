@@ -1,6 +1,6 @@
 ---
 title: Saint-Etienne-de-Crossey
 url: /saint-etienne-de-crossey/
-latitude: 
-longitude: 
+latitude: 45.379
+longitude: 5.645
 ---

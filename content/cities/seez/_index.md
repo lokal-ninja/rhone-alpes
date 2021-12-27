@@ -1,6 +1,6 @@
 ---
 title: Séez
 url: /seez/
-latitude: 45.6227366
-longitude: 6.8005956
+latitude: 45.624
+longitude: 6.798
 ---

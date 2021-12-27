@@ -1,6 +1,6 @@
 ---
 title: Limas
 url: /limas/
-latitude: 45.975189300000004
-longitude: 4.7087667
+latitude: 45.976
+longitude: 4.717
 ---

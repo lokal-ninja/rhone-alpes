@@ -1,6 +1,6 @@
 ---
 title: Firminy
 url: /firminy/
-latitude: 45.386946800000004
-longitude: 4.2858545
+latitude: 45.389
+longitude: 4.286
 ---

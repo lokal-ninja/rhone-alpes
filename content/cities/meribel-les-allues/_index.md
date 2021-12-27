@@ -1,6 +1,6 @@
 ---
 title: Méribel les Allues
 url: /meribel-les-allues/
-latitude: 
-longitude: 
+latitude: 45.374
+longitude: 6.578
 ---

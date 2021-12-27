@@ -1,6 +1,6 @@
 ---
 title: Queige
 url: /queige/
-latitude: 45.719810300000006
-longitude: 6.4597224
+latitude: 45.72
+longitude: 6.459
 ---

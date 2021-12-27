@@ -1,6 +1,6 @@
 ---
 title: Méribel
 url: /meribel/
-latitude: 
-longitude: 
+latitude: 45.396
+longitude: 6.566
 ---

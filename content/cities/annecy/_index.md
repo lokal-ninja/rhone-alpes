@@ -1,6 +1,6 @@
 ---
 title: Annecy
 url: /annecy/
-latitude: 
-longitude: 
+latitude: 45.91
+longitude: 6.118
 ---

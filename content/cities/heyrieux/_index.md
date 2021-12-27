@@ -1,6 +1,6 @@
 ---
 title: Heyrieux
 url: /heyrieux/
-latitude: 45.6290108
-longitude: 5.063674000000001
+latitude: 45.63
+longitude: 5.064
 ---

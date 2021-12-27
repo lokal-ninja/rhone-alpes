@@ -1,6 +1,6 @@
 ---
 title: LIVRON SUR DROME
 url: /livron-sur-drome/
-latitude: 
-longitude: 
+latitude: 44.802
+longitude: 4.817
 ---

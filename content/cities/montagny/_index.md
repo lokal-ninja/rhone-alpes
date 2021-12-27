@@ -1,6 +1,6 @@
 ---
 title: Montagny
 url: /montagny/
-latitude: 46.0087315
-longitude: 4.3987636000000006
+latitude: 46.033
+longitude: 4.236
 ---

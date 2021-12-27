@@ -1,6 +1,6 @@
 ---
 title: La Table
 url: /la-table/
-latitude: 45.479400000000005
-longitude: 6.17107
+latitude: 45.473
+longitude: 6.184
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arâches-la-Frasse
 url: /araches-la-frasse/
-latitude: 
-longitude: 
+latitude: 46.009
+longitude: 6.68
 ---

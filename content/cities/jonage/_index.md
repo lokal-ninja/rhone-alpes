@@ -1,6 +1,6 @@
 ---
 title: Jonage
 url: /jonage/
-latitude: 45.7965175
-longitude: 5.047562500000001
+latitude: 45.796
+longitude: 5.047
 ---

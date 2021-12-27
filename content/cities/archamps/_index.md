@@ -1,6 +1,6 @@
 ---
 title: Archamps
 url: /archamps/
-latitude: 46.1354538
-longitude: 6.1332458
+latitude: 46.137
+longitude: 6.127
 ---

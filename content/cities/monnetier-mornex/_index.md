@@ -1,6 +1,6 @@
 ---
 title: Monnetier-Mornex
 url: /monnetier-mornex/
-latitude: 
-longitude: 
+latitude: 46.164
+longitude: 6.237
 ---

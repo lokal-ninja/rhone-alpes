@@ -1,6 +1,6 @@
 ---
 title: Chomerac
 url: /chomerac/
-latitude: 
-longitude: 
+latitude: 44.708
+longitude: 4.661
 ---

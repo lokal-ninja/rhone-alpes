@@ -1,6 +1,6 @@
 ---
 title: Alissas
 url: /alissas/
-latitude: 44.7141578
-longitude: 4.6327064
+latitude: 44.715
+longitude: 4.614
 ---

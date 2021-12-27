@@ -1,6 +1,6 @@
 ---
 title: Chamrousse
 url: /chamrousse/
-latitude: 
-longitude: 
+latitude: 45.102
+longitude: 5.876
 ---

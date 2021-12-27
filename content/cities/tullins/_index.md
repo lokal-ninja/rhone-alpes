@@ -1,6 +1,6 @@
 ---
 title: Tullins
 url: /tullins/
-latitude: 45.2977714
-longitude: 5.4829748
+latitude: 45.298
+longitude: 5.484
 ---

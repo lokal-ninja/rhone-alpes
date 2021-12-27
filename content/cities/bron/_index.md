@@ -1,6 +1,6 @@
 ---
 title: Bron
 url: /bron/
-latitude: 45.7337532
-longitude: 4.9092352
+latitude: 45.726
+longitude: 4.915
 ---

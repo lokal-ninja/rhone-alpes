@@ -1,6 +1,6 @@
 ---
 title: Cohennoz
 url: /cohennoz/
-latitude: 45.7572595
-longitude: 6.4813931
+latitude: 45.783
+longitude: 6.499
 ---

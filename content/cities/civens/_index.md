@@ -1,6 +1,6 @@
 ---
 title: Civens
 url: /civens/
-latitude: 45.778902
-longitude: 4.2536166
+latitude: 45.754
+longitude: 4.218
 ---

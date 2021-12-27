@@ -1,6 +1,6 @@
 ---
 title: Challes-les-Eaux
 url: /challes-les-eaux/
-latitude: 45.548251900000004
-longitude: 5.9831637
+latitude: 45.55
+longitude: 5.984
 ---

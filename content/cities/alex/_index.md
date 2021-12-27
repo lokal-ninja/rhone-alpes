@@ -1,6 +1,6 @@
 ---
 title: Alex
 url: /alex/
-latitude: 46.2268136
-longitude: 5.6249303
+latitude: 45.893
+longitude: 6.247
 ---

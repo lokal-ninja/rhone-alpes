@@ -1,6 +1,6 @@
 ---
 title: Tignieu-Jameyzieu
 url: /tignieu-jameyzieu/
-latitude: 
-longitude: 
+latitude: 45.749
+longitude: 5.208
 ---

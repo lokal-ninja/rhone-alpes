@@ -1,6 +1,6 @@
 ---
 title: Plateau d'Assy
 url: /plateau-dassy/
-latitude: 
-longitude: 
+latitude: 45.937
+longitude: 6.703
 ---

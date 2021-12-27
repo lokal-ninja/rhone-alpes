@@ -1,6 +1,6 @@
 ---
 title: Hauteville-sur-Fier
 url: /hauteville-sur-fier/
-latitude: 45.903699700000004
-longitude: 5.9744934
+latitude: 45.904
+longitude: 5.975
 ---

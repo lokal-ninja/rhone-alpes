@@ -1,6 +1,6 @@
 ---
 title: Saint-Jean-de-Bournay
 url: /saint-jean-de-bournay/
-latitude: 
-longitude: 
+latitude: 45.499
+longitude: 5.137
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Rosière
 url: /la-rosiere/
-latitude: 46.1087718
-longitude: 6.7342747
+latitude: 45.627
+longitude: 6.85
 ---

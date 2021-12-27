@@ -1,6 +1,6 @@
 ---
 title: Quintal
 url: /quintal/
-latitude: 45.8412353
-longitude: 6.0847071
+latitude: 45.84
+longitude: 6.084
 ---

@@ -1,6 +1,6 @@
 ---
 title: Auris
 url: /auris/
-latitude: 
-longitude: 
+latitude: 45.055
+longitude: 6.077
 ---

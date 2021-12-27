@@ -1,6 +1,6 @@
 ---
 title: Les Roches-de-Condrieu
 url: /les-roches-de-condrieu/
-latitude: 45.453
-longitude: 4.7682776
+latitude: 45.449
+longitude: 4.766
 ---

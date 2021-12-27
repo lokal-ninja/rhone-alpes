@@ -1,6 +1,6 @@
 ---
 title: Sciez
 url: /sciez/
-latitude: 46.331359000000006
-longitude: 6.3752502
+latitude: 46.333
+longitude: 6.375
 ---

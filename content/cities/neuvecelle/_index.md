@@ -1,6 +1,6 @@
 ---
 title: Neuvecelle
 url: /neuvecelle/
-latitude: 46.395599100000005
-longitude: 6.6122858
+latitude: 46.399
+longitude: 6.61
 ---

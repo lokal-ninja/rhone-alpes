@@ -1,6 +1,6 @@
 ---
 title: Fontaines-sur-Saône
 url: /fontaines-sur-saone/
-latitude: 45.8325696
-longitude: 4.8488338
+latitude: 45.834
+longitude: 4.848
 ---

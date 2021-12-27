@@ -1,6 +1,6 @@
 ---
 title: Allevard
 url: /allevard/
-latitude: 45.3934726
-longitude: 6.0744406
+latitude: 45.393
+longitude: 6.076
 ---

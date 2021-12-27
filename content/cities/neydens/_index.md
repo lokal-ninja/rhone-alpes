@@ -1,6 +1,6 @@
 ---
 title: Neydens
 url: /neydens/
-latitude: 46.120858500000004
-longitude: 6.1039786000000005
+latitude: 46.123
+longitude: 6.097
 ---

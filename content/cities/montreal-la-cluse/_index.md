@@ -1,6 +1,6 @@
 ---
 title: Montréal-la-Cluse
 url: /montreal-la-cluse/
-latitude: 46.1866471
-longitude: 5.5705397
+latitude: 46.173
+longitude: 5.576
 ---

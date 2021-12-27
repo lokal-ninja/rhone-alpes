@@ -1,6 +1,6 @@
 ---
 title: Lucinges
 url: /lucinges/
-latitude: 46.298470300000005
-longitude: 5.334986300000001
+latitude: 46.191
+longitude: 6.319
 ---

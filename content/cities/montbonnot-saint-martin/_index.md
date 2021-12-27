@@ -1,6 +1,6 @@
 ---
 title: Montbonnot-Saint-Martin
 url: /montbonnot-saint-martin/
-latitude: 45.226449800000005
-longitude: 5.80266
+latitude: 45.222
+longitude: 5.812
 ---

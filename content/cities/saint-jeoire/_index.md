@@ -1,6 +1,6 @@
 ---
 title: Saint-Jeoire
 url: /saint-jeoire/
-latitude: 46.138631800000006
-longitude: 6.4582302
+latitude: 46.138
+longitude: 6.458
 ---

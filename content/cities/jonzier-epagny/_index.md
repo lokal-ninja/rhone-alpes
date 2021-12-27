@@ -1,6 +1,6 @@
 ---
 title: Jonzier-Epagny
 url: /jonzier-epagny/
-latitude: 
-longitude: 
+latitude: 46.07
+longitude: 5.99
 ---

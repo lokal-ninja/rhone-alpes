@@ -1,6 +1,6 @@
 ---
 title: Malleval
 url: /malleval/
-latitude: 45.056358700000004
-longitude: 4.4296816
+latitude: 45.382
+longitude: 4.728
 ---

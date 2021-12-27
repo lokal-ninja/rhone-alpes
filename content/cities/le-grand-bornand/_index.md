@@ -1,6 +1,6 @@
 ---
 title: Le Grand Bornand
 url: /le-grand-bornand/
-latitude: 
-longitude: 
+latitude: 45.974
+longitude: 6.454
 ---

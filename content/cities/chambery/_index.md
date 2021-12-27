@@ -1,6 +1,6 @@
 ---
 title: Chambéry
 url: /chambery/
-latitude: 
-longitude: 
+latitude: 45.568
+longitude: 5.922
 ---

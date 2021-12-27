@@ -1,6 +1,6 @@
 ---
 title: Dieulefit
 url: /dieulefit/
-latitude: 44.5236962
-longitude: 5.0663637
+latitude: 44.525
+longitude: 5.066
 ---

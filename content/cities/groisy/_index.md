@@ -1,6 +1,6 @@
 ---
 title: Groisy
 url: /groisy/
-latitude: 46.0164774
-longitude: 6.1712940000000005
+latitude: 46.002
+longitude: 6.182
 ---

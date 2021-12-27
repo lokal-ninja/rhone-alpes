@@ -1,6 +1,6 @@
 ---
 title: Aoste
 url: /aoste/
-latitude: 45.587163700000005
-longitude: 5.6074753
+latitude: 45.587
+longitude: 5.607
 ---

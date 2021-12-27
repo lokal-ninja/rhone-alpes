@@ -1,6 +1,6 @@
 ---
 title: Vienne
 url: /vienne/
-latitude: 
-longitude: 
+latitude: 45.521
+longitude: 4.873
 ---

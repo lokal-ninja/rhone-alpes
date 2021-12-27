@@ -1,6 +1,6 @@
 ---
 title: Saint-Jorioz
 url: /saint-jorioz/
-latitude: 45.8337282
-longitude: 6.163980700000001
+latitude: 45.832
+longitude: 6.163
 ---

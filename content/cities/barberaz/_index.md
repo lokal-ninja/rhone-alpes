@@ -1,6 +1,6 @@
 ---
 title: Barberaz
 url: /barberaz/
-latitude: 45.558239300000004
-longitude: 5.9421274
+latitude: 45.563
+longitude: 5.943
 ---

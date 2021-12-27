@@ -1,6 +1,6 @@
 ---
 title: Mionnay
 url: /mionnay/
-latitude: 45.894836700000006
-longitude: 4.9311797
+latitude: 45.896
+longitude: 4.93
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meximieux
 url: /meximieux/
-latitude: 45.7242921
-longitude: 4.0452387000000005
+latitude: 45.906
+longitude: 5.204
 ---

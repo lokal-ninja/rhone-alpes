@@ -1,6 +1,6 @@
 ---
 title: Serrières-de-Briord
 url: /serrieres-de-briord/
-latitude: 45.8067
-longitude: 5.45359
+latitude: 45.808
+longitude: 5.454
 ---

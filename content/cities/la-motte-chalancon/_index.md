@@ -1,6 +1,6 @@
 ---
 title: La Motte-Chalancon
 url: /la-motte-chalancon/
-latitude: 44.4853515
-longitude: 5.3794919000000005
+latitude: 44.485
+longitude: 5.381
 ---

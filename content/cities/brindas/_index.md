@@ -1,6 +1,6 @@
 ---
 title: Brindas
 url: /brindas/
-latitude: 45.7206375
-longitude: 4.6940681
+latitude: 45.72
+longitude: 4.694
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reventin Vaugris
 url: /reventin-vaugris/
-latitude: 
-longitude: 
+latitude: 45.499
+longitude: 4.847
 ---

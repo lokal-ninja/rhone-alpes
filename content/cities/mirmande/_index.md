@@ -1,6 +1,6 @@
 ---
 title: Mirmande
 url: /mirmande/
-latitude: 44.698387000000004
-longitude: 4.8360583
+latitude: 44.699
+longitude: 4.835
 ---

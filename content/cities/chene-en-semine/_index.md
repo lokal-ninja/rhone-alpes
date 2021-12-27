@@ -1,6 +1,6 @@
 ---
 title: Chêne-en-Semine
 url: /chene-en-semine/
-latitude: 46.046711300000005
-longitude: 5.857995600000001
+latitude: 46.062
+longitude: 5.868
 ---

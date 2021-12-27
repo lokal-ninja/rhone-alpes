@@ -1,6 +1,6 @@
 ---
 title: Talloires-Montmin
 url: /talloires-montmin/
-latitude: 
-longitude: 
+latitude: 45.84
+longitude: 6.214
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ardoix
 url: /ardoix/
-latitude: 45.1865633
-longitude: 4.7364951
+latitude: 45.187
+longitude: 4.736
 ---

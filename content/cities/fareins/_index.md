@@ -1,6 +1,6 @@
 ---
 title: Fareins
 url: /fareins/
-latitude: 46.0189382
-longitude: 4.760954
+latitude: 46.02
+longitude: 4.761
 ---

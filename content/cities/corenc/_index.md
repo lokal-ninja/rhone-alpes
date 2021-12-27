@@ -1,6 +1,6 @@
 ---
 title: Corenc
 url: /corenc/
-latitude: 45.219680600000004
-longitude: 5.7617836
+latitude: 45.212
+longitude: 5.758
 ---

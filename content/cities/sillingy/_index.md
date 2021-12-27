@@ -1,6 +1,6 @@
 ---
 title: Sillingy
 url: /sillingy/
-latitude: 45.9471123
-longitude: 6.0359723
+latitude: 45.96
+longitude: 6.001
 ---

@@ -1,6 +1,6 @@
 ---
 title: Drumettaz-Clarafond
 url: /drumettaz-clarafond/
-latitude: 45.6582224
-longitude: 5.9285677
+latitude: 45.658
+longitude: 5.912
 ---

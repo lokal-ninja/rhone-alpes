@@ -1,6 +1,6 @@
 ---
 title: Beaufort
 url: /beaufort/
-latitude: 45.3267
-longitude: 5.12161
+latitude: 45.718
+longitude: 6.575
 ---

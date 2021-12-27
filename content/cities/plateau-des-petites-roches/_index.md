@@ -1,6 +1,6 @@
 ---
 title: Plateau des petites roches
 url: /plateau-des-petites-roches/
-latitude: 
-longitude: 
+latitude: 45.329
+longitude: 5.903
 ---

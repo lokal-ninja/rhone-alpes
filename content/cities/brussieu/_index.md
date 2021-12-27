@@ -1,6 +1,6 @@
 ---
 title: Brussieu
 url: /brussieu/
-latitude: 45.747214400000004
-longitude: 4.5244669
+latitude: 45.749
+longitude: 4.543
 ---

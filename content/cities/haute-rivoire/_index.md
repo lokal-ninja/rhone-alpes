@@ -1,6 +1,6 @@
 ---
 title: Haute-Rivoire
 url: /haute-rivoire/
-latitude: 
-longitude: 
+latitude: 45.716
+longitude: 4.396
 ---

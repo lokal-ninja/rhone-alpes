@@ -1,6 +1,6 @@
 ---
 title: Le Gua
 url: /le-gua/
-latitude: 45.0405571
-longitude: 6.0417025
+latitude: 45.025
+longitude: 5.646
 ---

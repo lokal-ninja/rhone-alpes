@@ -1,6 +1,6 @@
 ---
 title: Le Corbier
 url: /le-corbier/
-latitude: 45.2401623
-longitude: 6.2682259
+latitude: 45.237
+longitude: 6.274
 ---

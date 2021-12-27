@@ -1,6 +1,6 @@
 ---
 title: Lozanne
 url: /lozanne/
-latitude: 45.8563065
-longitude: 4.683398
+latitude: 45.855
+longitude: 4.687
 ---

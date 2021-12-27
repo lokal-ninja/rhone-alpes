@@ -1,6 +1,6 @@
 ---
 title: Noyarey
 url: /noyarey/
-latitude: 45.209521900000006
-longitude: 5.7364476
+latitude: 45.238
+longitude: 5.635
 ---

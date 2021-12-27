@@ -1,6 +1,6 @@
 ---
 title: Vinay
 url: /vinay/
-latitude: 45.042596800000005
-longitude: 4.8129935
+latitude: 45.208
+longitude: 5.411
 ---

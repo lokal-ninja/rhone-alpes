@@ -1,6 +1,6 @@
 ---
 title: Montceaux
 url: /montceaux/
-latitude: 46.052837600000004
-longitude: 4.8812825
+latitude: 46.097
+longitude: 4.774
 ---

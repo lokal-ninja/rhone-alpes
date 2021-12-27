@@ -1,6 +1,6 @@
 ---
 title: valloise
 url: /valloise/
-latitude: 
-longitude: 
+latitude: 45.174
+longitude: 6.493
 ---

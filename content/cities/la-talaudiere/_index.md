@@ -1,6 +1,6 @@
 ---
 title: La Talaudière
 url: /la-talaudiere/
-latitude: 45.480478000000005
-longitude: 4.4290257
+latitude: 45.481
+longitude: 4.432
 ---

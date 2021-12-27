@@ -1,6 +1,6 @@
 ---
 title: Vallandry
 url: /vallandry/
-latitude: 45.556421500000006
-longitude: 6.762166100000001
+latitude: 45.546
+longitude: 6.756
 ---

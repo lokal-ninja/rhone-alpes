@@ -1,6 +1,6 @@
 ---
 title: Baix
 url: /baix/
-latitude: 45.7805619
-longitude: 5.3538128
+latitude: 44.715
+longitude: 4.761
 ---

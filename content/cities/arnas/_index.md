@@ -1,6 +1,6 @@
 ---
 title: Arnas
 url: /arnas/
-latitude: 46.0235247
-longitude: 4.7071167
+latitude: 46.016
+longitude: 4.725
 ---

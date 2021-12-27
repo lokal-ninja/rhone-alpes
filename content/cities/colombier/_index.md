@@ -1,6 +1,6 @@
 ---
 title: COLOMBIER
 url: /colombier/
-latitude: 
-longitude: 
+latitude: 45.357
+longitude: 4.589
 ---

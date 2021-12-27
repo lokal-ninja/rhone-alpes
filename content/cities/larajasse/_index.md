@@ -1,6 +1,6 @@
 ---
 title: Larajasse
 url: /larajasse/
-latitude: 45.613719
-longitude: 4.5007834
+latitude: 45.603
+longitude: 4.522
 ---

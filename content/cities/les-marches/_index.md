@@ -1,6 +1,6 @@
 ---
 title: Les Marches
 url: /les-marches/
-latitude: 45.675991700000004
-longitude: 5.6035697
+latitude: 45.499
+longitude: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lanarce
 url: /lanarce/
-latitude: 44.7276
-longitude: 4.00387
+latitude: 44.729
+longitude: 4.006
 ---

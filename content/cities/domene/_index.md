@@ -1,6 +1,6 @@
 ---
 title: Domène
 url: /domene/
-latitude: 45.2013065
-longitude: 5.8388954
+latitude: 45.201
+longitude: 5.839
 ---

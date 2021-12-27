@@ -1,6 +1,6 @@
 ---
 title: Cuzieu
 url: /cuzieu/
-latitude: 45.612192500000006
-longitude: 4.2579683
+latitude: 45.609
+longitude: 4.261
 ---

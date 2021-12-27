@@ -1,6 +1,6 @@
 ---
 title: Montriond
 url: /montriond/
-latitude: 46.197515800000005
-longitude: 6.6947149
+latitude: 46.197
+longitude: 6.694
 ---

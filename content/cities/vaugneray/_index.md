@@ -1,6 +1,6 @@
 ---
 title: Vaugneray
 url: /vaugneray/
-latitude: 45.737625200000004
-longitude: 4.6578983
+latitude: 45.737
+longitude: 4.657
 ---

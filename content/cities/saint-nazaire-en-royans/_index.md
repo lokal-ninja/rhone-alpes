@@ -1,6 +1,6 @@
 ---
 title: Saint-Nazaire-en-Royans
 url: /saint-nazaire-en-royans/
-latitude: 45.0603491
-longitude: 5.2472008
+latitude: 45.066
+longitude: 5.241
 ---

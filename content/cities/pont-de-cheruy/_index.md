@@ -1,6 +1,6 @@
 ---
 title: Pont-de-Chéruy
 url: /pont-de-cheruy/
-latitude: 45.750010200000006
-longitude: 5.1740496
+latitude: 45.75
+longitude: 5.17
 ---

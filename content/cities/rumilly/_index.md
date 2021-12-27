@@ -1,6 +1,6 @@
 ---
 title: Rumilly
 url: /rumilly/
-latitude: 45.8676254
-longitude: 5.942859100000001
+latitude: 45.864
+longitude: 5.945
 ---

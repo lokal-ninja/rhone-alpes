@@ -1,6 +1,6 @@
 ---
 title: Cogny
 url: /cogny/
-latitude: 45.419486400000004
-longitude: 4.1299196
+latitude: 45.987
+longitude: 4.625
 ---

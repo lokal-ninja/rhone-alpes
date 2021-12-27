@@ -1,6 +1,6 @@
 ---
 title: Chaussan
 url: /chaussan/
-latitude: 45.6332576
-longitude: 4.639603
+latitude: 45.634
+longitude: 4.64
 ---

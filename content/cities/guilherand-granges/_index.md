@@ -1,6 +1,6 @@
 ---
 title: Guilherand-Granges
 url: /guilherand-granges/
-latitude: 44.932545000000005
-longitude: 4.8708275
+latitude: 44.938
+longitude: 4.863
 ---

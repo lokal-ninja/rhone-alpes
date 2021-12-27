@@ -1,6 +1,6 @@
 ---
 title: La Baume d'Hostun
 url: /la-baume-dhostun/
-latitude: 
-longitude: 
+latitude: 45.073
+longitude: 5.211
 ---

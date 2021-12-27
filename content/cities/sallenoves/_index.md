@@ -1,6 +1,6 @@
 ---
 title: Sallenôves
 url: /sallenoves/
-latitude: 46.0067157
-longitude: 5.998736200000001
+latitude: 46.011
+longitude: 5.992
 ---

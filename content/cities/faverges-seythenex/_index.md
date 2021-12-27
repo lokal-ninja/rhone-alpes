@@ -1,6 +1,6 @@
 ---
 title: Faverges-Seythenex
 url: /faverges-seythenex/
-latitude: 
-longitude: 
+latitude: 45.746
+longitude: 6.295
 ---

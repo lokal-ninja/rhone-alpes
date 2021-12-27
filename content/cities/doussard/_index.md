@@ -1,6 +1,6 @@
 ---
 title: Doussard
 url: /doussard/
-latitude: 45.776103000000006
-longitude: 6.2200226
+latitude: 45.774
+longitude: 6.22
 ---

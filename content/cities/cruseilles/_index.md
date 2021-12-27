@@ -1,6 +1,6 @@
 ---
 title: Cruseilles
 url: /cruseilles/
-latitude: 
-longitude: 
+latitude: 46.03
+longitude: 6.106
 ---

@@ -1,6 +1,6 @@
 ---
 title: Valmorel
 url: /valmorel/
-latitude: 
-longitude: 
+latitude: 45.462
+longitude: 6.444
 ---

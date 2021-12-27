@@ -1,6 +1,6 @@
 ---
 title: Chézery-Forens
 url: /chezery-forens/
-latitude: 
-longitude: 
+latitude: 46.22
+longitude: 5.866
 ---

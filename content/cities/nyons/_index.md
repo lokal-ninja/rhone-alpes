@@ -1,6 +1,6 @@
 ---
 title: Nyons
 url: /nyons/
-latitude: 44.3555
-longitude: 5.12838
+latitude: 44.361
+longitude: 5.139
 ---

@@ -1,6 +1,6 @@
 ---
 title: Seynod
 url: /seynod/
-latitude: 45.8880398
-longitude: 6.0992785000000005
+latitude: 45.875
+longitude: 6.087
 ---

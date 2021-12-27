@@ -1,6 +1,6 @@
 ---
 title: Châteauneuf
 url: /chateauneuf/
-latitude: 44.4447916
-longitude: 4.104379300000001
+latitude: 45.499
+longitude: 4.61
 ---

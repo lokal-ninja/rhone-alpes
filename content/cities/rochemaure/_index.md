@@ -1,6 +1,6 @@
 ---
 title: Rochemaure
 url: /rochemaure/
-latitude: 44.5874
-longitude: 4.70348
+latitude: 44.588
+longitude: 4.705
 ---

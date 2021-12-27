@@ -1,6 +1,6 @@
 ---
 title: Frans
 url: /frans/
-latitude: 46.120061500000006
-longitude: 4.7136829
+latitude: 45.992
+longitude: 4.773
 ---

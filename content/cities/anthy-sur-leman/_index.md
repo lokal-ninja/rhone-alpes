@@ -1,6 +1,6 @@
 ---
 title: Anthy-sur-Leman
 url: /anthy-sur-leman/
-latitude: 
-longitude: 
+latitude: 46.348
+longitude: 6.435
 ---

@@ -1,6 +1,6 @@
 ---
 title: Les Gets
 url: /les-gets/
-latitude: 46.155097700000006
-longitude: 6.6633312
+latitude: 46.157
+longitude: 6.667
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pérouges
 url: /perouges/
-latitude: 45.903428000000005
-longitude: 5.1794607
+latitude: 45.904
+longitude: 5.18
 ---

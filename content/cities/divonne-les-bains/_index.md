@@ -1,6 +1,6 @@
 ---
 title: Divonne-les-Bains
 url: /divonne-les-bains/
-latitude: 46.355564400000006
-longitude: 6.13839
+latitude: 46.343
+longitude: 6.141
 ---

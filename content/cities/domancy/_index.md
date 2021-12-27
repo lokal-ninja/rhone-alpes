@@ -1,6 +1,6 @@
 ---
 title: Domancy
 url: /domancy/
-latitude: 45.912618900000005
-longitude: 6.6490124
+latitude: 45.911
+longitude: 6.655
 ---

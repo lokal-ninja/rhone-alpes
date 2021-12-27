@@ -1,6 +1,6 @@
 ---
 title: Clérieux
 url: /clerieux/
-latitude: 45.0766289
-longitude: 4.95878
+latitude: 45.062
+longitude: 4.953
 ---

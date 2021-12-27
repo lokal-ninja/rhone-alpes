@@ -1,6 +1,6 @@
 ---
 title: Thoissey
 url: /thoissey/
-latitude: 46.1721833
-longitude: 4.8015014
+latitude: 46.172
+longitude: 4.802
 ---

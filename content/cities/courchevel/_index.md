@@ -1,6 +1,6 @@
 ---
 title: Courchevel
 url: /courchevel/
-latitude: 45.4140984
-longitude: 6.634989200000001
+latitude: 45.418
+longitude: 6.652
 ---

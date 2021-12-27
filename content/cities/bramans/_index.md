@@ -1,6 +1,6 @@
 ---
 title: Bramans
 url: /bramans/
-latitude: 45.223815
-longitude: 6.7757388
+latitude: 45.232
+longitude: 6.785
 ---

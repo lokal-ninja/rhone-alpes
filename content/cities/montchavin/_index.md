@@ -1,6 +1,6 @@
 ---
 title: Montchavin
 url: /montchavin/
-latitude: 
-longitude: 
+latitude: 45.558
+longitude: 6.74
 ---

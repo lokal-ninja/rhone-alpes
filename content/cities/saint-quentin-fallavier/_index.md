@@ -1,6 +1,6 @@
 ---
 title: Saint-Quentin-Fallavier
 url: /saint-quentin-fallavier/
-latitude: 45.6314982
-longitude: 5.1106322
+latitude: 45.631
+longitude: 5.112
 ---

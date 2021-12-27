@@ -1,6 +1,6 @@
 ---
 title: Jacob-Bellecombette
 url: /jacob-bellecombette/
-latitude: 45.551703
-longitude: 5.916979
+latitude: 45.559
+longitude: 5.905
 ---

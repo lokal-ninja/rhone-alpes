@@ -1,6 +1,6 @@
 ---
 title: Landry
 url: /landry/
-latitude: 45.57
-longitude: 6.73991
+latitude: 45.556
+longitude: 6.762
 ---

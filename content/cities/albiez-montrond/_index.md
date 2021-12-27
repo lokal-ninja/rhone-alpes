@@ -1,6 +1,6 @@
 ---
 title: Albiez-Montrond
 url: /albiez-montrond/
-latitude: 45.2174088
-longitude: 6.340903
+latitude: 45.207
+longitude: 6.337
 ---

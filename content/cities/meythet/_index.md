@@ -1,6 +1,6 @@
 ---
 title: Meythet
 url: /meythet/
-latitude: 45.9156416
-longitude: 6.0920278
+latitude: 45.919
+longitude: 6.095
 ---

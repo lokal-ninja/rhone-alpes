@@ -1,6 +1,6 @@
 ---
 title: Soleymieux
 url: /soleymieux/
-latitude: 45.678592
-longitude: 3.9460686000000003
+latitude: 45.509
+longitude: 4.043
 ---

@@ -1,6 +1,6 @@
 ---
 title: Peisey-Nancroix
 url: /peisey-nancroix/
-latitude: 45.5466581
-longitude: 6.755273900000001
+latitude: 45.547
+longitude: 6.756
 ---

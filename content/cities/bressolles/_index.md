@@ -1,6 +1,6 @@
 ---
 title: Bressolles
 url: /bressolles/
-latitude: 45.8654479
-longitude: 5.0952039000000005
+latitude: 45.869
+longitude: 5.093
 ---

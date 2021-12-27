@@ -1,6 +1,6 @@
 ---
 title: Publier
 url: /publier/
-latitude: 46.3870276
-longitude: 6.5436956
+latitude: 46.391
+longitude: 6.524
 ---

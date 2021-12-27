@@ -1,6 +1,6 @@
 ---
 title: Châteauneuf-sur-Isère
 url: /chateauneuf-sur-isere/
-latitude: 45.014839200000004
-longitude: 4.9391394
+latitude: 45.019
+longitude: 5.031
 ---

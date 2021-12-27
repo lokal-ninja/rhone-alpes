@@ -1,6 +1,6 @@
 ---
 title: Vaulx-en-Velin
 url: /vaulx-en-velin/
-latitude: 45.778425500000004
-longitude: 4.920615300000001
+latitude: 45.765
+longitude: 4.926
 ---

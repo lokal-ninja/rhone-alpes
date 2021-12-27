@@ -1,6 +1,6 @@
 ---
 title: Sablons
 url: /sablons/
-latitude: 46.333067500000006
-longitude: 6.3531373
+latitude: 45.319
+longitude: 4.769
 ---

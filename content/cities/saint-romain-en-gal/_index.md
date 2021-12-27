@@ -1,6 +1,6 @@
 ---
 title: Saint-Romain-en-Gal
 url: /saint-romain-en-gal/
-latitude: 45.535052400000005
-longitude: 4.8599636
+latitude: 45.528
+longitude: 4.865
 ---

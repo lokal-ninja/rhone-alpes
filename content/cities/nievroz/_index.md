@@ -1,6 +1,6 @@
 ---
 title: Niévroz
 url: /nievroz/
-latitude: 45.8264
-longitude: 5.066800000000001
+latitude: 45.836
+longitude: 5.062
 ---

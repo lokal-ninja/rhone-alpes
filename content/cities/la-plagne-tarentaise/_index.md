@@ -1,6 +1,6 @@
 ---
 title: La Plagne Tarentaise
 url: /la-plagne-tarentaise/
-latitude: 
-longitude: 
+latitude: 45.506
+longitude: 6.684
 ---

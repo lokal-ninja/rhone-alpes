@@ -1,6 +1,6 @@
 ---
 title: Désaignes
 url: /desaignes/
-latitude: 44.9957
-longitude: 4.51747
+latitude: 44.996
+longitude: 4.517
 ---

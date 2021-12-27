@@ -1,6 +1,6 @@
 ---
 title: Taluyers
 url: /taluyers/
-latitude: 45.6406556
-longitude: 4.7191738
+latitude: 45.641
+longitude: 4.722
 ---

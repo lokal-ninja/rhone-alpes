@@ -1,6 +1,6 @@
 ---
 title: Savigneux
 url: /savigneux/
-latitude: 45.599620200000004
-longitude: 4.4078124
+latitude: 45.614
+longitude: 4.076
 ---

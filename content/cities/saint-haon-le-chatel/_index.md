@@ -1,6 +1,6 @@
 ---
 title: Saint-Haon-le-Châtel
 url: /saint-haon-le-chatel/
-latitude: 46.0648325
-longitude: 3.9142383
+latitude: 46.065
+longitude: 3.921
 ---

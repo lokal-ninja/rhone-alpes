@@ -1,6 +1,6 @@
 ---
 title: Plagne Centre
 url: /plagne-centre/
-latitude: 45.5058779
-longitude: 6.674364700000001
+latitude: 45.506
+longitude: 6.676
 ---

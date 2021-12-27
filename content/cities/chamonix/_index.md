@@ -1,6 +1,6 @@
 ---
 title: Chamonix
 url: /chamonix/
-latitude: 
-longitude: 
+latitude: 45.923
+longitude: 6.872
 ---

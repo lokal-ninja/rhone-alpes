@@ -1,6 +1,6 @@
 ---
 title: Versoix
 url: /versoix/
-latitude: 
-longitude: 
+latitude: 46.311
+longitude: 6.129
 ---

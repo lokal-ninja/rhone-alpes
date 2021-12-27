@@ -1,6 +1,6 @@
 ---
 title: Lemps
 url: /lemps/
-latitude: 45.6978731
-longitude: 5.2835273
+latitude: 45.096
+longitude: 4.786
 ---

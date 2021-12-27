@@ -1,6 +1,6 @@
 ---
 title: Les Ménuires
 url: /les-menuires/
-latitude: 45.3242744
-longitude: 6.538896500000001
+latitude: 45.323
+longitude: 6.538
 ---

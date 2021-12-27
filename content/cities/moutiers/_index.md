@@ -1,6 +1,6 @@
 ---
 title: Moûtiers
 url: /moutiers/
-latitude: 45.484988300000005
-longitude: 6.5340061
+latitude: 45.485
+longitude: 6.532
 ---

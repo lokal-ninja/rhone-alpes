@@ -1,6 +1,6 @@
 ---
 title: Seyssuel
 url: /seyssuel/
-latitude: 45.5596286
-longitude: 4.8441736
+latitude: 45.559
+longitude: 4.845
 ---

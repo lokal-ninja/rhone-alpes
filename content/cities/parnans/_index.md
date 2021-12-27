@@ -1,6 +1,6 @@
 ---
 title: parnans
 url: /parnans/
-latitude: 
-longitude: 
+latitude: 45.12
+longitude: 5.167
 ---

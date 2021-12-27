@@ -1,6 +1,6 @@
 ---
 title: Monestier-de-Clermont
 url: /monestier-de-clermont/
-latitude: 44.918348200000004
-longitude: 5.6358993
+latitude: 44.917
+longitude: 5.634
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sassenage
 url: /sassenage/
-latitude: 45.2066078
-longitude: 5.662999200000001
+latitude: 45.204
+longitude: 5.664
 ---

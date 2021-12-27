@@ -1,6 +1,6 @@
 ---
 title: LESCHEROUX
 url: /lescheroux/
-latitude: 
-longitude: 
+latitude: 46.398
+longitude: 5.139
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Tronche
 url: /la-tronche/
-latitude: 45.8216838
-longitude: 5.7221384
+latitude: 45.203
+longitude: 5.736
 ---

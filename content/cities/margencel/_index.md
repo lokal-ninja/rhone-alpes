@@ -1,6 +1,6 @@
 ---
 title: Margencel
 url: /margencel/
-latitude: 46.338746
-longitude: 6.4324291
+latitude: 46.345
+longitude: 6.435
 ---

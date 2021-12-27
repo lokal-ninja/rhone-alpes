@@ -1,6 +1,6 @@
 ---
 title: Saint-Remèze
 url: /saint-remeze/
-latitude: 44.3919384
-longitude: 4.5012053000000005
+latitude: 44.407
+longitude: 4.515
 ---

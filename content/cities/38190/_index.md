@@ -1,6 +1,6 @@
 ---
 title: 38190
 url: /38190/
-latitude: 
-longitude: 
+latitude: 45.272
+longitude: 5.869
 ---

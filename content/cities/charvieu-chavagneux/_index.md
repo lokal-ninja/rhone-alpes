@@ -1,6 +1,6 @@
 ---
 title: Charvieu-Chavagneux
 url: /charvieu-chavagneux/
-latitude: 
-longitude: 
+latitude: 45.741
+longitude: 5.16
 ---

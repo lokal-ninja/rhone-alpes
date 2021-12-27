@@ -1,6 +1,6 @@
 ---
 title: Saint-Paul-en-Chablais
 url: /saint-paul-en-chablais/
-latitude: 46.3785225
-longitude: 6.629192700000001
+latitude: 46.378
+longitude: 6.623
 ---

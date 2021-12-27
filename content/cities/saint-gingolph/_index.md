@@ -1,6 +1,6 @@
 ---
 title: Saint-Gingolph
 url: /saint-gingolph/
-latitude: 45.7513717
-longitude: 6.256126500000001
+latitude: 46.394
+longitude: 6.801
 ---

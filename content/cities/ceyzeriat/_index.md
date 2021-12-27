@@ -1,6 +1,6 @@
 ---
 title: Ceyzériat
 url: /ceyzeriat/
-latitude: 46.1773941
-longitude: 5.324294200000001
+latitude: 46.179
+longitude: 5.324
 ---

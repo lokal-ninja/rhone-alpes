@@ -1,6 +1,6 @@
 ---
 title: St Marcellin
 url: /st-marcellin/
-latitude: 
-longitude: 
+latitude: 45.151
+longitude: 5.322
 ---

@@ -1,6 +1,6 @@
 ---
 title: Annonay
 url: /annonay/
-latitude: 45.2399639
-longitude: 4.6675475
+latitude: 45.246
+longitude: 4.675
 ---

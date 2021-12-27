@@ -1,6 +1,6 @@
 ---
 title: La Rippe
 url: /la-rippe/
-latitude: 
-longitude: 
+latitude: 46.384
+longitude: 6.146
 ---

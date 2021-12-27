@@ -1,6 +1,6 @@
 ---
 title: Les Houches
 url: /les-houches/
-latitude: 45.891508
-longitude: 6.799138
+latitude: 45.895
+longitude: 6.782
 ---

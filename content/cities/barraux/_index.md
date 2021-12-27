@@ -1,6 +1,6 @@
 ---
 title: Barraux
 url: /barraux/
-latitude: 45.801820600000006
-longitude: 6.0611023
+latitude: 45.434
+longitude: 5.978
 ---

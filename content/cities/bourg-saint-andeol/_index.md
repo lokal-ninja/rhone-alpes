@@ -1,6 +1,6 @@
 ---
 title: Bourg-Saint-Andéol
 url: /bourg-saint-andeol/
-latitude: 44.3707629
-longitude: 4.6457565
+latitude: 44.372
+longitude: 4.645
 ---

@@ -1,6 +1,6 @@
 ---
 title: bellentre
 url: /bellentre/
-latitude: 
-longitude: 
+latitude: 45.56
+longitude: 6.737
 ---
