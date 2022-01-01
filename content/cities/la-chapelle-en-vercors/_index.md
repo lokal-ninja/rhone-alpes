@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-en-Vercors
 url: /la-chapelle-en-vercors/
-latitude: 44.968
-longitude: 5.415
+latitude: 44.967
+longitude: 5.416
 ---
