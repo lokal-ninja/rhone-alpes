@@ -1,6 +1,6 @@
 ---
 title: Lyon
 url: /lyon/
-latitude: 45.737
-longitude: 4.868
+latitude: 45.762
+longitude: 4.835
 ---
