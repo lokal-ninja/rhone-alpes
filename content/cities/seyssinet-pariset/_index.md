@@ -1,6 +1,6 @@
 ---
 title: Seyssinet-Pariset
 url: /seyssinet-pariset/
-latitude: 45.179
-longitude: 5.694
+latitude: 45.177
+longitude: 5.693
 ---
