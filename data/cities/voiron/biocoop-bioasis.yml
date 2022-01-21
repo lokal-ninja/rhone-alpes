@@ -7,5 +7,5 @@ city: Voiron
 street: "Boulevard de la République"
 housenumber: 39
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:00-19:00, Tu,Th,Fr 09:00-12:30, We,Sa 09:00-19:00"
-website: "https://www.bioasis-biocoop.fr/"
+opening_hours: "Mo 14:00-19:00; Tu 09:00-13:30, 14:30-19:00; We 08:00-19:00; Th-Fr 09:00-19:00; Sa 08:00-19:00"
+website: "https://www.bioasis-biocoop.fr"
