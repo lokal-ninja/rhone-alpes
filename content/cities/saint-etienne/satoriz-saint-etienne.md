@@ -1,5 +1,5 @@
 ---
-title: "Satoriz Saint-Etienne"
+title: "Satoriz Saint-Étienne"
 url: /saint-etienne/satoriz-saint-etienne/
 shop: supermarché
 ---
