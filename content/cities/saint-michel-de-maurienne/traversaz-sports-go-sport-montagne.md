@@ -1,5 +1,5 @@
 ---
-title: "Traversaz Sports - GO SPORT MONTAGNE"
+title: "Traversaz Sports - GO Sport Montagne"
 url: /saint-michel-de-maurienne/traversaz-sports-go-sport-montagne/
 shop: sports
 ---

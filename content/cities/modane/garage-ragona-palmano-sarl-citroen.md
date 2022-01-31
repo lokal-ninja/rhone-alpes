@@ -1,5 +1,5 @@
 ---
-title: "GARAGE RAGONA PALMANO SARL - Citroën"
+title: "Garage Ragona PALMANO SARL - Citroën"
 url: /modane/garage-ragona-palmano-sarl-citroen/
 shop: voiture
 ---
