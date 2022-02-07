@@ -7,5 +7,5 @@ city: Vienne
 street: "Boulevard de la République"
 housenumber: 7
 phone: "+33 4 74 85 85 66"
-opening_hours: "Tu 09:00-14:00; We-Sa 09:00-18:00"
-website: "https://rubens-coiffure.business.site/"
+opening_hours: "Tu,Fr 09:00-19:00; We-Th,Sa 09:00-18:00"
+website: "https://www.leboudoirdaddictr.fr/"
