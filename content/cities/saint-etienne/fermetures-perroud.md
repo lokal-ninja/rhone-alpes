@@ -1,5 +1,5 @@
 ---
-title: "Fermetures Perroud"
+title: "FERMETURES PERROUD"
 url: /saint-etienne/fermetures-perroud/
 shop: portes
 ---

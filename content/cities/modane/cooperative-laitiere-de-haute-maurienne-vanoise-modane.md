@@ -1,5 +1,5 @@
 ---
-title: "Coopérative Laitière de Haute MAURIENNE VANOISE - MODANE"
+title: "COOPERATIVE LAITIERE DE HAUTE MAURIENNE VANOISE - MODANE"
 url: /modane/cooperative-laitiere-de-haute-maurienne-vanoise-modane/
 shop: ferme
 ---

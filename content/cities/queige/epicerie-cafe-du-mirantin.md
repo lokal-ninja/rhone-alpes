@@ -1,5 +1,5 @@
 ---
-title: "Epicerie (Café du Mirantin)"
+title: "Épicerie café du Mirantin"
 url: /queige/epicerie-cafe-du-mirantin/
 shop: commodité
 ---

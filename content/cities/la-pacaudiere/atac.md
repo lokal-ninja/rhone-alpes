@@ -1,5 +1,5 @@
 ---
-title: "Atac"
+title: "ATAC"
 url: /la-pacaudiere/atac/
 shop: supermarché
 ---
