@@ -1,5 +1,5 @@
 ---
-title: "Nano chasse et pêche"
+title: "Nano Chasse et Pêche"
 url: /vienne/nano-chasse-et-peche/
-shop: pêche
+shop: chasse
 ---
