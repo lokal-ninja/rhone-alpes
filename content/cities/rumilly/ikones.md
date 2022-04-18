@@ -1,5 +1,5 @@
 ---
 title: "Ikones"
 url: /rumilly/ikones/
-shop: boutique
+shop: vêtements
 ---
