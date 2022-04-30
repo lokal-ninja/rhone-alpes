@@ -1,5 +1,5 @@
 ---
-title: "Satoriz Echirolles"
+title: "Satoriz Échirolles"
 url: /echirolles/satoriz-echirolles/
 shop: commodité
 ---
