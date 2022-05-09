@@ -1,6 +1,6 @@
 ---
 title: Bernin
 url: /bernin/
-latitude: 45.272
-longitude: 5.869
+latitude: 45.271
+longitude: 5.868
 ---
