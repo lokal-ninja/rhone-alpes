@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Champollion"
 url: /grenoble/biocoop-champollion/
-shop: commodité
+shop: alimentation saine
 ---

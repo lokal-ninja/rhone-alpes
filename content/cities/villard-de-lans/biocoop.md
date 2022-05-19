@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /villard-de-lans/biocoop/
-shop: supermarché
+shop: alimentation saine
 ---
