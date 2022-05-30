@@ -1,5 +1,5 @@
 ---
 title: "Pink Rococo"
-url: /vienne/pink-rococo/
+url: /vienne/pink-rococo-2/
 shop: vêtements
 ---

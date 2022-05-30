@@ -1,6 +1,6 @@
 ---
 title: Lescheraines
 url: /lescheraines/
-latitude: 45.715
-longitude: 6.108
+latitude: 45.707
+longitude: 6.106
 ---

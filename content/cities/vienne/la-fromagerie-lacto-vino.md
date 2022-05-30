@@ -1,5 +1,5 @@
 ---
-title: "La fromagerie Lacto-Vino"
+title: "La Fromagerie Lacto-Vino"
 url: /vienne/la-fromagerie-lacto-vino/
 shop: fromage
 ---
