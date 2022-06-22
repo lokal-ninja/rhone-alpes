@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/rhone-alpes"
+baseURL = "https://fr.shoogle.net/rhone-alpes/"
 languageCode = "fr"
 title = "Rhone-Alpes"
 theme = "ln-base"
