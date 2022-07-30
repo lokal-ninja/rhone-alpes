@@ -1,5 +1,5 @@
 ---
 title: "Véligood"
 url: /voiron/veligood/
-shop: outils
+shop: vélo
 ---

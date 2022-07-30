@@ -1,5 +1,5 @@
 ---
 title: "Ldlc"
-url: /saint-martin-dheres/ldlc/
+url: /chambery/ldlc/
 shop: ordinateur
 ---
