@@ -1,6 +1,6 @@
 ---
 title: Bons-en-Chablais
 url: /bons-en-chablais/
-latitude: 46.268
-longitude: 6.367
+latitude: 46.266
+longitude: 6.368
 ---
