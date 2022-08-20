@@ -1,6 +1,6 @@
 ---
 title: Aussois
 url: /aussois/
-latitude: 45.231
+latitude: 45.23
 longitude: 6.741
 ---

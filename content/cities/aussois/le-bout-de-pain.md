@@ -1,5 +1,5 @@
 ---
-title: "Le bout de pain"
+title: "Le Bout de Pain"
 url: /aussois/le-bout-de-pain/
 shop: boulangerie
 ---
