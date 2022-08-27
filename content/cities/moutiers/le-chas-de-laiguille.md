@@ -1,5 +1,5 @@
 ---
-title: "LE CHAS DE L'AIGUILLE"
+title: "Le Chas de l'Aiguille"
 url: /moutiers/le-chas-de-laiguille/
-shop: shop
+shop: couture
 ---
