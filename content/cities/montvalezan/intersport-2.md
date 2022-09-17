@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /la-rosiere/intersport-2/
+url: /montvalezan/intersport-2/
 shop: sports
 ---

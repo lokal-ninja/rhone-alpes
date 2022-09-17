@@ -1,5 +1,5 @@
 ---
 title: "Skimium le Roc Noir"
-url: /la-rosiere/skimium-le-roc-noir/
+url: /montvalezan/skimium-le-roc-noir/
 shop: sports
 ---
