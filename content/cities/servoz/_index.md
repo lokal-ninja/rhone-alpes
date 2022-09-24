@@ -1,6 +1,6 @@
 ---
 title: Servoz
 url: /servoz/
-latitude: 45.93
-longitude: 6.767
+latitude: 45.932
+longitude: 6.77
 ---

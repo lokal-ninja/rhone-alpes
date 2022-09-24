@@ -1,11 +1,11 @@
 id: 4003156538
 type: node
 latitude: 45.63244
-longitude: 4.45592
+longitude: 4.45594
 postcode: "69590"
 city: Saint-Symphorien-sur-Coise
 street: "Grande Rue"
 housenumber: 55-59
 phone: "+33478484231"
-opening_hours: "Tu,Th 09:00-12:00,16:00-18:30; We 09:00-18:00; Fr 09:00-12:30,15:30-18:30; Sa 08:00-12:30"
+opening_hours: "Tu,Th 09:00-12:00,15:00-18:30; We 08:00-18:00; Fr 09:00-12:30,15:00-18:30; Sa 08:00-12:30,15:00-18:00"
 website: ""

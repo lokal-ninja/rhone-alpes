@@ -1,5 +1,5 @@
 ---
 title: "Chausson Matériaux"
 url: /noyarey/chausson-materiaux/
-shop: shop
+shop: à faire soi-même
 ---

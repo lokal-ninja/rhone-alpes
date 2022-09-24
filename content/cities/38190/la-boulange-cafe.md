@@ -1,5 +1,5 @@
 ---
-title: "LA BOULANGE CAFÉ"
+title: "La Boulange Café"
 url: /38190/la-boulange-cafe/
 shop: boulangerie
 ---
