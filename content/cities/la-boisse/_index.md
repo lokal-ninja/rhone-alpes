@@ -1,6 +1,6 @@
 ---
 title: La Boisse
 url: /la-boisse/
-latitude: 45.845
-longitude: 5.034
+latitude: 45.846
+longitude: 5.041
 ---

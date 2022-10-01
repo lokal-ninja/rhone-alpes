@@ -1,6 +1,6 @@
 ---
 title: Genay
 url: /genay/
-latitude: 45.89
-longitude: 4.829
+latitude: 45.892
+longitude: 4.827
 ---
