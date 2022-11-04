@@ -1,5 +1,5 @@
 ---
-title: "IKKS"
+title: "Ikks"
 url: /grenoble/ikks/
 shop: vêtements
 ---

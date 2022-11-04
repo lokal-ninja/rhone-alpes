@@ -1,6 +1,6 @@
 ---
 title: Die
 url: /die/
-latitude: 44.753
-longitude: 5.373
+latitude: 44.762
+longitude: 5.359
 ---
