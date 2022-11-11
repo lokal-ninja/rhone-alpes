@@ -1,5 +1,5 @@
 ---
 title: "Or en Cash"
-url: /tarare/or-en-cash/
+url: /grenoble/or-en-cash/
 shop: bijoux
 ---
