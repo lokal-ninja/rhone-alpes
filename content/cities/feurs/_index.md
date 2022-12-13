@@ -1,6 +1,6 @@
 ---
 title: Feurs
 url: /feurs/
-latitude: 45.728
-longitude: 4.225
+latitude: 45.744
+longitude: 4.223
 ---
