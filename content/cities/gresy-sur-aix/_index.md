@@ -1,6 +1,6 @@
 ---
-title: Grésy sur Aix
+title: Grésy-sur-Aix
 url: /gresy-sur-aix/
-latitude: 45.715
-longitude: 5.917
+latitude: 45.714
+longitude: 5.919
 ---
