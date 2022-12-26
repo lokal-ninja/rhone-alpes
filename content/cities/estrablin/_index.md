@@ -1,6 +1,6 @@
 ---
 title: Estrablin
 url: /estrablin/
-latitude: 45.501
-longitude: 4.943
+latitude: 45.517
+longitude: 4.965
 ---
