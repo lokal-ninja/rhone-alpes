@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /la-mulatiere/aldi/
 shop: supermarché
 ---

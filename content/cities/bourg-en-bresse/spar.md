@@ -1,5 +1,5 @@
 ---
-title: "SPAR"
+title: "Spar"
 url: /bourg-en-bresse/spar/
-shop: magasin de variétés
+shop: supermarché
 ---

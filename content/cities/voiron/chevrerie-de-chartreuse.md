@@ -1,5 +1,5 @@
 ---
-title: "Chèvrerie de chartreuse"
+title: "Chèvrerie de Chartreuse"
 url: /voiron/chevrerie-de-chartreuse/
-shop: supermarché
+shop: ferme
 ---
