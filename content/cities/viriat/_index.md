@@ -1,6 +1,6 @@
 ---
 title: Viriat
 url: /viriat/
-latitude: 46.214
-longitude: 5.214
+latitude: 46.217
+longitude: 5.212
 ---
