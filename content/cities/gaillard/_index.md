@@ -1,6 +1,6 @@
 ---
 title: Gaillard
 url: /gaillard/
-latitude: 46.191
-longitude: 6.215
+latitude: 46.186
+longitude: 6.22
 ---

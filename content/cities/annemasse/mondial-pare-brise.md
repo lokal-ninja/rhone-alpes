@@ -1,5 +1,5 @@
 ---
 title: "Mondial Pare-brise"
 url: /annemasse/mondial-pare-brise/
-shop: pièces de voitures
+shop: réparation de voitures
 ---

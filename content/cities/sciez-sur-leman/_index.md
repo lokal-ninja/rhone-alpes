@@ -1,6 +1,6 @@
 ---
 title: Sciez-sur-Léman
 url: /sciez-sur-leman/
-latitude: 46.333
-longitude: 6.389
+latitude: 46.329
+longitude: 6.38
 ---
