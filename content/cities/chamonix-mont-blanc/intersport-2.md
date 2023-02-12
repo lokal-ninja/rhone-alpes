@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /chamonix-mont-blanc/intersport-2/
+url: /chamonix-mont-blanc/intersport/
 shop: sports
 ---

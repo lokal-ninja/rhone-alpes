@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /valmeinier/intersport-2/
+url: /valmeinier/intersport/
 shop: sports
 ---

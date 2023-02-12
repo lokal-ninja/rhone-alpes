@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
-url: /thollon-les-memises/sherpa-2/
+url: /thollon-les-memises/sherpa/
 shop: commodité
 ---

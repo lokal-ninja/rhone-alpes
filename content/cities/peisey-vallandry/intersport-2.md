@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /peisey-vallandry/intersport-2/
+url: /peisey-vallandry/intersport/
 shop: sports
 ---

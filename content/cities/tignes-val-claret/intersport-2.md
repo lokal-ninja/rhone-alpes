@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /tignes-val-claret/intersport-2/
+url: /tignes-val-claret/intersport/
 shop: sports
 ---
