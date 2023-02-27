@@ -1,6 +1,6 @@
 ---
 title: Goncelin
 url: /goncelin/
-latitude: 45.341
+latitude: 45.342
 longitude: 5.978
 ---

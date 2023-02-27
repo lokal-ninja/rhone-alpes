@@ -7,5 +7,5 @@ city: Lyon
 street: "Rue Vauban"
 housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 07:00-18:00"
+opening_hours: "Mo,We-Sa 06:30-19:00; Su 07:00-14:00; Tu 07:00-19:00"
 website: ""

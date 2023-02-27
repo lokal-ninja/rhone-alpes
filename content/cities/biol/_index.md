@@ -1,6 +1,6 @@
 ---
 title: Biol
 url: /biol/
-latitude: 45.491
-longitude: 5.387
+latitude: 45.492
+longitude: 5.385
 ---
