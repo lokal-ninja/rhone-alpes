@@ -1,6 +1,6 @@
 ---
-title: Rive de Gier
+title: Rive-de-Gier
 url: /rive-de-gier/
-latitude: 45.528
-longitude: 4.614
+latitude: 45.522
+longitude: 4.595
 ---

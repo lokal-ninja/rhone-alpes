@@ -1,5 +1,5 @@
 ---
-title: "Le Salon"
+title: "Le salon"
 url: /grenoble/le-salon/
-shop: coiffeur
+shop: opticien
 ---

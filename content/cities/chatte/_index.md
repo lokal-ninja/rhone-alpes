@@ -1,6 +1,6 @@
 ---
 title: Chatte
 url: /chatte/
-latitude: 45.145
-longitude: 5.304
+latitude: 45.146
+longitude: 5.305
 ---
