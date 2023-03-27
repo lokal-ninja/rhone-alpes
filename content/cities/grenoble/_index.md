@@ -1,6 +1,6 @@
 ---
 title: Grenoble
 url: /grenoble/
-latitude: 45.186
-longitude: 5.732
+latitude: 45.188
+longitude: 5.729
 ---
