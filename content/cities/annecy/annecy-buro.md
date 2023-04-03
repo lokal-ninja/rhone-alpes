@@ -1,5 +1,5 @@
 ---
 title: "Annecy Buro"
 url: /annecy/annecy-buro/
-shop: livres
+shop: fournitures de bureau
 ---
