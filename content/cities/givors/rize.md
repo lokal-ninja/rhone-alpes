@@ -1,5 +1,5 @@
 ---
-title: "rize"
+title: "Rize"
 url: /givors/rize/
 shop: commodité
 ---
