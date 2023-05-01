@@ -1,6 +1,6 @@
 ---
 title: Meylan
 url: /meylan/
-latitude: 45.212
-longitude: 5.786
+latitude: 45.218
+longitude: 5.78
 ---
