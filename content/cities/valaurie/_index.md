@@ -1,6 +1,6 @@
 ---
 title: Valaurie
 url: /valaurie/
-latitude: 44.417
-longitude: 4.806
+latitude: 44.419
+longitude: 4.803
 ---
