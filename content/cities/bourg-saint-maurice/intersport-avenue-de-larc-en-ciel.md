@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /arcs-1600/intersport/
+url: /bourg-saint-maurice/intersport/
 shop: sports
 ---
