@@ -1,11 +1,11 @@
-id: 652135220
-type: node
-latitude: 45.18843
-longitude: 5.71997
-postcode: "38000"
+id: 512898605
+type: way
+latitude: 45.15728
+longitude: 5.73258
+postcode: "38100"
 city: Grenoble
-street: "Cours Berriat"
-housenumber: 26
-phone: "+33 4 76 85 59 80"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:30-19:30"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1023"
+street: "Avenue du Vercors"
+housenumber: 105
+phone: "+33 4 76 23 53 80"
+opening_hours: "Mo-Sa 09:30-19:00"
+website: ""

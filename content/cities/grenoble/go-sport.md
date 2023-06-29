@@ -1,5 +1,5 @@
 ---
-title: "Go Sport"
+title: "GO Sport"
 url: /grenoble/go-sport/
 shop: sports
 ---

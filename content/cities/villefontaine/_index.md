@@ -1,6 +1,6 @@
 ---
-title: Villefontaine
+title: VILLEFONTAINE
 url: /villefontaine/
-latitude: 45.628
-longitude: 5.16
+latitude: 45.607
+longitude: 5.149
 ---
