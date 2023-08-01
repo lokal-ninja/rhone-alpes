@@ -1,5 +1,5 @@
 ---
-title: "Les gourmandises de Lenza"
+title: "Les Gourmandises de Lenza"
 url: /grenoble/les-gourmandises-de-lenza/
 shop: boulangerie
 ---

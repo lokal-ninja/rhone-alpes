@@ -1,6 +1,6 @@
 ---
 title: Frontenex
 url: /frontenex/
-latitude: 45.633
-longitude: 6.311
+latitude: 45.634
+longitude: 6.314
 ---

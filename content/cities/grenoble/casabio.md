@@ -1,5 +1,5 @@
 ---
 title: "Casabio"
 url: /grenoble/casabio/
-shop: supermarché
+shop: commodité
 ---

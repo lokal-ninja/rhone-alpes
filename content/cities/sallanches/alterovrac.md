@@ -1,5 +1,5 @@
 ---
 title: "Alterovrac"
 url: /sallanches/alterovrac/
-shop: supermarché
+shop: commodité
 ---
