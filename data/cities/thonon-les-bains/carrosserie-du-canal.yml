@@ -7,5 +7,5 @@ city: Thonon-les-Bains
 street: "Route de la Visitation"
 housenumber: 
 phone: "+33 4 50 26 10 02"
-opening_hours: "Mo-Fr 08:00-12:00 13:30-19:00"
+opening_hours: "Mo-Fr 08:00-12:00,13:30-19:00; Sa-Su off"
 website: ""
