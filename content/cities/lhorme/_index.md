@@ -1,6 +1,6 @@
 ---
 title: L'Horme
 url: /lhorme/
-latitude: 45.484
-longitude: 4.535
+latitude: 45.483
+longitude: 4.542
 ---
