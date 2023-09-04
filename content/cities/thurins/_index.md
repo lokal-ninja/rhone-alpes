@@ -1,6 +1,6 @@
 ---
 title: Thurins
 url: /thurins/
-latitude: 45.673
-longitude: 4.608
+latitude: 45.68
+longitude: 4.647
 ---

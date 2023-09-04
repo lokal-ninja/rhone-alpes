@@ -1,6 +1,6 @@
 ---
 title: Montélimar
 url: /montelimar/
-latitude: 44.533
-longitude: 4.734
+latitude: 44.554
+longitude: 4.749
 ---
