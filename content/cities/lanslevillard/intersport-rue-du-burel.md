@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /lanslevillard/intersport/
+url: /lanslevillard/intersport-rue-du-burel/
 shop: sports
 ---

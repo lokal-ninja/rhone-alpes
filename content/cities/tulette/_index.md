@@ -1,6 +1,6 @@
 ---
 title: Tulette
 url: /tulette/
-latitude: 44.272
-longitude: 4.914
+latitude: 44.286
+longitude: 4.929
 ---

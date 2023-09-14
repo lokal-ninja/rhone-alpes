@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /annecy/vival/
+url: /annecy/vival-rue-georges-martin/
 shop: commodité
 ---

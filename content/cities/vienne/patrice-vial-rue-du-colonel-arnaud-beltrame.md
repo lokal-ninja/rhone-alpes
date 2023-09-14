@@ -1,5 +1,5 @@
 ---
 title: "Patrice Vial"
-url: /vienne/patrice-vial/
+url: /vienne/patrice-vial-rue-du-colonel-arnaud-beltrame/
 shop: coiffeur
 ---

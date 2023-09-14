@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
-url: /annecy/ikks/
+url: /annecy/ikks-avenue-du-parmelan/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /annemasse/picard/
+url: /annemasse/picard-rue-de-geneve/
 shop: aliments surgelés
 ---

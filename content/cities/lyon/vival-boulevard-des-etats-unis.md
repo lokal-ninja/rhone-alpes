@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /lyon/vival/
+url: /lyon/vival-boulevard-des-etats-unis/
 shop: commodité
 ---

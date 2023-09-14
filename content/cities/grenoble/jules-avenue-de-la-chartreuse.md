@@ -1,5 +1,5 @@
 ---
 title: "Jules"
-url: /grenoble/jules/
+url: /grenoble/jules-avenue-de-la-chartreuse/
 shop: vêtements
 ---

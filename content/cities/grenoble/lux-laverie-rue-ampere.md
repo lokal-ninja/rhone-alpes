@@ -1,5 +1,5 @@
 ---
 title: "Lux Laverie"
-url: /grenoble/lux-laverie/
+url: /grenoble/lux-laverie-rue-ampere/
 shop: blanchisserie
 ---

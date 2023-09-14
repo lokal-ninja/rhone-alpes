@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /annecy/intermarche/
+url: /annecy/intermarche-rue-du-travail/
 shop: gaz
 ---

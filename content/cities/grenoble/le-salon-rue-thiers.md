@@ -1,5 +1,5 @@
 ---
 title: "Le Salon"
-url: /grenoble/le-salon/
+url: /grenoble/le-salon-rue-thiers/
 shop: coiffeur
 ---

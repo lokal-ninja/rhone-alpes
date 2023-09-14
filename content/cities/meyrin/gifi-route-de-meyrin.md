@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
-url: /meyrin/gifi/
+url: /meyrin/gifi-route-de-meyrin/
 shop: magasin de variétés
 ---

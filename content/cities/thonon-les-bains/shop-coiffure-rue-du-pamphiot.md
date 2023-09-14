@@ -1,5 +1,5 @@
 ---
 title: "Shop Coiffure"
-url: /thonon-les-bains/shop-coiffure/
+url: /thonon-les-bains/shop-coiffure-rue-du-pamphiot/
 shop: coiffeur
 ---

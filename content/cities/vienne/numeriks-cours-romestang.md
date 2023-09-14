@@ -1,5 +1,5 @@
 ---
 title: "Numerik's"
-url: /vienne/numeriks/
+url: /vienne/numeriks-cours-romestang/
 shop: téléphone portable
 ---

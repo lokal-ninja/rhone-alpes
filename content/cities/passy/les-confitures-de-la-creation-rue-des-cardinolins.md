@@ -1,5 +1,5 @@
 ---
 title: "Les confitures de la création"
-url: /passy/les-confitures-de-la-creation/
+url: /passy/les-confitures-de-la-creation-rue-des-cardinolins/
 shop: vente en gros
 ---

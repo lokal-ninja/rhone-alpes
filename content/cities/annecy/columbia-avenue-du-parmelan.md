@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
-url: /annecy/columbia/
+url: /annecy/columbia-avenue-du-parmelan/
 shop: vêtements
 ---

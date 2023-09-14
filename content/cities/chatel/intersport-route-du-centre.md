@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /chatel/intersport/
+url: /chatel/intersport-route-du-centre/
 shop: vêtements
 ---

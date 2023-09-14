@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /chamonix-mont-blanc/spar/
+url: /chamonix-mont-blanc/spar-place-edmond-desailloud/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /brides-les-bains/intersport/
+url: /brides-les-bains/intersport-2/
 shop: sports
 ---

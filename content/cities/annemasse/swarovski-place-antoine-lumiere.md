@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
-url: /annemasse/swarovski/
+url: /annemasse/swarovski-place-antoine-lumiere/
 shop: bijoux
 ---

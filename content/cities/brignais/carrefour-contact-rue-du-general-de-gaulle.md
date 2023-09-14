@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /brignais/carrefour-contact/
+url: /brignais/carrefour-contact-rue-du-general-de-gaulle/
 shop: supermarché
 ---

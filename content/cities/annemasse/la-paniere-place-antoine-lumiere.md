@@ -1,5 +1,5 @@
 ---
 title: "La Panière"
-url: /annemasse/la-paniere/
+url: /annemasse/la-paniere-place-antoine-lumiere/
 shop: boulangerie
 ---

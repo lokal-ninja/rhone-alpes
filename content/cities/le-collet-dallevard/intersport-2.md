@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /gilly-sur-isere/intersport/
+url: /le-collet-dallevard/intersport-2/
 shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /val-disere/intersport/
+url: /val-disere/intersport-avenue-olympique/
 shop: sports
 ---

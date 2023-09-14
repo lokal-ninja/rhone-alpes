@@ -1,5 +1,5 @@
 ---
 title: "Chantelle"
-url: /annecy/chantelle/
+url: /annecy/chantelle-avenue-du-parmelan/
 shop: vêtements
 ---

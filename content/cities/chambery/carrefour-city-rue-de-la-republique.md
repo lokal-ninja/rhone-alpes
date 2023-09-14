@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /chambery/carrefour-city/
+url: /chambery/carrefour-city-rue-de-la-republique/
 shop: supermarché
 ---

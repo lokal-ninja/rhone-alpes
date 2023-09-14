@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /cluses/spar/
+url: /cluses/spar-avenue-de-la-sardagne/
 shop: commodité
 ---

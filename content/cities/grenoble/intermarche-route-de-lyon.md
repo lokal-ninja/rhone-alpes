@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /grenoble/intermarche/
+url: /grenoble/intermarche-route-de-lyon/
 shop: supermarché
 ---

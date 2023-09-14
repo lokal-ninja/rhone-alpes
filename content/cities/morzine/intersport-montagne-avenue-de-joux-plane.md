@@ -1,5 +1,5 @@
 ---
 title: "Intersport Montagne"
-url: /morzine/intersport-montagne/
+url: /morzine/intersport-montagne-avenue-de-joux-plane/
 shop: sports
 ---

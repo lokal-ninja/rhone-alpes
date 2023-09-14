@@ -1,5 +1,5 @@
 ---
 title: "La Talemelerie"
-url: /grenoble/la-talemelerie/
+url: /grenoble/la-talemelerie-rue-ampere/
 shop: boulangerie
 ---

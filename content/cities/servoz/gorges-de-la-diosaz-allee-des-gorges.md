@@ -1,5 +1,5 @@
 ---
 title: "Gorges de la Diosaz"
-url: /servoz/gorges-de-la-diosaz/
+url: /servoz/gorges-de-la-diosaz-allee-des-gorges/
 shop: cadeau
 ---

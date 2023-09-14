@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
-url: /morzine/sherpa/
+url: /morzine/sherpa-passage-malinka/
 shop: supermarché
 ---

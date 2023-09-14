@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /lyon/picard/
+url: /lyon/picard-rue-du-mail/
 shop: aliments surgelés
 ---
