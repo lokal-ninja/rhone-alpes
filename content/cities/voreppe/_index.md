@@ -1,6 +1,6 @@
 ---
 title: Voreppe
 url: /voreppe/
-latitude: 45.3
-longitude: 5.63
+latitude: 45.298
+longitude: 5.637
 ---
