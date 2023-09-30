@@ -1,5 +1,5 @@
 ---
 title: "Graines de Curieux"
-url: /sciez/graines-de-curieux/
+url: /sciez-sur-leman/graines-de-curieux/
 shop: fleuriste
 ---
