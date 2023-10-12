@@ -1,6 +1,6 @@
 ---
 title: Vénissieux
 url: /venissieux/
-latitude: 45.723
-longitude: 4.872
+latitude: 45.724
+longitude: 4.865
 ---
