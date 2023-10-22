@@ -1,5 +1,5 @@
 ---
-title: "Les fées maison"
+title: "Les Fées Maison"
 url: /la-terrasse/les-fees-maison/
 shop: boulangerie
 ---
