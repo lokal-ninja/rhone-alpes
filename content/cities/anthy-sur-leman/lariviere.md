@@ -1,5 +1,5 @@
 ---
 title: "Larivière"
 url: /anthy-sur-leman/lariviere/
-shop: shop
+shop: à faire soi-même
 ---

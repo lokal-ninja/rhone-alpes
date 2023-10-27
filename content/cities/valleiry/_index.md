@@ -1,6 +1,6 @@
 ---
 title: Valleiry
 url: /valleiry/
-latitude: 46.108
-longitude: 5.968
+latitude: 46.109
+longitude: 5.976
 ---
