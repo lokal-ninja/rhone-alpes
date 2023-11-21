@@ -7,5 +7,5 @@ city: Grenoble
 street: "Rue Lafayette"
 housenumber: 5
 phone: "+33 4 76 54 58 35"
-opening_hours: "Mo 14:00-19:00; Tu-Th 10:00-19:00; Fr 10:00-22:00; Sa 10:00-19:00"
+opening_hours: "Mo-Sa 10:00-19:00"
 website: "https://les7royaumes.com/"
