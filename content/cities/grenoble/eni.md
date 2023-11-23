@@ -1,5 +1,5 @@
 ---
 title: "Eni"
 url: /grenoble/eni/
-shop: commodité
+shop: gaz
 ---
