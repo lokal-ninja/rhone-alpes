@@ -1,6 +1,6 @@
 ---
 title: Givors
 url: /givors/
-latitude: 45.585
-longitude: 4.754
+latitude: 45.583
+longitude: 4.773
 ---
