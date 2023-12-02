@@ -1,6 +1,6 @@
 ---
 title: Saint-Agrève
 url: /saint-agreve/
-latitude: 45.009
-longitude: 4.399
+latitude: 45.01
+longitude: 4.396
 ---

@@ -1,6 +1,6 @@
 ---
-title: VILLEURBANNE
+title: Villeurbanne
 url: /villeurbanne/
-latitude: 45.766
-longitude: 4.879
+latitude: 45.769
+longitude: 4.881
 ---
