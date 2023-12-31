@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /albertville/biocoop/
-shop: supermarché
+shop: commodité
 ---

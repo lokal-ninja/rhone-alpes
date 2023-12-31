@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
-url: /margencel/skoda/
+url: /ville-la-grand/skoda/
 shop: voiture
 ---
