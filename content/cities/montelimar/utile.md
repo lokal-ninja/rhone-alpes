@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /montelimar/utile/
-shop: supermarché
+shop: commodité
 ---

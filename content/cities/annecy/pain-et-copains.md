@@ -1,5 +1,5 @@
 ---
-title: "Pain & Copains"
+title: "Pain et copains"
 url: /annecy/pain-et-copains/
 shop: boulangerie
 ---
