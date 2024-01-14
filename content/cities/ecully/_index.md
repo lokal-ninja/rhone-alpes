@@ -1,6 +1,6 @@
 ---
 title: Écully
 url: /ecully/
-latitude: 45.788
-longitude: 4.775
+latitude: 45.764
+longitude: 4.773
 ---
