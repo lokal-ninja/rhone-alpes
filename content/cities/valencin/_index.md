@@ -1,6 +1,6 @@
 ---
-title: valencin
+title: Valencin
 url: /valencin/
-latitude: 45.627
-longitude: 5.072
+latitude: 45.613
+longitude: 5.017
 ---
