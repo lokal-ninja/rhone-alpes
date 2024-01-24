@@ -1,6 +1,6 @@
 ---
 title: Fillière
 url: /filliere/
-latitude: 45.961
+latitude: 45.962
 longitude: 6.166
 ---

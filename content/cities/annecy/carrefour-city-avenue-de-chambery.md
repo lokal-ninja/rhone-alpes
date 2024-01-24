@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /annecy/carrefour-city-avenue-de-chambery/
-shop: commodité
+shop: supermarché
 ---
