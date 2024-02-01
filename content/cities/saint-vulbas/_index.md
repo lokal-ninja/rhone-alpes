@@ -1,6 +1,6 @@
 ---
 title: Saint-Vulbas
 url: /saint-vulbas/
-latitude: 45.838
-longitude: 5.286
+latitude: 45.833
+longitude: 5.291
 ---

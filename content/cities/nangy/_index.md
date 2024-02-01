@@ -1,6 +1,6 @@
 ---
 title: Nangy
 url: /nangy/
-latitude: 46.145
-longitude: 6.318
+latitude: 46.154
+longitude: 6.304
 ---
