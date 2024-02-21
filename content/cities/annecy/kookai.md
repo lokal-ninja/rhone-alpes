@@ -1,5 +1,5 @@
 ---
-title: "Kookai"
+title: "Kookaï"
 url: /annecy/kookai/
 shop: vêtements
 ---
