@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
-url: /aiguebelle/intermarche-contact/
+url: /val-darc/intermarche-contact/
 shop: commodité
 ---
