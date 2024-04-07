@@ -1,5 +1,5 @@
 ---
 title: "Vercors Lait"
 url: /seyssins/vercors-lait/
-shop: shop
+shop: fromage
 ---
