@@ -1,5 +1,5 @@
 ---
 title: "Kaporal"
 url: /grenoble/kaporal/
-shop: vêtements
+shop: vacant
 ---

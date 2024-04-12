@@ -1,5 +1,5 @@
 ---
 title: "MétaKin"
-url: /echirolles/metakin/
+url: /grenoble/metakin/
 shop: vélo
 ---
