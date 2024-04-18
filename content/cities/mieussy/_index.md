@@ -1,6 +1,6 @@
 ---
 title: Mieussy
 url: /mieussy/
-latitude: 46.132
-longitude: 6.528
+latitude: 46.134
+longitude: 6.522
 ---
