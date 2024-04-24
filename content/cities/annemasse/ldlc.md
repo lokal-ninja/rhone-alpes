@@ -1,5 +1,5 @@
 ---
-title: "Ldlc"
+title: "LDLC"
 url: /annemasse/ldlc/
-shop: électronique
+shop: ordinateur
 ---
