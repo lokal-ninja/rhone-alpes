@@ -1,5 +1,5 @@
 ---
-title: "Vienne nature"
+title: "Vienne Nature"
 url: /vienne/vienne-nature/
 shop: commodité
 ---
