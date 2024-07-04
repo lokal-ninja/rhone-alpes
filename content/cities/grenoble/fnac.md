@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /grenoble/fnac/
-shop: livres
+shop: électronique
 ---

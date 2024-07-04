@@ -1,5 +1,5 @@
 ---
-title: "Casa"
+title: "CASA"
 url: /grenoble/casa/
-shop: meubles
+shop: décoration intérieure
 ---
