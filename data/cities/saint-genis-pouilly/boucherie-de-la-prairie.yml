@@ -7,5 +7,5 @@ city: Saint-Genis-Pouilly
 street: "Rue de la Prairie"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:45, 14:30-19:00; Sa-Su 08:30-19:00"
+opening_hours: "Mo,We-Fr 08:30-12:45,14:30-19:00; Sa,Su 08:30-19:00; Tu off"
 website: ""
