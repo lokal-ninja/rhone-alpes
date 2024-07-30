@@ -1,6 +1,6 @@
 ---
 title: Mions
 url: /mions/
-latitude: 45.677
-longitude: 4.959
+latitude: 45.664
+longitude: 4.957
 ---
