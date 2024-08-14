@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
-url: /aix-les-bains/e-leclerc-drive/
+url: /les-echets/e-leclerc-drive/
 shop: avant-poste
 ---
