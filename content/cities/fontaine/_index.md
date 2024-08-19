@@ -1,6 +1,6 @@
 ---
 title: Fontaine
 url: /fontaine/
-latitude: 45.199
-longitude: 5.672
+latitude: 45.189
+longitude: 5.697
 ---
