@@ -1,5 +1,5 @@
 ---
-title: "GITEM"
+title: "Gitem"
 url: /morzine/gitem/
-shop: appareil ménager
+shop: électronique
 ---

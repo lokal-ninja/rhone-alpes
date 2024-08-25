@@ -1,6 +1,6 @@
 ---
 title: Saint-Étienne
 url: /saint-etienne/
-latitude: 45.434
-longitude: 4.388
+latitude: 45.432
+longitude: 4.389
 ---
