@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
 url: /samoens/sherpa/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /bourg-saint-maurice/intersport-zc-super-u/
-shop: sports
+shop: Sport
 ---

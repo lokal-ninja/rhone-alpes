@@ -1,5 +1,5 @@
 ---
 title: "Arctik"
 url: /tignes/arctik/
-shop: sports
+shop: Sport
 ---

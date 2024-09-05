@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /saint-chamond/optical-center/
-shop: opticien
+shop: Optiker
 ---

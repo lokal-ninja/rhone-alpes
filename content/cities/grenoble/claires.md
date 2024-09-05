@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /grenoble/claires/
-shop: boutique
+shop: Modehaus
 ---

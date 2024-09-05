@@ -1,5 +1,5 @@
 ---
 title: "Arteïs"
 url: /voglans/arteis/
-shop: artisanat
+shop: Basteln
 ---

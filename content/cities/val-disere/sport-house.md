@@ -1,5 +1,5 @@
 ---
 title: "Sport House"
 url: /val-disere/sport-house/
-shop: sports
+shop: Sport
 ---

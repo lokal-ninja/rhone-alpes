@@ -1,5 +1,5 @@
 ---
 title: "Tati"
 url: /oyonnax/tati/
-shop: vêtements
+shop: Kleidung
 ---

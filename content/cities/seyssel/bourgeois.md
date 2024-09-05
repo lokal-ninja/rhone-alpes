@@ -1,5 +1,5 @@
 ---
 title: "Bourgeois"
 url: /seyssel/bourgeois/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance Coiffure"
 url: /lyon/tendance-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

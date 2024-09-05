@@ -1,5 +1,5 @@
 ---
 title: "Stilbag"
 url: /etrembieres/stilbag/
-shop: sac
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /annemasse/burton/
-shop: vêtements
+shop: Kleidung
 ---

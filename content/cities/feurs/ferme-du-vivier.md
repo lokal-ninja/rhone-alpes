@@ -1,5 +1,5 @@
 ---
 title: "Ferme du Vivier"
 url: /feurs/ferme-du-vivier/
-shop: boucherie
+shop: Metzgerei
 ---

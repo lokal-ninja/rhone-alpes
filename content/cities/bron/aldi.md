@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bron/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

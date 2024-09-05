@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /annecy/levis/
-shop: vêtements
+shop: Kleidung
 ---

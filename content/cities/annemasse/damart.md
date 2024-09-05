@@ -1,5 +1,5 @@
 ---
 title: "Damart"
 url: /annemasse/damart/
-shop: vêtements
+shop: Kleidung
 ---

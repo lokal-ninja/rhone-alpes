@@ -1,5 +1,5 @@
 ---
 title: "Casino Shop Le Recoin"
 url: /chamrousse/casino-shop-le-recoin/
-shop: commodité
+shop: Lebensmittel
 ---

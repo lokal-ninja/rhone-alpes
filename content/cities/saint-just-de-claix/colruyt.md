@@ -1,5 +1,5 @@
 ---
 title: "Colruyt"
 url: /saint-just-de-claix/colruyt/
-shop: supermarché
+shop: Supermarkt
 ---

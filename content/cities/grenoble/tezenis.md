@@ -1,5 +1,5 @@
 ---
 title: "Tezenis"
 url: /grenoble/tezenis/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Legallais"
 url: /echirolles/legallais/
-shop: matériel informatique
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abeos"
 url: /vienne/abeos/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cap'Tif"
 url: /la-pacaudiere/captif/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie Contat"
 url: /annemasse/boucherie-charcuterie-contat/
-shop: boucherie
+shop: Metzgerei
 ---

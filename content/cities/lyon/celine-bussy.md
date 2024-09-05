@@ -1,5 +1,5 @@
 ---
 title: "Céline Bussy"
 url: /lyon/celine-bussy/
-shop: chaussures
+shop: Schuhe
 ---

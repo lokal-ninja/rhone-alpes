@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /renage/netto/
-shop: supermarché
+shop: Supermarkt
 ---

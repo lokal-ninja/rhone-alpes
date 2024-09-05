@@ -1,5 +1,5 @@
 ---
 title: "Librairie l'Astragale"
 url: /lyon/librairie-lastragale/
-shop: livres
+shop: Bücher
 ---

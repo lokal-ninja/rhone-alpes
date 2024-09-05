@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saint-egreve/intersport/
-shop: sports
+shop: Sport
 ---

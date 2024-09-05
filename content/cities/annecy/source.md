@@ -1,5 +1,5 @@
 ---
 title: "source"
 url: /annecy/source/
-shop: shop
+shop: Allgemein
 ---

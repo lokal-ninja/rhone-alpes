@@ -1,5 +1,5 @@
 ---
 title: "Cash Piscines"
 url: /pierreatte/cash-piscines/
-shop: piscine
+shop: Pool
 ---

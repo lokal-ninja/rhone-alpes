@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /grenoble/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

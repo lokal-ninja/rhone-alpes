@@ -1,5 +1,5 @@
 ---
 title: "Fournil de Langin"
 url: /bons-en-chablais/fournil-de-langin/
-shop: boulangerie
+shop: Bäckerei
 ---

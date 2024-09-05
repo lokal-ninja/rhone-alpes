@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /annemasse/boulanger/
-shop: électronique
+shop: Elektronik
 ---

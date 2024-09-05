@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
 url: /chatel/sherpa/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Semeur"
 url: /moirans/le-semeur/
-shop: légumes
+shop: Gemüse & Obst
 ---

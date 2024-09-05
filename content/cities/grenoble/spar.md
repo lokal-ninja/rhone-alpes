@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /grenoble/spar/
-shop: commodité
+shop: Lebensmittel
 ---

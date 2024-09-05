@@ -1,5 +1,5 @@
 ---
 title: "Kickmoto"
 url: /anthy-sur-leman/kickmoto/
-shop: moto
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edelweiss Boutique"
 url: /cohennoz/edelweiss-boutique/
-shop: commodité
+shop: Lebensmittel
 ---

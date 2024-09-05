@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Latouche"
 url: /bernin/boulangerie-latouche/
-shop: boulangerie
+shop: Bäckerei
 ---

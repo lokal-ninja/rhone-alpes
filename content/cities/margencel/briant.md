@@ -1,5 +1,5 @@
 ---
 title: "Briant"
 url: /margencel/briant/
-shop: bijoux
+shop: Schmuck
 ---

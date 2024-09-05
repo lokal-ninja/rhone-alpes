@@ -1,5 +1,5 @@
 ---
 title: "Onyris"
 url: /annemasse/onyris/
-shop: jeux
+shop: Spiele
 ---

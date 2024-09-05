@@ -1,5 +1,5 @@
 ---
 title: "Oasis jardin de cocagne"
 url: /saint-just-saint-rambert/oasis-jardin-de-cocagne/
-shop: ferme
+shop: Hofladen
 ---

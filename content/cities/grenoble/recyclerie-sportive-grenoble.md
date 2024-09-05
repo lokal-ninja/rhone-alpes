@@ -1,5 +1,5 @@
 ---
 title: "Recyclerie Sportive Grenoble"
 url: /grenoble/recyclerie-sportive-grenoble/
-shop: vélo
+shop: Fahrrad
 ---

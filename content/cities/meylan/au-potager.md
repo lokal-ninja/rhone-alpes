@@ -1,5 +1,5 @@
 ---
 title: "Au potager"
 url: /meylan/au-potager/
-shop: légumes
+shop: Gemüse & Obst
 ---

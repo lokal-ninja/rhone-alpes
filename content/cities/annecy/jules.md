@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /annecy/jules/
-shop: vêtements
+shop: Kleidung
 ---

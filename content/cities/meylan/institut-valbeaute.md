@@ -1,5 +1,5 @@
 ---
 title: "Institut Val'Beauté"
 url: /meylan/institut-valbeaute/
-shop: beauté
+shop: Kosmetik
 ---

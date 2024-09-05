@@ -1,5 +1,5 @@
 ---
 title: "Cleor"
 url: /annemasse/cleor/
-shop: bijoux
+shop: Schmuck
 ---

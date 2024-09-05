@@ -1,5 +1,5 @@
 ---
 title: "Creatifs"
 url: /saint-chamond/creatifs/
-shop: coiffeur
+shop: Friseur
 ---

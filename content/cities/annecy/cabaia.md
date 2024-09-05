@@ -1,5 +1,5 @@
 ---
 title: "Cabaïa"
 url: /annecy/cabaia/
-shop: sac
+shop: Taschen & Koffer
 ---

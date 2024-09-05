@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /etrembieres/claires/
-shop: boutique
+shop: Modehaus
 ---

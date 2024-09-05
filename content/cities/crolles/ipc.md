@@ -1,5 +1,5 @@
 ---
 title: "IPC"
 url: /crolles/ipc/
-shop: ordinateur
+shop: Computer
 ---

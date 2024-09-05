@@ -1,5 +1,5 @@
 ---
 title: "Passiflore"
 url: /tullins/passiflore/
-shop: charité
+shop: Gebrauchtwaren
 ---

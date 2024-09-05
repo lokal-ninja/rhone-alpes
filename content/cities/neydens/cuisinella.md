@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /neydens/cuisinella/
-shop: cuisine
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espace Vegetal"
 url: /vif/espace-vegetal/
-shop: centre de jardinage
+shop: Garten-Center
 ---

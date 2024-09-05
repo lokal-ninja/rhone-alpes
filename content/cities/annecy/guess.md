@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /annecy/guess/
-shop: cuir
+shop: Leder
 ---

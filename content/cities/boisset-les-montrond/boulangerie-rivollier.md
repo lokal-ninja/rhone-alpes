@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Rivollier"
 url: /boisset-les-montrond/boulangerie-rivollier/
-shop: boulangerie
+shop: Bäckerei
 ---

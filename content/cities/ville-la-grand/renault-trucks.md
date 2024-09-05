@@ -1,5 +1,5 @@
 ---
 title: "Renault Trucks"
 url: /ville-la-grand/renault-trucks/
-shop: voiture
+shop: Autohaus
 ---

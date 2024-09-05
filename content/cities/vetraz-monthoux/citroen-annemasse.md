@@ -1,5 +1,5 @@
 ---
 title: "Citroën Annemasse"
 url: /vetraz-monthoux/citroen-annemasse/
-shop: voiture
+shop: Autohaus
 ---

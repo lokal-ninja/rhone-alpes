@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /grenoble/courir/
-shop: chaussures
+shop: Schuhe
 ---

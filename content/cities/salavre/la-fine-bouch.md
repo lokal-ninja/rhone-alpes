@@ -1,5 +1,5 @@
 ---
 title: "La Fine Bouch'"
 url: /salavre/la-fine-bouch/
-shop: boucherie
+shop: Metzgerei
 ---

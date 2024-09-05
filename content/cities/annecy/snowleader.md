@@ -1,5 +1,5 @@
 ---
 title: "Snowleader"
 url: /annecy/snowleader/
-shop: sports
+shop: Sport
 ---

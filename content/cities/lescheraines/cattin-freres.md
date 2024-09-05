@@ -1,5 +1,5 @@
 ---
 title: "Cattin Frères"
 url: /lescheraines/cattin-freres/
-shop: agraire
+shop: Landwirtschaftlich
 ---

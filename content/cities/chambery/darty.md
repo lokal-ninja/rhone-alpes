@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /chambery/darty/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
 url: /annemasse/bocage/
-shop: chaussures
+shop: Schuhe
 ---

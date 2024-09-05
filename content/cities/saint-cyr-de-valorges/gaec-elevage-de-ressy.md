@@ -1,5 +1,5 @@
 ---
 title: "GAEC Élevage de Ressy"
 url: /saint-cyr-de-valorges/gaec-elevage-de-ressy/
-shop: ferme
+shop: Hofladen
 ---

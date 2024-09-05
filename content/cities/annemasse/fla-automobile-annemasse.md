@@ -1,5 +1,5 @@
 ---
 title: "FLA Automobile Annemasse"
 url: /annemasse/fla-automobile-annemasse/
-shop: voiture
+shop: Autohaus
 ---

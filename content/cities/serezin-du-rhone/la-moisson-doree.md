@@ -1,5 +1,5 @@
 ---
 title: "La Moisson Dorée"
 url: /serezin-du-rhone/la-moisson-doree/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /chambery/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

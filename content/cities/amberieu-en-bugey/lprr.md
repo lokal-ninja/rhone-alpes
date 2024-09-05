@@ -1,5 +1,5 @@
 ---
 title: "LprR"
 url: /amberieu-en-bugey/lprr/
-shop: vêtements
+shop: Kleidung
 ---

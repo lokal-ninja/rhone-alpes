@@ -1,5 +1,5 @@
 ---
 title: "Select Fruits"
 url: /grenoble/select-fruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

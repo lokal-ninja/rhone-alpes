@@ -1,5 +1,5 @@
 ---
 title: "La ressource"
 url: /grenoble/la-ressource/
-shop: charité
+shop: Gebrauchtwaren
 ---

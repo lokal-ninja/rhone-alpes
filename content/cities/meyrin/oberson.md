@@ -1,5 +1,5 @@
 ---
 title: "Oberson"
 url: /meyrin/oberson/
-shop: boulangerie
+shop: Bäckerei
 ---

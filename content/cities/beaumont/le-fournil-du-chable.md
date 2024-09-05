@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil du Châble"
 url: /beaumont/le-fournil-du-chable/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coquelicot"
 url: /saint-chamond/coquelicot/
-shop: fleuriste
+shop: Blumen
 ---

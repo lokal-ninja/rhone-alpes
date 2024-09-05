@@ -1,5 +1,5 @@
 ---
 title: "Santal"
 url: /annemasse/santal/
-shop: meubles
+shop: Möbel
 ---

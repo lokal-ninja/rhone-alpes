@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /thonon-les-bains/fnac/
-shop: livres
+shop: Bücher
 ---

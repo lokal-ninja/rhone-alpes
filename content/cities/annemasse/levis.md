@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /annemasse/levis/
-shop: vêtements
+shop: Kleidung
 ---

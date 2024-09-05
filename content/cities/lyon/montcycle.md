@@ -1,5 +1,5 @@
 ---
 title: "Montcycle"
 url: /lyon/montcycle/
-shop: vélo
+shop: Fahrrad
 ---

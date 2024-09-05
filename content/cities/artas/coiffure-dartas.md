@@ -1,5 +1,5 @@
 ---
 title: "Coiffure d'Art'As"
 url: /artas/coiffure-dartas/
-shop: coiffeur
+shop: Friseur
 ---

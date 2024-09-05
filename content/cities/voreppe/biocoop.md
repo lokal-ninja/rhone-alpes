@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /voreppe/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

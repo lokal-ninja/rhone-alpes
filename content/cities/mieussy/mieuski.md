@@ -1,5 +1,5 @@
 ---
 title: "Mieuski"
 url: /mieussy/mieuski/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /brignais/spar/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opalys"
 url: /montbrison/opalys/
-shop: fleuriste
+shop: Blumen
 ---

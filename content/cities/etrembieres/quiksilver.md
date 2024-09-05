@@ -1,5 +1,5 @@
 ---
 title: "Quiksilver"
 url: /etrembieres/quiksilver/
-shop: vêtements
+shop: Kleidung
 ---

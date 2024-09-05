@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /saint-egreve/carrefour-express/
-shop: commodité
+shop: Lebensmittel
 ---

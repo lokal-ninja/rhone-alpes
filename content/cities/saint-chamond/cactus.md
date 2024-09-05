@@ -1,5 +1,5 @@
 ---
 title: "Cactus"
 url: /saint-chamond/cactus/
-shop: fleuriste
+shop: Blumen
 ---

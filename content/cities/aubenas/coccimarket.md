@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /aubenas/coccimarket/
-shop: commodité
+shop: Lebensmittel
 ---

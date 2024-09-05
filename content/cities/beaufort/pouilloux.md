@@ -1,5 +1,5 @@
 ---
 title: "Pouilloux"
 url: /beaufort/pouilloux/
-shop: boulangerie
+shop: Bäckerei
 ---

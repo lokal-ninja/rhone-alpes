@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /montbrison/optical-center/
-shop: opticien
+shop: Optiker
 ---

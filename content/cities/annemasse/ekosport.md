@@ -1,5 +1,5 @@
 ---
 title: "Ekosport"
 url: /annemasse/ekosport/
-shop: extérieur
+shop: Outdoor
 ---

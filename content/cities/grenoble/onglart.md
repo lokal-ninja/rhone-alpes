@@ -1,5 +1,5 @@
 ---
 title: "Ongl'Art"
 url: /grenoble/onglart/
-shop: beauté
+shop: Kosmetik
 ---

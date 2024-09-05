@@ -1,5 +1,5 @@
 ---
 title: "Elan"
 url: /perrignier/elan/
-shop: gaz
+shop: Gasflaschen
 ---

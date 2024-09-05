@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /anthy-sur-leman/stokomani/
-shop: magasin de variétés
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Satoriz Voiron"
 url: /voiron/satoriz-voiron/
-shop: commodité
+shop: Lebensmittel
 ---

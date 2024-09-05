@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /montbrison/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

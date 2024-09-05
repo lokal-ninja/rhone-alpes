@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /seynod/opel/
-shop: voiture
+shop: Autohaus
 ---

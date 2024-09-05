@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /grenoble/grandoptical/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nouvel' Hair"
 url: /saint-symphorien-sur-coise/nouvel-hair/
-shop: coiffeur
+shop: Friseur
 ---

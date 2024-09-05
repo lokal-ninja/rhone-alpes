@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /aillon-le-jeune/intersport/
-shop: sports
+shop: Sport
 ---

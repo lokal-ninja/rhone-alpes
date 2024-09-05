@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Voyages"
 url: /saint-egreve/carrefour-voyages/
-shop: billet
+shop: Tickets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sgambato"
 url: /chamrousse/sgambato/
-shop: sports
+shop: Sport
 ---

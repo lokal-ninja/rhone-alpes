@@ -1,5 +1,5 @@
 ---
 title: "MOA"
 url: /annemasse/moa/
-shop: boutique
+shop: Modehaus
 ---

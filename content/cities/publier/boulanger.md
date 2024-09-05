@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /publier/boulanger/
-shop: électronique
+shop: Elektronik
 ---

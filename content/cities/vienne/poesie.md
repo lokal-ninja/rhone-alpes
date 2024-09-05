@@ -1,5 +1,5 @@
 ---
 title: "Poésie"
 url: /vienne/poesie/
-shop: pâtisserie
+shop: Konditorei
 ---

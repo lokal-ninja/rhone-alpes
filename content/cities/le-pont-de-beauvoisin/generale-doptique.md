@@ -1,5 +1,5 @@
 ---
 title: "Générale d'Optique"
 url: /le-pont-de-beauvoisin/generale-doptique/
-shop: opticien
+shop: Optiker
 ---

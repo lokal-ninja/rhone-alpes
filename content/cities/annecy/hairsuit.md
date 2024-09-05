@@ -1,5 +1,5 @@
 ---
 title: "Hairsuit"
 url: /annecy/hairsuit/
-shop: coiffeur
+shop: Friseur
 ---

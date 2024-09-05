@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /saint-ismier/carrefour-city/
-shop: supermarché
+shop: Supermarkt
 ---

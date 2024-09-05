@@ -1,5 +1,5 @@
 ---
 title: "Maëfaf"
 url: /montelimar/maefaf/
-shop: vêtements
+shop: Kleidung
 ---

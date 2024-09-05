@@ -1,5 +1,5 @@
 ---
 title: "Biscuiterie Saint-Agône - Les Saintoiseries"
 url: /sallanches/biscuiterie-saint-agone-les-saintoiseries/
-shop: pâtisserie
+shop: Konditorei
 ---

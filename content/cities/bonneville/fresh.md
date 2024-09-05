@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /bonneville/fresh/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mathelin"
 url: /chatillon-dazergues/mathelin/
-shop: vin
+shop: Wein
 ---

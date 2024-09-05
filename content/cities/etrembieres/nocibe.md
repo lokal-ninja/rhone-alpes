@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /etrembieres/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /publier/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

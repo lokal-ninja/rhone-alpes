@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /chambery/decathlon/
-shop: sports
+shop: Sport
 ---

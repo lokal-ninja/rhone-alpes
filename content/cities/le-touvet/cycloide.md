@@ -1,5 +1,5 @@
 ---
 title: "Cycloïde"
 url: /le-touvet/cycloide/
-shop: vélo
+shop: Fahrrad
 ---

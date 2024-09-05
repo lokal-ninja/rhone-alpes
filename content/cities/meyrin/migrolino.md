@@ -1,5 +1,5 @@
 ---
 title: "Migrolino"
 url: /meyrin/migrolino/
-shop: commodité
+shop: Lebensmittel
 ---

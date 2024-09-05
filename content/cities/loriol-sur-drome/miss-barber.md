@@ -1,5 +1,5 @@
 ---
 title: "Miss Barber"
 url: /loriol-sur-drome/miss-barber/
-shop: coiffeur
+shop: Friseur
 ---

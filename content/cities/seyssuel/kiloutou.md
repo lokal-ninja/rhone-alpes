@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /seyssuel/kiloutou/
-shop: outils
+shop: Werkzeuge
 ---

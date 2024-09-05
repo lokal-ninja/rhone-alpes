@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /polliat/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

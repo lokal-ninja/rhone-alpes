@@ -1,5 +1,5 @@
 ---
 title: "Opinel Savoie"
 url: /annecy/opinel-savoie/
-shop: armes
+shop: Waffen
 ---

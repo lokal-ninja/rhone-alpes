@@ -1,5 +1,5 @@
 ---
 title: "Kokliko"
 url: /saint-egreve/kokliko/
-shop: blanchisserie
+shop: Wäscherei
 ---

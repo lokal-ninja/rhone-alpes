@@ -1,5 +1,5 @@
 ---
 title: "L'île aux livres"
 url: /annecy/lile-aux-livres/
-shop: livres
+shop: Bücher
 ---

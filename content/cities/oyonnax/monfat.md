@@ -1,5 +1,5 @@
 ---
 title: "Monfat"
 url: /oyonnax/monfat/
-shop: vélo
+shop: Fahrrad
 ---

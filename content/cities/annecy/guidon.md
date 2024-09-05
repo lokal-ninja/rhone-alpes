@@ -1,5 +1,5 @@
 ---
 title: "Guidon"
 url: /annecy/guidon/
-shop: vélo
+shop: Fahrrad
 ---

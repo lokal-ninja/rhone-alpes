@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /vienne/superdry/
-shop: vêtements
+shop: Kleidung
 ---

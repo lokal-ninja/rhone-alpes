@@ -1,5 +1,5 @@
 ---
 title: "Rize"
 url: /givors/rize/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emma D."
 url: /montluel/emma-d/
-shop: fromage
+shop: Käse
 ---

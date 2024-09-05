@@ -1,5 +1,5 @@
 ---
 title: "Irréelle"
 url: /seyssins/irreelle/
-shop: beauté
+shop: Kosmetik
 ---

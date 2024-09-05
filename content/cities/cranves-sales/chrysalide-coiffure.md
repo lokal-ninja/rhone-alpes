@@ -1,5 +1,5 @@
 ---
 title: "Chrysalide Coiffure"
 url: /cranves-sales/chrysalide-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Epicentre"
 url: /besayes/lepicentre/
-shop: commodité
+shop: Lebensmittel
 ---

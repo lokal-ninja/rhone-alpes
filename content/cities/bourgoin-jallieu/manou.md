@@ -1,5 +1,5 @@
 ---
 title: "Manou"
 url: /bourgoin-jallieu/manou/
-shop: chaussures
+shop: Schuhe
 ---

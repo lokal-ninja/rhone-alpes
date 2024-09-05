@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /meillonnas/vival/
-shop: commodité
+shop: Lebensmittel
 ---

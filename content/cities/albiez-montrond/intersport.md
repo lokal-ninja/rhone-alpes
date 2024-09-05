@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /albiez-montrond/intersport/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Jules"
 url: /lyon/chez-jules/
-shop: boulangerie
+shop: Bäckerei
 ---

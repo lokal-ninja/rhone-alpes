@@ -1,5 +1,5 @@
 ---
 title: "Provenc'Halles"
 url: /saint-chamond/provenchalles/
-shop: légumes
+shop: Gemüse & Obst
 ---

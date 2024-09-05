@@ -1,5 +1,5 @@
 ---
 title: "Blason Chaussures"
 url: /vienne/blason-chaussures/
-shop: chaussures
+shop: Schuhe
 ---

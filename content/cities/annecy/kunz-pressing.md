@@ -1,5 +1,5 @@
 ---
 title: "KUNZ Pressing"
 url: /annecy/kunz-pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

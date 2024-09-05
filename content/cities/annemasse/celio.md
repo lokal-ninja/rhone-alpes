@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /annemasse/celio/
-shop: vêtements
+shop: Kleidung
 ---

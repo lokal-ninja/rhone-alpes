@@ -1,5 +1,5 @@
 ---
 title: "La R'Mize"
 url: /anthy-sur-leman/la-rmize/
-shop: vêtements
+shop: Kleidung
 ---

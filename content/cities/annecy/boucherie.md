@@ -1,5 +1,5 @@
 ---
 title: "boucherie"
 url: /annecy/boucherie/
-shop: boucherie
+shop: Metzgerei
 ---

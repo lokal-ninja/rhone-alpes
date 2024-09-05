@@ -1,5 +1,5 @@
 ---
 title: "Pil'Vite"
 url: /chatte/pilvite/
-shop: montres
+shop: Uhren
 ---

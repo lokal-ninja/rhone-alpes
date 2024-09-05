@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /meylan/casino/
-shop: supermarché
+shop: Supermarkt
 ---

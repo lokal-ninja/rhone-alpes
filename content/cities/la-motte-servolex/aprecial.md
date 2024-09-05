@@ -1,5 +1,5 @@
 ---
 title: "Aprecial"
 url: /la-motte-servolex/aprecial/
-shop: coiffeur
+shop: Friseur
 ---

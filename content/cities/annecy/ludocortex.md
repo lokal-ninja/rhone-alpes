@@ -1,5 +1,5 @@
 ---
 title: "Ludocortex"
 url: /annecy/ludocortex/
-shop: jeux
+shop: Spiele
 ---

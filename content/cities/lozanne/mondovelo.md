@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /lozanne/mondovelo/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiko"
 url: /annemasse/kiko/
-shop: beauté
+shop: Kosmetik
 ---

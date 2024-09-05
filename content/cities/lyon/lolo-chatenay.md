@@ -1,5 +1,5 @@
 ---
 title: "Lolo Chatenay"
 url: /lyon/lolo-chatenay/
-shop: boutique
+shop: Modehaus
 ---

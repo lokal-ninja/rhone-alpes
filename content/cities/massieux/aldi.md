@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /massieux/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

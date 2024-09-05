@@ -1,5 +1,5 @@
 ---
 title: "Ben's"
 url: /thonex/bens/
-shop: commodité
+shop: Lebensmittel
 ---

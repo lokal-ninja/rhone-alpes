@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /annecy/pimkie/
-shop: vêtements
+shop: Kleidung
 ---

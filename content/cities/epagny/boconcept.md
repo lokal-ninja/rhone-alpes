@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /epagny/boconcept/
-shop: meubles
+shop: Möbel
 ---

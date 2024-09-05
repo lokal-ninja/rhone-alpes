@@ -1,5 +1,5 @@
 ---
 title: "Paquet Jardin"
 url: /meylan/paquet-jardin/
-shop: centre de jardinage
+shop: Garten-Center
 ---

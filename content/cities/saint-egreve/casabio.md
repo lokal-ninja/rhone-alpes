@@ -1,5 +1,5 @@
 ---
 title: "Casabio"
 url: /saint-egreve/casabio/
-shop: supermarché
+shop: Supermarkt
 ---

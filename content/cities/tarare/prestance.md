@@ -1,5 +1,5 @@
 ---
 title: "Prestance"
 url: /tarare/prestance/
-shop: vêtements
+shop: Kleidung
 ---

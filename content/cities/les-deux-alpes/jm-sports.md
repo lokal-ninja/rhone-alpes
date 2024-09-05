@@ -1,5 +1,5 @@
 ---
 title: "JM Sports"
 url: /les-deux-alpes/jm-sports/
-shop: sports
+shop: Sport
 ---

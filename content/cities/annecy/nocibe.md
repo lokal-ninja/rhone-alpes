@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /annecy/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

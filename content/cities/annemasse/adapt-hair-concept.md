@@ -1,5 +1,5 @@
 ---
 title: "Adapt Hair Concept"
 url: /annemasse/adapt-hair-concept/
-shop: coiffeur
+shop: Friseur
 ---

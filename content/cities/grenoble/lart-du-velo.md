@@ -1,5 +1,5 @@
 ---
 title: "L'Art du Vélo"
 url: /grenoble/lart-du-velo/
-shop: vélo
+shop: Fahrrad
 ---

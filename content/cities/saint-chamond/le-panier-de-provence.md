@@ -1,5 +1,5 @@
 ---
 title: "Le Panier de Provence"
 url: /saint-chamond/le-panier-de-provence/
-shop: légumes
+shop: Gemüse & Obst
 ---

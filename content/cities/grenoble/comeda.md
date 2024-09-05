@@ -1,5 +1,5 @@
 ---
 title: "Coméda"
 url: /grenoble/comeda/
-shop: approvisionnement médical
+shop: Sanitätshaus
 ---

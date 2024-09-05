@@ -1,5 +1,5 @@
 ---
 title: "Atelier Restelli"
 url: /chambery/atelier-restelli/
-shop: art
+shop: Kunst
 ---

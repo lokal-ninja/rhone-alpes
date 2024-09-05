@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /annecy/calzedonia/
-shop: vêtements
+shop: Kleidung
 ---

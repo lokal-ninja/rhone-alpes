@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Literie"
 url: /annemasse/maison-de-la-literie/
-shop: lit
+shop: Betten
 ---

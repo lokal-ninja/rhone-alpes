@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie O'Meylan"
 url: /meylan/fromagerie-omeylan/
-shop: fromage
+shop: Käse
 ---

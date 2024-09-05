@@ -1,5 +1,5 @@
 ---
 title: "Lilie"
 url: /vienne/lilie/
-shop: sac
+shop: Taschen & Koffer
 ---

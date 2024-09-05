@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /grenoble/pandora/
-shop: bijoux
+shop: Schmuck
 ---

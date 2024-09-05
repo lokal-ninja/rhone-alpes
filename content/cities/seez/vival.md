@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /seez/vival/
-shop: commodité
+shop: Lebensmittel
 ---

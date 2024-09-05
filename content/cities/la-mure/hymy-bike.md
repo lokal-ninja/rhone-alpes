@@ -1,5 +1,5 @@
 ---
 title: "Hymy Bike"
 url: /la-mure/hymy-bike/
-shop: vélo
+shop: Fahrrad
 ---

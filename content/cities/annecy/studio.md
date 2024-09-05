@@ -1,5 +1,5 @@
 ---
 title: "Studio"
 url: /annecy/studio/
-shop: sac
+shop: Taschen & Koffer
 ---

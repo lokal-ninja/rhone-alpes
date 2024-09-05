@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-alban-leysse/decathlon-rue-du-marocaz/
-shop: vélo
+shop: Fahrrad
 ---

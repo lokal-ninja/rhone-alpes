@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
 url: /saint-gervais-les-bains/sherpa/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vrakopolis"
 url: /annemasse/vrakopolis/
-shop: commodité
+shop: Lebensmittel
 ---

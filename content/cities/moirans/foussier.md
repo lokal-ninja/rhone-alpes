@@ -1,5 +1,5 @@
 ---
 title: "Foussier"
 url: /moirans/foussier/
-shop: matériel informatique
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A-L.Kréations"
 url: /allinges/a-l-kreations/
-shop: cadeau
+shop: Andenken
 ---

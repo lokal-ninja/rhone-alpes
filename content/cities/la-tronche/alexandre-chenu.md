@@ -1,5 +1,5 @@
 ---
 title: "Alexandre Chenu"
 url: /la-tronche/alexandre-chenu/
-shop: commodité
+shop: Lebensmittel
 ---

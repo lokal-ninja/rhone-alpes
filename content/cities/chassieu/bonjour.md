@@ -1,5 +1,5 @@
 ---
 title: "bonjour"
 url: /chassieu/bonjour/
-shop: supermarché
+shop: Supermarkt
 ---

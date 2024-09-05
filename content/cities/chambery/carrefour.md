@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /chambery/carrefour/
-shop: commodité
+shop: Lebensmittel
 ---

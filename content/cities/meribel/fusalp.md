@@ -1,5 +1,5 @@
 ---
 title: "Fusalp"
 url: /meribel/fusalp/
-shop: vêtements
+shop: Kleidung
 ---

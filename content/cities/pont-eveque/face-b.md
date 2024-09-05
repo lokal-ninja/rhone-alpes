@@ -1,5 +1,5 @@
 ---
 title: "Face B"
 url: /pont-eveque/face-b/
-shop: coiffeur
+shop: Friseur
 ---

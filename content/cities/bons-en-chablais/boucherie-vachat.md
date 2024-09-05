@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Vachat"
 url: /bons-en-chablais/boucherie-vachat/
-shop: boucherie
+shop: Metzgerei
 ---

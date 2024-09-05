@@ -1,5 +1,5 @@
 ---
 title: "Cerise et Potiron"
 url: /annecy/cerise-et-potiron/
-shop: légumes
+shop: Gemüse & Obst
 ---

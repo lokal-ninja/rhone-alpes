@@ -1,5 +1,5 @@
 ---
 title: "EdelBikes"
 url: /grenoble/edelbikes/
-shop: vélo
+shop: Fahrrad
 ---

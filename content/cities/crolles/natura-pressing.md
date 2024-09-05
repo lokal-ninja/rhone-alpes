@@ -1,5 +1,5 @@
 ---
 title: "natura pressing"
 url: /crolles/natura-pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

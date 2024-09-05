@@ -1,5 +1,5 @@
 ---
 title: "Opti'Regard"
 url: /vernioz/optiregard/
-shop: opticien
+shop: Optiker
 ---

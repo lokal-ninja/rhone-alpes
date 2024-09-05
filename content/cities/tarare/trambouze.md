@@ -1,5 +1,5 @@
 ---
 title: "Trambouze"
 url: /tarare/trambouze/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /annemasse/vival/
-shop: commodité
+shop: Lebensmittel
 ---

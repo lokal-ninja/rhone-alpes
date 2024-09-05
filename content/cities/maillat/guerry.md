@@ -1,5 +1,5 @@
 ---
 title: "Guerry"
 url: /maillat/guerry/
-shop: boucherie
+shop: Metzgerei
 ---

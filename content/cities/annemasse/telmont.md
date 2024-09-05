@@ -1,5 +1,5 @@
 ---
 title: "Telmont"
 url: /annemasse/telmont/
-shop: extérieur
+shop: Outdoor
 ---

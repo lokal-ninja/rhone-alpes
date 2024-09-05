@@ -1,5 +1,5 @@
 ---
 title: "Paravital Parapharmacies"
 url: /ferney-voltaire/paravital-parapharmacies/
-shop: chimiste
+shop: Drogerie
 ---

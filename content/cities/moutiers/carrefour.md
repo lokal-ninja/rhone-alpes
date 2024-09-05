@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /moutiers/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

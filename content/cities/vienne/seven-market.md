@@ -1,5 +1,5 @@
 ---
 title: "Seven Market"
 url: /vienne/seven-market/
-shop: commodité
+shop: Lebensmittel
 ---

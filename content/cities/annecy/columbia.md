@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /annecy/columbia/
-shop: vêtements
+shop: Kleidung
 ---

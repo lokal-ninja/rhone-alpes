@@ -1,5 +1,5 @@
 ---
 title: "Clinique Moto 69"
 url: /brussieu/clinique-moto-69/
-shop: moto
+shop: Motorrad
 ---

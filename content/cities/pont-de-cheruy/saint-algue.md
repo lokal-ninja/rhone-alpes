@@ -1,5 +1,5 @@
 ---
 title: "Saint Algue"
 url: /pont-de-cheruy/saint-algue/
-shop: coiffeur
+shop: Friseur
 ---

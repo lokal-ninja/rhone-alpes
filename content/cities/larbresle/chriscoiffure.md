@@ -1,5 +1,5 @@
 ---
 title: "Chris'Coiffure"
 url: /larbresle/chriscoiffure/
-shop: coiffeur
+shop: Friseur
 ---

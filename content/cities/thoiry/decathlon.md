@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /thoiry/decathlon/
-shop: sports
+shop: Sport
 ---

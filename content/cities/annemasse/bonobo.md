@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /annemasse/bonobo/
-shop: vêtements
+shop: Kleidung
 ---

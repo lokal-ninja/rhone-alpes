@@ -1,5 +1,5 @@
 ---
 title: "SoÂm"
 url: /lescheraines/soam/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sain Bel Optique"
 url: /sain-bel/sain-bel-optique/
-shop: opticien
+shop: Optiker
 ---

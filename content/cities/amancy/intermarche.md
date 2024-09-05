@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /amancy/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

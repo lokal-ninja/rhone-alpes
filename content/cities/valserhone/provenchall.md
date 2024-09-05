@@ -1,5 +1,5 @@
 ---
 title: "Provenc'hall"
 url: /valserhone/provenchall/
-shop: légumes
+shop: Gemüse & Obst
 ---

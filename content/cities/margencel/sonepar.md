@@ -1,5 +1,5 @@
 ---
 title: "Sonepar"
 url: /margencel/sonepar/
-shop: électrique
+shop: Elektrisch
 ---

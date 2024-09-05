@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /annemasse/swarovski/
-shop: bijoux
+shop: Schmuck
 ---

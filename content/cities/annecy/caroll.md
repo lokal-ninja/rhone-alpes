@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /annecy/caroll/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /saint-martin-de-belleville/intersport/
-shop: sports
+shop: Sport
 ---

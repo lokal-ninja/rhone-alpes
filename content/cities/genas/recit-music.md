@@ -1,5 +1,5 @@
 ---
 title: "Récit Music"
 url: /genas/recit-music/
-shop: livres
+shop: Bücher
 ---

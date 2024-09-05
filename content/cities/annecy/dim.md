@@ -1,5 +1,5 @@
 ---
 title: "Dim"
 url: /annecy/dim/
-shop: vêtements
+shop: Kleidung
 ---

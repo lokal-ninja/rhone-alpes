@@ -1,5 +1,5 @@
 ---
 title: "MULTISECU"
 url: /annecy/multisecu/
-shop: serrurier
+shop: Schlüsseldienst
 ---

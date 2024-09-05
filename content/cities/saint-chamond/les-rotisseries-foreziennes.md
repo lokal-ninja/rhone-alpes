@@ -1,5 +1,5 @@
 ---
 title: "Les Rôtisseries Foréziennes"
 url: /saint-chamond/les-rotisseries-foreziennes/
-shop: boucherie
+shop: Metzgerei
 ---

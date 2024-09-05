@@ -1,5 +1,5 @@
 ---
 title: "L’Atelier"
 url: /bernin/latelier/
-shop: coiffeur
+shop: Friseur
 ---

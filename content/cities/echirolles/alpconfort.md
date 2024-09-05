@@ -1,5 +1,5 @@
 ---
 title: "Alp'Confort"
 url: /echirolles/alpconfort/
-shop: cheminée
+shop: Kamine & Öfen
 ---

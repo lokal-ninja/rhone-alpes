@@ -1,5 +1,5 @@
 ---
 title: "Jour de Fleur'aison"
 url: /thonon-les-bains/jour-de-fleuraison/
-shop: fleuriste
+shop: Blumen
 ---

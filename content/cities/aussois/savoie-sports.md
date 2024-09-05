@@ -1,5 +1,5 @@
 ---
 title: "Savoie Sports"
 url: /aussois/savoie-sports/
-shop: shop
+shop: Allgemein
 ---

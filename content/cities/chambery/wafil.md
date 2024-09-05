@@ -1,5 +1,5 @@
 ---
 title: "Wafil"
 url: /chambery/wafil/
-shop: pâtisserie
+shop: Konditorei
 ---

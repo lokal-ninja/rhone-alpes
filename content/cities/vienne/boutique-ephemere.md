@@ -1,5 +1,5 @@
 ---
 title: "Boutique Éphémère"
 url: /vienne/boutique-ephemere/
-shop: shop
+shop: Allgemein
 ---

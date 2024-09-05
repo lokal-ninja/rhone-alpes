@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /meyrin/coop/
-shop: supermarché
+shop: Supermarkt
 ---

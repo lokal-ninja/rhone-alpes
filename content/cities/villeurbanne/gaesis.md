@@ -1,5 +1,5 @@
 ---
 title: "Gaesis"
 url: /villeurbanne/gaesis/
-shop: bijoux
+shop: Schmuck
 ---

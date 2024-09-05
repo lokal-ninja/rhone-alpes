@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /val-thorens/intersport/
-shop: sports
+shop: Sport
 ---

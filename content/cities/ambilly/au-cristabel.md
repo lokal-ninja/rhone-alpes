@@ -1,5 +1,5 @@
 ---
 title: "Au Crist'Abel"
 url: /ambilly/au-cristabel/
-shop: boulangerie
+shop: Bäckerei
 ---

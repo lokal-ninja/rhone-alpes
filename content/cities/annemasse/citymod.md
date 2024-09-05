@@ -1,5 +1,5 @@
 ---
 title: "Citymod"
 url: /annemasse/citymod/
-shop: vêtements
+shop: Kleidung
 ---

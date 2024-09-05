@@ -1,5 +1,5 @@
 ---
 title: "Tommy Hilfiger"
 url: /chambery/tommy-hilfiger/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bycloud"
 url: /saint-chamond/bycloud/
-shop: ordinateur
+shop: Computer
 ---

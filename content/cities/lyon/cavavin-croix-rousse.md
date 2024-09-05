@@ -1,5 +1,5 @@
 ---
 title: "Cavavin, Croix-Rousse"
 url: /lyon/cavavin-croix-rousse/
-shop: alcool
+shop: Spirituosen
 ---

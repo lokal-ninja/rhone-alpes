@@ -1,5 +1,5 @@
 ---
 title: "Aristide"
 url: /annecy/aristide/
-shop: boulangerie
+shop: Bäckerei
 ---

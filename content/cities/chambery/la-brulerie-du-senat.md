@@ -1,5 +1,5 @@
 ---
 title: "La Brûlerie du Sénat"
 url: /chambery/la-brulerie-du-senat/
-shop: café
+shop: Kaffee
 ---

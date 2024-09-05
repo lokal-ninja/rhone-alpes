@@ -1,5 +1,5 @@
 ---
 title: "Dérail Fleurs"
 url: /saint-chamond/derail-fleurs/
-shop: fleuriste
+shop: Blumen
 ---

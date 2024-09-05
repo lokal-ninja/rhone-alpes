@@ -1,5 +1,5 @@
 ---
 title: "Skimium"
 url: /val-disere/skimium-avenue-olympique/
-shop: sports
+shop: Sport
 ---

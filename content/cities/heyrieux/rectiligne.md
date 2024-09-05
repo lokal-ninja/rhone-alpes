@@ -1,5 +1,5 @@
 ---
 title: "Rectiligne"
 url: /heyrieux/rectiligne/
-shop: coiffeur
+shop: Friseur
 ---

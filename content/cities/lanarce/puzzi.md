@@ -1,5 +1,5 @@
 ---
 title: "Puzzi"
 url: /lanarce/puzzi/
-shop: boucherie
+shop: Metzgerei
 ---

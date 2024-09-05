@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /corenc/vival/
-shop: commodité
+shop: Lebensmittel
 ---

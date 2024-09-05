@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /craponne/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

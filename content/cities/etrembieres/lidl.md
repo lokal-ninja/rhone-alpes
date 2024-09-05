@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /etrembieres/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

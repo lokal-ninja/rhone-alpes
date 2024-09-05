@@ -1,5 +1,5 @@
 ---
 title: "Gentleman"
 url: /vienne/gentleman/
-shop: vêtements
+shop: Kleidung
 ---

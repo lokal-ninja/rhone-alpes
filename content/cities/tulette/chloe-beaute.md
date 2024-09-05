@@ -1,5 +1,5 @@
 ---
 title: "Chloé Beauté"
 url: /tulette/chloe-beaute/
-shop: beauté
+shop: Kosmetik
 ---

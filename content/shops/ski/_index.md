@@ -1,5 +1,5 @@
 ---
-title: ski
+title: Ski
 url: /ski/
 icon: other
 ---

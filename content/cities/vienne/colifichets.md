@@ -1,5 +1,5 @@
 ---
 title: "Colifichets"
 url: /vienne/colifichets/
-shop: sac
+shop: Taschen & Koffer
 ---

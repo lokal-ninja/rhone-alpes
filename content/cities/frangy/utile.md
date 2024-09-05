@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /frangy/utile/
-shop: commodité
+shop: Lebensmittel
 ---

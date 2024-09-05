@@ -1,5 +1,5 @@
 ---
 title: "KA'Shoes"
 url: /anse/kashoes/
-shop: chaussures
+shop: Schuhe
 ---

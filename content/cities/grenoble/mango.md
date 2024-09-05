@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /grenoble/mango/
-shop: vêtements
+shop: Kleidung
 ---

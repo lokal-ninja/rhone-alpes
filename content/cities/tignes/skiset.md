@@ -1,5 +1,5 @@
 ---
 title: "Skiset"
 url: /tignes/skiset/
-shop: sports
+shop: Sport
 ---

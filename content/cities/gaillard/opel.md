@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /gaillard/opel/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hairsuit"
 url: /margencel/hairsuit/
-shop: coiffeur
+shop: Friseur
 ---

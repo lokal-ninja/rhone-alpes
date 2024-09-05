@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /annecy/vival/
-shop: commodité
+shop: Lebensmittel
 ---

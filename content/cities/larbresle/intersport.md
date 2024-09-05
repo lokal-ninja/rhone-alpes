@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /larbresle/intersport/
-shop: sports
+shop: Sport
 ---

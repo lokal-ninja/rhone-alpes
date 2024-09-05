@@ -1,5 +1,5 @@
 ---
 title: "Évidemment."
 url: /vienne/evidemment/
-shop: vêtements
+shop: Kleidung
 ---

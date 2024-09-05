@@ -1,5 +1,5 @@
 ---
 title: "Carador"
 url: /annecy/carador/
-shop: bijoux
+shop: Schmuck
 ---

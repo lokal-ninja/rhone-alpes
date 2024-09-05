@@ -1,5 +1,5 @@
 ---
 title: "Milpau"
 url: /lyon/milpau/
-shop: vêtements
+shop: Kleidung
 ---

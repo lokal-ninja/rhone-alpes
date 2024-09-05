@@ -1,5 +1,5 @@
 ---
 title: "La Clé d'Or"
 url: /saint-chamond/la-cle-dor/
-shop: serrurier
+shop: Schlüsseldienst
 ---

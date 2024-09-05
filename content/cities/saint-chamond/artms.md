@@ -1,5 +1,5 @@
 ---
 title: "ART'ms"
 url: /saint-chamond/artms/
-shop: coiffeur
+shop: Friseur
 ---

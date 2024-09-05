@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /noiretable/intermarche-super/
-shop: supermarché
+shop: Supermarkt
 ---

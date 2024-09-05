@@ -1,5 +1,5 @@
 ---
 title: "HyperCacher"
 url: /lyon/hypercacher/
-shop: supermarché
+shop: Supermarkt
 ---

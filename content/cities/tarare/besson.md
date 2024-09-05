@@ -1,5 +1,5 @@
 ---
 title: "Besson"
 url: /tarare/besson/
-shop: pâtisserie
+shop: Konditorei
 ---

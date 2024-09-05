@@ -1,5 +1,5 @@
 ---
 title: "Ekosport"
 url: /frontenex/ekosport/
-shop: extérieur
+shop: Outdoor
 ---

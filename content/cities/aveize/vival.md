@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /aveize/vival/
-shop: commodité
+shop: Lebensmittel
 ---

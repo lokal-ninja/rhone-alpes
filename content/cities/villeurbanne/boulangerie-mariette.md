@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Mariette"
 url: /villeurbanne/boulangerie-mariette/
-shop: boulangerie
+shop: Bäckerei
 ---

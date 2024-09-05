@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /sallanches/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

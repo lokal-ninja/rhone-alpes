@@ -1,5 +1,5 @@
 ---
 title: "VOI"
 url: /meyrin/voi/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /feurs/optical-center/
-shop: opticien
+shop: Optiker
 ---

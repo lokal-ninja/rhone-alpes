@@ -1,5 +1,5 @@
 ---
 title: "L'Orchidée"
 url: /neuvecelle/lorchidee/
-shop: fleuriste
+shop: Blumen
 ---

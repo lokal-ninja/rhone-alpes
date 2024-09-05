@@ -1,5 +1,5 @@
 ---
 title: "Boucherie-charcuterie Anaya"
 url: /saint-maurice-de-beynost/boucherie-charcuterie-anaya/
-shop: boucherie
+shop: Metzgerei
 ---

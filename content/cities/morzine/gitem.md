@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /morzine/gitem/
-shop: électronique
+shop: Elektronik
 ---

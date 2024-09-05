@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /vienne/orange/
-shop: téléphone portable
+shop: Handy
 ---

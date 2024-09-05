@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /echirolles/gifi/
-shop: magasin de variétés
+shop: Kramladen
 ---

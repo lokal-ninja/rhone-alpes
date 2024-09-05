@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saint-chamond/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

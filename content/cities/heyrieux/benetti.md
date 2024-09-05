@@ -1,5 +1,5 @@
 ---
 title: "Benetti"
 url: /heyrieux/benetti/
-shop: bijoux
+shop: Schmuck
 ---

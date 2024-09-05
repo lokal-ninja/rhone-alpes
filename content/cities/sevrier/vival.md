@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /sevrier/vival/
-shop: commodité
+shop: Lebensmittel
 ---

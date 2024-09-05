@@ -1,5 +1,5 @@
 ---
 title: "Stilbag"
 url: /annecy/stilbag/
-shop: sac
+shop: Taschen & Koffer
 ---

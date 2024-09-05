@@ -1,5 +1,5 @@
 ---
 title: "Le Fruitier"
 url: /grenoble/le-fruitier/
-shop: légumes
+shop: Gemüse & Obst
 ---

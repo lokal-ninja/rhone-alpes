@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /thyez/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

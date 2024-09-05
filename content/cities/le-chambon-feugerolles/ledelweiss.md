@@ -1,5 +1,5 @@
 ---
 title: "L'Edelweiss"
 url: /le-chambon-feugerolles/ledelweiss/
-shop: fleuriste
+shop: Blumen
 ---
