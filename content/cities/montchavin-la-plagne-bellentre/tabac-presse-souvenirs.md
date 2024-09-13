@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Souvenirs"
 url: /montchavin-la-plagne-bellentre/tabac-presse-souvenirs/
-shop: Zeitungen
+shop: marchand de journaux
 ---

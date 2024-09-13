@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse Tabac"
 url: /givors/mag-presse-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

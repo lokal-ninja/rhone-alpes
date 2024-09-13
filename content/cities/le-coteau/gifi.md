@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /le-coteau/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

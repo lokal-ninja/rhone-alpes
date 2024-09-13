@@ -1,5 +1,5 @@
 ---
 title: "Skimium"
 url: /tignes/skimium/
-shop: Sport
+shop: sports
 ---

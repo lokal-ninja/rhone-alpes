@@ -1,5 +1,5 @@
 ---
 title: "Lalliard"
 url: /anthy-sur-leman/lalliard/
-shop: Baumarkt
+shop: à faire soi-même
 ---

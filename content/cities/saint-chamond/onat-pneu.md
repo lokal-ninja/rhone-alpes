@@ -1,5 +1,5 @@
 ---
 title: "Onat Pneu"
 url: /saint-chamond/onat-pneu/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

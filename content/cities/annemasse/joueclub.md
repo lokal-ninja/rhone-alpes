@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /annemasse/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

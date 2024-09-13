@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /gaillard/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

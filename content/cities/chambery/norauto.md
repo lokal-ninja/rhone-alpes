@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /chambery/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

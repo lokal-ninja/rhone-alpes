@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /margencel/skoda/
-shop: Autohaus
+shop: voiture
 ---

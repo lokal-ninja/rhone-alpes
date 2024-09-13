@@ -1,5 +1,5 @@
 ---
 title: "Bieronomy"
 url: /annecy/bieronomy/
-shop: Spirituosen
+shop: alcool
 ---

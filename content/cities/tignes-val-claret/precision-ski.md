@@ -1,5 +1,5 @@
 ---
 title: "Precision Ski"
 url: /tignes-val-claret/precision-ski/
-shop: Sport
+shop: sports
 ---

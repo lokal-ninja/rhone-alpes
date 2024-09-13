@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /etrembieres/promod/
-shop: Kleidung
+shop: vêtements
 ---

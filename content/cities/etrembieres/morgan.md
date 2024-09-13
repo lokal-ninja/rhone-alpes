@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /etrembieres/morgan/
-shop: Kleidung
+shop: vêtements
 ---

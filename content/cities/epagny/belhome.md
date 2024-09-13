@@ -1,5 +1,5 @@
 ---
 title: "Belhome"
 url: /epagny/belhome/
-shop: Möbel
+shop: meubles
 ---

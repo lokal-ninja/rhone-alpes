@@ -1,5 +1,5 @@
 ---
 title: "À Fond Gaston"
 url: /villeurbanne/a-fond-gaston/
-shop: Fahrrad
+shop: vélo
 ---

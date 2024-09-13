@@ -1,5 +1,5 @@
 ---
 title: "Orenzo"
 url: /tarare/orenzo/
-shop: Leerstehend
+shop: vacant
 ---

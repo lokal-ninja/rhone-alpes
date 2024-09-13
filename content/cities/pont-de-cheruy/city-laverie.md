@@ -1,5 +1,5 @@
 ---
 title: "City Laverie"
 url: /pont-de-cheruy/city-laverie/
-shop: Wäscherei
+shop: blanchisserie
 ---

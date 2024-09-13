@@ -1,5 +1,5 @@
 ---
 title: "Durand Services"
 url: /annemasse/durand-services/
-shop: Autoteile
+shop: pièces de voitures
 ---

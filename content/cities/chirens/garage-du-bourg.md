@@ -1,5 +1,5 @@
 ---
 title: "Garage du Bourg"
 url: /chirens/garage-du-bourg/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

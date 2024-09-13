@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /andrezieux-boutheon/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

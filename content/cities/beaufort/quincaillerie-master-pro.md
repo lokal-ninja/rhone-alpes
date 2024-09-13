@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Master Pro"
 url: /beaufort/quincaillerie-master-pro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

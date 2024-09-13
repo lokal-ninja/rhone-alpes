@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Bondaz"
 url: /perrignier/boucherie-bondaz/
-shop: Metzgerei
+shop: boucherie
 ---

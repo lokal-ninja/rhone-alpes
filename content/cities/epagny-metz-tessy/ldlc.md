@@ -1,5 +1,5 @@
 ---
-title: "Ldlc"
+title: "LDLC"
 url: /epagny-metz-tessy/ldlc/
-shop: Computer
+shop: ordinateur
 ---

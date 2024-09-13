@@ -1,5 +1,5 @@
 ---
 title: "One Step"
 url: /annecy/one-step/
-shop: Kleidung
+shop: vêtements
 ---

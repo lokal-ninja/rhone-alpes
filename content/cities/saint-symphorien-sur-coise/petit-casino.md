@@ -1,5 +1,5 @@
 ---
 title: "Petit Casino"
 url: /saint-symphorien-sur-coise/petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

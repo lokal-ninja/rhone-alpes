@@ -1,5 +1,5 @@
 ---
 title: "AC Auto"
 url: /toussieu/ac-auto/
-shop: Autohaus
+shop: voiture
 ---

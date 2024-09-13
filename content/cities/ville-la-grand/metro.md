@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /ville-la-grand/metro/
-shop: Großhandel
+shop: vente en gros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /annecy/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

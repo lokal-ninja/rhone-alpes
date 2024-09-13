@@ -1,5 +1,5 @@
 ---
 title: "Satoriz"
 url: /sallanches/satoriz/
-shop: Supermarkt
+shop: supermarché
 ---

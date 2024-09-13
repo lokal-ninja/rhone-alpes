@@ -1,5 +1,5 @@
 ---
 title: "Foot Korner"
 url: /annemasse/foot-korner/
-shop: Kleidung
+shop: vêtements
 ---

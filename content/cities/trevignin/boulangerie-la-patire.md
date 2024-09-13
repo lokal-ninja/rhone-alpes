@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie la Patire"
 url: /trevignin/boulangerie-la-patire/
-shop: Bäckerei
+shop: boulangerie
 ---

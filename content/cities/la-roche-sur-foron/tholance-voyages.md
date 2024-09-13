@@ -1,5 +1,5 @@
 ---
 title: "Tholance Voyages"
 url: /la-roche-sur-foron/tholance-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

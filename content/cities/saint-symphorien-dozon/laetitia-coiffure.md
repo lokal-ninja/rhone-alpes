@@ -1,5 +1,5 @@
 ---
 title: "Laetitia Coiffure"
 url: /saint-symphorien-dozon/laetitia-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

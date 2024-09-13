@@ -1,5 +1,5 @@
 ---
 title: "Figaro Chien"
 url: /vienne/figaro-chien/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

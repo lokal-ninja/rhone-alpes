@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /le-grand-bornand/spar/
-shop: Supermarkt
+shop: supermarché
 ---

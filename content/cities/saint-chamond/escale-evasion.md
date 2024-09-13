@@ -1,5 +1,5 @@
 ---
 title: "Escale Evasion"
 url: /saint-chamond/escale-evasion/
-shop: Kosmetik
+shop: beauté
 ---

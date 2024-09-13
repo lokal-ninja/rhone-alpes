@@ -1,5 +1,5 @@
 ---
 title: "L'Amylois"
 url: /meylan/lamylois/
-shop: Bäckerei
+shop: boulangerie
 ---

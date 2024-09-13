@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /rive-de-gier/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

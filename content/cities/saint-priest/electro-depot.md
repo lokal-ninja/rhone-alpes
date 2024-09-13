@@ -1,5 +1,5 @@
 ---
 title: "Electro Depot"
 url: /saint-priest/electro-depot/
-shop: Hifi
+shop: hifi
 ---

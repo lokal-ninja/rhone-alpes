@@ -1,5 +1,5 @@
 ---
 title: "Point Retouche"
 url: /grenoble/point-retouche/
-shop: Textil
+shop: tissu
 ---

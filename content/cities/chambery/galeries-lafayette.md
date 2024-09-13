@@ -1,5 +1,5 @@
 ---
 title: "Galeries Lafayette"
 url: /chambery/galeries-lafayette/
-shop: Warenhaus
+shop: grand magasin
 ---

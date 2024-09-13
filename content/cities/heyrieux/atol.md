@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /heyrieux/atol/
-shop: Optiker
+shop: opticien
 ---

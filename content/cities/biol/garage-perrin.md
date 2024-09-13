@@ -1,5 +1,5 @@
 ---
 title: "Garage Perrin"
 url: /biol/garage-perrin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

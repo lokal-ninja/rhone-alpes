@@ -1,5 +1,5 @@
 ---
 title: "SpiruPhile"
 url: /aveize/spiruphile/
-shop: Landwirtschaftlich
+shop: agraire
 ---

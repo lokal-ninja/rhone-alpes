@@ -1,5 +1,5 @@
 ---
 title: "Busato"
 url: /fillinges/busato/
-shop: Motorrad
+shop: moto
 ---

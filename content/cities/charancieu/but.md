@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /charancieu/but/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance Beauté"
 url: /saint-chamond/tendance-beaute/
-shop: Kosmetik
+shop: beauté
 ---

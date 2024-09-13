@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse"
 url: /grenoble/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

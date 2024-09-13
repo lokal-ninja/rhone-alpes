@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /davezieux/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mistigriff"
 url: /annemasse/mistigriff/
-shop: Kleidung
+shop: vêtements
 ---

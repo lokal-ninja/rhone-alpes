@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /morzine/intersport-promenade-du-festival/
-shop: Sport
+shop: sports
 ---

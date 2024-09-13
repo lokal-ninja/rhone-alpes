@@ -1,5 +1,5 @@
 ---
 title: "Anim'jardin"
 url: /valencin/animjardin/
-shop: Garten-Center
+shop: centre de jardinage
 ---

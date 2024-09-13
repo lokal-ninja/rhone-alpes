@@ -1,5 +1,5 @@
 ---
 title: "Chloré Beauté"
 url: /saint-chamond/chlore-beaute/
-shop: Kosmetik
+shop: beauté
 ---

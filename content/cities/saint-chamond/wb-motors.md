@@ -1,5 +1,5 @@
 ---
 title: "WB Motors"
 url: /saint-chamond/wb-motors/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

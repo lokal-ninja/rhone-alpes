@@ -1,5 +1,5 @@
 ---
 title: "Merolla Louis"
 url: /villeurbanne/merolla-louis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

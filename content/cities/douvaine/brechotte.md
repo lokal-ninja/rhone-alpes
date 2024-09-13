@@ -1,5 +1,5 @@
 ---
 title: "Brechotte"
 url: /douvaine/brechotte/
-shop: Optiker
+shop: opticien
 ---

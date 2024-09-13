@@ -1,5 +1,5 @@
 ---
 title: "Boucherie-Charcuterie"
 url: /fourneaux/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

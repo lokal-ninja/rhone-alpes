@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /macon/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

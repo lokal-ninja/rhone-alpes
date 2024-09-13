@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /seyssins/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

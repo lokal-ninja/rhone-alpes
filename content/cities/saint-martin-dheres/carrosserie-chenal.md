@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Chenal"
 url: /saint-martin-dheres/carrosserie-chenal/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

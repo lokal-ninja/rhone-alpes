@@ -1,5 +1,5 @@
 ---
 title: "French Flair"
 url: /barberaz/french-flair/
-shop: Sport
+shop: sports
 ---

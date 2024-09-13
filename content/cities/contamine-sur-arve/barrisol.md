@@ -1,5 +1,5 @@
 ---
 title: "Barrisol"
 url: /contamine-sur-arve/barrisol/
-shop: Baumarkt
+shop: à faire soi-même
 ---

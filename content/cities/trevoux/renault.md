@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /trevoux/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

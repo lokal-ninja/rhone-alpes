@@ -1,5 +1,5 @@
 ---
 title: "Léman Déménagements"
 url: /bons-en-chablais/leman-demenagements/
-shop: Mieten
+shop: location de stockage
 ---

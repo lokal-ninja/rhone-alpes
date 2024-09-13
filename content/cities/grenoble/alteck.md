@@ -1,5 +1,5 @@
 ---
 title: "Alteck"
 url: /grenoble/alteck/
-shop: Computer
+shop: ordinateur
 ---

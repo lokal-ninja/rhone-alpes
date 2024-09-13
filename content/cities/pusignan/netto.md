@@ -1,5 +1,5 @@
 ---
 title: "Netto"
 url: /pusignan/netto/
-shop: Supermarkt
+shop: supermarché
 ---

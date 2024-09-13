@@ -1,5 +1,5 @@
 ---
 title: "Molotow"
 url: /annemasse/molotow/
-shop: Farben
+shop: peinture
 ---

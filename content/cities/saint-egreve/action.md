@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-egreve/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

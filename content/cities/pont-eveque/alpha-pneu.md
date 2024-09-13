@@ -1,5 +1,5 @@
 ---
 title: "Alpha pneu"
 url: /pont-eveque/alpha-pneu/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

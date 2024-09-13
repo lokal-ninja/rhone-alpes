@@ -1,5 +1,5 @@
 ---
 title: "Epicuria"
 url: /monbonnot-saint-martin/epicuria/
-shop: Bäckerei
+shop: boulangerie
 ---

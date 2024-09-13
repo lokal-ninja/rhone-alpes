@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /gex/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

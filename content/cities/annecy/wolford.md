@@ -1,5 +1,5 @@
 ---
 title: "Wolford"
 url: /annecy/wolford/
-shop: Kleidung
+shop: vêtements
 ---

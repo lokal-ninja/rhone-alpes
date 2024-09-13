@@ -1,5 +1,5 @@
 ---
 title: "Maison Manival"
 url: /grenoble/maison-manival/
-shop: Bäckerei
+shop: boulangerie
 ---

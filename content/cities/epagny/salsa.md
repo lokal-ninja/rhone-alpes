@@ -1,5 +1,5 @@
 ---
 title: "Salsa"
 url: /epagny/salsa/
-shop: Kleidung
+shop: vêtements
 ---

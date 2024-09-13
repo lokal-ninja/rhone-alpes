@@ -1,5 +1,5 @@
 ---
 title: "Foussier Chambéry"
 url: /chambery/foussier-chambery/
-shop: Eisenwaren
+shop: matériel informatique
 ---

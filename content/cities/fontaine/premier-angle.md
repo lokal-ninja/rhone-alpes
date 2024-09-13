@@ -1,5 +1,5 @@
 ---
 title: "Premier angle"
 url: /fontaine/premier-angle/
-shop: Zeitungen
+shop: marchand de journaux
 ---

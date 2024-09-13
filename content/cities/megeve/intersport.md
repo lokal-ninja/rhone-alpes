@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /megeve/intersport/
-shop: Sport
+shop: sports
 ---

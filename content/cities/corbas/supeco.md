@@ -1,5 +1,5 @@
 ---
 title: "Supeco"
 url: /corbas/supeco/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /annemasse/claires/
-shop: Modehaus
+shop: boutique
 ---

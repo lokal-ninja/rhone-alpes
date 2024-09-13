@@ -1,5 +1,5 @@
 ---
 title: "Transcarauto"
 url: /vetraz-monthoux/transcarauto/
-shop: Autohaus
+shop: voiture
 ---

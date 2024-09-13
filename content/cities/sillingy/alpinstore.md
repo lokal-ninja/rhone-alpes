@@ -1,5 +1,5 @@
 ---
 title: "Alpinstore"
 url: /sillingy/alpinstore/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cluses/spar-avenue-de-la-sardagne/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /givors/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "a tavola !"
 url: /annecy/a-tavola/
-shop: Feinkost
+shop: charcuterie
 ---

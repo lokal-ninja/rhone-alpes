@@ -1,5 +1,5 @@
 ---
 title: "La petite boutique"
 url: /crolles/la-petite-boutique/
-shop: Andenken
+shop: cadeau
 ---

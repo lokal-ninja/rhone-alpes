@@ -1,5 +1,5 @@
 ---
 title: "Le Coffee Press'"
 url: /aiguebelle/le-coffee-press/
-shop: Zeitungen
+shop: marchand de journaux
 ---

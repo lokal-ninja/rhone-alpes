@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /annemasse/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

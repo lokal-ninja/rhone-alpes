@@ -1,5 +1,5 @@
 ---
 title: "Audition Conseil"
 url: /vaulx-en-velin/audition-conseil/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ria Multi-services"
 url: /saint-etienne/ria-multi-services/
-shop: Lebensmittel
+shop: commodité
 ---

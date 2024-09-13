@@ -1,5 +1,5 @@
 ---
 title: "Pascale Peyramaure"
 url: /maclas/pascale-peyramaure/
-shop: Tabak
+shop: tabac
 ---

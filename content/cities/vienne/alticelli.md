@@ -1,5 +1,5 @@
 ---
 title: "Alticelli"
 url: /vienne/alticelli/
-shop: Instrumente
+shop: instrument de musique
 ---

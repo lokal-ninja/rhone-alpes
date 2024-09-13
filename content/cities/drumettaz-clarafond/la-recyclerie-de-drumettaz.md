@@ -1,5 +1,5 @@
 ---
 title: "La Recyclerie de Drumettaz"
 url: /drumettaz-clarafond/la-recyclerie-de-drumettaz/
-shop: Gebrauchtwaren
+shop: charité
 ---

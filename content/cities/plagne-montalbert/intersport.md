@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /plagne-montalbert/intersport/
-shop: Sport
+shop: sports
 ---

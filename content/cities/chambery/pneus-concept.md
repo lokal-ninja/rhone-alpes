@@ -1,5 +1,5 @@
 ---
 title: "Pneus Concept"
 url: /chambery/pneus-concept/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

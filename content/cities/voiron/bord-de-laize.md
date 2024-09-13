@@ -1,5 +1,5 @@
 ---
 title: "Bord de Laize"
 url: /voiron/bord-de-laize/
-shop: Textil
+shop: tissu
 ---

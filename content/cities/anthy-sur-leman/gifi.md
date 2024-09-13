@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /anthy-sur-leman/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /saint-romain-en-jarez/vival/
-shop: Lebensmittel
+shop: commodité
 ---

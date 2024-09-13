@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /margencel/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

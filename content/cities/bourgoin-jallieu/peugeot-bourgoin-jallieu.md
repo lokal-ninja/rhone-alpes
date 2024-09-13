@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Bourgoin Jallieu"
 url: /bourgoin-jallieu/peugeot-bourgoin-jallieu/
-shop: Autohaus
+shop: voiture
 ---

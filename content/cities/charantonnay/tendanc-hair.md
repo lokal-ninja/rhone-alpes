@@ -1,5 +1,5 @@
 ---
 title: "Tendanc' Hair"
 url: /charantonnay/tendanc-hair/
-shop: Friseur
+shop: coiffeur
 ---

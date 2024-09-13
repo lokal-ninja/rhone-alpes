@@ -1,5 +1,5 @@
 ---
 title: "Coffy's Homme"
 url: /saint-chamond/coffys-homme/
-shop: Kleidung
+shop: vêtements
 ---

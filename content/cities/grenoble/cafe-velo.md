@@ -1,5 +1,5 @@
 ---
 title: "Café Vélo"
 url: /grenoble/cafe-velo/
-shop: Fahrrad
+shop: vélo
 ---

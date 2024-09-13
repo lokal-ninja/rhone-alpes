@@ -1,5 +1,5 @@
 ---
 title: "AudioPros"
 url: /saint-symphorien-sur-coise/audiopros/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

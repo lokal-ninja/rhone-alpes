@@ -1,5 +1,5 @@
 ---
 title: "Frédéric Moreno"
 url: /la-cote-saint-andre/frederic-moreno/
-shop: Friseur
+shop: coiffeur
 ---

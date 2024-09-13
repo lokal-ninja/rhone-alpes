@@ -1,5 +1,5 @@
 ---
 title: "Azur Vacances"
 url: /saint-etienne/azur-vacances/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yggor"
 url: /saint-sauveur/yggor/
-shop: Fahrrad
+shop: vélo
 ---

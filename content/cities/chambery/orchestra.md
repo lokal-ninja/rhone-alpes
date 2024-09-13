@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /chambery/orchestra/
-shop: Babysachen
+shop: produits pour bébés
 ---

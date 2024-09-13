@@ -1,5 +1,5 @@
 ---
 title: "Alltricks"
 url: /annemasse/alltricks/
-shop: Fahrrad
+shop: vélo
 ---

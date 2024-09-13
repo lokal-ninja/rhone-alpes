@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /saint-julien-en-genevois/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

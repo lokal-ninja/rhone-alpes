@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /pierre-benite/grand-frais/
-shop: Supermarkt
+shop: supermarché
 ---

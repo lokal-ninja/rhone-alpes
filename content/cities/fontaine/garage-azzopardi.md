@@ -1,5 +1,5 @@
 ---
 title: "Garage Azzopardi"
 url: /fontaine/garage-azzopardi/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

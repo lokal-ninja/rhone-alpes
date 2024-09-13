@@ -1,5 +1,5 @@
 ---
 title: "Amazone"
 url: /sainte-foy-largentiere/amazone/
-shop: Friseur
+shop: coiffeur
 ---

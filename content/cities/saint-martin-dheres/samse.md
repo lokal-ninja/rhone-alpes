@@ -1,5 +1,5 @@
 ---
 title: "Samse"
 url: /saint-martin-dheres/samse/
-shop: Baumarkt
+shop: à faire soi-même
 ---

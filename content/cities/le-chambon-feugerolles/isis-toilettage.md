@@ -1,5 +1,5 @@
 ---
 title: "Isis Toilettage"
 url: /le-chambon-feugerolles/isis-toilettage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

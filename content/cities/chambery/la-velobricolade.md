@@ -1,5 +1,5 @@
 ---
 title: "La Vélobricolade"
 url: /chambery/la-velobricolade/
-shop: Fahrrad
+shop: vélo
 ---

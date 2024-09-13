@@ -1,5 +1,5 @@
 ---
 title: "Roady Saint-Julien-en-Genevois"
 url: /saint-julien-en-genevois/roady-saint-julien-en-genevois/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /chazelles-sur-lyon/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

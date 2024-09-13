@@ -1,5 +1,5 @@
 ---
 title: "Épicerie des Pierres Dorées"
 url: /charnay/epicerie-des-pierres-dorees/
-shop: Feinkost
+shop: charcuterie
 ---

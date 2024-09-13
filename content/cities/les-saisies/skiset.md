@@ -1,5 +1,5 @@
 ---
 title: "SkiSet"
 url: /les-saisies/skiset/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audiopros"
 url: /tarare/audiopros/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Veditex"
 url: /tarare/veditex/
-shop: Kleidung
+shop: vêtements
 ---

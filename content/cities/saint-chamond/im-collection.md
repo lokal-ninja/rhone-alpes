@@ -1,5 +1,5 @@
 ---
 title: "IM Collection"
 url: /saint-chamond/im-collection/
-shop: Kleidung
+shop: vêtements
 ---

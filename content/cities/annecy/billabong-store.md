@@ -1,5 +1,5 @@
 ---
 title: "Billabong Store"
 url: /annecy/billabong-store/
-shop: Kleidung
+shop: vêtements
 ---

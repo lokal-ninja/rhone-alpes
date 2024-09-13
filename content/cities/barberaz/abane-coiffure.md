@@ -1,5 +1,5 @@
 ---
 title: "Abane Coiffure"
 url: /barberaz/abane-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

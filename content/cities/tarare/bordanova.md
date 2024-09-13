@@ -1,5 +1,5 @@
 ---
 title: "Bordanova"
 url: /tarare/bordanova/
-shop: Badezimmer
+shop: salle de bains
 ---

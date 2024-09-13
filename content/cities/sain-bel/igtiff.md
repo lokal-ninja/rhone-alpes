@@ -1,5 +1,5 @@
 ---
 title: "IG'Tiff"
 url: /sain-bel/igtiff/
-shop: Friseur
+shop: coiffeur
 ---

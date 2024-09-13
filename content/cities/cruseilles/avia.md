@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /cruseilles/avia/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hifi Vaudaine"
 url: /grenoble/hifi-vaudaine/
-shop: Hifi
+shop: hifi
 ---

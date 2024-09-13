@@ -1,5 +1,5 @@
 ---
 title: "IdentiT"
 url: /saint-chamond/identit/
-shop: Friseur
+shop: coiffeur
 ---

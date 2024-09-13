@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /annemasse/decathlon/
-shop: Sport
+shop: sports
 ---

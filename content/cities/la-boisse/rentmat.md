@@ -1,5 +1,5 @@
 ---
 title: "Rentmat"
 url: /la-boisse/rentmat/
-shop: Werkzeuge
+shop: outils
 ---

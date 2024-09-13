@@ -1,5 +1,5 @@
 ---
 title: "Maison Rafa"
 url: /la-tronche/maison-rafa/
-shop: Metzgerei
+shop: boucherie
 ---

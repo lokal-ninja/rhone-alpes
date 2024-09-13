@@ -1,5 +1,5 @@
 ---
 title: "Air et Aventure"
 url: /lumbin/air-et-aventure/
-shop: Sport
+shop: sports
 ---

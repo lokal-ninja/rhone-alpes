@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /annecy/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

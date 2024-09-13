@@ -1,5 +1,5 @@
 ---
 title: "Organdi"
 url: /annecy/organdi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

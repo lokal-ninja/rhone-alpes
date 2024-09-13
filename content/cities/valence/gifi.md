@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /valence/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

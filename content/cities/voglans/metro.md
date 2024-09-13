@@ -1,5 +1,5 @@
 ---
 title: "METRO"
 url: /voglans/metro/
-shop: Großhandel
+shop: vente en gros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Steph"
 url: /le-chambon-feugerolles/latelier-de-steph/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Amis de l'homme"
 url: /le-chambon-feugerolles/les-amis-de-lhomme/
-shop: Tiere
+shop: animal de compagnie
 ---

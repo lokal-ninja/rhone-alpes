@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Italienne"
 url: /fontaine/boucherie-italienne/
-shop: Metzgerei
+shop: boucherie
 ---

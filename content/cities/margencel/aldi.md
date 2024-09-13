@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /margencel/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

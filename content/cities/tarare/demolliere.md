@@ -1,5 +1,5 @@
 ---
 title: "Demollière"
 url: /tarare/demolliere/
-shop: Konditorei
+shop: pâtisserie
 ---

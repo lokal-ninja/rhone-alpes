@@ -1,5 +1,5 @@
 ---
 title: "Alti Sports"
 url: /hauteluce/alti-sports/
-shop: Sport
+shop: sports
 ---

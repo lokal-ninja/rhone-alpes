@@ -1,5 +1,5 @@
 ---
 title: "Vedrine Peintures"
 url: /saint-chamond/vedrine-peintures/
-shop: Farben
+shop: peinture
 ---

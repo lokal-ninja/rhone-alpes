@@ -1,5 +1,5 @@
 ---
 title: "Aloé Coiffure"
 url: /lentilly/aloe-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

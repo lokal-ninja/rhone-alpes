@@ -1,5 +1,5 @@
 ---
 title: "Skoda"
 url: /meythet/skoda/
-shop: Autohaus
+shop: voiture
 ---

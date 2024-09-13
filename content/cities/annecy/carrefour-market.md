@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /annecy/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

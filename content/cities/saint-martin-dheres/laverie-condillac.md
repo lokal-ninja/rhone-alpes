@@ -1,5 +1,5 @@
 ---
 title: "Laverie Condillac"
 url: /saint-martin-dheres/laverie-condillac/
-shop: Wäscherei
+shop: blanchisserie
 ---

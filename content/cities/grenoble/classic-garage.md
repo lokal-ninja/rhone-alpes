@@ -1,5 +1,5 @@
 ---
 title: "Classic Garage"
 url: /grenoble/classic-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

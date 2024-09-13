@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres France Obsèques"
 url: /saint-chamond/pompes-funebres-france-obseques/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

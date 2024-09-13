@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /brignais/carrefour-contact/
-shop: Gasflaschen
+shop: gaz
 ---

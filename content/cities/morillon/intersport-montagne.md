@@ -1,5 +1,5 @@
 ---
 title: "Intersport Montagne"
 url: /morillon/intersport-montagne/
-shop: Outdoor
+shop: extérieur
 ---

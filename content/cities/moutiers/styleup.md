@@ -1,5 +1,5 @@
 ---
 title: "Style’Up"
 url: /moutiers/styleup/
-shop: Friseur
+shop: coiffeur
 ---

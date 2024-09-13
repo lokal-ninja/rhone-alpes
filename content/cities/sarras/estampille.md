@@ -1,5 +1,5 @@
 ---
 title: "Estampille"
 url: /sarras/estampille/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /saint-martin-dheres/feu-vert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

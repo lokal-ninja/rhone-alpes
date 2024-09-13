@@ -1,5 +1,5 @@
 ---
 title: "Noguera"
 url: /modane/noguera/
-shop: Bäckerei
+shop: boulangerie
 ---

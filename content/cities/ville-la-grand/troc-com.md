@@ -1,5 +1,5 @@
 ---
 title: "Troc.com"
 url: /ville-la-grand/troc-com/
-shop: Möbel
+shop: meubles
 ---

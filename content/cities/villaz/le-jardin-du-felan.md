@@ -1,5 +1,5 @@
 ---
 title: "Le jardin du Félan"
 url: /villaz/le-jardin-du-felan/
-shop: Hofladen
+shop: ferme
 ---

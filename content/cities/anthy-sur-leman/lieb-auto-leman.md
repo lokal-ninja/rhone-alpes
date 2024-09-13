@@ -1,5 +1,5 @@
 ---
 title: "Lieb Auto Léman"
 url: /anthy-sur-leman/lieb-auto-leman/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

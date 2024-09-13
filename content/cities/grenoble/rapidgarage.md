@@ -1,5 +1,5 @@
 ---
 title: "Rapid'Garage"
 url: /grenoble/rapidgarage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

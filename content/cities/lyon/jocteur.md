@@ -1,5 +1,5 @@
 ---
 title: "Jocteur"
 url: /lyon/jocteur/
-shop: Bäckerei
+shop: boulangerie
 ---

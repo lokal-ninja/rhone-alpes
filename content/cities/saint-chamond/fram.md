@@ -1,5 +1,5 @@
 ---
 title: "Fram"
 url: /saint-chamond/fram/
-shop: Reisebüro
+shop: agence de voyage
 ---

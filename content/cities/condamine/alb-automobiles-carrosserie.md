@@ -1,5 +1,5 @@
 ---
 title: "ALB Automobiles Carrosserie"
 url: /condamine/alb-automobiles-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

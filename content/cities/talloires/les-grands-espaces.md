@@ -1,5 +1,5 @@
 ---
 title: "Les Grands Espaces"
 url: /talloires/les-grands-espaces/
-shop: Allgemein
+shop: shop
 ---

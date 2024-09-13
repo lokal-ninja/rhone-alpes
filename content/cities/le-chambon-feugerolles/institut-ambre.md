@@ -1,5 +1,5 @@
 ---
 title: "Institut Ambre"
 url: /le-chambon-feugerolles/institut-ambre/
-shop: Kosmetik
+shop: beauté
 ---

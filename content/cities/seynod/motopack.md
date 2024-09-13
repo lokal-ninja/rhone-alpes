@@ -1,5 +1,5 @@
 ---
 title: "MotoPack"
 url: /seynod/motopack/
-shop: Motorrad
+shop: moto
 ---

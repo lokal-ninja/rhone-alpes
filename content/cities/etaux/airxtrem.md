@@ -1,5 +1,5 @@
 ---
 title: "AirXtrem"
 url: /etaux/airxtrem/
-shop: Sport
+shop: sports
 ---

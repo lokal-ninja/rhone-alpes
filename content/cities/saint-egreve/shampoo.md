@@ -1,5 +1,5 @@
 ---
 title: "Shampoo"
 url: /saint-egreve/shampoo/
-shop: Friseur
+shop: coiffeur
 ---

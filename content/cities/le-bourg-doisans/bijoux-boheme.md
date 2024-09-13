@@ -1,5 +1,5 @@
 ---
 title: "Bijoux Bohême"
 url: /le-bourg-doisans/bijoux-boheme/
-shop: Schmuck
+shop: bijoux
 ---

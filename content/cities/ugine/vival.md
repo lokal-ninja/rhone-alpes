@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /ugine/vival/
-shop: Lebensmittel
+shop: commodité
 ---

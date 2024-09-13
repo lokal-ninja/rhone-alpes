@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /chanaz/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

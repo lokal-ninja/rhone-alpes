@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /saint-etienne/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karactère"
 url: /bourg-en-bresse/karactere/
-shop: Friseur
+shop: coiffeur
 ---

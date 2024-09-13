@@ -1,5 +1,5 @@
 ---
 title: "Bazarland"
 url: /pontcharra/bazarland/
-shop: Kramladen
+shop: magasin de variétés
 ---

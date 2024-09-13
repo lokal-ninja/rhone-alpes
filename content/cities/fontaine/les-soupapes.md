@@ -1,5 +1,5 @@
 ---
 title: "Les soupapes"
 url: /fontaine/les-soupapes/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

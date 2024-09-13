@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /meximieux/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Chappaz"
 url: /annemasse/boucherie-chappaz/
-shop: Metzgerei
+shop: boucherie
 ---

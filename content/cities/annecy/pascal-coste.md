@@ -1,5 +1,5 @@
 ---
 title: "Pascal Coste"
 url: /annecy/pascal-coste/
-shop: Friseur
+shop: coiffeur
 ---

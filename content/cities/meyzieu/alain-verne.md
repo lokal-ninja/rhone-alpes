@@ -1,5 +1,5 @@
 ---
 title: "Alain Verne"
 url: /meyzieu/alain-verne/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

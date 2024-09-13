@@ -1,5 +1,5 @@
 ---
 title: "Bureau de tabac"
 url: /tulette/bureau-de-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

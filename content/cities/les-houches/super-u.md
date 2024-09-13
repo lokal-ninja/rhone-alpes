@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /les-houches/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

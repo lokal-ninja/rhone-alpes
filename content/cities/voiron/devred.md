@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /voiron/devred/
-shop: Kleidung
+shop: vêtements
 ---

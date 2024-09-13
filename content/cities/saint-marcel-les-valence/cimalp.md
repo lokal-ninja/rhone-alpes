@@ -1,5 +1,5 @@
 ---
 title: "Cimalp"
 url: /saint-marcel-les-valence/cimalp/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /etrembieres/giant/
-shop: Fahrrad
+shop: vélo
 ---

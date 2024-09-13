@@ -1,5 +1,5 @@
 ---
 title: "Garage Lardo"
 url: /saint-georges-desperanche/garage-lardo/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

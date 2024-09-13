@@ -1,5 +1,5 @@
 ---
 title: "Ordinatop"
 url: /genay/ordinatop/
-shop: Computer
+shop: ordinateur
 ---

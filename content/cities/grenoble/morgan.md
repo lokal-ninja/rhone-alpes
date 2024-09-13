@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /grenoble/morgan/
-shop: Kleidung
+shop: vêtements
 ---

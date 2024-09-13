@@ -1,5 +1,5 @@
 ---
 title: "Sobry Auto Sport"
 url: /valaurie/sobry-auto-sport/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

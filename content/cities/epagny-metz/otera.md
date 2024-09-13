@@ -1,5 +1,5 @@
 ---
 title: "Otera"
 url: /epagny-metz/otera/
-shop: Hofladen
+shop: ferme
 ---

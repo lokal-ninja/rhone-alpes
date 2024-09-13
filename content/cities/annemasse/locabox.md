@@ -1,5 +1,5 @@
 ---
 title: "Locabox"
 url: /annemasse/locabox/
-shop: Mieten
+shop: location de stockage
 ---

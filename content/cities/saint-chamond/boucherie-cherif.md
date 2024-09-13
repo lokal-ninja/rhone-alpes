@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Chérif"
 url: /saint-chamond/boucherie-cherif/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /etrembieres/courir/
-shop: Schuhe
+shop: chaussures
 ---

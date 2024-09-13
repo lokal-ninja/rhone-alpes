@@ -1,5 +1,5 @@
 ---
 title: "Devred"
 url: /chambery/devred/
-shop: Kleidung
+shop: vêtements
 ---

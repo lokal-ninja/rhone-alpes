@@ -1,5 +1,5 @@
 ---
 title: "Ferme du May"
 url: /vourey/ferme-du-may/
-shop: Hofladen
+shop: ferme
 ---

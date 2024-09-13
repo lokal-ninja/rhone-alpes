@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /anthy-sur-leman/maxi-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

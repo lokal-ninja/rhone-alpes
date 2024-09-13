@@ -1,5 +1,5 @@
 ---
 title: "Lynx Optique"
 url: /saint-martin-dheres/lynx-optique/
-shop: Optiker
+shop: opticien
 ---

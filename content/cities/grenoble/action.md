@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /grenoble/action/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

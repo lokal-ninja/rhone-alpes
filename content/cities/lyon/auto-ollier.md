@@ -1,5 +1,5 @@
 ---
 title: "Auto Ollier"
 url: /lyon/auto-ollier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

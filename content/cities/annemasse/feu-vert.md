@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /annemasse/feu-vert/
-shop: Autoteile
+shop: réparation de voitures
 ---

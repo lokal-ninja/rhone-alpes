@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-peray/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

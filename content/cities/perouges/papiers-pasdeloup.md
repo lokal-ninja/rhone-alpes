@@ -1,5 +1,5 @@
 ---
 title: "Papiers Pasdeloup"
 url: /perouges/papiers-pasdeloup/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

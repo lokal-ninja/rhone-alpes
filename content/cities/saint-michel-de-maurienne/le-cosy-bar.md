@@ -1,5 +1,5 @@
 ---
 title: "Le Cosy Bar"
 url: /saint-michel-de-maurienne/le-cosy-bar/
-shop: Kramladen
+shop: magasin de variétés
 ---

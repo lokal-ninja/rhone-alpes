@@ -1,5 +1,5 @@
 ---
 title: "Univairmer"
 url: /grenoble/univairmer/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison Floran"
 url: /saint-ismier/maison-floran/
-shop: Bäckerei
+shop: boulangerie
 ---

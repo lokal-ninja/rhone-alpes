@@ -1,5 +1,5 @@
 ---
 title: "Forfaits"
 url: /mieussy/forfaits/
-shop: Tickets
+shop: billet
 ---

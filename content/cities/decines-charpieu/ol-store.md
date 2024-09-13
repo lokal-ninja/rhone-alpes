@@ -1,5 +1,5 @@
 ---
 title: "OL Store"
 url: /decines-charpieu/ol-store/
-shop: Sport
+shop: sports
 ---

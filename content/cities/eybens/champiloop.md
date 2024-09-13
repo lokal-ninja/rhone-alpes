@@ -1,5 +1,5 @@
 ---
 title: "Champiloop"
 url: /eybens/champiloop/
-shop: Allgemein
+shop: shop
 ---

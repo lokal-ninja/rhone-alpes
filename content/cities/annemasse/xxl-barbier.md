@@ -1,5 +1,5 @@
 ---
 title: "XXL Barbier"
 url: /annemasse/xxl-barbier/
-shop: Friseur
+shop: coiffeur
 ---

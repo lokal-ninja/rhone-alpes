@@ -1,5 +1,5 @@
 ---
 title: "Le comptoir d'Aphrodite"
 url: /tarare/le-comptoir-daphrodite/
-shop: Kosmetik
+shop: beauté
 ---

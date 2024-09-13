@@ -1,5 +1,5 @@
 ---
 title: "Entraide - Solidarité"
 url: /samoens/entraide-solidarite/
-shop: Gebrauchtwaren
+shop: charité
 ---

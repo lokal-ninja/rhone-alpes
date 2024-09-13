@@ -1,5 +1,5 @@
 ---
 title: "Balmat Sport"
 url: /les-houches/balmat-sport/
-shop: Sport
+shop: sports
 ---

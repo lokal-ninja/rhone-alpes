@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /villefranche-sur-saone/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

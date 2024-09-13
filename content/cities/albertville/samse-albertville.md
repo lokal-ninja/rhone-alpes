@@ -1,5 +1,5 @@
 ---
-title: "Samse Albertville"
+title: "SAMSE Albertville"
 url: /albertville/samse-albertville/
-shop: Eisenwaren
+shop: matériel informatique
 ---

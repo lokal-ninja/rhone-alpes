@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /alby-sur-cheran/vival/
-shop: Lebensmittel
+shop: commodité
 ---

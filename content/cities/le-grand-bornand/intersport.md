@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /le-grand-bornand/intersport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoBernard"
 url: /eybens/autobernard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

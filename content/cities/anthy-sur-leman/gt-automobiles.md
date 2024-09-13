@@ -1,5 +1,5 @@
 ---
 title: "GT Automobiles"
 url: /anthy-sur-leman/gt-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

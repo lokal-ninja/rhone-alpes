@@ -1,5 +1,5 @@
 ---
 title: "Le Chardon Doré"
 url: /grenoble/le-chardon-dore/
-shop: Konditorei
+shop: pâtisserie
 ---

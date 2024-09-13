@@ -1,5 +1,5 @@
 ---
 title: "Maroquinerie Jordan"
 url: /annemasse/maroquinerie-jordan/
-shop: Leder
+shop: cuir
 ---

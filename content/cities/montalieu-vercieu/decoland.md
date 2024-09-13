@@ -1,5 +1,5 @@
 ---
 title: "Décoland"
 url: /montalieu-vercieu/decoland/
-shop: Baumarkt
+shop: à faire soi-même
 ---

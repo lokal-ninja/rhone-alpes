@@ -1,5 +1,5 @@
 ---
 title: "Darvey"
 url: /lescheraines/darvey/
-shop: Baumarkt
+shop: à faire soi-même
 ---

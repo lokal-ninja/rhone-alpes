@@ -1,5 +1,5 @@
 ---
 title: "Le Gourmand"
 url: /vienne/le-gourmand/
-shop: Feinkost
+shop: charcuterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BigMat"
 url: /saint-symphorien-sur-coise/bigmat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

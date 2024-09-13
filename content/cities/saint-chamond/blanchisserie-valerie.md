@@ -1,5 +1,5 @@
 ---
 title: "Blanchisserie Valérie"
 url: /saint-chamond/blanchisserie-valerie/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Poyard (Eurorepar)"
 url: /pomeys/garage-poyard-eurorepar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

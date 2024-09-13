@@ -1,5 +1,5 @@
 ---
 title: "Cookies Enfant"
 url: /grenoble/cookies-enfant/
-shop: Babysachen
+shop: produits pour bébés
 ---

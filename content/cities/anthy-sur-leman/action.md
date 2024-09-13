@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /anthy-sur-leman/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

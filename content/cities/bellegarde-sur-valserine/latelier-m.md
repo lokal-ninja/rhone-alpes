@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier M."
 url: /bellegarde-sur-valserine/latelier-m/
-shop: Friseur
+shop: coiffeur
 ---

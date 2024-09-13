@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /perreux/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

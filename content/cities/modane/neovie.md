@@ -1,5 +1,5 @@
 ---
 title: "NéoVie"
 url: /modane/neovie/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

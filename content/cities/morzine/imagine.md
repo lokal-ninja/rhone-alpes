@@ -1,5 +1,5 @@
 ---
 title: "Imagine"
 url: /morzine/imagine/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alliance Coiffure"
 url: /valserhone/alliance-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

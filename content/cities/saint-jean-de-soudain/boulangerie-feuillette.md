@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Feuillette"
 url: /saint-jean-de-soudain/boulangerie-feuillette/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Illuzion coiffure"
 url: /villerest/illuzion-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

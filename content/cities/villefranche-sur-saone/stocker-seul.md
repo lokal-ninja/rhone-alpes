@@ -1,5 +1,5 @@
 ---
 title: "Stocker Seul"
 url: /villefranche-sur-saone/stocker-seul/
-shop: Mieten
+shop: location de stockage
 ---

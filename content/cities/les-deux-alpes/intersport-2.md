@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /les-deux-alpes/intersport-2/
-shop: Sport
+shop: sports
 ---

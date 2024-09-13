@@ -1,5 +1,5 @@
 ---
 title: "Cycles Di Lullo"
 url: /bellignat/cycles-di-lullo/
-shop: Fahrrad
+shop: vélo
 ---

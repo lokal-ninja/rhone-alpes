@@ -1,5 +1,5 @@
 ---
 title: "First Stop"
 url: /etrembieres/first-stop/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

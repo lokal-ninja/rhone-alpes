@@ -1,5 +1,5 @@
 ---
 title: "Pralus"
 url: /roanne/pralus/
-shop: Schokolade
+shop: chocolat
 ---

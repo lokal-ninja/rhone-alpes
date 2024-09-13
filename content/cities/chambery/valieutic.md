@@ -1,5 +1,5 @@
 ---
 title: "Valieutic"
 url: /chambery/valieutic/
-shop: Angeln
+shop: pêche
 ---

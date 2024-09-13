@@ -1,5 +1,5 @@
 ---
 title: "Sonepar Connect"
 url: /saint-jean-de-maurienne/sonepar-connect/
-shop: Elektrisch
+shop: électrique
 ---

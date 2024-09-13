@@ -1,5 +1,5 @@
 ---
 title: "Cycles Bentoline"
 url: /crolles/cycles-bentoline/
-shop: Fahrrad
+shop: vélo
 ---

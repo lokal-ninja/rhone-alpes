@@ -1,5 +1,5 @@
 ---
-title: "Yesss Electrique"
+title: "Yesss Électrique"
 url: /annemasse/yesss-electrique/
-shop: Elektrisch
+shop: électrique
 ---

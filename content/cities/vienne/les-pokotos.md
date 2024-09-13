@@ -1,5 +1,5 @@
 ---
 title: "Les Pokotos"
 url: /vienne/les-pokotos/
-shop: Allgemein
+shop: shop
 ---

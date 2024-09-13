@@ -1,5 +1,5 @@
 ---
 title: "Bd Fugue Café"
 url: /annecy/bd-fugue-cafe/
-shop: Bücher
+shop: livres
 ---

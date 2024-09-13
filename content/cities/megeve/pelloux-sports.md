@@ -1,5 +1,5 @@
 ---
 title: "Pelloux Sports"
 url: /megeve/pelloux-sports/
-shop: Sport
+shop: sports
 ---

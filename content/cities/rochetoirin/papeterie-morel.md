@@ -1,5 +1,5 @@
 ---
 title: "papeterie morel"
 url: /rochetoirin/papeterie-morel/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

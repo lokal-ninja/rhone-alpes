@@ -1,5 +1,5 @@
 ---
 title: "La Centrale Jardinerie"
 url: /grenoble/la-centrale-jardinerie/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Lullinois"
 url: /lullin/tabac-presse-lullinois/
-shop: Tabak
+shop: tabac
 ---

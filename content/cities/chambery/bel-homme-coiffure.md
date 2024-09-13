@@ -1,5 +1,5 @@
 ---
 title: "Bel homme coiffure"
 url: /chambery/bel-homme-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

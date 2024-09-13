@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /larbresle/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

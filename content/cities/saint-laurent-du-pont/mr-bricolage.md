@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /saint-laurent-du-pont/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

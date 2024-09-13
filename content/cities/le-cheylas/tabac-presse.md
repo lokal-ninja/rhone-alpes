@@ -1,5 +1,5 @@
 ---
 title: "Tabac - Presse"
 url: /le-cheylas/tabac-presse/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bertet Musique"
 url: /gieres/bertet-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laverie Automatique Speed Queen"
 url: /lyon/laverie-automatique-speed-queen/
-shop: Wäscherei
+shop: blanchisserie
 ---

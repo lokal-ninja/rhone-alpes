@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /vienne/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

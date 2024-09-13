@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Couto"
 url: /saint-martin-dheres/boulangerie-couto/
-shop: Bäckerei
+shop: boulangerie
 ---

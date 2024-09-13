@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie du Noyer"
 url: /annemasse/fromagerie-du-noyer/
-shop: Käse
+shop: fromage
 ---

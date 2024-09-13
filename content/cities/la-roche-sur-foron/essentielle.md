@@ -1,5 +1,5 @@
 ---
 title: "EsSenti'Elle"
 url: /la-roche-sur-foron/essentielle/
-shop: Kosmetik
+shop: beauté
 ---

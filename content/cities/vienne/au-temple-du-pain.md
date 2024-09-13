@@ -1,5 +1,5 @@
 ---
 title: "Au Temple du Pain"
 url: /vienne/au-temple-du-pain/
-shop: Bäckerei
+shop: boulangerie
 ---

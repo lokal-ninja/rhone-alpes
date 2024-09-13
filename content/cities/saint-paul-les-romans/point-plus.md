@@ -1,5 +1,5 @@
 ---
 title: "Point Plus"
 url: /saint-paul-les-romans/point-plus/
-shop: Dorfladen
+shop: magasin de campagne
 ---

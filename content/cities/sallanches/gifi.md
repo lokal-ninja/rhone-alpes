@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /sallanches/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

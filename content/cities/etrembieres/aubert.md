@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /etrembieres/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

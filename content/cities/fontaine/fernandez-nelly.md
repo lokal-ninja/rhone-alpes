@@ -1,5 +1,5 @@
 ---
 title: "Fernandez Nelly"
 url: /fontaine/fernandez-nelly/
-shop: Zeitungen
+shop: marchand de journaux
 ---

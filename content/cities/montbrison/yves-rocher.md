@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /montbrison/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

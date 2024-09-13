@@ -1,5 +1,5 @@
 ---
 title: "Caparol center"
 url: /moirans/caparol-center/
-shop: Farben
+shop: peinture
 ---

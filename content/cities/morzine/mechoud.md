@@ -1,5 +1,5 @@
 ---
 title: "Mechoud"
 url: /morzine/mechoud/
-shop: Baumarkt
+shop: à faire soi-même
 ---

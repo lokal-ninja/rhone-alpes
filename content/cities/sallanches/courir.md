@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /sallanches/courir/
-shop: Schuhe
+shop: chaussures
 ---

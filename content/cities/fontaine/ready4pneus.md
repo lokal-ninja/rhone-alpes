@@ -1,5 +1,5 @@
 ---
 title: "Ready4Pneus"
 url: /fontaine/ready4pneus/
-shop: Reifen
+shop: pneus
 ---

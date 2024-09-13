@@ -1,5 +1,5 @@
 ---
 title: "Alpes Bois Dérivés"
 url: /pressins/alpes-bois-derives/
-shop: Baustoffe
+shop: commerce
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Second"
 url: /villecheneve/garage-second/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Ferrante"
 url: /cognin/boucherie-ferrante/
-shop: Metzgerei
+shop: boucherie
 ---

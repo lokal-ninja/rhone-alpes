@@ -1,5 +1,5 @@
 ---
 title: "Fréjus Optique"
 url: /fourneaux/frejus-optique/
-shop: Optiker
+shop: opticien
 ---

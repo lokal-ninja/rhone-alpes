@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /sillingy/vival/
-shop: Lebensmittel
+shop: commodité
 ---

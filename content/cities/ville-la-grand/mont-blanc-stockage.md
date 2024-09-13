@@ -1,5 +1,5 @@
 ---
 title: "Mont-Blanc stockage"
 url: /ville-la-grand/mont-blanc-stockage/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brechotte"
 url: /vinzier/brechotte/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peloton de Beynost"
 url: /beynost/peloton-de-beynost/
-shop: Fahrrad
+shop: vélo
 ---

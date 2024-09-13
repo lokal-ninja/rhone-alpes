@@ -1,5 +1,5 @@
 ---
 title: "Tout Propre"
 url: /crolles/tout-propre/
-shop: Wäscherei
+shop: blanchisserie
 ---

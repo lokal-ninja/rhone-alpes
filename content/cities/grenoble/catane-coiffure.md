@@ -1,5 +1,5 @@
 ---
 title: "Catane Coiffure"
 url: /grenoble/catane-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

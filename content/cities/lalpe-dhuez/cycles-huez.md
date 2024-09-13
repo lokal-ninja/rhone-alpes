@@ -1,5 +1,5 @@
 ---
 title: "Cycles Huez"
 url: /lalpe-dhuez/cycles-huez/
-shop: Fahrrad
+shop: vélo
 ---

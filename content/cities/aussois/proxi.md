@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /aussois/proxi/
-shop: Supermarkt
+shop: supermarché
 ---

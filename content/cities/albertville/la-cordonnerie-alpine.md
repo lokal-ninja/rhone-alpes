@@ -1,5 +1,5 @@
 ---
 title: "La Cordonnerie Alpine"
 url: /albertville/la-cordonnerie-alpine/
-shop: Schuhe
+shop: chaussures
 ---

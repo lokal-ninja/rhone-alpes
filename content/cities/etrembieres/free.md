@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /etrembieres/free/
-shop: Handy
+shop: téléphone portable
 ---

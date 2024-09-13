@@ -1,5 +1,5 @@
 ---
 title: "La Bona Forna"
 url: /vaulx/la-bona-forna/
-shop: Bäckerei
+shop: boulangerie
 ---

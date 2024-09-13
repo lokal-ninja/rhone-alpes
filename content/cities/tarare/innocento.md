@@ -1,5 +1,5 @@
 ---
 title: "Innocento"
 url: /tarare/innocento/
-shop: Kleidung
+shop: vêtements
 ---

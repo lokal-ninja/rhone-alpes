@@ -1,5 +1,5 @@
 ---
 title: "Bière Dépôt"
 url: /anse/biere-depot/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamy Audition"
 url: /saint-jorioz/lamy-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

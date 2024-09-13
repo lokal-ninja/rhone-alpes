@@ -1,5 +1,5 @@
 ---
 title: "Violette"
 url: /crolles/violette/
-shop: Kleidung
+shop: vêtements
 ---

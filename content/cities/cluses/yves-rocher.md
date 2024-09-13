@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /cluses/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

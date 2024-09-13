@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /anthy-sur-leman/schmidt/
-shop: Küchen
+shop: cuisine
 ---

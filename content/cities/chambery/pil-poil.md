@@ -1,5 +1,5 @@
 ---
 title: "Pil Poil"
 url: /chambery/pil-poil/
-shop: Tiere
+shop: animal de compagnie
 ---

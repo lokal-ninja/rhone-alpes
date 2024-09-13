@@ -1,5 +1,5 @@
 ---
 title: "Multiservices"
 url: /grenoble/multiservices/
-shop: Wäscherei
+shop: blanchisserie
 ---

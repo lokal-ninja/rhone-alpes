@@ -1,5 +1,5 @@
 ---
 title: "L'épicerie de Jeanne"
 url: /vienne/lepicerie-de-jeanne/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert"
 url: /rumilly/feu-vert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MondoVélo"
 url: /douvaine/mondovelo/
-shop: Fahrrad
+shop: vélo
 ---

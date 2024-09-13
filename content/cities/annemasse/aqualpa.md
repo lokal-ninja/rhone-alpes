@@ -1,5 +1,5 @@
 ---
 title: "Aqualpa"
 url: /annemasse/aqualpa/
-shop: Pool
+shop: piscine
 ---

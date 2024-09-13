@@ -1,5 +1,5 @@
 ---
 title: "Comptoir de l'Ours"
 url: /vaulx-en-velin/comptoir-de-lours/
-shop: Farben
+shop: peinture
 ---

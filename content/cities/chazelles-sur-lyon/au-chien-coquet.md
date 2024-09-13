@@ -1,5 +1,5 @@
 ---
 title: "Au Chien Coquet"
 url: /chazelles-sur-lyon/au-chien-coquet/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

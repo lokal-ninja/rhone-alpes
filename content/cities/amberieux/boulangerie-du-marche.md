@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie du Marché"
 url: /amberieux/boulangerie-du-marche/
-shop: Bäckerei
+shop: boulangerie
 ---

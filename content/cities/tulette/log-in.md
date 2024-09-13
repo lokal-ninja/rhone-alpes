@@ -1,5 +1,5 @@
 ---
 title: "Log.In"
 url: /tulette/log-in/
-shop: Computer
+shop: ordinateur
 ---

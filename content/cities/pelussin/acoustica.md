@@ -1,5 +1,5 @@
 ---
 title: "Acoustica"
 url: /pelussin/acoustica/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Equi'sphere"
 url: /neydens/equisphere/
-shop: Kleidung
+shop: vêtements
 ---

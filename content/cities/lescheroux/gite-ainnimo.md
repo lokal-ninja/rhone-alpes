@@ -1,5 +1,5 @@
 ---
 title: "Gîte Ain'Nimo"
 url: /lescheroux/gite-ainnimo/
-shop: Tiere
+shop: animal de compagnie
 ---

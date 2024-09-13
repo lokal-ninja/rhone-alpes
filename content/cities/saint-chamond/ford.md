@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /saint-chamond/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

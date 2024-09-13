@@ -1,5 +1,5 @@
 ---
 title: "Europole Garage"
 url: /fontaine/europole-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

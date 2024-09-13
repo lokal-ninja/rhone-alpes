@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /publier/animalis/
-shop: Tiere
+shop: animal de compagnie
 ---

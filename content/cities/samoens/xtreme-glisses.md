@@ -1,5 +1,5 @@
 ---
 title: "'Xtreme Glisses"
 url: /samoens/xtreme-glisses/
-shop: Sport
+shop: sports
 ---

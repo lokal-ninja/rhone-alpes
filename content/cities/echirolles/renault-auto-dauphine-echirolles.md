@@ -1,5 +1,5 @@
 ---
 title: "Renault Auto Dauphiné Échirolles"
 url: /echirolles/renault-auto-dauphine-echirolles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

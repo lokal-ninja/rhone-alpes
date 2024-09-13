@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /valencin/vival/
-shop: Dorfladen
+shop: magasin de campagne
 ---

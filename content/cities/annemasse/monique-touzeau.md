@@ -1,5 +1,5 @@
 ---
 title: "Monique Touzeau"
 url: /annemasse/monique-touzeau/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

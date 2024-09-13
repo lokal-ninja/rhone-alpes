@@ -1,5 +1,5 @@
 ---
 title: "MiniMint"
 url: /annecy/minimint/
-shop: Babysachen
+shop: produits pour bébés
 ---

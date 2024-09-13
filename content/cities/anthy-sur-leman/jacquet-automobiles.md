@@ -1,5 +1,5 @@
 ---
 title: "Jacquet Automobiles"
 url: /anthy-sur-leman/jacquet-automobiles/
-shop: Autohaus
+shop: voiture
 ---

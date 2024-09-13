@@ -1,5 +1,5 @@
 ---
 title: "Orencash"
 url: /gaillard/orencash/
-shop: Lebensmittel
+shop: commodité
 ---

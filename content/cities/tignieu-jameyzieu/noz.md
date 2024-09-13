@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /tignieu-jameyzieu/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

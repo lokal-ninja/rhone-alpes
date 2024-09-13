@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /la-tronche/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

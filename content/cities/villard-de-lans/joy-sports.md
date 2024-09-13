@@ -1,5 +1,5 @@
 ---
 title: "Joy Sports"
 url: /villard-de-lans/joy-sports/
-shop: Sport
+shop: sports
 ---

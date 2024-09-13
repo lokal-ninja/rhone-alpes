@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /etrembieres/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

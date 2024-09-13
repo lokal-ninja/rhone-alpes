@@ -1,5 +1,5 @@
 ---
 title: "Laverie de Fontaine"
 url: /fontaine/laverie-de-fontaine/
-shop: Wäscherei
+shop: blanchisserie
 ---

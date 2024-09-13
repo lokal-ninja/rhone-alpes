@@ -1,5 +1,5 @@
 ---
 title: "Tabac presse des Alliés"
 url: /grenoble/tabac-presse-des-allies/
-shop: Zeitungen
+shop: marchand de journaux
 ---

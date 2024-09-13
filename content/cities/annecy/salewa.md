@@ -1,5 +1,5 @@
 ---
 title: "Salewa"
 url: /annecy/salewa/
-shop: Kleidung
+shop: vêtements
 ---

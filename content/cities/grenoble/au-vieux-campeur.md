@@ -1,5 +1,5 @@
 ---
-title: "Au Vieux Campeur"
+title: "Au vieux campeur"
 url: /grenoble/au-vieux-campeur/
-shop: Outdoor
+shop: extérieur
 ---

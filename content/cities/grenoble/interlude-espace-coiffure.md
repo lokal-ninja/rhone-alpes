@@ -1,5 +1,5 @@
 ---
 title: "Interlude Espace Coiffure"
 url: /grenoble/interlude-espace-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

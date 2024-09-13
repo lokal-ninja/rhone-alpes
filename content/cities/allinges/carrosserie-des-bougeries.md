@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie des Bougeries"
 url: /allinges/carrosserie-des-bougeries/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

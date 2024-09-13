@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /meximieux/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

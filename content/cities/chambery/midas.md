@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chambery/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

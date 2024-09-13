@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Voyages"
 url: /annecy/carrefour-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

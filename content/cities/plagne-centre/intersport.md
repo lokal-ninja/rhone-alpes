@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /plagne-centre/intersport/
-shop: Sport
+shop: sports
 ---

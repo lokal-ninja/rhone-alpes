@@ -1,5 +1,5 @@
 ---
 title: "Maison Hofer"
 url: /allonzier-la-caille/maison-hofer/
-shop: Metzgerei
+shop: boucherie
 ---

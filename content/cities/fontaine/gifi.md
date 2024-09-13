@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /fontaine/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

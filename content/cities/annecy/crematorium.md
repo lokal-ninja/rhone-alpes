@@ -1,5 +1,5 @@
 ---
 title: "Crématorium"
 url: /annecy/crematorium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

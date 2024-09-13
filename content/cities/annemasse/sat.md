@@ -1,5 +1,5 @@
 ---
 title: "SAT"
 url: /annemasse/sat/
-shop: Reisebüro
+shop: agence de voyage
 ---

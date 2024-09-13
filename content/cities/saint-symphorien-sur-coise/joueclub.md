@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /saint-symphorien-sur-coise/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

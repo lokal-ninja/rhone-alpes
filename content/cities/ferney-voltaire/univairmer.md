@@ -1,5 +1,5 @@
 ---
 title: "Univairmer"
 url: /ferney-voltaire/univairmer/
-shop: Reisebüro
+shop: agence de voyage
 ---

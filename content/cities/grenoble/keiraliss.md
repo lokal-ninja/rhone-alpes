@@ -1,5 +1,5 @@
 ---
 title: "Keiraliss"
 url: /grenoble/keiraliss/
-shop: Friseur
+shop: coiffeur
 ---

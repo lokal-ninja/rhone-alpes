@@ -1,5 +1,5 @@
 ---
 title: "Cigusto"
 url: /annecy/cigusto/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

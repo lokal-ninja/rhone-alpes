@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /annemasse/fnac/
-shop: Bücher
+shop: électronique
 ---

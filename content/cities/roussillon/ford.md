@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /roussillon/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

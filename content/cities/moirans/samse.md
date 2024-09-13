@@ -1,5 +1,5 @@
 ---
 title: "Samse"
 url: /moirans/samse/
-shop: Eisenwaren
+shop: matériel informatique
 ---

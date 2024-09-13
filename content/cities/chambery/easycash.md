@@ -1,5 +1,5 @@
 ---
 title: "Easycash"
 url: /chambery/easycash/
-shop: Gebrauchtwaren
+shop: charité
 ---

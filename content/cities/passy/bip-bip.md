@@ -1,5 +1,5 @@
 ---
 title: "Bip Bip"
 url: /passy/bip-bip/
-shop: Zeitungen
+shop: marchand de journaux
 ---

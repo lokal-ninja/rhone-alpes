@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Jas"
 url: /bourgoin-jallieu/boulangerie-jas/
-shop: Bäckerei
+shop: boulangerie
 ---

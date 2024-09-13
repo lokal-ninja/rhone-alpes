@@ -1,5 +1,5 @@
 ---
 title: "Skimium"
 url: /meribel/skimium/
-shop: Sport
+shop: sports
 ---

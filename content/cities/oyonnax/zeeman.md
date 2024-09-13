@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /oyonnax/zeeman/
-shop: Kleidung
+shop: vêtements
 ---

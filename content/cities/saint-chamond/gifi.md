@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /saint-chamond/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

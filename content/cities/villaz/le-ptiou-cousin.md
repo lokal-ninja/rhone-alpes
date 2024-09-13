@@ -1,5 +1,5 @@
 ---
 title: "Le P'tiou Cousin"
 url: /villaz/le-ptiou-cousin/
-shop: Metzgerei
+shop: boucherie
 ---

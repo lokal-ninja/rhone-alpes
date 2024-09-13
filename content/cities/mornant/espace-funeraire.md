@@ -1,5 +1,5 @@
 ---
 title: "Espace Funéraire"
 url: /mornant/espace-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

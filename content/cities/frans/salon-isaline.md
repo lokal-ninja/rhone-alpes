@@ -1,5 +1,5 @@
 ---
 title: "Salon Isaline"
 url: /frans/salon-isaline/
-shop: Friseur
+shop: coiffeur
 ---

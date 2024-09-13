@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /bellegarde-sur-valserine/renault/
-shop: Autohaus
+shop: voiture
 ---

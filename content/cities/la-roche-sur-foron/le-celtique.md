@@ -1,5 +1,5 @@
 ---
 title: "Le Celtique"
 url: /la-roche-sur-foron/le-celtique/
-shop: Kiosk
+shop: kiosque
 ---

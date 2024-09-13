@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /fontaine/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

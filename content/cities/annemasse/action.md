@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /annemasse/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Village"
 url: /villefontaine/the-village/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

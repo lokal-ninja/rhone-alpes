@@ -1,5 +1,5 @@
 ---
 title: "Garage Cheminal"
 url: /feurs/garage-cheminal/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

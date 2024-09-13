@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /veauche/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

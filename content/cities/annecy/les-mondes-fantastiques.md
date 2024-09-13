@@ -1,5 +1,5 @@
 ---
 title: "Les Mondes Fantastiques"
 url: /annecy/les-mondes-fantastiques/
-shop: Spiele
+shop: jeux
 ---

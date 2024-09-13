@@ -1,5 +1,5 @@
 ---
 title: "Christophe Pinto"
 url: /maclas/christophe-pinto/
-shop: Konditorei
+shop: pâtisserie
 ---

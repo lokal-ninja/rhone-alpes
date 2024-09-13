@@ -1,5 +1,5 @@
 ---
 title: "Épicuria"
 url: /echirolles/epicuria/
-shop: Bäckerei
+shop: boulangerie
 ---

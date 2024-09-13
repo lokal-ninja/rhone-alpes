@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /gaillard/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

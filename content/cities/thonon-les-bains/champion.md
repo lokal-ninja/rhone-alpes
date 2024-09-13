@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /thonon-les-bains/champion/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J. Vaudaux"
 url: /anthy-sur-leman/j-vaudaux/
-shop: Platzpflege
+shop: entretien des terrains
 ---

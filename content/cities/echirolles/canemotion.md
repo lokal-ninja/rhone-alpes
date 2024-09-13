@@ -1,5 +1,5 @@
 ---
 title: "Canémotion"
 url: /echirolles/canemotion/
-shop: Tiere
+shop: animal de compagnie
 ---

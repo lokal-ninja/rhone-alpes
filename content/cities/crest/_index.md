@@ -1,6 +1,6 @@
 ---
 title: Crest
 url: /crest/
-latitude: 44.73
-longitude: 5.011
+latitude: 44.728
+longitude: 5.021
 ---

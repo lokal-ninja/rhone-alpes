@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Bocquet"
 url: /annecy/boucherie-bocquet/
-shop: Metzgerei
+shop: boucherie
 ---

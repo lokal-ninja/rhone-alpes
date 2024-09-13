@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Durand"
 url: /sciez/carrosserie-durand/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

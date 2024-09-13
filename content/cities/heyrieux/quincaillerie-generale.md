@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Générale"
 url: /heyrieux/quincaillerie-generale/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /grenoble/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

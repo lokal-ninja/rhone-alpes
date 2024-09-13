@@ -1,5 +1,5 @@
 ---
 title: "Cartier"
 url: /saint-avre/cartier/
-shop: Käse
+shop: fromage
 ---

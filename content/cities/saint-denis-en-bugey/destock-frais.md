@@ -1,5 +1,5 @@
 ---
 title: "Destock Frais"
 url: /saint-denis-en-bugey/destock-frais/
-shop: Lebensmittel
+shop: commodité
 ---

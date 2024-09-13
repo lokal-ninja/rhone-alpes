@@ -1,5 +1,5 @@
 ---
 title: "Le Boudoir d'Addict'R"
 url: /vienne/le-boudoir-daddictr/
-shop: Friseur
+shop: coiffeur
 ---

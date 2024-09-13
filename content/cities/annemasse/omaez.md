@@ -1,5 +1,5 @@
 ---
 title: "Ô'Maez"
 url: /annemasse/omaez/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tape à l'œil"
+title: "Tape à l'Œil"
 url: /echirolles/tape-a-loeil/
-shop: Kleidung
+shop: vêtements
 ---

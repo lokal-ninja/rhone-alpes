@@ -1,5 +1,5 @@
 ---
 title: "La marge"
 url: /pont-de-barret/la-marge/
-shop: Bücher
+shop: livres
 ---

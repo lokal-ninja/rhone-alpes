@@ -1,5 +1,5 @@
 ---
 title: "Garage DV"
 url: /brison-saint-innocent/garage-dv/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

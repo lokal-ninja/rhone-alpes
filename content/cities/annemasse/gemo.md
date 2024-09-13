@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /annemasse/gemo/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Tif"
 url: /pont-de-cheruy/le-tif/
-shop: Friseur
+shop: coiffeur
 ---

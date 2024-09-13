@@ -1,5 +1,5 @@
 ---
 title: "Néel Chocolatier"
 url: /montbrison/neel-chocolatier/
-shop: Schokolade
+shop: chocolat
 ---

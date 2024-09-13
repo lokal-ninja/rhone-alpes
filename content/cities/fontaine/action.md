@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /fontaine/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

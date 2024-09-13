@@ -1,5 +1,5 @@
 ---
 title: "Moëne"
 url: /gillon/moene/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

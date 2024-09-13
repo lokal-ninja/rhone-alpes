@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /annecy/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Contact"
 url: /val-darc/intermarche-contact/
-shop: Lebensmittel
+shop: commodité
 ---

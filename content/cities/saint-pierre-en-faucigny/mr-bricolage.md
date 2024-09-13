@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /saint-pierre-en-faucigny/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

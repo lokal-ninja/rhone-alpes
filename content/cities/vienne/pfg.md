@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /vienne/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

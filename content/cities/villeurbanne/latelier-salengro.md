@@ -1,5 +1,5 @@
 ---
 title: "L'atelier Salengro"
 url: /villeurbanne/latelier-salengro/
-shop: Bäckerei
+shop: boulangerie
 ---

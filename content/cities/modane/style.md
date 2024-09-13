@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /modane/style/
-shop: Friseur
+shop: coiffeur
 ---

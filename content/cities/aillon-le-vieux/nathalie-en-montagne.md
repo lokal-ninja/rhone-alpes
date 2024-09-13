@@ -1,5 +1,5 @@
 ---
 title: "Nathalie en Montagne"
 url: /aillon-le-vieux/nathalie-en-montagne/
-shop: Gewürze
+shop: épices
 ---

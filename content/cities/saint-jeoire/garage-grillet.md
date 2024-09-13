@@ -1,5 +1,5 @@
 ---
 title: "Garage Grillet"
 url: /saint-jeoire/garage-grillet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MOBI"
 url: /grenoble/mobi/
-shop: Baumarkt
+shop: à faire soi-même
 ---

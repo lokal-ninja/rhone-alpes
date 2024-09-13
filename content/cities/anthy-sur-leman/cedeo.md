@@ -1,5 +1,5 @@
 ---
 title: "Cédéo"
 url: /anthy-sur-leman/cedeo/
-shop: Badezimmer
+shop: salle de bains
 ---

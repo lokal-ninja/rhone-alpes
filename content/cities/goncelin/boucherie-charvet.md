@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charvet"
 url: /goncelin/boucherie-charvet/
-shop: Metzgerei
+shop: boucherie
 ---

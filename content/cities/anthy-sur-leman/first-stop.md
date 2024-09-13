@@ -1,5 +1,5 @@
 ---
 title: "First Stop"
 url: /anthy-sur-leman/first-stop/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

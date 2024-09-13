@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Vignot"
 url: /meyzieu/boucherie-vignot/
-shop: Metzgerei
+shop: boucherie
 ---

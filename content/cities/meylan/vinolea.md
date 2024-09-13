@@ -1,5 +1,5 @@
 ---
 title: "Vinolea"
 url: /meylan/vinolea/
-shop: Spirituosen
+shop: alcool
 ---

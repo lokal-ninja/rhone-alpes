@@ -1,5 +1,5 @@
 ---
 title: "Routens Electric Bike"
 url: /crolles/routens-electric-bike/
-shop: Fahrrad
+shop: vélo
 ---

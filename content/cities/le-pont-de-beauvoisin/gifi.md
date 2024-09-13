@@ -1,5 +1,5 @@
 ---
 title: "Gifi"
 url: /le-pont-de-beauvoisin/gifi/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

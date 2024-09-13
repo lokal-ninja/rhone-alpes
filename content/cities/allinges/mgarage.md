@@ -1,5 +1,5 @@
 ---
 title: "MGarage"
 url: /allinges/mgarage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

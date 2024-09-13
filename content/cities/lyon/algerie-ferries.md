@@ -1,5 +1,5 @@
 ---
 title: "Algérie-Ferries"
 url: /lyon/algerie-ferries/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rapid Pare-Brise"
 url: /le-pont-de-beauvoisin/rapid-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

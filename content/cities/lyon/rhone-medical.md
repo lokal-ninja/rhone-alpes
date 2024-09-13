@@ -1,5 +1,5 @@
 ---
 title: "Rhône médical"
 url: /lyon/rhone-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

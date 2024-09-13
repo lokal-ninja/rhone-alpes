@@ -1,5 +1,5 @@
 ---
 title: "E-VéloShop"
 url: /grenoble/e-veloshop/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /saint-alban-leysse/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Villaverde"
 url: /echirolles/villaverde/
-shop: Garten-Center
+shop: centre de jardinage
 ---

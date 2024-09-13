@@ -1,5 +1,5 @@
 ---
 title: "Audition Conseil"
 url: /lyon/audition-conseil/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

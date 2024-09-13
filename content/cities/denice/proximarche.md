@@ -1,5 +1,5 @@
 ---
 title: "ProxiMarché"
 url: /denice/proximarche/
-shop: Lebensmittel
+shop: commodité
 ---

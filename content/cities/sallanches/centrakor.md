@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /sallanches/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

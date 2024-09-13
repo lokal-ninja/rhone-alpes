@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /echirolles/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

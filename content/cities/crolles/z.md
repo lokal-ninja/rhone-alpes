@@ -1,5 +1,5 @@
 ---
 title: "Z"
 url: /crolles/z/
-shop: Kleidung
+shop: vêtements
 ---

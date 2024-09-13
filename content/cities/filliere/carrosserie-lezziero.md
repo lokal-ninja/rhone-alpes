@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Lezziero"
 url: /filliere/carrosserie-lezziero/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

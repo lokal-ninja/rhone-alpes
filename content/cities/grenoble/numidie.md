@@ -1,5 +1,5 @@
 ---
 title: "Numidie"
 url: /grenoble/numidie/
-shop: Bäckerei
+shop: boulangerie
 ---

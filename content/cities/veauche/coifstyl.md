@@ -1,5 +1,5 @@
 ---
 title: "Coif'Styl'"
 url: /veauche/coifstyl/
-shop: Friseur
+shop: coiffeur
 ---

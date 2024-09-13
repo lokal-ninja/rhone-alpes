@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /les-gets/intersport/
-shop: Sport
+shop: sports
 ---

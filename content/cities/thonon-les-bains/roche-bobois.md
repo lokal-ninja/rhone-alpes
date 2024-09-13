@@ -1,5 +1,5 @@
 ---
 title: "Roche Bobois"
 url: /thonon-les-bains/roche-bobois/
-shop: Möbel
+shop: meubles
 ---

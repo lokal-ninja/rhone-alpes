@@ -1,5 +1,5 @@
 ---
 title: "Garage Champs-Fréchets"
 url: /meyrin/garage-champs-frechets/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

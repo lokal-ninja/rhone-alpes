@@ -1,5 +1,5 @@
 ---
 title: "Mod Bijoux"
 url: /modane/mod-bijoux/
-shop: Schmuck
+shop: bijoux
 ---

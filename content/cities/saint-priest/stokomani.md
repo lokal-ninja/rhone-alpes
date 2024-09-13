@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /saint-priest/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promo Couches"
 url: /saint-chamond/promo-couches/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

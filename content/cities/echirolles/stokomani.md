@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /echirolles/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

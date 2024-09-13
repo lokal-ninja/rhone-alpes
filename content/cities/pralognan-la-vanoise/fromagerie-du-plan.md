@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie du Plan"
 url: /pralognan-la-vanoise/fromagerie-du-plan/
-shop: Käse
+shop: fromage
 ---

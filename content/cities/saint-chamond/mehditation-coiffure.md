@@ -1,5 +1,5 @@
 ---
 title: "Mehditation Coiffure"
 url: /saint-chamond/mehditation-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

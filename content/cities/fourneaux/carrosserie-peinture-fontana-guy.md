@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Peinture Fontana Guy"
 url: /fourneaux/carrosserie-peinture-fontana-guy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

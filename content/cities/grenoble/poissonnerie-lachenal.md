@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Lachenal"
 url: /grenoble/poissonnerie-lachenal/
-shop: Fisch
+shop: fruits de mer
 ---

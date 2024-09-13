@@ -1,5 +1,5 @@
 ---
 title: "Art's Nature"
 url: /valserhone/arts-nature/
-shop: Blumen
+shop: fleuriste
 ---

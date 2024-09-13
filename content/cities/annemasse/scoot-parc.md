@@ -1,5 +1,5 @@
 ---
 title: "Scoot Parc"
 url: /annemasse/scoot-parc/
-shop: Motorrad
+shop: moto
 ---

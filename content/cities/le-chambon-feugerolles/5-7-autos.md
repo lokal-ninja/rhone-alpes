@@ -1,5 +1,5 @@
 ---
 title: "5/7 Autos"
 url: /le-chambon-feugerolles/5-7-autos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

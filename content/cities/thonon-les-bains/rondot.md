@@ -1,5 +1,5 @@
 ---
 title: "Rondot"
 url: /thonon-les-bains/rondot/
-shop: Schmuck
+shop: bijoux
 ---

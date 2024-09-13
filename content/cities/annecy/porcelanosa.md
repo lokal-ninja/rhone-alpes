@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /annecy/porcelanosa/
-shop: Fliesen
+shop: tuiles
 ---

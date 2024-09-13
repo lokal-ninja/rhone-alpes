@@ -1,5 +1,5 @@
 ---
 title: "Brico dépôt - cours matériaux"
 url: /saint-priest/brico-depot-cours-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bereng'hair"
 url: /saint-ismier/berenghair/
-shop: Friseur
+shop: coiffeur
 ---

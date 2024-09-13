@@ -1,5 +1,5 @@
 ---
 title: "Garage Zanesi"
 url: /eybens/garage-zanesi/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

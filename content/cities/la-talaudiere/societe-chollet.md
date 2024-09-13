@@ -1,5 +1,5 @@
 ---
 title: "Société Chollet"
 url: /la-talaudiere/societe-chollet/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage FP Auto"
 url: /yzeron/garage-fp-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

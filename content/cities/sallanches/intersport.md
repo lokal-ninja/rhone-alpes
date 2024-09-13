@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /sallanches/intersport/
-shop: Sport
+shop: sports
 ---

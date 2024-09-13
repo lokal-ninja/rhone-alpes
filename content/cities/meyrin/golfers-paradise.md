@@ -1,5 +1,5 @@
 ---
 title: "Golfers Paradise"
 url: /meyrin/golfers-paradise/
-shop: Allgemein
+shop: shop
 ---

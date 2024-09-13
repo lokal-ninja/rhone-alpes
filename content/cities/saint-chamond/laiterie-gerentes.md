@@ -1,5 +1,5 @@
 ---
 title: "Laiterie Gérentes"
 url: /saint-chamond/laiterie-gerentes/
-shop: Käse
+shop: fromage
 ---

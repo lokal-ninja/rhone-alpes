@@ -1,5 +1,5 @@
 ---
 title: "Samse"
 url: /bourg-saint-maurice/samse/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /renaison/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

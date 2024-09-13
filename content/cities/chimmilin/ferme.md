@@ -1,5 +1,5 @@
 ---
 title: "ferme"
 url: /chimmilin/ferme/
-shop: Landwirtschaftlich
+shop: agraire
 ---

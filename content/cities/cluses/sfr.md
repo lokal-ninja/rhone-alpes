@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /cluses/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse Chassagny"
 url: /chassagny/naturhouse-chassagny/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

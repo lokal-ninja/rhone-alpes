@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /loisin/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

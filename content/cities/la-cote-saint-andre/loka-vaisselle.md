@@ -1,5 +1,5 @@
 ---
 title: "Loka Vaisselle"
 url: /la-cote-saint-andre/loka-vaisselle/
-shop: Mieten
+shop: location de stockage
 ---

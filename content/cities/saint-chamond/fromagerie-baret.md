@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Baret"
 url: /saint-chamond/fromagerie-baret/
-shop: Käse
+shop: fromage
 ---

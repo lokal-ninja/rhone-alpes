@@ -1,5 +1,5 @@
 ---
 title: "Kunz Pressing"
 url: /loisin/kunz-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

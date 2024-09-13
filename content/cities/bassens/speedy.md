@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /bassens/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

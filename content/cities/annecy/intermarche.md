@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /annecy/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

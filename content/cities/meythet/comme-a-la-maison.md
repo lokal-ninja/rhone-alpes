@@ -1,5 +1,5 @@
 ---
 title: "Comme à la maison"
 url: /meythet/comme-a-la-maison/
-shop: Bäckerei
+shop: boulangerie
 ---

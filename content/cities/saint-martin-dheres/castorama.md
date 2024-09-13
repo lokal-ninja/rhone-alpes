@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /saint-martin-dheres/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

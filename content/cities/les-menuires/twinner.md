@@ -1,5 +1,5 @@
 ---
 title: "Twinner"
 url: /les-menuires/twinner/
-shop: Sport
+shop: sports
 ---

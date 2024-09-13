@@ -1,5 +1,5 @@
 ---
 title: "Pam Meryrin"
 url: /meyrin/pam-meryrin/
-shop: Supermarkt
+shop: supermarché
 ---

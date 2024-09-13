@@ -1,5 +1,5 @@
 ---
 title: "Autotuning Bose"
 url: /chambery/autotuning-bose/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

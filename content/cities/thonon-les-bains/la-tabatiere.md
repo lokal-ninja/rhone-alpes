@@ -1,5 +1,5 @@
 ---
 title: "La Tabatière"
 url: /thonon-les-bains/la-tabatiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crayon à papier"
 url: /la-roche-sur-foron/crayon-a-papier/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

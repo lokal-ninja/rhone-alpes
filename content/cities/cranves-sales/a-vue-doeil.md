@@ -1,5 +1,5 @@
 ---
 title: "A Vue d'Oeil"
 url: /cranves-sales/a-vue-doeil/
-shop: Optiker
+shop: opticien
 ---

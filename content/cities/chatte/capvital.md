@@ -1,5 +1,5 @@
 ---
 title: "Capvital"
 url: /chatte/capvital/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

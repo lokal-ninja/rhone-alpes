@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /valleiry/vival/
-shop: Lebensmittel
+shop: commodité
 ---

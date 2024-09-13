@@ -1,5 +1,5 @@
 ---
 title: "Duby Auto"
 url: /bons-en-chablais/duby-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

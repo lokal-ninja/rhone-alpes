@@ -1,5 +1,5 @@
 ---
 title: "Atelier du Byclou"
 url: /grenoble/atelier-du-byclou/
-shop: Fahrrad
+shop: vélo
 ---

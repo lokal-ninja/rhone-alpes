@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bourgoin-jallieu/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

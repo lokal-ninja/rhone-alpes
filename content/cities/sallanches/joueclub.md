@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /sallanches/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

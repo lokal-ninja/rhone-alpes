@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Haras"
 url: /annecy/boulangerie-des-haras/
-shop: Bäckerei
+shop: boulangerie
 ---

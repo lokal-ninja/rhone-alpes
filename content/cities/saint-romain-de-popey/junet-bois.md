@@ -1,5 +1,5 @@
 ---
 title: "Junet Bois"
 url: /saint-romain-de-popey/junet-bois/
-shop: Baumarkt
+shop: à faire soi-même
 ---

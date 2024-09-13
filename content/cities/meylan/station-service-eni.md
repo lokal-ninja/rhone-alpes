@@ -1,5 +1,5 @@
 ---
 title: "Station Service Eni"
 url: /meylan/station-service-eni/
-shop: Lebensmittel
+shop: commodité
 ---

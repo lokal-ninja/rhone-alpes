@@ -1,5 +1,5 @@
 ---
 title: "Eni"
 url: /grenoble/eni/
-shop: Gasflaschen
+shop: gaz
 ---

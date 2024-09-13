@@ -1,5 +1,5 @@
 ---
 title: "Bella Hair"
 url: /lhorme/bella-hair/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /amberieu-en-bugey/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

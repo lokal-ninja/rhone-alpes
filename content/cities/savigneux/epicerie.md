@@ -1,5 +1,5 @@
 ---
 title: "Epicerie"
 url: /savigneux/epicerie/
-shop: Lebensmittel
+shop: commodité
 ---

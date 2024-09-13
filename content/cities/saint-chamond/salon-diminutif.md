@@ -1,5 +1,5 @@
 ---
 title: "Salon Diminutif"
 url: /saint-chamond/salon-diminutif/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo Chambéry"
 url: /chambery/mondovelo-chambery/
-shop: Fahrrad
+shop: vélo
 ---

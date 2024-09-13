@@ -1,5 +1,5 @@
 ---
 title: "Caisse"
 url: /bellevaux/caisse/
-shop: Tickets
+shop: billet
 ---

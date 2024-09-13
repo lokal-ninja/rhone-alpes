@@ -1,5 +1,5 @@
 ---
 title: "L'Entrepôt du Bricolage"
 url: /thyez/lentrepot-du-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

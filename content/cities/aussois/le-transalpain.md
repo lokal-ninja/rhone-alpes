@@ -1,5 +1,5 @@
 ---
 title: "Le Transal'Pain"
 url: /aussois/le-transalpain/
-shop: Bäckerei
+shop: boulangerie
 ---

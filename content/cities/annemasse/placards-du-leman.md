@@ -1,5 +1,5 @@
 ---
 title: "Placards du Léman"
 url: /annemasse/placards-du-leman/
-shop: Möbel
+shop: meubles
 ---

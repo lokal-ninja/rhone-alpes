@@ -1,5 +1,5 @@
 ---
 title: "Boutique de l'Abbaye"
 url: /le-plantay/boutique-de-labbaye/
-shop: Kramladen
+shop: magasin de variétés
 ---

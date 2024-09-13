@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Loto Arago"
 url: /grenoble/tabac-presse-loto-arago/
-shop: Zeitungen
+shop: marchand de journaux
 ---

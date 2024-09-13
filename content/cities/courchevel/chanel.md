@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /courchevel/chanel/
-shop: Kleidung
+shop: vêtements
 ---

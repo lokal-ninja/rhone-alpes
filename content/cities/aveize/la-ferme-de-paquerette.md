@@ -1,5 +1,5 @@
 ---
 title: "La Ferme de Pâquerette"
 url: /aveize/la-ferme-de-paquerette/
-shop: Landwirtschaftlich
+shop: agraire
 ---

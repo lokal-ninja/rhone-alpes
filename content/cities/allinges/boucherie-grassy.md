@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Grassy"
 url: /allinges/boucherie-grassy/
-shop: Metzgerei
+shop: boucherie
 ---

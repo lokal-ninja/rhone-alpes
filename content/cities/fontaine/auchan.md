@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /fontaine/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

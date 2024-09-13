@@ -1,5 +1,5 @@
 ---
 title: "ANC 74"
 url: /amancy/anc-74/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

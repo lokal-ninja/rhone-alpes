@@ -1,5 +1,5 @@
 ---
 title: "AppliPhoto"
 url: /echirolles/appliphoto/
-shop: Foto
+shop: photo
 ---

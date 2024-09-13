@@ -1,5 +1,5 @@
 ---
 title: "Forme Actives"
 url: /lescheraines/forme-actives/
-shop: Baumarkt
+shop: à faire soi-même
 ---

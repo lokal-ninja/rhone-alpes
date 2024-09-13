@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /echirolles/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

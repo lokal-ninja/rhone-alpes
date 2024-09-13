@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /nantua/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

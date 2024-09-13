@@ -1,5 +1,5 @@
 ---
 title: "Auto Rétro du Léman"
 url: /bons-en-chablais/auto-retro-du-leman/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

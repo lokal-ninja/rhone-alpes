@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /annemasse/sephora/
-shop: Kosmetik
+shop: beauté
 ---

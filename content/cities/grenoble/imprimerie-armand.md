@@ -1,5 +1,5 @@
 ---
 title: "Imprimerie Armand"
 url: /grenoble/imprimerie-armand/
-shop: Kopieren
+shop: copyshop
 ---

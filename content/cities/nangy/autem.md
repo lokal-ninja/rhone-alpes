@@ -1,5 +1,5 @@
 ---
 title: "Autem"
 url: /nangy/autem/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

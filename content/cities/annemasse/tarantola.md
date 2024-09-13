@@ -1,5 +1,5 @@
 ---
 title: "Tarantola"
 url: /annemasse/tarantola/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /chatillon-dazergues/aubade/
-shop: Badezimmer
+shop: salle de bains
 ---

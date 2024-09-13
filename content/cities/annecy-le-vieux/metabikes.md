@@ -1,5 +1,5 @@
 ---
 title: "Metabike's"
 url: /annecy-le-vieux/metabikes/
-shop: Fahrrad
+shop: vélo
 ---

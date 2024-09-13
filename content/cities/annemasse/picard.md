@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /annemasse/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frans Bonhomme"
 url: /echirolles/frans-bonhomme/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chambery/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

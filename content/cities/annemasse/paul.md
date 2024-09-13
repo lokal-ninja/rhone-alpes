@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /annemasse/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

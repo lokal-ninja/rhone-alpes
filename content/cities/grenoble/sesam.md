@@ -1,5 +1,5 @@
 ---
 title: "Sesam"
 url: /grenoble/sesam/
-shop: Schmuck
+shop: bijoux
 ---

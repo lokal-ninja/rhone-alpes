@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /saint-jean-de-maurienne/krys/
-shop: Optiker
+shop: opticien
 ---

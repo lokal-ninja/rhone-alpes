@@ -1,5 +1,5 @@
 ---
 title: "Maison Delplanque"
 url: /aix-les-bains/maison-delplanque/
-shop: Käse
+shop: fromage
 ---

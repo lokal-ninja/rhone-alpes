@@ -1,5 +1,5 @@
 ---
 title: "Baralinge"
 url: /lyon/baralinge/
-shop: Allgemein
+shop: shop
 ---

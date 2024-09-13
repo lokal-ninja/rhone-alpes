@@ -1,5 +1,5 @@
 ---
 title: "Princesse boutique"
 url: /saint-egreve/princesse-boutique/
-shop: Kleidung
+shop: vêtements
 ---

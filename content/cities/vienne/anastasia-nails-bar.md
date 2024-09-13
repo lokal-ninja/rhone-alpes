@@ -1,5 +1,5 @@
 ---
 title: "Anastasia Nails Bar"
 url: /vienne/anastasia-nails-bar/
-shop: Kosmetik
+shop: beauté
 ---

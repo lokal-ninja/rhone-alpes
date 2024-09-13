@@ -1,5 +1,5 @@
 ---
 title: "Crazy needles"
 url: /annemasse/crazy-needles/
-shop: Tattoo
+shop: tatouage
 ---

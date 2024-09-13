@@ -1,5 +1,5 @@
 ---
 title: "Universal Ride"
 url: /grenoble/universal-ride/
-shop: Motorrad
+shop: moto
 ---

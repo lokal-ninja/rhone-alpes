@@ -1,5 +1,5 @@
 ---
 title: "Maxi Bazar"
 url: /annemasse/maxi-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

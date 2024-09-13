@@ -1,5 +1,5 @@
 ---
 title: "Champion"
 url: /annecy/champion/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prox-Auto / Euro-Repar"
 url: /maclas/prox-auto-euro-repar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

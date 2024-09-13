@@ -1,5 +1,5 @@
 ---
 title: "AFEJ Forez"
 url: /montbrison/afej-forez/
-shop: Gebrauchtwaren
+shop: charité
 ---

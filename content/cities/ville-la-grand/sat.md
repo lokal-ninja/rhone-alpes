@@ -1,5 +1,5 @@
 ---
 title: "SAT"
 url: /ville-la-grand/sat/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

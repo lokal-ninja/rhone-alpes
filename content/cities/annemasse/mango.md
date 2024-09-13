@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /annemasse/mango/
-shop: Kleidung
+shop: vêtements
 ---

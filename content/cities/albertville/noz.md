@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /albertville/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

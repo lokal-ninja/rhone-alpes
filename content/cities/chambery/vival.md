@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /chambery/vival/
-shop: Lebensmittel
+shop: commodité
 ---

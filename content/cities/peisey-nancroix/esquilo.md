@@ -1,5 +1,5 @@
 ---
 title: "Esquilo"
 url: /peisey-nancroix/esquilo/
-shop: Bäckerei
+shop: boulangerie
 ---

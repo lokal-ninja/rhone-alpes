@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /etrembieres/celio/
-shop: Kleidung
+shop: vêtements
 ---

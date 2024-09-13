@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-chamond/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

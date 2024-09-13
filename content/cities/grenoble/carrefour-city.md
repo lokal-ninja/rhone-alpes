@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /grenoble/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

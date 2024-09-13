@@ -1,5 +1,5 @@
 ---
 title: "Veloplato"
 url: /la-chapelle-en-vercors/veloplato/
-shop: Fahrrad
+shop: vélo
 ---

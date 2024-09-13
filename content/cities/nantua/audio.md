@@ -1,5 +1,5 @@
 ---
 title: "audio+"
 url: /nantua/audio/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

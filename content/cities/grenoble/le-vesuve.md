@@ -1,5 +1,5 @@
 ---
 title: "Le Vésuve"
 url: /grenoble/le-vesuve/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /chambery/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magpresse"
 url: /moutiers/magpresse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

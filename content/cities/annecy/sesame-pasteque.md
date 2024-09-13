@@ -1,5 +1,5 @@
 ---
 title: "Sésame Pastèque"
 url: /annecy/sesame-pasteque/
-shop: Babysachen
+shop: produits pour bébés
 ---

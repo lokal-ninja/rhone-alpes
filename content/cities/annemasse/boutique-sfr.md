@@ -1,5 +1,5 @@
 ---
 title: "Boutique SFR"
 url: /annemasse/boutique-sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uniferme"
 url: /beauvallon/uniferme/
-shop: Hofladen
+shop: ferme
 ---

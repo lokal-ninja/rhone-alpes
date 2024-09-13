@@ -1,5 +1,5 @@
 ---
 title: "Portalp"
 url: /fontaine/portalp/
-shop: Türen
+shop: portes
 ---

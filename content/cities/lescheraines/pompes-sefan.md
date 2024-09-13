@@ -1,5 +1,5 @@
 ---
 title: "Pompes Sefan"
 url: /lescheraines/pompes-sefan/
-shop: Baumarkt
+shop: à faire soi-même
 ---

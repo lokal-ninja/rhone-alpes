@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /venissieux/ldlc/
-shop: Computer
+shop: ordinateur
 ---

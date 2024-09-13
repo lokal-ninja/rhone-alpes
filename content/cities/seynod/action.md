@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /seynod/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

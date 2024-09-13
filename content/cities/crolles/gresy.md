@@ -1,5 +1,5 @@
 ---
 title: "GRE'SY"
 url: /crolles/gresy/
-shop: Gebrauchtwaren
+shop: charité
 ---

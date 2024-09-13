@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /grenoble/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

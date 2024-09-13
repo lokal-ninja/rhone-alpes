@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /saint-martin-en-haut/spar/
-shop: Lebensmittel
+shop: commodité
 ---

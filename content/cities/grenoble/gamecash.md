@@ -1,5 +1,5 @@
 ---
 title: "Gamecash"
 url: /grenoble/gamecash/
-shop: Videospiele
+shop: jeux vidéo
 ---

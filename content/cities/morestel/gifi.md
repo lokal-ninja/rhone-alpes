@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /morestel/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

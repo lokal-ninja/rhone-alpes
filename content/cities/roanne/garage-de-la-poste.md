@@ -1,5 +1,5 @@
 ---
 title: "Garage de la Poste"
 url: /roanne/garage-de-la-poste/
-shop: Autohaus
+shop: voiture
 ---

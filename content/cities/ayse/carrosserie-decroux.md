@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Decroux"
 url: /ayse/carrosserie-decroux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

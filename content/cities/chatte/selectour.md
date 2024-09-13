@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /chatte/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

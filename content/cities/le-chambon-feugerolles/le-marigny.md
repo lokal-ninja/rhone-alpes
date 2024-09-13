@@ -1,5 +1,5 @@
 ---
 title: "Le Marigny"
 url: /le-chambon-feugerolles/le-marigny/
-shop: Tabak
+shop: tabac
 ---

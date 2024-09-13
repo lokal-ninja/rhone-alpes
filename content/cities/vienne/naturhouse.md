@@ -1,5 +1,5 @@
 ---
 title: "NaturHouse"
 url: /vienne/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

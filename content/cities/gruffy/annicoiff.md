@@ -1,5 +1,5 @@
 ---
 title: "Annicoiff"
 url: /gruffy/annicoiff/
-shop: Friseur
+shop: coiffeur
 ---

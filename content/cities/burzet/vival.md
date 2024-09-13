@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /burzet/vival/
-shop: Lebensmittel
+shop: commodité
 ---

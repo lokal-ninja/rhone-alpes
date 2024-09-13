@@ -1,5 +1,5 @@
 ---
 title: "Christophe Borocco"
 url: /annecy/christophe-borocco/
-shop: Schmuck
+shop: bijoux
 ---

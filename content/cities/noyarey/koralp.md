@@ -1,5 +1,5 @@
 ---
 title: "Koralp"
 url: /noyarey/koralp/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier Tricycle"
 url: /pierre-benite/atelier-tricycle/
-shop: Fahrrad
+shop: vélo
 ---

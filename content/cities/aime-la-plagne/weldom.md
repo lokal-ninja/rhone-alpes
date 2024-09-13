@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /aime-la-plagne/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

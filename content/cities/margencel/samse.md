@@ -1,5 +1,5 @@
 ---
 title: "Samse"
 url: /margencel/samse/
-shop: Baumarkt
+shop: à faire soi-même
 ---

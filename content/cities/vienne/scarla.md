@@ -1,5 +1,5 @@
 ---
 title: "Scarla"
 url: /vienne/scarla/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-alban-de-roche/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dietplus"
 url: /vienne/dietplus/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

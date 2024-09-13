@@ -1,5 +1,5 @@
 ---
 title: "Pilippon"
 url: /oyonnax/pilippon/
-shop: Friseur
+shop: coiffeur
 ---

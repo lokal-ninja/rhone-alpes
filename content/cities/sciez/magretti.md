@@ -1,5 +1,5 @@
 ---
 title: "Magretti"
 url: /sciez/magretti/
-shop: Eisenwaren
+shop: matériel informatique
 ---

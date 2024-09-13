@@ -1,5 +1,5 @@
 ---
 title: "Georges Mauduit Sports"
 url: /meribel/georges-mauduit-sports/
-shop: Sport
+shop: sports
 ---

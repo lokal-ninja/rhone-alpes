@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /vetraz-monthoux/mazda/
-shop: Autohaus
+shop: voiture
 ---

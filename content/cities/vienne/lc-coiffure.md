@@ -1,5 +1,5 @@
 ---
 title: "LC coiffure"
 url: /vienne/lc-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

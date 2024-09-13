@@ -1,5 +1,5 @@
 ---
 title: "Cyprien sports"
 url: /les-houches/cyprien-sports/
-shop: Sport
+shop: sports
 ---

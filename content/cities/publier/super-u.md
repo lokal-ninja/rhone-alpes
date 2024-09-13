@@ -1,5 +1,5 @@
 ---
 title: "Super U"
 url: /publier/super-u/
-shop: Supermarkt
+shop: supermarché
 ---

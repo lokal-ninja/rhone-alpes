@@ -1,5 +1,5 @@
 ---
-title: "La roue libre"
+title: "La Roue Libre"
 url: /grenoble/la-roue-libre/
-shop: Fahrrad
+shop: vélo
 ---

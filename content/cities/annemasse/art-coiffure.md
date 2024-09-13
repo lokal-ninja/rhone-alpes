@@ -1,5 +1,5 @@
 ---
 title: "Art Coiffure"
 url: /annemasse/art-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

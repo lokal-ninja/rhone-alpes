@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /pontcharra/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert Échirolles"
 url: /echirolles/feu-vert-echirolles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

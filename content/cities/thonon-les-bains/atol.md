@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /thonon-les-bains/atol/
-shop: Optiker
+shop: opticien
 ---

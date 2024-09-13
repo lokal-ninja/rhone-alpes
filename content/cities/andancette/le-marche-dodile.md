@@ -1,5 +1,5 @@
 ---
 title: "Le marché d'Odile"
 url: /andancette/le-marche-dodile/
-shop: Feinkost
+shop: charcuterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aushopping Porte des Alpes"
 url: /saint-priest/aushopping-porte-des-alpes/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

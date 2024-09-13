@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie de Marlioz"
 url: /aix-les-bains/pharmacie-de-marlioz/
-shop: Drogerie
+shop: chimiste
 ---

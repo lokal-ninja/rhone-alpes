@@ -1,5 +1,5 @@
 ---
 title: "Sherpa"
 url: /abondance/sherpa/
-shop: Lebensmittel
+shop: commodité
 ---

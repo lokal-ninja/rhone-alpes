@@ -1,5 +1,5 @@
 ---
 title: "Grain de Malice"
 url: /heyrieux/grain-de-malice/
-shop: Kleidung
+shop: vêtements
 ---

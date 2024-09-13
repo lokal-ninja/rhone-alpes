@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /feurs/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

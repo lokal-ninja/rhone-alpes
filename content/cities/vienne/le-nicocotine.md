@@ -1,5 +1,5 @@
 ---
 title: "Le Nicocotine"
 url: /vienne/le-nicocotine/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Amphion-Publier"
 url: /publier/biocoop-amphion-publier/
-shop: Bioladen
+shop: alimentation saine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /tignieu-jameyzieu/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

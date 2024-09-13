@@ -1,5 +1,5 @@
 ---
 title: "GrandOptical"
 url: /etrembieres/grandoptical/
-shop: Optiker
+shop: opticien
 ---

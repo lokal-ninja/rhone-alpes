@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /annemasse/krys/
-shop: Optiker
+shop: opticien
 ---

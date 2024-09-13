@@ -1,5 +1,5 @@
 ---
 title: "Segaud Christiane"
 url: /saint-chamond/segaud-christiane/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samse"
 url: /ville-la-grand/samse/
-shop: Baumarkt
+shop: à faire soi-même
 ---

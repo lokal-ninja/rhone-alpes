@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /grenoble/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

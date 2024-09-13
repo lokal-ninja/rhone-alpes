@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /chambery/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

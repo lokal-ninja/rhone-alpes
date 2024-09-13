@@ -1,5 +1,5 @@
 ---
 title: "Pyramide coiffure"
 url: /vienne/pyramide-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

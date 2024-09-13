@@ -1,5 +1,5 @@
 ---
 title: "Woodpecker Tattoo"
 url: /vienne/woodpecker-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

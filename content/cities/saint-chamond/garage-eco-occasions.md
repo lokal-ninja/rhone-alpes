@@ -1,5 +1,5 @@
 ---
 title: "Garage Eco Occasions"
 url: /saint-chamond/garage-eco-occasions/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

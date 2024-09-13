@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /albertville/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Technic Auto"
 url: /genay/technic-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

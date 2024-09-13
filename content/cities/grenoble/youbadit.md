@@ -1,5 +1,5 @@
 ---
 title: "Youbadit"
 url: /grenoble/youbadit/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /massieux/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

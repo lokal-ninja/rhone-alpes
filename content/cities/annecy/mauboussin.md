@@ -1,5 +1,5 @@
 ---
 title: "Mauboussin"
 url: /annecy/mauboussin/
-shop: Schmuck
+shop: bijoux
 ---

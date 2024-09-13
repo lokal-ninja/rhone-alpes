@@ -1,5 +1,5 @@
 ---
 title: "K2 Outdoor Annecy"
 url: /doussard/k2-outdoor-annecy/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /meyrin/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

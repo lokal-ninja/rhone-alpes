@@ -1,5 +1,5 @@
 ---
 title: "Tendances"
 url: /tarare/tendances/
-shop: Kleidung
+shop: vêtements
 ---

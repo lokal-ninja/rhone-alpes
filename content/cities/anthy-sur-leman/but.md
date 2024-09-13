@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /anthy-sur-leman/but/
-shop: Möbel
+shop: meubles
 ---

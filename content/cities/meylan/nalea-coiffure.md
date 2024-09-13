@@ -1,5 +1,5 @@
 ---
 title: "Nalea Coiffure"
 url: /meylan/nalea-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

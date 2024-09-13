@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /montelimar/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

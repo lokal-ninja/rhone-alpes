@@ -1,5 +1,5 @@
 ---
 title: "Carosserie Maniglier"
 url: /annecy/carosserie-maniglier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

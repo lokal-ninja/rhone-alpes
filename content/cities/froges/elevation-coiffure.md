@@ -1,5 +1,5 @@
 ---
 title: "Élévation Coiffure"
 url: /froges/elevation-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

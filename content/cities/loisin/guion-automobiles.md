@@ -1,5 +1,5 @@
 ---
 title: "Guion Automobiles"
 url: /loisin/guion-automobiles/
-shop: Autohaus
+shop: voiture
 ---

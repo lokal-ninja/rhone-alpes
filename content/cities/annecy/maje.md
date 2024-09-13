@@ -1,5 +1,5 @@
 ---
 title: "Maje"
 url: /annecy/maje/
-shop: Kleidung
+shop: vêtements
 ---

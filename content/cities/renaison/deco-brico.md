@@ -1,5 +1,5 @@
 ---
 title: "DECO BRICO"
 url: /renaison/deco-brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

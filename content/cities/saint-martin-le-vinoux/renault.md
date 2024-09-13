@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /saint-martin-le-vinoux/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

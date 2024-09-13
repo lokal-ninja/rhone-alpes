@@ -1,5 +1,5 @@
 ---
 title: "Alizée Coiffure"
 url: /auberives-sur-varezes/alizee-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

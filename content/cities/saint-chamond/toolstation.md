@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /saint-chamond/toolstation/
-shop: Baumarkt
+shop: à faire soi-même
 ---

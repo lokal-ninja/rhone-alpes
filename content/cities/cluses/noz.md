@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /cluses/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

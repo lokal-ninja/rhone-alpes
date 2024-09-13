@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /la-murette/vival/
-shop: Lebensmittel
+shop: commodité
 ---

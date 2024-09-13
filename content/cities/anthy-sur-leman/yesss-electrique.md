@@ -1,5 +1,5 @@
 ---
 title: "Yesss électrique"
 url: /anthy-sur-leman/yesss-electrique/
-shop: Elektrisch
+shop: électrique
 ---

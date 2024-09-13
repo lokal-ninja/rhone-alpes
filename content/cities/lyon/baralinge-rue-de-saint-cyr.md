@@ -1,5 +1,5 @@
 ---
 title: "Baralinge"
 url: /lyon/baralinge-rue-de-saint-cyr/
-shop: Allgemein
+shop: shop
 ---

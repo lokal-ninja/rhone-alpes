@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /saint-chamond/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

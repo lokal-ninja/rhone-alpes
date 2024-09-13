@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Les Platanes"
 url: /voreppe/tabac-presse-les-platanes/
-shop: Zeitungen
+shop: marchand de journaux
 ---

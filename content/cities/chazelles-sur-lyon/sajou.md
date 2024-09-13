@@ -1,5 +1,5 @@
 ---
 title: "Sajou"
 url: /chazelles-sur-lyon/sajou/
-shop: Spielzeug
+shop: jouets
 ---

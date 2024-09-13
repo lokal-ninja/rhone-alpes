@@ -1,5 +1,5 @@
 ---
 title: "Serenicar"
 url: /lyon/serenicar/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

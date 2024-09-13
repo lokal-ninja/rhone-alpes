@@ -1,5 +1,5 @@
 ---
 title: "Carroserie Choufani"
 url: /annecy/carroserie-choufani/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

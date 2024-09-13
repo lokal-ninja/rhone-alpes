@@ -1,5 +1,5 @@
 ---
 title: "Garage Morel"
 url: /moye/garage-morel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

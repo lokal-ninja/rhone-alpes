@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /annemasse/orchestra/
-shop: Babysachen
+shop: produits pour bébés
 ---

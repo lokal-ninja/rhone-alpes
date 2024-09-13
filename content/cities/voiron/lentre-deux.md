@@ -1,5 +1,5 @@
 ---
 title: "L'entre deux"
 url: /voiron/lentre-deux/
-shop: Feinkost
+shop: charcuterie
 ---

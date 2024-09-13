@@ -1,5 +1,5 @@
 ---
 title: "DK Traiteur"
 url: /grenoble/dk-traiteur/
-shop: Metzgerei
+shop: boucherie
 ---

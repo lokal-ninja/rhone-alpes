@@ -1,5 +1,5 @@
 ---
 title: "Luthier"
 url: /la-roche-sur-foron/luthier/
-shop: Instrumente
+shop: instrument de musique
 ---

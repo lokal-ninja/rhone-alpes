@@ -1,5 +1,5 @@
 ---
 title: "Lafont"
 url: /le-lac-dissarles/lafont/
-shop: Metzgerei
+shop: boucherie
 ---

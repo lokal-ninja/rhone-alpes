@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /saint-egreve/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

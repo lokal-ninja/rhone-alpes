@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /moirans/interflora/
-shop: Blumen
+shop: fleuriste
 ---

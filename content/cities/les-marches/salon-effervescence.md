@@ -1,5 +1,5 @@
 ---
 title: "Salon Effervescence"
 url: /les-marches/salon-effervescence/
-shop: Friseur
+shop: coiffeur
 ---

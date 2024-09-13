@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /anse/jardiland/
-shop: Garten-Center
+shop: centre de jardinage
 ---

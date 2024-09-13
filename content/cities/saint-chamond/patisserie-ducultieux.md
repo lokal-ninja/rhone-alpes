@@ -1,5 +1,5 @@
 ---
 title: "Patisserie Ducultieux"
 url: /saint-chamond/patisserie-ducultieux/
-shop: Konditorei
+shop: pâtisserie
 ---

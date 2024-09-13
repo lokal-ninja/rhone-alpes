@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie pâtisserie L'Ancienne Gare"
 url: /soleymieu/boulangerie-patisserie-lancienne-gare/
-shop: Bäckerei
+shop: boulangerie
 ---

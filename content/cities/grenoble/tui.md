@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /grenoble/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

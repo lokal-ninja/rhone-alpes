@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /lhorme/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ls coiffure"
 url: /fareins/ls-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

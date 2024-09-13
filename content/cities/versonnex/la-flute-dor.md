@@ -1,5 +1,5 @@
 ---
 title: "La Flûte D'Or"
 url: /versonnex/la-flute-dor/
-shop: Bäckerei
+shop: boulangerie
 ---

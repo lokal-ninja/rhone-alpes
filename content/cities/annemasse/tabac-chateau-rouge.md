@@ -1,5 +1,5 @@
 ---
 title: "Tabac Chateau Rouge"
 url: /annemasse/tabac-chateau-rouge/
-shop: Zeitungen
+shop: marchand de journaux
 ---

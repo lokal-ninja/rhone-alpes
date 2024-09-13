@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /saint-martin-dheres/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

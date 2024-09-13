@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bassens/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /neydens/courir/
-shop: Schuhe
+shop: chaussures
 ---

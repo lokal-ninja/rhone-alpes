@@ -1,5 +1,5 @@
 ---
 title: "Médialpes"
 url: /voiron/medialpes/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

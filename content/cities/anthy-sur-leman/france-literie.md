@@ -1,5 +1,5 @@
 ---
 title: "France Literie"
 url: /anthy-sur-leman/france-literie/
-shop: Betten
+shop: lit
 ---

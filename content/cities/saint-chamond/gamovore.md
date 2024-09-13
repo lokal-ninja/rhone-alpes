@@ -1,5 +1,5 @@
 ---
 title: "Gamovore"
 url: /saint-chamond/gamovore/
-shop: Videospiele
+shop: jeux vidéo
 ---

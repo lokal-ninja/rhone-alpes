@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /sallanches/gemo/
-shop: Kleidung
+shop: vêtements
 ---

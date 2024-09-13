@@ -1,5 +1,5 @@
 ---
 title: "Atelier de Johanna"
 url: /voiron/atelier-de-johanna/
-shop: Friseur
+shop: coiffeur
 ---

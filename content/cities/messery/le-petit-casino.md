@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Casino"
 url: /messery/le-petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

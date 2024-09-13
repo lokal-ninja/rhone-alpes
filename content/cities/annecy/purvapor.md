@@ -1,5 +1,5 @@
 ---
 title: "PurVapor"
 url: /annecy/purvapor/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

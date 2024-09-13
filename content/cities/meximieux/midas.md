@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /meximieux/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

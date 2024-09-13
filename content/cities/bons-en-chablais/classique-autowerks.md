@@ -1,5 +1,5 @@
 ---
 title: "Classique Autowerks"
 url: /bons-en-chablais/classique-autowerks/
-shop: Autoteile
+shop: pièces de voitures
 ---

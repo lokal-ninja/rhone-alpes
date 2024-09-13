@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /seynod/decathlon/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LDLC"
 url: /chambery/ldlc/
-shop: Computer
+shop: ordinateur
 ---

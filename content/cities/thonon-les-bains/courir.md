@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /thonon-les-bains/courir/
-shop: Schuhe
+shop: chaussures
 ---

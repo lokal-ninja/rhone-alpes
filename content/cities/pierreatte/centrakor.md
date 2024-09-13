@@ -1,5 +1,5 @@
 ---
 title: "Centrakor"
 url: /pierreatte/centrakor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

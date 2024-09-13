@@ -1,5 +1,5 @@
 ---
 title: "Intertrade"
 url: /rumilly/intertrade/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

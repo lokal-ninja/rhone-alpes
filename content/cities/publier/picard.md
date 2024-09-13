@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /publier/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

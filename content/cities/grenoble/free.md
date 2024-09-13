@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /grenoble/free/
-shop: Handy
+shop: téléphone portable
 ---

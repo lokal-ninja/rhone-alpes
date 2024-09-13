@@ -1,5 +1,5 @@
 ---
 title: "Oriol"
 url: /saint-chamond/oriol/
-shop: Tabak
+shop: tabac
 ---

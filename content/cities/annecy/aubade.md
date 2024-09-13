@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /annecy/aubade/
-shop: Kleidung
+shop: vêtements
 ---

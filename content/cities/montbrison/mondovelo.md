@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /montbrison/mondovelo/
-shop: Fahrrad
+shop: vélo
 ---

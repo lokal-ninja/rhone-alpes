@@ -1,5 +1,5 @@
 ---
 title: "Maison de la presse - tabac"
 url: /cruseilles/maison-de-la-presse-tabac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

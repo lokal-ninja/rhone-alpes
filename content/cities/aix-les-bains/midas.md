@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /aix-les-bains/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

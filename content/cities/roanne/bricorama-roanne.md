@@ -1,5 +1,5 @@
 ---
 title: "Bricorama Roanne"
 url: /roanne/bricorama-roanne/
-shop: Baumarkt
+shop: à faire soi-même
 ---

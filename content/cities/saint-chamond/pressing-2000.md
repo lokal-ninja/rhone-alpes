@@ -1,5 +1,5 @@
 ---
 title: "Pressing 2000"
 url: /saint-chamond/pressing-2000/
-shop: Wäscherei
+shop: blanchisserie
 ---

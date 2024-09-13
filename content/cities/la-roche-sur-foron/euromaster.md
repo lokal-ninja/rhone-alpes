@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /la-roche-sur-foron/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

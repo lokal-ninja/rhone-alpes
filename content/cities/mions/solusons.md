@@ -1,5 +1,5 @@
 ---
 title: "SoluSons"
 url: /mions/solusons/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

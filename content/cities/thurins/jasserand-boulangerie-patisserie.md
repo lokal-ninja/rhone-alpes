@@ -1,5 +1,5 @@
 ---
 title: "Jasserand, Boulangerie - Patisserie"
 url: /thurins/jasserand-boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

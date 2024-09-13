@@ -1,5 +1,5 @@
 ---
 title: "La Maison Jaune"
 url: /neuville-sur-saone/la-maison-jaune/
-shop: Bücher
+shop: livres
 ---

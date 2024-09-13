@@ -1,5 +1,5 @@
 ---
 title: "[Si] Sélection inspirée"
 url: /thonon-les-bains/si-selection-inspiree/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

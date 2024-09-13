@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /thonon-les-bains/sfr/
-shop: Handy
+shop: téléphone portable
 ---

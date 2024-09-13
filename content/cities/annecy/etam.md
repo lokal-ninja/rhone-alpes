@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /annecy/etam/
-shop: Kleidung
+shop: vêtements
 ---

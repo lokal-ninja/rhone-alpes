@@ -1,5 +1,5 @@
 ---
 title: "Gilletfleurs"
 url: /thonon-les-bains/gilletfleurs/
-shop: Blumen
+shop: fleuriste
 ---

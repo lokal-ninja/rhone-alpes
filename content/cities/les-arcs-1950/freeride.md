@@ -1,5 +1,5 @@
 ---
 title: "Freeride"
 url: /les-arcs-1950/freeride/
-shop: Sport
+shop: sports
 ---

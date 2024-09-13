@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /epagny/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie d'Albon"
 url: /andancette/carrosserie-dalbon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

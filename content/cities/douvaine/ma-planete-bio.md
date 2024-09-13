@@ -1,5 +1,5 @@
 ---
 title: "Ma Planète Bio"
 url: /douvaine/ma-planete-bio/
-shop: Supermarkt
+shop: supermarché
 ---

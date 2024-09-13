@@ -1,5 +1,5 @@
 ---
 title: "Éram"
 url: /etrembieres/eram/
-shop: Schuhe
+shop: chaussures
 ---

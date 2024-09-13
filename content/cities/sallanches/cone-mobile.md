@@ -1,5 +1,5 @@
 ---
 title: "Cone mobile"
 url: /sallanches/cone-mobile/
-shop: Handy
+shop: téléphone portable
 ---

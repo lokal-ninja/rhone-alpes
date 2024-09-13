@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Casino"
 url: /brenthonne/le-petit-casino/
-shop: Lebensmittel
+shop: commodité
 ---

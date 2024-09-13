@@ -1,5 +1,5 @@
 ---
 title: "Perrières Ski"
 url: /les-gets/perrieres-ski/
-shop: Ski
+shop: ski
 ---

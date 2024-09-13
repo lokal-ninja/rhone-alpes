@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /cornier/vival/
-shop: Lebensmittel
+shop: commodité
 ---

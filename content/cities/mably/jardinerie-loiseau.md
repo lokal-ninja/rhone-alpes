@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie Loiseau"
 url: /mably/jardinerie-loiseau/
-shop: Garten-Center
+shop: centre de jardinage
 ---

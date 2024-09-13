@@ -1,5 +1,5 @@
 ---
 title: "Terres Lyonnaises"
 url: /saint-laurent-dagny/terres-lyonnaises/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /annecy/lacoste/
-shop: Kleidung
+shop: vêtements
 ---

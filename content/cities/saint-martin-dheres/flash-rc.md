@@ -1,5 +1,5 @@
 ---
 title: "FLASH RC"
 url: /saint-martin-dheres/flash-rc/
-shop: Modellbau
+shop: modèle
 ---

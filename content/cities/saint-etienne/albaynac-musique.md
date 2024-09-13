@@ -1,5 +1,5 @@
 ---
 title: "Albaynac Musique"
 url: /saint-etienne/albaynac-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Myriam Coiffure"
 url: /saint-chamond/myriam-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

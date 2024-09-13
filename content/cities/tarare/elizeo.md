@@ -1,5 +1,5 @@
 ---
 title: "Elizeo"
 url: /tarare/elizeo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

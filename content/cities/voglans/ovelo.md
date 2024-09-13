@@ -1,5 +1,5 @@
 ---
 title: "Ovélo"
 url: /voglans/ovelo/
-shop: Fahrrad
+shop: vélo
 ---

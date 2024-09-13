@@ -1,5 +1,5 @@
 ---
 title: "FLORESCENCE"
 url: /oyonnax/florescence/
-shop: Blumen
+shop: fleuriste
 ---

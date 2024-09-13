@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /nantua/vival/
-shop: Lebensmittel
+shop: commodité
 ---

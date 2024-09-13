@@ -1,5 +1,5 @@
 ---
 title: "Patricia Daniel's"
 url: /fontaine/patricia-daniels/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ensolia"
 url: /grenoble/ensolia/
-shop: Reisebüro
+shop: agence de voyage
 ---

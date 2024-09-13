@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /crolles/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

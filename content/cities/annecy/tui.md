@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /annecy/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automobiles Toran"
 url: /coublevie/automobiles-toran/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Bajolaz"
 url: /annemasse/carrosserie-bajolaz/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

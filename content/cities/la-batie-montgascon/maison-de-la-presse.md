@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Presse"
 url: /la-batie-montgascon/maison-de-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

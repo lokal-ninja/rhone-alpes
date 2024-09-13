@@ -1,5 +1,5 @@
 ---
 title: "Gerard et Peysson"
 url: /echirolles/gerard-et-peysson/
-shop: Baumarkt
+shop: à faire soi-même
 ---

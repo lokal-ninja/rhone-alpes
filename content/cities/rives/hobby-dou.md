@@ -1,5 +1,5 @@
 ---
 title: "Hobby Dou'"
 url: /rives/hobby-dou/
-shop: Videospiele
+shop: jeux vidéo
 ---

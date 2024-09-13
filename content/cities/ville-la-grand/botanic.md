@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /ville-la-grand/botanic/
-shop: Garten-Center
+shop: centre de jardinage
 ---

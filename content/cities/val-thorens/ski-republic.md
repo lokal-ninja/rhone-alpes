@@ -1,5 +1,5 @@
 ---
 title: "Ski Republic"
 url: /val-thorens/ski-republic/
-shop: Sport
+shop: sports
 ---

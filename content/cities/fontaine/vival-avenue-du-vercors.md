@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /fontaine/vival-avenue-du-vercors/
-shop: Lebensmittel
+shop: commodité
 ---

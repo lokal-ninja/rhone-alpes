@@ -1,5 +1,5 @@
 ---
 title: "Voiron Matériaux"
 url: /morzine/voiron-materiaux/
-shop: Eisenwaren
+shop: matériel informatique
 ---

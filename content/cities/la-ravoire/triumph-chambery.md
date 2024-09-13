@@ -1,5 +1,5 @@
 ---
 title: "Triumph Chambéry"
 url: /la-ravoire/triumph-chambery/
-shop: Motorrad
+shop: moto
 ---

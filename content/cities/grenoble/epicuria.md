@@ -1,5 +1,5 @@
 ---
 title: "Epicuria"
 url: /grenoble/epicuria/
-shop: Bäckerei
+shop: boulangerie
 ---

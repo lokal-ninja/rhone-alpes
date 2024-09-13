@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /vienne/vival/
-shop: Lebensmittel
+shop: commodité
 ---

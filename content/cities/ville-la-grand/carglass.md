@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /ville-la-grand/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baraka"
 url: /saint-chamond/baraka/
-shop: Handy
+shop: téléphone portable
 ---

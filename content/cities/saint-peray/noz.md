@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-peray/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

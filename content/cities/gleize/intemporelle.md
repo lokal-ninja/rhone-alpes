@@ -1,5 +1,5 @@
 ---
 title: "Intemporelle"
 url: /gleize/intemporelle/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havas Voyage"
 url: /vienne/havas-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

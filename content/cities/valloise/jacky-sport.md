@@ -1,5 +1,5 @@
 ---
 title: "Jacky Sport"
 url: /valloise/jacky-sport/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boxmax"
 url: /grenoble/boxmax/
-shop: Mieten
+shop: location de stockage
 ---

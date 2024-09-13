@@ -1,5 +1,5 @@
 ---
 title: "Peugeot ByMyCar Thonon"
 url: /anthy-sur-leman/peugeot-bymycar-thonon/
-shop: Autohaus
+shop: voiture
 ---

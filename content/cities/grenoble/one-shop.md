@@ -1,5 +1,5 @@
 ---
 title: "One shop"
 url: /grenoble/one-shop/
-shop: Lebensmittel
+shop: commodité
 ---

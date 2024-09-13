@@ -1,5 +1,5 @@
 ---
 title: "La Vie Claire"
 url: /chambery/la-vie-claire/
-shop: Supermarkt
+shop: supermarché
 ---

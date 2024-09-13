@@ -1,5 +1,5 @@
 ---
 title: "Chaussin"
 url: /chamonix-mont-blanc/chaussin/
-shop: Optiker
+shop: opticien
 ---

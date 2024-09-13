@@ -1,5 +1,5 @@
 ---
 title: "Nautilus"
 url: /cran-gevrier/nautilus/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ligne Roset"
 url: /annecy/ligne-roset/
-shop: Möbel
+shop: meubles
 ---

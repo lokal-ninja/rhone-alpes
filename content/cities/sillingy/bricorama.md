@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /sillingy/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

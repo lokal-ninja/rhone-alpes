@@ -1,5 +1,5 @@
 ---
 title: "Clairbelle"
 url: /tarare/clairbelle/
-shop: Blumen
+shop: fleuriste
 ---

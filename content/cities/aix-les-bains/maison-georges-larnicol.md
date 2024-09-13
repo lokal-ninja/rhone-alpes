@@ -1,5 +1,5 @@
 ---
 title: "Maison Georges Larnicol"
 url: /aix-les-bains/maison-georges-larnicol/
-shop: Schokolade
+shop: chocolat
 ---

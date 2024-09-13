@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tarare/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

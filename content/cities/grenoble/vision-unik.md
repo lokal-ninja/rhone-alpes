@@ -1,5 +1,5 @@
 ---
 title: "Vision Unik"
 url: /grenoble/vision-unik/
-shop: Optiker
+shop: opticien
 ---

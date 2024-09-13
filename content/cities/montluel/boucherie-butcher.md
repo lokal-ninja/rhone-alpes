@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Butcher"
 url: /montluel/boucherie-butcher/
-shop: Metzgerei
+shop: boucherie
 ---

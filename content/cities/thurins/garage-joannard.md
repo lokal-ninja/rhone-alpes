@@ -1,5 +1,5 @@
 ---
 title: "Garage Joannard"
 url: /thurins/garage-joannard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

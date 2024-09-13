@@ -1,5 +1,5 @@
 ---
 title: "Salon Marco"
 url: /meylan/salon-marco/
-shop: Friseur
+shop: coiffeur
 ---

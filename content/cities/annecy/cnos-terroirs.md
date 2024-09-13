@@ -1,5 +1,5 @@
 ---
 title: "C'nos terroirs"
 url: /annecy/cnos-terroirs/
-shop: Hofladen
+shop: ferme
 ---

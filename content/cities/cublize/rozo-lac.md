@@ -1,5 +1,5 @@
 ---
 title: "Roz'O Lac"
 url: /cublize/rozo-lac/
-shop: Blumen
+shop: fleuriste
 ---

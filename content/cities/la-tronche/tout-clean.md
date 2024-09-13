@@ -1,5 +1,5 @@
 ---
 title: "Tout Clean"
 url: /la-tronche/tout-clean/
-shop: Wäscherei
+shop: blanchisserie
 ---

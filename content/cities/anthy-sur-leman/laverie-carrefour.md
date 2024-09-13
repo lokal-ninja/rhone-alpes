@@ -1,5 +1,5 @@
 ---
 title: "Laverie Carrefour"
 url: /anthy-sur-leman/laverie-carrefour/
-shop: Wäscherei
+shop: blanchisserie
 ---

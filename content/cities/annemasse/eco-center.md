@@ -1,5 +1,5 @@
 ---
 title: "Eco Center"
 url: /annemasse/eco-center/
-shop: Großhandel
+shop: vente en gros
 ---

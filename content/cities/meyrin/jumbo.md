@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
 url: /meyrin/jumbo/
-shop: Baumarkt
+shop: à faire soi-même
 ---

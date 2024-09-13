@@ -1,5 +1,5 @@
 ---
 title: "Au Fumet Savoyard"
 url: /challes-les-eaux/au-fumet-savoyard/
-shop: Feinkost
+shop: charcuterie
 ---

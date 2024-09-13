@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse Le Palladium"
 url: /claix/tabac-presse-le-palladium/
-shop: Zeitungen
+shop: marchand de journaux
 ---

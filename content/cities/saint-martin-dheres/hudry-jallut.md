@@ -1,5 +1,5 @@
 ---
 title: "Hudry Jallut"
 url: /saint-martin-dheres/hudry-jallut/
-shop: Baumarkt
+shop: à faire soi-même
 ---

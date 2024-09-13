@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /annemasse/calzedonia/
-shop: Kleidung
+shop: vêtements
 ---

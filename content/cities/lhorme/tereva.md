@@ -1,5 +1,5 @@
 ---
 title: "Téréva"
 url: /lhorme/tereva/
-shop: Baumarkt
+shop: à faire soi-même
 ---

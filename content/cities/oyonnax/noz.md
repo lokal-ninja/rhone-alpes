@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /oyonnax/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

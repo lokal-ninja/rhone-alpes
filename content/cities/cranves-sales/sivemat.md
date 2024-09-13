@@ -1,5 +1,5 @@
 ---
 title: "Sivemat"
 url: /cranves-sales/sivemat/
-shop: Mieten
+shop: location de stockage
 ---

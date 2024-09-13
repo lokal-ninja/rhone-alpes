@@ -1,5 +1,5 @@
 ---
 title: "Lancel"
 url: /annecy/lancel/
-shop: Leder
+shop: cuir
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caddy Malin"
 url: /pusignan/caddy-malin/
-shop: Lebensmittel
+shop: commodité
 ---

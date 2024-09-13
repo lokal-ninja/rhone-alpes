@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /annecy/promod/
-shop: Kleidung
+shop: vêtements
 ---

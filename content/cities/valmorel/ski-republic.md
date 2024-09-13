@@ -1,5 +1,5 @@
 ---
 title: "Ski Republic"
 url: /valmorel/ski-republic/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chloelial Institut"
 url: /heyrieux/chloelial-institut/
-shop: Kosmetik
+shop: beauté
 ---

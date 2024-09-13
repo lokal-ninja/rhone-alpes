@@ -1,5 +1,5 @@
 ---
 title: "Delta Auomobile"
 url: /lhorme/delta-auomobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---
