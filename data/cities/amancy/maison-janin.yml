@@ -1,11 +1,11 @@
 id: 1244220783
-type: way
+type: node
 latitude: 46.07431
 longitude: 6.3145
 postcode: "74800"
 city: Amancy
-street: "Rue du Quarré"
-housenumber: 521
+street: Rue du Quarré
+housenumber: "521"
 phone: ""
-opening_hours: "Mo-Su 05:00-20:00"
+opening_hours: Mo-Su 05:00-20:00
 website: ""

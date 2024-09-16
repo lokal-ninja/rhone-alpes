@@ -1,11 +1,11 @@
 id: 185655288
-type: way
+type: node
 latitude: 46.26686
 longitude: 5.51749
 postcode: "39240"
 city: Thoirette
-street: "Route d'Aromas"
-housenumber: 
+street: Route d'Aromas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

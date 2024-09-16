@@ -1,11 +1,11 @@
 id: 218197863
-type: way
+type: node
 latitude: 45.57692
 longitude: 5.60145
 postcode: "38490"
 city: chimilin
-street: "Place  de l'Église,"
-housenumber: 2
+street: Place  de l'Église,
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

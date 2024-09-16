@@ -1,11 +1,11 @@
 id: 363482367
-type: way
+type: node
 latitude: 46.2551
 longitude: 5.05869
 postcode: "01310"
 city: Confrançon
-street: "Route de Vandeins"
-housenumber: 105
-phone: "+33 4 74 42 08 20"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://magasin.netto.fr/523-netto-confrancon"
+street: Route de Vandeins
+housenumber: "105"
+phone: +33 4 74 42 08 20
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://magasin.netto.fr/523-netto-confrancon

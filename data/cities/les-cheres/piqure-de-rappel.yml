@@ -4,8 +4,8 @@ latitude: 45.88982
 longitude: 4.7427
 postcode: "69380"
 city: Les Chères
-street: "Place de l'Église"
-housenumber: 12
+street: Place de l'Église
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 14:00-19:00; Sa 14:00-18:00"
-website: "https://www.piqurederappel.net/"
+opening_hours: Mo-Fr 14:00-19:00; Sa 14:00-18:00
+website: https://www.piqurederappel.net/

@@ -4,8 +4,8 @@ latitude: 45.74785
 longitude: 4.86498
 postcode: "69003"
 city: Lyon
-street: "Cours Albert Thomas"
-housenumber: 45
-phone: "+33 4 72 13 02 37"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.magasins-u.com/magasin/uexpress-lyonalbertthomas"
+street: Cours Albert Thomas
+housenumber: "45"
+phone: +33 4 72 13 02 37
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.magasins-u.com/magasin/uexpress-lyonalbertthomas

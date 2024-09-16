@@ -4,8 +4,8 @@ latitude: 45.18031
 longitude: 5.70778
 postcode: "38000"
 city: Grenoble
-street: "Boulevard Joseph Vallier"
-housenumber: 48
-phone: "+33 6 68 59 08 74"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Boulevard Joseph Vallier
+housenumber: "48"
+phone: +33 6 68 59 08 74
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 197258168
-type: way
+type: node
 latitude: 46.29716
 longitude: 6.30716
 postcode: "74140"
 city: Douvaine
-street: "Route des Esserts"
-housenumber: 
+street: Route des Esserts
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

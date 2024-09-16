@@ -4,8 +4,8 @@ latitude: 46.2145
 longitude: 5.21357
 postcode: "01440"
 city: Viriat
-street: "Rue du Plateau"
-housenumber: 45
-phone: "+33 4 74 22 65 93"
-opening_hours: "Mo-Sa 09:30-19:00"
+street: Rue du Plateau
+housenumber: "45"
+phone: +33 4 74 22 65 93
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

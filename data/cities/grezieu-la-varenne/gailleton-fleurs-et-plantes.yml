@@ -1,11 +1,11 @@
 id: 355717257
-type: way
+type: node
 latitude: 45.74795
 longitude: 4.70854
 postcode: "69290"
 city: Grézieu-la-Varenne
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: "0478571362"
-opening_hours: "Mo-Sa 08:30-19:00"
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

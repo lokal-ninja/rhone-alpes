@@ -1,11 +1,11 @@
 id: 66721568
-type: way
+type: node
 latitude: 45.73742
 longitude: 4.65691
 postcode: "69670"
 city: Vaugneray
-street: "Boulevard des Lavandières"
-housenumber: 16
+street: Boulevard des Lavandières
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

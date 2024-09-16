@@ -4,8 +4,8 @@ latitude: 45.44232
 longitude: 4.76865
 postcode: "38370"
 city: Saint-Clair-du-Rhône
-street: "Route de Condrieu"
-housenumber: 
+street: Route de Condrieu
+housenumber: ""
 phone: "+33474563055"
-opening_hours: "Mo-Sa 8:30-20:00; Su 8:30-12:00"
-website: "https://www.e-leclerc.com/st-clair"
+opening_hours: Mo-Sa 8:30-20:00; Su 8:30-12:00
+website: https://www.e-leclerc.com/st-clair

@@ -4,8 +4,8 @@ latitude: 45.9065
 longitude: 6.13421
 postcode: "74000"
 city: Annecy
-street: "Avenue du Parmelan"
-housenumber: 30
-phone: "+33 4 50 51 12 70"
-opening_hours: "Mo-Sa 07:30-20:30"
-website: "https://www.kunz.fr/"
+street: Avenue du Parmelan
+housenumber: "30"
+phone: +33 4 50 51 12 70
+opening_hours: Mo-Sa 07:30-20:30
+website: https://www.kunz.fr/

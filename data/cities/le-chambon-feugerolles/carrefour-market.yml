@@ -4,8 +4,8 @@ latitude: 45.3967
 longitude: 4.32277
 postcode: "42500"
 city: Le Chambon-Feugerolles
-street: "Rue Émile Zola"
-housenumber: 5
-phone: "+33 4 77 40 02 59"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/"
+street: Rue Émile Zola
+housenumber: "5"
+phone: +33 4 77 40 02 59
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/

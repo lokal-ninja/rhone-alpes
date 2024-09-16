@@ -1,11 +1,11 @@
 id: 860765126
-type: way
+type: node
 latitude: 46.30565
 longitude: 6.42216
 postcode: "74550"
 city: Perrignier
-street: "Rue du Brafyeu"
-housenumber: 
-phone: "+33 4 50 81 90 89"
+street: Rue du Brafyeu
+housenumber: ""
+phone: +33 4 50 81 90 89
 opening_hours: ""
-website: "http://lvchablais.fr"
+website: http://lvchablais.fr

@@ -1,11 +1,11 @@
 id: 120173046
-type: way
+type: node
 latitude: 45.59197
 longitude: 5.24856
 postcode: "38300"
 city: Bourgoin-Jallieu
-street: "Rue Édouard Branly"
-housenumber: 8
-phone: "+33 4 74 43 57 43"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Rue Édouard Branly
+housenumber: "8"
+phone: +33 4 74 43 57 43
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

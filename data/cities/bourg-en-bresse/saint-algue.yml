@@ -5,7 +5,7 @@ longitude: 5.22889
 postcode: "01000"
 city: Bourg-en-Bresse
 street: ""
-housenumber: 1
-phone: "+33 474529665"
-opening_hours: "Mo-Sa 09:00-19:30"
+housenumber: "1"
+phone: +33 474529665
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

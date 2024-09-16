@@ -4,8 +4,8 @@ latitude: 45.31907
 longitude: 4.76907
 postcode: "38550"
 city: Sablons
-street: "Rue Gustave Toursier"
-housenumber: 3
-phone: "+33 4 74 84 32 25"
-opening_hours: "Tu-Sa 05:15-19:00; Su 07:00-12:45"
+street: Rue Gustave Toursier
+housenumber: "3"
+phone: +33 4 74 84 32 25
+opening_hours: Tu-Sa 05:15-19:00; Su 07:00-12:45
 website: ""

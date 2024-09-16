@@ -1,11 +1,11 @@
 id: 398056960
-type: way
+type: node
 latitude: 45.18418
 longitude: 5.72413
 postcode: "38000"
 city: Grenoble
-street: "Zac De Bonne, Centre Commercial Caserne De Bonne"
-housenumber: 
-phone: "+33 4 76 27 83 26"
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:00-14:00"
-website: "https://paul.fr/stores/grenoble"
+street: Zac De Bonne, Centre Commercial Caserne De Bonne
+housenumber: ""
+phone: +33 4 76 27 83 26
+opening_hours: Mo-Sa 08:00-19:30; Su 08:00-14:00
+website: https://paul.fr/stores/grenoble

@@ -4,8 +4,8 @@ latitude: 46.23175
 longitude: 6.07166
 postcode: "1217"
 city: Meyrin
-street: "Esplanade des Récréations"
-housenumber: 19
-phone: "+41 22 566 77 60"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 10:00-17:00"
-website: "https://la-feve.ch/notre-magasin/"
+street: Esplanade des Récréations
+housenumber: "19"
+phone: +41 22 566 77 60
+opening_hours: Tu-Fr 09:30-19:00; Sa 10:00-17:00
+website: https://la-feve.ch/notre-magasin/

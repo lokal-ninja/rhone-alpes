@@ -4,8 +4,8 @@ latitude: 45.56158
 longitude: 5.89996
 postcode: "73160"
 city: Cognin
-street: "Rue de la Paix"
-housenumber: 2
+street: Rue de la Paix
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,13:30-19:00; Sa 10:00-12:30,13:30-18:30"
-website: "https://le-moulin-a-mots.fr/"
+opening_hours: Tu-Fr 09:30-12:30,13:30-19:00; Sa 10:00-12:30,13:30-18:30
+website: https://le-moulin-a-mots.fr/

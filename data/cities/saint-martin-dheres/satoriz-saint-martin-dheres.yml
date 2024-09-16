@@ -1,11 +1,11 @@
 id: 43570574
-type: way
+type: node
 latitude: 45.18782
 longitude: 5.74824
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 2
+street: Avenue Gabriel Péri
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.satoriz.fr/magasin-bio/satoriz-grenoble/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.satoriz.fr/magasin-bio/satoriz-grenoble/

@@ -4,8 +4,8 @@ latitude: 45.92528
 longitude: 6.87049
 postcode: "74400"
 city: Chamonix-Mont-Blanc
-street: "Avenue du Mont-Blanc"
-housenumber: 17
-phone: "+33 4 50 53 11 85"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-13:00"
+street: Avenue du Mont-Blanc
+housenumber: "17"
+phone: +33 4 50 53 11 85
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-13:00
 website: ""

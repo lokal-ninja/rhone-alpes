@@ -4,8 +4,8 @@ latitude: 45.19222
 longitude: 5.73137
 postcode: "38000"
 city: Grenoble
-street: "Place Notre-Dame"
-housenumber: 3
+street: Place Notre-Dame
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 05:30-19:15; PH,Su 05:30-18:15"
+opening_hours: Mo,Tu,Th-Sa 05:30-19:15; PH,Su 05:30-18:15
 website: ""

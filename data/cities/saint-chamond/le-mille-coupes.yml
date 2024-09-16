@@ -4,8 +4,8 @@ latitude: 45.47498
 longitude: 4.51291
 postcode: "42400"
 city: Saint-Chamond
-street: "Avenue Antoine Pinay"
-housenumber: 1
+street: Avenue Antoine Pinay
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.55702
 longitude: 6.65194
 postcode: "73210"
 city: Aime
-street: "Grande Rue"
-housenumber: 198
-phone: "+33 4 79 55 67 35"
-opening_hours: "Tu-Sa 07:30-12:30,15:30-19:00"
-website: "https://www.laboucheriegourmande.fr"
+street: Grande Rue
+housenumber: "198"
+phone: +33 4 79 55 67 35
+opening_hours: Tu-Sa 07:30-12:30,15:30-19:00
+website: https://www.laboucheriegourmande.fr

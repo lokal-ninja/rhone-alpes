@@ -1,11 +1,11 @@
 id: 138475818
-type: way
+type: node
 latitude: 46.15333
 longitude: 5.60512
 postcode: "01130"
 city: Nantua
-street: "Rue Docteur Mercier"
-housenumber: 46
+street: Rue Docteur Mercier
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.24758
 longitude: 5.83376
 postcode: "38330"
 city: Saint-Ismier
-street: "Route de Chambéry"
-housenumber: 1488
-phone: "+33 4 76 52 01 42"
-opening_hours: "Tu-Su 06:00-13:00; Tu-Sa 15:30-19:30"
+street: Route de Chambéry
+housenumber: "1488"
+phone: +33 4 76 52 01 42
+opening_hours: Tu-Su 06:00-13:00; Tu-Sa 15:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.20145
 longitude: 5.67787
 postcode: "38600"
 city: Fontaine
-street: "Rue de Sassenage"
-housenumber: 23
+street: Rue de Sassenage
+housenumber: "23"
 phone: "+33476840560"
-opening_hours: "Mo-Fr 07:15-12:00 13:30-17:30"
-website: "https://www.yesss-fr.com/"
+opening_hours: Mo-Fr 07:15-12:00 13:30-17:30
+website: https://www.yesss-fr.com/

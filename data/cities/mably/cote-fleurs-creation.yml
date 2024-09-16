@@ -4,8 +4,8 @@ latitude: 46.05404
 longitude: 4.07355
 postcode: "42300"
 city: Mably
-street: "Route de BRIENNON"
-housenumber: 3
+street: Route de BRIENNON
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 08:30-19:00"
-website: "https://www.cotefleurscreation.fr/"
+opening_hours: Mo-Su 08:30-19:00
+website: https://www.cotefleurscreation.fr/

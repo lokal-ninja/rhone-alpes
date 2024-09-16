@@ -1,11 +1,11 @@
 id: 135881600
-type: way
+type: node
 latitude: 45.50972
 longitude: 4.85573
 postcode: "38200"
 city: Vienne
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

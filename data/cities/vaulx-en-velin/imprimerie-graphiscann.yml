@@ -4,8 +4,8 @@ latitude: 45.7794
 longitude: 4.94098
 postcode: "69120"
 city: Vaulx-en-Velin
-street: "Avenue Karl Marx"
-housenumber: 32
-phone: "+33 4 72 33 60 70"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.graphiscann.fr"
+street: Avenue Karl Marx
+housenumber: "32"
+phone: +33 4 72 33 60 70
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.graphiscann.fr

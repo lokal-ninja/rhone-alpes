@@ -1,11 +1,11 @@
 id: 653039024
-type: way
+type: node
 latitude: 45.75402
 longitude: 5.19418
 postcode: "38230"
 city: Tignieu-Jameyzieu
-street: "Route de Crémieu"
-housenumber: 95
+street: Route de Crémieu
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/tignieu-jameyzieu/"
+website: https://www.nozarrivages.com/magasin/tignieu-jameyzieu/

@@ -1,11 +1,11 @@
 id: 877543380
-type: way
+type: node
 latitude: 46.18576
 longitude: 6.27712
 postcode: "74100"
 city: Vétraz-Monthoux
-street: "Route de Taninges"
-housenumber: 
-phone: "+33 4 50 54 29 87"
-opening_hours: "24/7"
-website: "https://www.boxenloc.com/"
+street: Route de Taninges
+housenumber: ""
+phone: +33 4 50 54 29 87
+opening_hours: 24/7
+website: https://www.boxenloc.com/

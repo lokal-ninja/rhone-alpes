@@ -1,11 +1,11 @@
 id: 164602405
-type: way
+type: node
 latitude: 45.58128
 longitude: 5.97931
 postcode: "73230"
 city: Saint-Jean-d'Arvey
-street: "Route de la Corbière au Bout du Monde"
-housenumber: 
+street: Route de la Corbière au Bout du Monde
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

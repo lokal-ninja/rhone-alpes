@@ -1,11 +1,11 @@
 id: 1149269331
-type: way
+type: node
 latitude: 46.22877
 longitude: 5.99336
 postcode: "01710"
 city: Thoiry
-street: "Zone du Pré Jacquet"
-housenumber: 1
+street: Zone du Pré Jacquet
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.go-sport.com/store-locator-go-sport-france-thoiry"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.go-sport.com/store-locator-go-sport-france-thoiry

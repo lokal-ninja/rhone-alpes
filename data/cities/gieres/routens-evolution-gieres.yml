@@ -1,11 +1,11 @@
 id: 42351081
-type: way
+type: node
 latitude: 45.17994
 longitude: 5.7877
 postcode: "38610"
 city: Gières
-street: "Avenue Henri Duhamel"
-housenumber: 2
+street: Avenue Henri Duhamel
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

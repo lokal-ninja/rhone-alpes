@@ -1,11 +1,11 @@
 id: 159025533
-type: way
+type: node
 latitude: 46.23891
 longitude: 5.66871
 postcode: "01100"
 city: Oyonnax
-street: "Rue de Geilles"
-housenumber: 115
+street: Rue de Geilles
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

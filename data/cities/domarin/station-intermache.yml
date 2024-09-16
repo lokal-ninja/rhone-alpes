@@ -1,11 +1,11 @@
 id: 64982532
-type: way
+type: node
 latitude: 45.59047
 longitude: 5.24172
 postcode: "38300"
 city: Domarin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.17644
 longitude: 5.72477
 postcode: "38100"
 city: Grenoble
-street: "Rue du Général Ferrié"
-housenumber: 45
-phone: "+33 9 82 53 01 12"
-opening_hours: "Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-13:00,15:00-18:00; Su off"
-website: "http://www.episol.fr/"
+street: Rue du Général Ferrié
+housenumber: "45"
+phone: +33 9 82 53 01 12
+opening_hours: Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-13:00,15:00-18:00; Su off
+website: http://www.episol.fr/

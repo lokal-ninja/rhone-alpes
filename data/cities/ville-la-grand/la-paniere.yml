@@ -1,11 +1,11 @@
 id: 452114733
-type: way
+type: node
 latitude: 46.2025
 longitude: 6.27801
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue de Montréal"
-housenumber: 6
+street: Rue de Montréal
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-19:30"
+opening_hours: Mo-Su 07:00-19:30
 website: ""

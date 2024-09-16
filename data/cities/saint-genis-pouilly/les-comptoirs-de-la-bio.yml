@@ -1,11 +1,11 @@
 id: 706108443
-type: way
+type: node
 latitude: 46.25448
 longitude: 6.02737
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue du Salève"
-housenumber: 126
+street: Rue du Salève
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:00"
-website: "https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-st-génis-pouilly-105495"
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:00
+website: https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-st-génis-pouilly-105495

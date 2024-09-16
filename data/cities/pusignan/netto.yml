@@ -1,11 +1,11 @@
 id: 868801218
-type: way
+type: node
 latitude: 45.76583
 longitude: 5.07427
 postcode: "69330"
 city: Pusignan
-street: "Route de Jons"
-housenumber: 15
-phone: "+33 4 87 91 48 50"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://magasin.netto.fr/467-netto-pusignan"
+street: Route de Jons
+housenumber: "15"
+phone: +33 4 87 91 48 50
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://magasin.netto.fr/467-netto-pusignan

@@ -1,11 +1,11 @@
 id: 106638861
-type: way
+type: node
 latitude: 45.80287
 longitude: 4.85709
 postcode: "69300"
 city: Caluire-et-Cuire
-street: "Chemin Jean Petit"
-housenumber: 10
+street: Chemin Jean Petit
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30"
-website: "https://caluire.aushopping.com/fr"
+opening_hours: Mo-Sa 08:30-21:30
+website: https://caluire.aushopping.com/fr

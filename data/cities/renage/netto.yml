@@ -1,11 +1,11 @@
 id: 100776975
-type: way
+type: node
 latitude: 45.34233
 longitude: 5.49393
 postcode: "38140"
 city: Renage
-street: "Route de Rives"
-housenumber: 
-phone: "+33 4 76 91 22 00"
-opening_hours: "Mo-Th 08:30-12:30,14:00-19:15; Fr-Sa 08:30-19:15; Su 08:30-12:30"
-website: "https://magasin.netto.fr/423-netto-renage"
+street: Route de Rives
+housenumber: ""
+phone: +33 4 76 91 22 00
+opening_hours: Mo-Th 08:30-12:30,14:00-19:15; Fr-Sa 08:30-19:15; Su 08:30-12:30
+website: https://magasin.netto.fr/423-netto-renage

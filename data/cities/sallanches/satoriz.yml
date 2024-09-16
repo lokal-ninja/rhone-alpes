@@ -4,8 +4,8 @@ latitude: 45.95305
 longitude: 6.63058
 postcode: "74700"
 city: Sallanches
-street: "Avenue de Genève"
-housenumber: 1894
+street: Avenue de Genève
+housenumber: "1894"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.satoriz.fr/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.satoriz.fr/

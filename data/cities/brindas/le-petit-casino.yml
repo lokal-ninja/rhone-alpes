@@ -4,8 +4,8 @@ latitude: 45.72026
 longitude: 4.69394
 postcode: "69126"
 city: Brindas
-street: "Place de Verdun"
-housenumber: 22
-phone: "+33 4 78 45 53 88"
-opening_hours: "Tu-Sa 07:00-13:00,15:30-19:30; Su 08:30-12:30"
+street: Place de Verdun
+housenumber: "22"
+phone: +33 4 78 45 53 88
+opening_hours: Tu-Sa 07:00-13:00,15:30-19:30; Su 08:30-12:30
 website: ""

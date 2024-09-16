@@ -4,8 +4,8 @@ latitude: 46.26616
 longitude: 6.36836
 postcode: "74890"
 city: Bons-en-Chablais
-street: "place de la Colombière"
-housenumber: 9
-phone: "+33 4 50 95 88 57"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
-website: "https://boisopticiens.business.site/"
+street: place de la Colombière
+housenumber: "9"
+phone: +33 4 50 95 88 57
+opening_hours: Mo,Su off; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
+website: https://boisopticiens.business.site/

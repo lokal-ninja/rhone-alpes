@@ -1,11 +1,11 @@
 id: 86255782
-type: way
+type: node
 latitude: 46.18576
 longitude: 6.24307
 postcode: "74100"
 city: Annemasse
-street: "Avenue de Verdun"
-housenumber: 21
+street: Avenue de Verdun
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

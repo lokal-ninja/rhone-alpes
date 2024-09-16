@@ -4,8 +4,8 @@ latitude: 45.63251
 longitude: 4.45608
 postcode: "69590"
 city: Saint-Symphorien-sur-Coise
-street: "Grande Rue"
-housenumber: 70
+street: Grande Rue
+housenumber: "70"
 phone: "+33478445795"
-opening_hours: "Mo-Sa 08:00-12:00,14:00-19:00"
-website: "https://www.quincaillerie-droguerie-menage.fr/"
+opening_hours: Mo-Sa 08:00-12:00,14:00-19:00
+website: https://www.quincaillerie-droguerie-menage.fr/

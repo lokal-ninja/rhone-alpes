@@ -1,11 +1,11 @@
 id: 335689961
-type: way
+type: node
 latitude: 46.19987
 longitude: 5.24424
 postcode: "01000"
 city: Bourg-en-Bresse
-street: "Boulevard Charles de Gaulle"
-housenumber: 
-phone: "+33 4 74 50 30 00"
+street: Boulevard Charles de Gaulle
+housenumber: ""
+phone: +33 4 74 50 30 00
 opening_hours: ""
-website: "https://www.carrefour.fr/magasin/bourg-en-bresse"
+website: https://www.carrefour.fr/magasin/bourg-en-bresse

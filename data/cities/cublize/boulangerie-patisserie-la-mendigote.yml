@@ -1,11 +1,11 @@
 id: 368015688
-type: way
+type: node
 latitude: 46.01905
 longitude: 4.37806
 postcode: "69550"
 city: Cublize
-street: "Rue de l'Hôtel de Ville"
-housenumber: 34
-phone: "+33 4 74 89 57 13"
+street: Rue de l'Hôtel de Ville
+housenumber: "34"
+phone: +33 4 74 89 57 13
 opening_hours: ""
 website: ""

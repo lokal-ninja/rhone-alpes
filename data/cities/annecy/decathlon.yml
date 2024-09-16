@@ -4,8 +4,8 @@ latitude: 45.90346
 longitude: 6.12635
 postcode: "74000"
 city: Annecy
-street: "Rue de la Paix"
-housenumber: 7
+street: Rue de la Paix
+housenumber: "7"
 phone: "+33485720003"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-annecy-city-centre-ville-0070253102531"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-annecy-city-centre-ville-0070253102531

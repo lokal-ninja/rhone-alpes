@@ -1,11 +1,11 @@
 id: 80993119
-type: way
+type: node
 latitude: 45.1539
 longitude: 5.70999
 postcode: "38130"
 city: Échirolles
-street: "Avenue Victor Hugo"
-housenumber: 8
+street: Avenue Victor Hugo
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.action.com/fr-fr/points-de-vente/echirolles-8-avenue-victor-hugo/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.action.com/fr-fr/points-de-vente/echirolles-8-avenue-victor-hugo/

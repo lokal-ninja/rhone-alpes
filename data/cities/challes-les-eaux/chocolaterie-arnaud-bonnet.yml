@@ -1,11 +1,11 @@
 id: 413428600
-type: way
+type: node
 latitude: 45.54819
 longitude: 5.98477
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue Charles Pillet"
-housenumber: 43
+street: Avenue Charles Pillet
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

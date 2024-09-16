@@ -1,11 +1,11 @@
 id: 1182584947
-type: way
+type: node
 latitude: 45.06917
 longitude: 5.13014
 postcode: "26750"
 city: Saint-Paul-lès-Romans
-street: "Impasse du Pressoir"
-housenumber: 30
+street: Impasse du Pressoir
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

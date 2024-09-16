@@ -1,11 +1,11 @@
 id: 556353275
-type: way
+type: node
 latitude: 45.60806
 longitude: 4.80969
 postcode: "69360"
 city: Ternay
-street: "Place de l'Église"
-housenumber: 19
+street: Place de l'Église
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.22745
 longitude: 6.0784
 postcode: "1217"
 city: Meyrin
-street: "Route de Meyrin"
-housenumber: 248
-phone: "+41 22 782 09 36"
-opening_hours: "Mo-Su 06:00-22:00"
+street: Route de Meyrin
+housenumber: "248"
+phone: +41 22 782 09 36
+opening_hours: Mo-Su 06:00-22:00
 website: ""

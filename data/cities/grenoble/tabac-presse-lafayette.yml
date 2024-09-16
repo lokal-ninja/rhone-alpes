@@ -4,8 +4,8 @@ latitude: 45.19186
 longitude: 5.72948
 postcode: "38000"
 city: Grenoble
-street: "Rue Lafayette"
-housenumber: 4
+street: Rue Lafayette
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 07:00-19:30; Fr,Sa 07:00-21:00; Su 08:00-12:00"
+opening_hours: Mo-Th 07:00-19:30; Fr,Sa 07:00-21:00; Su 08:00-12:00
 website: ""

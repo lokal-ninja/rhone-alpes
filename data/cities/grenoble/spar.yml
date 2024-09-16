@@ -4,8 +4,8 @@ latitude: 45.18642
 longitude: 5.73185
 postcode: "38000"
 city: Grenoble
-street: "Rue de Strasbourg"
-housenumber: 22
+street: Rue de Strasbourg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:50; Su 08:30-12:50"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-grenoble-strasbourg"
+opening_hours: Mo-Sa 07:00-20:50; Su 08:30-12:50
+website: https://magasins.spar.fr/fr/s/spar-supermarche-grenoble-strasbourg

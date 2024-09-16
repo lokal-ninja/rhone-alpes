@@ -1,11 +1,11 @@
 id: 259230014
-type: way
+type: node
 latitude: 44.58533
 longitude: 5.13371
 postcode: "26460"
 city: Bourdeaux
-street: "Place de l’Église"
-housenumber: 9
-phone: "+33 4 75 53 32 14"
-opening_hours: "Mo off; Tu,Th,Fr,Sa 8:30-12:30, 15:00-19:30; We 8:30-12:30; Su 9:00-12:30"
+street: Place de l’Église
+housenumber: "9"
+phone: +33 4 75 53 32 14
+opening_hours: Mo off; Tu,Th,Fr,Sa 8:30-12:30, 15:00-19:30; We 8:30-12:30; Su 9:00-12:30
 website: ""

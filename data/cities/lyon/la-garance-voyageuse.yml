@@ -1,11 +1,11 @@
 id: 62290924
-type: way
+type: node
 latitude: 45.76876
 longitude: 4.84225
 postcode: "69006"
 city: Lyon
-street: "Place Maréchal Lyautey"
-housenumber: 
-phone: "+33 4 37 42 56 64"
+street: Place Maréchal Lyautey
+housenumber: ""
+phone: +33 4 37 42 56 64
 opening_hours: ""
-website: "https://lagarancevoyageuse.fr/"
+website: https://lagarancevoyageuse.fr/

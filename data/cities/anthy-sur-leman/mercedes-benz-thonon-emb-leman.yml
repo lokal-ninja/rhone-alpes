@@ -1,11 +1,11 @@
 id: 1117836258
-type: way
+type: node
 latitude: 46.35101
 longitude: 6.43411
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Chemin de l'Etroz"
-housenumber: 2
+street: Chemin de l'Etroz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

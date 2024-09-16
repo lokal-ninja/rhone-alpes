@@ -4,8 +4,8 @@ latitude: 46.05947
 longitude: 6.58053
 postcode: "74300"
 city: Cluses
-street: "Grande Rue"
-housenumber: 14
-phone: "+33 4 57 19 10 25"
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-19:00"
-website: "https://boutique.sfr.fr/auvergne-rhone-alpes/haute-savoie/cluses/14-grand-rue"
+street: Grande Rue
+housenumber: "14"
+phone: +33 4 57 19 10 25
+opening_hours: Mo-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-19:00
+website: https://boutique.sfr.fr/auvergne-rhone-alpes/haute-savoie/cluses/14-grand-rue

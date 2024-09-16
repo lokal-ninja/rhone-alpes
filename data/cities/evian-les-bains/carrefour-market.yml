@@ -1,11 +1,11 @@
 id: 66978180
-type: way
+type: node
 latitude: 46.39642
 longitude: 6.57262
 postcode: "74500"
 city: Évian-les-Bains
-street: "Avenue des Bocquies"
-housenumber: 7
+street: Avenue des Bocquies
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

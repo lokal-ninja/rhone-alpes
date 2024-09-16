@@ -1,11 +1,11 @@
 id: 860765127
-type: way
+type: node
 latitude: 46.30633
 longitude: 6.42298
 postcode: "74550"
 city: Perrignier
-street: "Rue du Brafyeu"
-housenumber: 206
-phone: "+33 4 50 71 23 32"
+street: Rue du Brafyeu
+housenumber: "206"
+phone: +33 4 50 71 23 32
 opening_hours: ""
-website: "https://www.un-leman.fr"
+website: https://www.un-leman.fr

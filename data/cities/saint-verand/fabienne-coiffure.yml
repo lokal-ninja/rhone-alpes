@@ -4,8 +4,8 @@ latitude: 45.17373
 longitude: 5.3326
 postcode: "38160"
 city: Saint-Vérand
-street: "Le Village"
-housenumber: 440
-phone: "+33 4 76 36 13 87"
-opening_hours: "Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 08:00-16:30"
+street: Le Village
+housenumber: "440"
+phone: +33 4 76 36 13 87
+opening_hours: Mo-Th 08:30-18:30, Fr 08:00-18:30, Sa 08:00-16:30
 website: ""

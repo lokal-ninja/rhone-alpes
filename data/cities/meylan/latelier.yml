@@ -4,8 +4,8 @@ latitude: 45.21809
 longitude: 5.7786
 postcode: "38240"
 city: Meylan
-street: "Avenue de Chartreuse"
-housenumber: 56
-phone: "+33 4 76 41 88 81"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.atelier-meylan.com/"
+street: Avenue de Chartreuse
+housenumber: "56"
+phone: +33 4 76 41 88 81
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.atelier-meylan.com/

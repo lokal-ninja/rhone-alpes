@@ -1,11 +1,11 @@
 id: 80119389
-type: way
+type: node
 latitude: 46.20357
 longitude: 6.27505
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Artisans"
-housenumber: 8
+street: Rue des Artisans
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Sa-Su off; Tu-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 14:00-18:00"
+opening_hours: Mo,Sa-Su off; Tu-Th 07:30-12:00, 13:00-17:00; Fr 07:30-12:00, 14:00-18:00
 website: ""

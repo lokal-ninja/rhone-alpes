@@ -5,7 +5,7 @@ longitude: 4.8449
 postcode: "38200"
 city: Seyssuel
 street: ""
-housenumber: 32
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Su 08:00-13:00, Tu-Sa 15:00-20:00"
-website: "https://www.latelierdebaptiste.fr"
+opening_hours: Tu-Su 08:00-13:00, Tu-Sa 15:00-20:00
+website: https://www.latelierdebaptiste.fr

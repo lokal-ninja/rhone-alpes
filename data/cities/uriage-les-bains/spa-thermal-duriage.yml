@@ -4,8 +4,8 @@ latitude: 45.14257
 longitude: 5.83027
 postcode: "38410"
 city: Uriage Les Bains
-street: "Place Hygie"
-housenumber: 60
-phone: "+33 4 76 89 29 00"
-opening_hours: "mo-sa 08:00-19:00"
-website: "https://centre-thermal.uriage.com/spa"
+street: Place Hygie
+housenumber: "60"
+phone: +33 4 76 89 29 00
+opening_hours: mo-sa 08:00-19:00
+website: https://centre-thermal.uriage.com/spa

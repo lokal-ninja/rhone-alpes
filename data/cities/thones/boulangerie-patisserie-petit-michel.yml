@@ -4,8 +4,8 @@ latitude: 45.88319
 longitude: 6.32654
 postcode: "74230"
 city: Thones
-street: "Rue de la Saulne"
-housenumber: 23
-phone: "+33 4 50 02 93 19"
-opening_hours: "06:00-13:00,15:00-19:00"
+street: Rue de la Saulne
+housenumber: "23"
+phone: +33 4 50 02 93 19
+opening_hours: 06:00-13:00,15:00-19:00
 website: ""

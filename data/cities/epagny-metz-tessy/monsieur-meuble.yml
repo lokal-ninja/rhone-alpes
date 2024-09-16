@@ -4,8 +4,8 @@ latitude: 45.9359
 longitude: 6.08249
 postcode: "74330"
 city: Épagny Metz-Tessy
-street: "Avenue du Centre"
-housenumber: 182
+street: Avenue du Centre
+housenumber: "182"
 phone: "+33450225192"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.monsieur-meuble.fr/magasin-annecy.html"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: https://www.monsieur-meuble.fr/magasin-annecy.html

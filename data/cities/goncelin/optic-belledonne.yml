@@ -4,8 +4,8 @@ latitude: 45.34297
 longitude: 5.97781
 postcode: "38570"
 city: Goncelin
-street: "Avenue des Tirignons"
-housenumber: 51
-phone: "+33 4 76 08 46 67"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Avenue des Tirignons
+housenumber: "51"
+phone: +33 4 76 08 46 67
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

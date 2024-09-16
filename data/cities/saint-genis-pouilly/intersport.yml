@@ -1,11 +1,11 @@
 id: 254003517
-type: way
+type: node
 latitude: 46.26374
 longitude: 6.02908
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue des Chalets"
-housenumber: 185
+street: Rue des Chalets
+housenumber: "185"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
 website: ""

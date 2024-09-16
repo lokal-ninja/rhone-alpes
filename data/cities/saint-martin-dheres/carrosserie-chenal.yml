@@ -1,11 +1,11 @@
 id: 133510599
-type: way
+type: node
 latitude: 45.18741
 longitude: 5.76058
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Rue Eugène Chavant"
-housenumber: 5
+street: Rue Eugène Chavant
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, Mo-Th 14:00-18:00, Fr 14:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, Mo-Th 14:00-18:00, Fr 14:00-17:00
 website: ""

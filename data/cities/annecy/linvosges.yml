@@ -4,8 +4,8 @@ latitude: 45.90006
 longitude: 6.12722
 postcode: "74000"
 city: Annecy
-street: "Rue Joseph Blanc"
-housenumber: 2
+street: Rue Joseph Blanc
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.linvosges.com/fr/nos-magasins/annecy/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.linvosges.com/fr/nos-magasins/annecy/

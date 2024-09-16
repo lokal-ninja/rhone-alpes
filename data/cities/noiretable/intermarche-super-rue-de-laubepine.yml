@@ -1,11 +1,11 @@
 id: 319497884
-type: way
+type: node
 latitude: 45.82205
 longitude: 3.76515
 postcode: "42440"
 city: Noirétable
-street: "Rue de l'Aubépine"
-housenumber: 12
+street: Rue de l'Aubépine
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

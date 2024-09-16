@@ -1,11 +1,11 @@
 id: 71556935
-type: way
+type: node
 latitude: 44.75985
 longitude: 4.83735
 postcode: "26270"
 city: Loriol-sur-Drôme
-street: "Allée des Crozes"
-housenumber: 
+street: Allée des Crozes
+housenumber: ""
 phone: "0475806347"
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00"
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-12:00,14:00-18:00
 website: ""

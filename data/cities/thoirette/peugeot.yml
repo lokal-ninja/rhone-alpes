@@ -1,11 +1,11 @@
 id: 185655263
-type: way
+type: node
 latitude: 46.26576
 longitude: 5.52087
 postcode: "39240"
 city: Thoirette
-street: "Route de Bourg"
-housenumber: 8
-phone: "+33 4 74 76 83 53"
+street: Route de Bourg
+housenumber: "8"
+phone: +33 4 74 76 83 53
 opening_hours: ""
-website: "https://concessions.peugeot.fr/thoirette/"
+website: https://concessions.peugeot.fr/thoirette/

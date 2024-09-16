@@ -1,11 +1,11 @@
 id: 43391265
-type: way
+type: node
 latitude: 45.1719
 longitude: 5.72904
 postcode: "38100"
 city: Grenoble
-street: "Rue Gustave Flaubert"
-housenumber: 19
+street: Rue Gustave Flaubert
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:45-12:00, 14:00-17:30; Fr 07:45-12:00, 14:00-16:15"
+opening_hours: Mo-Th 07:45-12:00, 14:00-17:30; Fr 07:45-12:00, 14:00-16:15
 website: ""

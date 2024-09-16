@@ -4,8 +4,8 @@ latitude: 45.20194
 longitude: 5.70529
 postcode: "38000"
 city: Grenoble
-street: "Avenue des Martyrs"
-housenumber: 78
-phone: "+33 4 82 29 98 92"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:30-13:00"
-website: "https://paul.fr/stores/grenoble_presqu_ile"
+street: Avenue des Martyrs
+housenumber: "78"
+phone: +33 4 82 29 98 92
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:30-13:00
+website: https://paul.fr/stores/grenoble_presqu_ile

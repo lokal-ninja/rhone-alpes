@@ -1,11 +1,11 @@
 id: 197259975
-type: way
+type: node
 latitude: 46.30018
 longitude: 6.3091
 postcode: "74140"
 city: Douvaine
-street: "Rue de l'Artisanat"
-housenumber: 6
+street: Rue de l'Artisanat
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.ma-planete-bio.com/"
+website: https://www.ma-planete-bio.com/

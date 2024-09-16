@@ -1,11 +1,11 @@
 id: 241115991
-type: way
+type: node
 latitude: 45.47898
 longitude: 4.52026
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue Edmond Locard"
-housenumber: 2
+street: Rue Edmond Locard
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

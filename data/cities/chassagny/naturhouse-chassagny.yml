@@ -4,8 +4,9 @@ latitude: 45.6191
 longitude: 4.71155
 postcode: "69700"
 city: Chassagny
-street: "Zone Industrielle Richard Bloch"
-housenumber: 
+street: Zone Industrielle Richard Bloch
+housenumber: ""
 phone: ""
-opening_hours: "Tu 09:00-13:00, 14:00-18:00; We 10:00-13:00, 14:00-19:00; Th 09:00-13:00, 14:00-17:00; Fr 10:00-13:00, 14:00-19:00; Sa 09:00-13:00"
-website: "https://www.naturhouse.fr/liste-centres/579-chassagny"
+opening_hours: Tu 09:00-13:00, 14:00-18:00; We 10:00-13:00, 14:00-19:00; Th 09:00-13:00,
+    14:00-17:00; Fr 10:00-13:00, 14:00-19:00; Sa 09:00-13:00
+website: https://www.naturhouse.fr/liste-centres/579-chassagny

@@ -4,8 +4,8 @@ latitude: 46.10704
 longitude: 5.82517
 postcode: "01200"
 city: Bellegarde-sur-Valserine
-street: "Rue de la République"
-housenumber: 33
+street: Rue de la République
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30,14:00-18:30"
-website: "https://www.lesartsfrontieres.fr/"
+opening_hours: Tu-Sa 09:30-12:30,14:00-18:30
+website: https://www.lesartsfrontieres.fr/

@@ -4,8 +4,8 @@ latitude: 45.48428
 longitude: 6.53132
 postcode: "73600"
 city: Moûtiers
-street: "Grande Rue"
-housenumber: 54
-phone: "+33 9 52 21 02 41"
-opening_hours: "Tu,Fr 09:00-12:30,13:30-18:30; We,Th 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
+street: Grande Rue
+housenumber: "54"
+phone: +33 9 52 21 02 41
+opening_hours: Tu,Fr 09:00-12:30,13:30-18:30; We,Th 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
 website: ""

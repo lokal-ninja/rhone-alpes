@@ -4,8 +4,8 @@ latitude: 45.8678
 longitude: 4.83984
 postcode: "69250"
 city: Neuville-sur-Saône
-street: "Route de Lyon"
-housenumber: 3
+street: Route de Lyon
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-19:00"
-website: "https://www.bstradition.com/fleurieusursaone"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-19:00
+website: https://www.bstradition.com/fleurieusursaone

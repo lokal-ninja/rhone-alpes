@@ -1,11 +1,11 @@
 id: 141757836
-type: way
+type: node
 latitude: 45.74873
 longitude: 4.54327
 postcode: "69690"
 city: Brussieu
-street: "Rue Nationale"
-housenumber: 31
-phone: "+33 6 70 17 63 88"
+street: Rue Nationale
+housenumber: "31"
+phone: +33 6 70 17 63 88
 opening_hours: ""
-website: "https://clinicmoto69.fr/"
+website: https://clinicmoto69.fr/

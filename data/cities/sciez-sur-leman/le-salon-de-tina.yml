@@ -1,11 +1,11 @@
 id: 1128410960
-type: way
+type: node
 latitude: 46.33344
 longitude: 6.38923
 postcode: "74140"
 city: Sciez-sur-Léman
-street: "Avenue de Bonnatrait"
-housenumber: 507
+street: Avenue de Bonnatrait
+housenumber: "507"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:30; Mo,Su off"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:30; Mo,Su off
 website: ""

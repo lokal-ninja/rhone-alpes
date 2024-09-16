@@ -1,11 +1,11 @@
 id: 80579481
-type: way
+type: node
 latitude: 45.30026
 longitude: 5.62844
 postcode: "38340"
 city: Voreppe
-street: "Avenue de Juin 1940"
-housenumber: 470
-phone: "+33 4 38 03 09 05"
+street: Avenue de Juin 1940
+housenumber: "470"
+phone: +33 4 38 03 09 05
 opening_hours: ""
-website: "http://biocoopvoreppe.fr/"
+website: http://biocoopvoreppe.fr/

@@ -1,11 +1,11 @@
 id: 25711054
-type: way
+type: node
 latitude: 46.18016
 longitude: 6.21705
 postcode: "74240"
 city: Gaillard
-street: "Rue René Cassin"
-housenumber: 12
+street: Rue René Cassin
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:15, 14:00-19:00; Sa 09:00-19:00; Su off"
+opening_hours: Mo-Fr 09:00-12:15, 14:00-19:00; Sa 09:00-19:00; Su off
 website: ""

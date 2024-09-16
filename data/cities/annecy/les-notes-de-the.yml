@@ -4,8 +4,8 @@ latitude: 45.89919
 longitude: 6.12452
 postcode: "74000"
 city: Annecy
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 12
+street: Rue Jean-Jacques Rousseau
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://www.salon-the-darjeeling-annecy.com/"
+website: http://www.salon-the-darjeeling-annecy.com/

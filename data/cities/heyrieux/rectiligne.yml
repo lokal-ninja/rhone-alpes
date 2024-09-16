@@ -4,8 +4,8 @@ latitude: 45.63028
 longitude: 5.06325
 postcode: "38540"
 city: Heyrieux
-street: "Avenue Général Leclerc"
-housenumber: 33
-phone: "+33 4 82 53 24 05"
-opening_hours: "Su-Mo off; Tu-We 09:00-12:00,14:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-17:00"
-website: "https://www.rectiligne-coiffure.fr/"
+street: Avenue Général Leclerc
+housenumber: "33"
+phone: +33 4 82 53 24 05
+opening_hours: Su-Mo off; Tu-We 09:00-12:00,14:00-18:00; Th-Fr 09:00-19:00; Sa 08:00-17:00
+website: https://www.rectiligne-coiffure.fr/

@@ -4,8 +4,8 @@ latitude: 45.72119
 longitude: 4.69367
 postcode: "69126"
 city: Brindas
-street: "Rue du Vieux Bourg"
-housenumber: 43
-phone: "+33 4 78 87 96 85"
-opening_hours: "Tu-Fr 09:30-12:00,15:30-18:00; Sa 09:30-12:30,15:00-18:00"
-website: "https://www.lacavedebrindas.fr/"
+street: Rue du Vieux Bourg
+housenumber: "43"
+phone: +33 4 78 87 96 85
+opening_hours: Tu-Fr 09:30-12:00,15:30-18:00; Sa 09:30-12:30,15:00-18:00
+website: https://www.lacavedebrindas.fr/

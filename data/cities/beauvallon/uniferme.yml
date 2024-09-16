@@ -1,11 +1,11 @@
 id: 146983578
-type: way
+type: node
 latitude: 45.60391
 longitude: 4.69018
 postcode: "69700"
 city: Beauvallon
-street: "Route Départementale 34"
-housenumber: 90
-phone: "+33 4 78 44 05 07"
-opening_hours: "Mo-Su 15:00-19:00,Th-Fr 08:30-12:30, Sa-Su 09:00-12:30"
-website: "https://www.uniferme.fr/"
+street: Route Départementale 34
+housenumber: "90"
+phone: +33 4 78 44 05 07
+opening_hours: Mo-Su 15:00-19:00,Th-Fr 08:30-12:30, Sa-Su 09:00-12:30
+website: https://www.uniferme.fr/

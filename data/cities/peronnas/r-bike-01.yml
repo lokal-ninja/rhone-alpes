@@ -1,11 +1,11 @@
 id: 190060243
-type: way
+type: node
 latitude: 46.18672
 longitude: 5.20903
 postcode: "01960"
 city: Péronnas
-street: "Avenue de Lyon"
-housenumber: 651
+street: Avenue de Lyon
+housenumber: "651"
 phone: ""
 opening_hours: ""
-website: "http://www.kawasaki-rbike.com/"
+website: http://www.kawasaki-rbike.com/

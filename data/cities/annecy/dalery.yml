@@ -1,11 +1,11 @@
 id: 946952722
-type: way
+type: node
 latitude: 45.92462
 longitude: 6.12404
 postcode: "74000"
 city: Annecy
-street: "Avenue de Genève"
-housenumber: 134
+street: Avenue de Genève
+housenumber: "134"
 phone: "+33450670780"
 opening_hours: ""
 website: ""

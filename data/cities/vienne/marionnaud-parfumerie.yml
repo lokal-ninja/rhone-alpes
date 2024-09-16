@@ -4,8 +4,8 @@ latitude: 45.52447
 longitude: 4.87544
 postcode: "38200"
 city: Vienne
-street: "Rue Ponsard"
-housenumber: 
+street: Rue Ponsard
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.marionnaud.fr/"
+website: https://www.marionnaud.fr/

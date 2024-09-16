@@ -1,11 +1,11 @@
 id: 246936553
-type: way
+type: node
 latitude: 46.28169
 longitude: 5.66142
 postcode: "01100"
 city: Arbent
-street: "Avenue Jean Coutty"
-housenumber: 395
-phone: "+33 4 74 12 99 56"
+street: Avenue Jean Coutty
+housenumber: "395"
+phone: +33 4 74 12 99 56
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

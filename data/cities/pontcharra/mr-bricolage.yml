@@ -1,11 +1,11 @@
 id: 64762462
-type: way
+type: node
 latitude: 45.43495
 longitude: 6.01049
 postcode: "38530"
 city: Pontcharra
-street: "Avenue de la Gare"
-housenumber: 905
+street: Avenue de la Gare
+housenumber: "905"
 phone: "+33476976056"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00"
-website: "https://magasin.mr-bricolage.fr/185-mr-bricolage-pontcharra"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00
+website: https://magasin.mr-bricolage.fr/185-mr-bricolage-pontcharra

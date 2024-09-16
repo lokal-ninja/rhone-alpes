@@ -1,11 +1,11 @@
 id: 159276344
-type: way
+type: node
 latitude: 46.25753
 longitude: 5.65724
 postcode: "01100"
 city: Oyonnax
-street: "Rue Francisco Ferrer"
-housenumber: 1
-phone: "+33 4 74 77 09 90"
+street: Rue Francisco Ferrer
+housenumber: "1"
+phone: +33 4 74 77 09 90
 opening_hours: ""
-website: "http://pop-musique-oyonnax.com"
+website: http://pop-musique-oyonnax.com

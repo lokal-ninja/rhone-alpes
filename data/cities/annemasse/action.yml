@@ -1,11 +1,11 @@
 id: 200360791
-type: way
+type: node
 latitude: 46.19353
 longitude: 6.24061
 postcode: "74100"
 city: Annemasse
-street: "Avenue Henri Barbusse"
-housenumber: 4
+street: Avenue Henri Barbusse
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
+opening_hours: Mo-Sa 09:00-19:00; Su off
 website: ""

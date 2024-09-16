@@ -4,8 +4,8 @@ latitude: 45.91322
 longitude: 4.7012
 postcode: "69480"
 city: Lucenay
-street: "La Ruelle"
-housenumber: 12
+street: La Ruelle
+housenumber: "12"
 phone: "+33474037721"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.linstitutdespierresdorees.com"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.linstitutdespierresdorees.com

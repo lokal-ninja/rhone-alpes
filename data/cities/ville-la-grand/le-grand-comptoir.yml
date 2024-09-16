@@ -1,11 +1,11 @@
 id: 733841333
-type: way
+type: node
 latitude: 46.20391
 longitude: 6.27139
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Biches"
-housenumber: 14
+street: Rue des Biches
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

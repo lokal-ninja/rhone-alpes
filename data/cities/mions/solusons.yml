@@ -4,8 +4,8 @@ latitude: 45.6624
 longitude: 4.95616
 postcode: "69780"
 city: Mions
-street: "Rue du 11 Novembre 1918"
-housenumber: 10
-phone: "+33 4 81 49 61 50"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
+street: Rue du 11 Novembre 1918
+housenumber: "10"
+phone: +33 4 81 49 61 50
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
 website: ""

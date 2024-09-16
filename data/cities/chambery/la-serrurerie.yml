@@ -4,8 +4,8 @@ latitude: 45.56642
 longitude: 5.92598
 postcode: "73000"
 city: Chambéry
-street: "Place d'Italie"
-housenumber: 62
-phone: "04 79 85 95 20"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-17:00"
-website: "https://www.la-serrurerie.pro/"
+street: Place d'Italie
+housenumber: "62"
+phone: 04 79 85 95 20
+opening_hours: Mo-Fr 08:00-12:00, 14:00-17:00
+website: https://www.la-serrurerie.pro/

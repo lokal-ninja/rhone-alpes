@@ -1,11 +1,11 @@
 id: 394991391
-type: way
+type: node
 latitude: 45.90444
 longitude: 4.81817
 postcode: "01600"
 city: Massieux
-street: "Avenue Lavoisier"
-housenumber: 177
+street: Avenue Lavoisier
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

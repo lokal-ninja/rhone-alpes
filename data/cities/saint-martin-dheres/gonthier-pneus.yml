@@ -1,11 +1,11 @@
 id: 160165313
-type: way
+type: node
 latitude: 45.18533
 longitude: 5.76677
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 131
-phone: "+33 4 76 54 36 83"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00"
+street: Avenue Gabriel Péri
+housenumber: "131"
+phone: +33 4 76 54 36 83
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00
 website: ""

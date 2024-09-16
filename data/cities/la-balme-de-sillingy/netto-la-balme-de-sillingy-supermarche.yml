@@ -1,11 +1,11 @@
 id: 717514530
-type: way
+type: node
 latitude: 45.96172
 longitude: 6.03869
 postcode: "74330"
 city: La Balme-de-Sillingy
-street: "Place Docteur Dubois"
-housenumber: 
+street: Place Docteur Dubois
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-20:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-20:00
 website: ""

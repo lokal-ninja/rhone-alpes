@@ -4,8 +4,8 @@ latitude: 45.18816
 longitude: 5.72407
 postcode: "38000"
 city: Grenoble
-street: "Rue Béranger"
-housenumber: 2
-phone: "+33 4 76 85 02 42"
-opening_hours: "Mo-Sa 07:00-19:45; Su off"
+street: Rue Béranger
+housenumber: "2"
+phone: +33 4 76 85 02 42
+opening_hours: Mo-Sa 07:00-19:45; Su off
 website: ""

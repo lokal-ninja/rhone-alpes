@@ -4,8 +4,8 @@ latitude: 45.20315
 longitude: 5.76072
 postcode: "38240"
 city: Meylan
-street: "Avenue de la Plaine Fleurie"
-housenumber: 42
-phone: "+33 4 76 90 57 69"
-opening_hours: "Mo-Su 06:15-19:45"
+street: Avenue de la Plaine Fleurie
+housenumber: "42"
+phone: +33 4 76 90 57 69
+opening_hours: Mo-Su 06:15-19:45
 website: ""

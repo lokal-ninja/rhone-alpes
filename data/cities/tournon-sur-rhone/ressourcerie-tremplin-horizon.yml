@@ -1,11 +1,11 @@
 id: 532538841
-type: way
+type: node
 latitude: 45.06019
 longitude: 4.83253
 postcode: "07300"
 city: Tournon-sur-Rhône
-street: "Rue du Repos"
-housenumber: 20
-phone: "+33 7 87 68 59 34"
-opening_hours: "Th 14:00-18:00, Fr 10:00-12:30,14:00-18:00, Sa 10:00-17:00"
-website: "https://www.groupe-tremplin.org/pg/boutique-tournon"
+street: Rue du Repos
+housenumber: "20"
+phone: +33 7 87 68 59 34
+opening_hours: Th 14:00-18:00, Fr 10:00-12:30,14:00-18:00, Sa 10:00-17:00
+website: https://www.groupe-tremplin.org/pg/boutique-tournon

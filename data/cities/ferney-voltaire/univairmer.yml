@@ -4,8 +4,8 @@ latitude: 46.25726
 longitude: 6.1102
 postcode: "01210"
 city: Ferney-Voltaire
-street: "Avenue Voltaire"
-housenumber: 25
-phone: "+33 4 50 40 76 22"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 10:00-13:00"
-website: "https://voyages.univairmer.com/rechercheAgence.cfm"
+street: Avenue Voltaire
+housenumber: "25"
+phone: +33 4 50 40 76 22
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 10:00-13:00
+website: https://voyages.univairmer.com/rechercheAgence.cfm

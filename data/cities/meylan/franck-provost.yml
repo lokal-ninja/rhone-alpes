@@ -4,8 +4,8 @@ latitude: 45.2036
 longitude: 5.76358
 postcode: "38240"
 city: Meylan
-street: "Boulevard des Alpes"
-housenumber: 
+street: Boulevard des Alpes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.franckprovost.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.franckprovost.com/

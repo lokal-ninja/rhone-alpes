@@ -4,8 +4,8 @@ latitude: 45.7648
 longitude: 4.89642
 postcode: "69100"
 city: Villeurbanne
-street: "Rue Charles Robin"
-housenumber: 3
+street: Rue Charles Robin
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Fr 15:00-18:00"
-website: "https://bomolet.com/"
+opening_hours: Tu-Fr 15:00-18:00
+website: https://bomolet.com/

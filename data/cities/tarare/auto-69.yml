@@ -4,8 +4,8 @@ latitude: 45.89564
 longitude: 4.43135
 postcode: "69170"
 city: Tarare
-street: "Rue de la République"
-housenumber: 28
-phone: "+33 4 74 63 68 23"
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:00, 14:00-19:00; We,Sa 09:00-12:00"
-website: "https://www.auto69.fr/"
+street: Rue de la République
+housenumber: "28"
+phone: +33 4 74 63 68 23
+opening_hours: Mo-Tu,Th-Fr 09:00-12:00, 14:00-19:00; We,Sa 09:00-12:00
+website: https://www.auto69.fr/

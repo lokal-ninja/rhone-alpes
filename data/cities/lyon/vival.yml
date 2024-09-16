@@ -4,8 +4,8 @@ latitude: 45.73219
 longitude: 4.86501
 postcode: "69008"
 city: Lyon
-street: "Boulevard des États-Unis"
-housenumber: 78
-phone: "+33 4 82 33 24 27"
-opening_hours: "PH,Mo-Su 07:00-24:00"
-website: "https://magasins.vival.fr/fr/vival-lyon-etats-unis"
+street: Boulevard des États-Unis
+housenumber: "78"
+phone: +33 4 82 33 24 27
+opening_hours: PH,Mo-Su 07:00-24:00
+website: https://magasins.vival.fr/fr/vival-lyon-etats-unis

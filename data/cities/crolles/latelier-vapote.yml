@@ -4,8 +4,8 @@ latitude: 45.28695
 longitude: 5.88657
 postcode: "38920"
 city: Crolles
-street: "Avenue de la Résistance"
-housenumber: 360
+street: Avenue de la Résistance
+housenumber: "360"
 phone: "+33476086744"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-19:00"
-website: "https://www.atelier-vapote.fr/"
+opening_hours: Tu-Sa 09:00-13:00,15:00-19:00
+website: https://www.atelier-vapote.fr/

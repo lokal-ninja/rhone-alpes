@@ -1,11 +1,11 @@
 id: 687924448
-type: way
+type: node
 latitude: 46.23072
 longitude: 6.31909
 postcode: "74140"
 city: Saint-Cergues
-street: "Rue de l'Archet"
-housenumber: 86
+street: Rue de l'Archet
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

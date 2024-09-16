@@ -1,11 +1,11 @@
 id: 132885744
-type: way
+type: node
 latitude: 45.61573
 longitude: 4.76933
 postcode: "69700"
 city: Montagny
-street: "Route de Lyon"
-housenumber: 42
+street: Route de Lyon
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-montagny-105471"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.lescomptoirsdelabio.fr/fr/les-comptoirs-de-la-bio-montagny-105471

@@ -1,11 +1,11 @@
 id: 39173940
-type: way
+type: node
 latitude: 45.99237
 longitude: 6.47539
 postcode: ""
 city: Le Grand-Bornand
-street: "Route du Col de la Colombiére"
-housenumber: 7086
+street: Route du Col de la Colombiére
+housenumber: "7086"
 phone: ""
 opening_hours: ""
 website: ""

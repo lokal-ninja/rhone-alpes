@@ -1,11 +1,11 @@
 id: 271960082
-type: way
+type: node
 latitude: 45.62091
 longitude: 5.88661
 postcode: "73420"
 city: Voglans
-street: "Rue des Belledonnes"
-housenumber: 670
-phone: "+33 4 79544691"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00, Su 09:30-12:30,14:30-18:30"
-website: "https://www.aujardindesplantes.com/"
+street: Rue des Belledonnes
+housenumber: "670"
+phone: +33 4 79544691
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00, Su 09:30-12:30,14:30-18:30
+website: https://www.aujardindesplantes.com/

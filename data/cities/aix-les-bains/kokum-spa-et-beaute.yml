@@ -4,8 +4,8 @@ latitude: 45.68795
 longitude: 5.91111
 postcode: "73100"
 city: Aix-les-Bains
-street: "Avenue Charles de Gaulle"
-housenumber: 27
-phone: "+33 4 79 61 47 74"
-opening_hours: "09:00-20:00"
-website: "http://www.kokum.fr"
+street: Avenue Charles de Gaulle
+housenumber: "27"
+phone: +33 4 79 61 47 74
+opening_hours: 09:00-20:00
+website: http://www.kokum.fr

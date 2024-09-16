@@ -1,11 +1,11 @@
 id: 173376479
-type: way
+type: node
 latitude: 46.31073
 longitude: 6.1286
 postcode: ""
 city: Versoix
-street: "Route de la Branvaude"
-housenumber: 10
+street: Route de la Branvaude
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Tu 09:00-12:00, 14:00-18:30; Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.fermecourtois.ch"
+opening_hours: Tu-Tu 09:00-12:00, 14:00-18:30; Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.fermecourtois.ch

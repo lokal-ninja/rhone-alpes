@@ -4,8 +4,8 @@ latitude: 45.19768
 longitude: 5.73566
 postcode: "38000"
 city: Grenoble
-street: "Rue Eugène Delacroix"
-housenumber: 4
-phone: "+33 4 76 42 74 72"
-opening_hours: "Tu-Fr 07:45-12:00,13:30-18:00; Mo 07:45-12:00,13:15-18:00"
+street: Rue Eugène Delacroix
+housenumber: "4"
+phone: +33 4 76 42 74 72
+opening_hours: Tu-Fr 07:45-12:00,13:30-18:00; Mo 07:45-12:00,13:15-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.19419
 longitude: 6.23541
 postcode: "74100"
 city: Annemasse
-street: "Rue du Commerce"
-housenumber: 18
-phone: "+33 4 50 83 06 90"
-opening_hours: "Mo 14:00-19:00; Tu-Th 10:00-13:00, 14:00-19:00; Fr, Sa 09:00-19:00"
-website: "https://www.superdry.fr/"
+street: Rue du Commerce
+housenumber: "18"
+phone: +33 4 50 83 06 90
+opening_hours: Mo 14:00-19:00; Tu-Th 10:00-13:00, 14:00-19:00; Fr, Sa 09:00-19:00
+website: https://www.superdry.fr/

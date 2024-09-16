@@ -1,11 +1,11 @@
 id: 218666312
-type: way
+type: node
 latitude: 45.78224
 longitude: 5.89046
 postcode: "73410"
 city: SAINT GERMAIN LA CHAMBOTTE
-street: "Route de Mondurand"
-housenumber: 
-phone: "+33 4 79 63 11 67"
+street: Route de Mondurand
+housenumber: ""
+phone: +33 4 79 63 11 67
 opening_hours: ""
 website: ""

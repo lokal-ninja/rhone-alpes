@@ -1,11 +1,11 @@
 id: 118066628
-type: way
+type: node
 latitude: 45.15189
 longitude: 5.32067
 postcode: "38160"
 city: Saint-Marcellin
-street: "Rue Aymard Durivail"
-housenumber: 8
+street: Rue Aymard Durivail
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

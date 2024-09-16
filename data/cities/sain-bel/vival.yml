@@ -4,8 +4,8 @@ latitude: 45.81082
 longitude: 4.59935
 postcode: "69210"
 city: Sain-Bel
-street: "Place du 8 Mai 1945"
-housenumber: 7
+street: Place du 8 Mai 1945
+housenumber: "7"
 phone: "+33474012505"
-opening_hours: "Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-13:00"
-website: "https://magasins.vival.fr/fr/s/vival-sain-bel"
+opening_hours: Mo-Fr 08:00-12:30,15:00-19:00; Sa 08:00-13:00
+website: https://magasins.vival.fr/fr/s/vival-sain-bel

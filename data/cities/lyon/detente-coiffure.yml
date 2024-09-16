@@ -4,8 +4,8 @@ latitude: 45.72643
 longitude: 4.88034
 postcode: "69008"
 city: Lyon
-street: "Avenue Paul Santy"
-housenumber: 133
-phone: "+33 9 87 50 74 49"
-opening_hours: "Mo-Su 09:00-19:00"
+street: Avenue Paul Santy
+housenumber: "133"
+phone: +33 9 87 50 74 49
+opening_hours: Mo-Su 09:00-19:00
 website: ""

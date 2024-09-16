@@ -1,11 +1,11 @@
 id: 50210383
-type: way
+type: node
 latitude: 45.1634
 longitude: 5.7113
 postcode: "38100"
 city: Grenoble
-street: "Cours de la Libération et du Général de Gaulle"
-housenumber: 191
+street: Cours de la Libération et du Général de Gaulle
+housenumber: "191"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30"
+opening_hours: Mo-Sa 09:00-18:30
 website: ""

@@ -5,7 +5,7 @@ longitude: 4.87563
 postcode: "38200"
 city: Vienne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-21:00"
-website: "https://www.franprix.fr/"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-21:00
+website: https://www.franprix.fr/

@@ -1,11 +1,11 @@
 id: 645417749
-type: way
+type: node
 latitude: 45.59882
 longitude: 5.27224
 postcode: "38300"
 city: Bourgoin-Jallieu
-street: "Rue Pasteur"
-housenumber: 29
+street: Rue Pasteur
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.72007
 longitude: 4.91542
 postcode: "69500"
 city: Bron
-street: "Rue des Manèges"
-housenumber: 2
+street: Rue des Manèges
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Su 07:00-13:00"
+opening_hours: Mo-Fr 07:00-20:00, Su 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.1892
 longitude: 5.72067
 postcode: "38000"
 city: Grenoble
-street: "Avenue Alsace Lorraine"
-housenumber: 23
-phone: "+33 4 76 12 05 93"
-opening_hours: "Mo-Sa 06:45-19:45"
-website: "https://www.auchardonbleu.com/boutiques/alsace-lorraine/"
+street: Avenue Alsace Lorraine
+housenumber: "23"
+phone: +33 4 76 12 05 93
+opening_hours: Mo-Sa 06:45-19:45
+website: https://www.auchardonbleu.com/boutiques/alsace-lorraine/

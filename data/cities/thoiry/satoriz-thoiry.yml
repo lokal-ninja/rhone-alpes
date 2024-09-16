@@ -5,7 +5,7 @@ longitude: 5.98964
 postcode: "01710"
 city: Thoiry
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.satoriz.fr/satoriz/magasin-satoriz-thoiry/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.satoriz.fr/satoriz/magasin-satoriz-thoiry/

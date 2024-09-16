@@ -4,8 +4,8 @@ latitude: 45.60934
 longitude: 4.26085
 postcode: "42330"
 city: Cuzieu
-street: "Rue de la Coise"
-housenumber: 38
+street: Rue de la Coise
+housenumber: "38"
 phone: "+33477945675"
-opening_hours: "Mo,We 06:30-13:00; Tu,Th,Fr 06:30-19:00; Sa 07:00-19:00; Su 07:00-13:00"
+opening_hours: Mo,We 06:30-13:00; Tu,Th,Fr 06:30-19:00; Sa 07:00-19:00; Su 07:00-13:00
 website: ""

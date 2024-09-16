@@ -4,8 +4,8 @@ latitude: 45.46106
 longitude: 4.47432
 postcode: "42400"
 city: Saint-Chamond
-street: "Route de Saint-Jean-Bonnefonds"
-housenumber: 11
-phone: "+33 6 89 23 00 10"
+street: Route de Saint-Jean-Bonnefonds
+housenumber: "11"
+phone: +33 6 89 23 00 10
 opening_hours: ""
-website: "https://www.cycloptitssoins.fr/"
+website: https://www.cycloptitssoins.fr/

@@ -1,11 +1,11 @@
 id: 81099257
-type: way
+type: node
 latitude: 45.14735
 longitude: 5.6926
 postcode: "38130"
 city: Échirolles
-street: "Rue du Drac"
-housenumber: 5
-phone: "+33 4 76 33 17 65"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://magasins.picard.fr/379-picard-grenoble"
+street: Rue du Drac
+housenumber: "5"
+phone: +33 4 76 33 17 65
+opening_hours: Mo-Sa 09:00-19:30
+website: https://magasins.picard.fr/379-picard-grenoble

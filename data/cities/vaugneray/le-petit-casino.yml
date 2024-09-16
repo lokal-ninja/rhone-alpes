@@ -1,11 +1,11 @@
 id: 341728922
-type: way
+type: node
 latitude: 45.73685
 longitude: 4.65738
 postcode: "69670"
 city: Vaugneray
-street: "Place du 8 Mai 1945"
-housenumber: 
+street: Place du 8 Mai 1945
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 07:30-12:30,15:00-19:00; Su 07:30-12:30"
+opening_hours: Tu-Sa 07:30-12:30,15:00-19:00; Su 07:30-12:30
 website: ""

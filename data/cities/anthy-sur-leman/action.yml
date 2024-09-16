@@ -1,11 +1,11 @@
 id: 69004897
-type: way
+type: node
 latitude: 46.35038
 longitude: 6.43897
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Route de Margencel"
-housenumber: 
+street: Route de Margencel
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su off"
+opening_hours: Mo-Sa 08:30-19:30; Su off
 website: ""

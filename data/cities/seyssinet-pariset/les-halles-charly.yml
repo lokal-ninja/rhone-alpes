@@ -4,8 +4,8 @@ latitude: 45.17157
 longitude: 5.69576
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Avenue de Grenoble"
-housenumber: 8
-phone: "+33 4 76 96 95 22"
-opening_hours: "Tu-Sa 07:30-12:15,15:30-19:15; Su 07:30-12:15"
-website: "https://leshallescharly.fr"
+street: Avenue de Grenoble
+housenumber: "8"
+phone: +33 4 76 96 95 22
+opening_hours: Tu-Sa 07:30-12:15,15:30-19:15; Su 07:30-12:15
+website: https://leshallescharly.fr

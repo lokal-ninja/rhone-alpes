@@ -4,8 +4,8 @@ latitude: 45.5498
 longitude: 5.98418
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue de Chambéry"
-housenumber: 1239
-phone: "+33 4 79 71 16 91"
-opening_hours: "Mo-Tu 06:30-13:00,15:30-19:00; We 06:30-13:00; Th-Su 06:30-13:00,15:30-19:00"
+street: Avenue de Chambéry
+housenumber: "1239"
+phone: +33 4 79 71 16 91
+opening_hours: Mo-Tu 06:30-13:00,15:30-19:00; We 06:30-13:00; Th-Su 06:30-13:00,15:30-19:00
 website: ""

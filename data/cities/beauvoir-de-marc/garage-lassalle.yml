@@ -1,11 +1,11 @@
 id: 135895252
-type: way
+type: node
 latitude: 45.52371
 longitude: 5.08288
 postcode: "38440"
 city: Beauvoir-de-Marc
-street: "Les Granges"
-housenumber: 
+street: Les Granges
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

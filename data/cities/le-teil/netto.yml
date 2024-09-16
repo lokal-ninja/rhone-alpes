@@ -1,11 +1,11 @@
 id: 91103224
-type: way
+type: node
 latitude: 44.55257
 longitude: 4.68802
 postcode: "07400"
 city: Le Teil
-street: "Rue Louis Lacrotte"
-housenumber: 14
-phone: "+33 4 75 49 04 46"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://magasin.netto.fr/18-netto-le-teil"
+street: Rue Louis Lacrotte
+housenumber: "14"
+phone: +33 4 75 49 04 46
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://magasin.netto.fr/18-netto-le-teil

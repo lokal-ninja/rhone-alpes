@@ -1,11 +1,11 @@
 id: 512915188
-type: way
+type: node
 latitude: 45.15816
 longitude: 5.73121
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 76
-phone: "+33 9 62 12 21 24"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Calzedonia"
+street: Avenue du Vercors
+housenumber: "76"
+phone: +33 9 62 12 21 24
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Calzedonia

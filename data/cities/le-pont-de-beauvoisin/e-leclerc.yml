@@ -1,11 +1,11 @@
 id: 43728368
-type: way
+type: node
 latitude: 45.5379
 longitude: 5.64682
 postcode: "38480"
 city: Le Pont-de-Beauvoisin
-street: "Chemin de Clermont"
-housenumber: 200
-phone: "+33 4 76 91 76 20"
+street: Chemin de Clermont
+housenumber: "200"
+phone: +33 4 76 91 76 20
 opening_hours: ""
-website: "http://www.e-leclerc.com/pont-de-beauvoisin"
+website: http://www.e-leclerc.com/pont-de-beauvoisin

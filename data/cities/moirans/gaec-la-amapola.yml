@@ -1,11 +1,11 @@
 id: 444514195
-type: way
+type: node
 latitude: 45.30986
 longitude: 5.55315
 postcode: "38430"
 city: Moirans
-street: "Route des Maraîchers"
-housenumber: 
+street: Route des Maraîchers
+housenumber: ""
 phone: ""
-opening_hours: "We 16:30-19:00"
+opening_hours: We 16:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80119339
-type: way
+type: node
 latitude: 46.20076
 longitude: 6.27409
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Voirons"
-housenumber: 30
+street: Rue des Voirons
+housenumber: "30"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
 website: ""

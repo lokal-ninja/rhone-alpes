@@ -4,8 +4,8 @@ latitude: 44.92839
 longitude: 4.89756
 postcode: "26000"
 city: Valence
-street: "Rue des Alpes"
-housenumber: 46
-phone: "+33 4 75 63 03 75"
-opening_hours: "Tu-Sa 09:00-12:30,15:30-19:00; Mo 15:30-19:00; We off"
-website: "https://lepiceriedacote.fr/"
+street: Rue des Alpes
+housenumber: "46"
+phone: +33 4 75 63 03 75
+opening_hours: Tu-Sa 09:00-12:30,15:30-19:00; Mo 15:30-19:00; We off
+website: https://lepiceriedacote.fr/

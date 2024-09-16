@@ -4,8 +4,8 @@ latitude: 45.2076
 longitude: 5.65841
 postcode: "38360"
 city: Sassenage
-street: "Rue de la République"
-housenumber: 42
+street: Rue de la République
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 09:00-12:00,14:00-19:00; We,Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo-Tu,Th-Fr 09:00-12:00,14:00-19:00; We,Sa 09:00-12:00,14:00-18:00
 website: ""

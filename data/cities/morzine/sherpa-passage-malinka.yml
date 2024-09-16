@@ -1,11 +1,12 @@
 id: 225313399
-type: way
+type: node
 latitude: 46.19249
 longitude: 6.77105
 postcode: "74110"
 city: Morzine
-street: "Passage Malinka"
-housenumber: 103
+street: Passage Malinka
+housenumber: "103"
 phone: ""
-opening_hours: "Dec 03-Mar 31 Mo-Su 08:00-20:30; Jul 03-Aug 26 Mo-Fr,Su 08:00-20:00, Sa 08:00-20:30"
+opening_hours: Dec 03-Mar 31 Mo-Su 08:00-20:30; Jul 03-Aug 26 Mo-Fr,Su 08:00-20:00,
+    Sa 08:00-20:30
 website: ""

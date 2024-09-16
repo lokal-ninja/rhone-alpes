@@ -1,11 +1,11 @@
 id: 69051348
-type: way
+type: node
 latitude: 46.34649
 longitude: 6.42399
 postcode: "74200"
 city: Margencel
-street: "Route du Champ Courbe"
-housenumber: 117
+street: Route du Champ Courbe
+housenumber: "117"
 phone: ""
-opening_hours: "Mo-Th 07:30-11:45, 13:30-17:15; Fr-Su off"
+opening_hours: Mo-Th 07:30-11:45, 13:30-17:15; Fr-Su off
 website: ""

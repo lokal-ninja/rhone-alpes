@@ -1,11 +1,11 @@
 id: 661096824
-type: way
+type: node
 latitude: 46.07366
 longitude: 5.37674
 postcode: "01160"
 city: Neuville-sur-Ain
-street: "Rue du Docteur Hubert"
-housenumber: 547
+street: Rue du Docteur Hubert
+housenumber: "547"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:15; Su 09:00-12:15"
+opening_hours: Mo-Sa 08:30-19:15; Su 09:00-12:15
 website: ""

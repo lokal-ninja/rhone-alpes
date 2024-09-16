@@ -4,8 +4,9 @@ latitude: 45.89664
 longitude: 4.43302
 postcode: "69170"
 city: Tarare
-street: "Rue Mezelle"
-housenumber: 3
+street: Rue Mezelle
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Th 09:00-13:00; Tu 14:00-19:15; We-Th 14:00-19:00; Fr 09:00-19:15; Sa 09:00-13:00, 14:00-19:00"
+opening_hours: Tu-Th 09:00-13:00; Tu 14:00-19:15; We-Th 14:00-19:00; Fr 09:00-19:15;
+    Sa 09:00-13:00, 14:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 62092178
-type: way
+type: node
 latitude: 45.20759
 longitude: 5.75665
 postcode: "38240"
 city: Meylan
-street: "Avenue du Grésivaudan"
-housenumber: 73
-phone: "+33 4 76 52 47 19"
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-13:00"
-website: "https://paul.fr/stores/meylan"
+street: Avenue du Grésivaudan
+housenumber: "73"
+phone: +33 4 76 52 47 19
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-13:00
+website: https://paul.fr/stores/meylan

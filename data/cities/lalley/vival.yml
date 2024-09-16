@@ -4,8 +4,8 @@ latitude: 44.75893
 longitude: 5.67599
 postcode: "38930"
 city: Lalley
-street: "Route de la Gare"
-housenumber: 77
+street: Route de la Gare
+housenumber: "77"
 phone: "+33476347403"
-opening_hours: "Mo-Sa 08:30-12:00, 15:30-19:30; Su 08:30-12:00"
-website: "https://magasins.vival.fr/fr/vival-lalley"
+opening_hours: Mo-Sa 08:30-12:00, 15:30-19:30; Su 08:30-12:00
+website: https://magasins.vival.fr/fr/vival-lalley

@@ -1,11 +1,11 @@
 id: 323897722
-type: way
+type: node
 latitude: 45.32786
 longitude: 4.80443
 postcode: "38150"
 city: Salaise-sur-Sanne
-street: "Avenue Plein Sud"
-housenumber: 
-phone: "+33 4 74 31 92 15"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-salaise-sur-sanne-0070072400724"
+street: Avenue Plein Sud
+housenumber: ""
+phone: +33 4 74 31 92 15
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-salaise-sur-sanne-0070072400724

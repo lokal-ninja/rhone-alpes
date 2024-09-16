@@ -4,8 +4,8 @@ latitude: 46.17903
 longitude: 5.32402
 postcode: "01250"
 city: Ceyzériat
-street: "Place Émile Bouvard"
-housenumber: 3
-phone: "+33 4 74 30 05 36"
-opening_hours: "We-Fr 08:30-12:30,15:00-19:00; Sa 08:00-12:30,15:00-19:00; Su 08:00-12:00"
+street: Place Émile Bouvard
+housenumber: "3"
+phone: +33 4 74 30 05 36
+opening_hours: We-Fr 08:30-12:30,15:00-19:00; Sa 08:00-12:30,15:00-19:00; Su 08:00-12:00
 website: ""

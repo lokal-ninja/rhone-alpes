@@ -1,11 +1,11 @@
 id: 63578306
-type: way
+type: node
 latitude: 45.27329
 longitude: 5.92467
 postcode: "38190"
 city: Froges
-street: "Boulevard de la République"
-housenumber: 119
+street: Boulevard de la République
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

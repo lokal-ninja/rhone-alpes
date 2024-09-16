@@ -1,11 +1,11 @@
 id: 64104652
-type: way
+type: node
 latitude: 46.16316
 longitude: 6.35476
 postcode: "74250"
 city: Fillinges
-street: "Route de la Vallée Verte"
-housenumber: 146
+street: Route de la Vallée Verte
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

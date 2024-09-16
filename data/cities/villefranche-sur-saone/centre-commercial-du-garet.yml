@@ -1,11 +1,11 @@
 id: 136802691
-type: way
+type: node
 latitude: 45.99619
 longitude: 4.73139
 postcode: "69400"
 city: Villefranche-sur-Saône
-street: "Boulevard Burdeau"
-housenumber: 1110
+street: Boulevard Burdeau
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

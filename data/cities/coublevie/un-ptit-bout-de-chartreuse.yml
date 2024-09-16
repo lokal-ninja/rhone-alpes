@@ -4,8 +4,8 @@ latitude: 45.35062
 longitude: 5.60181
 postcode: "38500"
 city: Coublevie
-street: "Route de Saint-Jean"
-housenumber: 1020
-phone: "+33 4 76 37 98 10"
-opening_hours: "We-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.unpetitboutdechartreuse.com"
+street: Route de Saint-Jean
+housenumber: "1020"
+phone: +33 4 76 37 98 10
+opening_hours: We-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.unpetitboutdechartreuse.com

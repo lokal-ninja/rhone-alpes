@@ -1,11 +1,11 @@
 id: 148891362
-type: way
+type: node
 latitude: 45.7127
 longitude: 4.47484
 postcode: "69610"
 city: Sainte-Foy-l'Argentière
-street: "Route de Lyon"
-housenumber: 774
-phone: "+33 4 74 26 10 00"
-opening_hours: "Mo-Fr 07:30-12:30,13:30-19:00; Sa 08:30-12:00"
-website: "https://garagerossandes.fr/"
+street: Route de Lyon
+housenumber: "774"
+phone: +33 4 74 26 10 00
+opening_hours: Mo-Fr 07:30-12:30,13:30-19:00; Sa 08:30-12:00
+website: https://garagerossandes.fr/

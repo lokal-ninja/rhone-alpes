@@ -1,11 +1,11 @@
 id: 1122850398
-type: way
+type: node
 latitude: 46.17027
 longitude: 6.31384
 postcode: "74380"
 city: Bonne
-street: "Route de Ripaille"
-housenumber: 140
+street: Route de Ripaille
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

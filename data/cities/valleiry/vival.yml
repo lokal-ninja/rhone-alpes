@@ -1,11 +1,11 @@
 id: 169086313
-type: way
+type: node
 latitude: 46.10815
 longitude: 5.96847
 postcode: "74520"
 city: Valleiry
-street: "Route de Saint-Julien en Genevois"
-housenumber: 23
+street: Route de Saint-Julien en Genevois
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:45, 15:15-20:00; Su 08:30-13:00, 17:00-20:00"
+opening_hours: Mo-Sa 08:30-12:45, 15:15-20:00; Su 08:30-13:00, 17:00-20:00
 website: ""

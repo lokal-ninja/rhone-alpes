@@ -1,11 +1,11 @@
 id: 127434159
-type: way
+type: node
 latitude: 45.8915
 longitude: 4.82681
 postcode: "69730"
 city: Genay
-street: "chemin champ fleuri"
-housenumber: 307
-phone: "+33 6 70 59 60 46"
+street: chemin champ fleuri
+housenumber: "307"
+phone: +33 6 70 59 60 46
 opening_hours: ""
 website: ""

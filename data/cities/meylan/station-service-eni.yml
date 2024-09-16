@@ -1,11 +1,11 @@
 id: 102933595
-type: way
+type: node
 latitude: 45.21518
 longitude: 5.78173
 postcode: "38240"
 city: Meylan
-street: "Avenue des 7 Laux"
-housenumber: 45
+street: Avenue des 7 Laux
+housenumber: "45"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

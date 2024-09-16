@@ -1,11 +1,11 @@
 id: 1157609381
-type: way
+type: node
 latitude: 46.39123
 longitude: 6.52359
 postcode: "74500"
 city: Publier
-street: "Rue de Cartheray"
-housenumber: 1005
-phone: "+33 4 50 81 45 00"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.coradrive.fr/amphion"
+street: Rue de Cartheray
+housenumber: "1005"
+phone: +33 4 50 81 45 00
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.coradrive.fr/amphion

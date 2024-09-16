@@ -1,11 +1,11 @@
 id: 143463640
-type: way
+type: node
 latitude: 45.68118
 longitude: 5.45868
 postcode: "38510"
 city: Morestel
-street: "Route de Lyon"
-housenumber: 325
+street: Route de Lyon
+housenumber: "325"
 phone: ""
 opening_hours: ""
 website: ""

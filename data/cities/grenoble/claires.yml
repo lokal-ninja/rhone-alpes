@@ -1,11 +1,11 @@
 id: 512901263
-type: way
+type: node
 latitude: 45.15802
 longitude: 5.73124
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 79
-phone: "+33 4 76 21 87 07"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Claire-s"
+street: Avenue du Vercors
+housenumber: "79"
+phone: +33 4 76 21 87 07
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Claire-s

@@ -1,11 +1,11 @@
 id: 181150640
-type: way
+type: node
 latitude: 44.89512
 longitude: 4.64439
 postcode: "07240"
 city: Vernoux-en-Vivarais
-street: "Rue Simon Vialet"
-housenumber: 3
+street: Rue Simon Vialet
+housenumber: "3"
 phone: "0475581372"
-opening_hours: "Tu-Sa 09:00-12:30, 14:00-19:00"
+opening_hours: Tu-Sa 09:00-12:30, 14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.22929
 longitude: 6.08777
 postcode: "1217"
 city: Meyrin
-street: "Chemin H-C Forestier"
-housenumber: 10
-phone: "+41 22 782 9058"
-opening_hours: "Mo, We, Sa 08:00-18:30"
-website: "https://www.lafraisiere.ch/"
+street: Chemin H-C Forestier
+housenumber: "10"
+phone: +41 22 782 9058
+opening_hours: Mo, We, Sa 08:00-18:30
+website: https://www.lafraisiere.ch/

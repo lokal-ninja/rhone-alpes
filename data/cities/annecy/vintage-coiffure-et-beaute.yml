@@ -4,8 +4,8 @@ latitude: 45.90985
 longitude: 6.13359
 postcode: "74000"
 city: Annecy
-street: "Rue Henry Bordeaux"
-housenumber: 13
+street: Rue Henry Bordeaux
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 09:00-16:00; Tu 09:00-19:00; Th-Fr 09:00-21:00; Sa 08:00-16:00"
-website: "http://www.vintagecoiffure.fr/"
+opening_hours: Mo 09:00-16:00; Tu 09:00-19:00; Th-Fr 09:00-21:00; Sa 08:00-16:00
+website: http://www.vintagecoiffure.fr/

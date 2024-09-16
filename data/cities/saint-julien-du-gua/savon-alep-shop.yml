@@ -4,8 +4,8 @@ latitude: 44.76843
 longitude: 4.44479
 postcode: "07190"
 city: Saint-Julien-du-Gua
-street: "Le village"
-housenumber: 
+street: Le village
+housenumber: ""
 phone: "+33670310761"
-opening_hours: "Sur rendez-vous"
-website: "https://savon-alep.shop/"
+opening_hours: '"Sur rendez-vous"'
+website: https://savon-alep.shop/

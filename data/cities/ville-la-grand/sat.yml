@@ -1,11 +1,11 @@
 id: 158712460
-type: way
+type: node
 latitude: 46.20763
 longitude: 6.27876
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue de Deux Montagnes (Québec)"
-housenumber: 19
+street: Rue de Deux Montagnes (Québec)
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

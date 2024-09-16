@@ -1,11 +1,11 @@
 id: 187519794
-type: way
+type: node
 latitude: 45.94422
 longitude: 5.43473
 postcode: "01230"
 city: Saint-Rambert-en-Bugey
-street: "Avenue de l'Europe"
-housenumber: 132
+street: Avenue de l'Europe
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,15:00-19:30"
+opening_hours: Mo-Sa 09:00-12:30,15:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 604895640
-type: way
+type: node
 latitude: 46.18166
 longitude: 6.27668
 postcode: "74380"
 city: Cranves-Sales
-street: "Route des Tattes de Borly"
-housenumber: 747
+street: Route des Tattes de Borly
+housenumber: "747"
 phone: ""
 opening_hours: ""
 website: ""

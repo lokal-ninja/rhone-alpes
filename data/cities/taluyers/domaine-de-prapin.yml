@@ -4,8 +4,8 @@ latitude: 45.63973
 longitude: 4.70501
 postcode: "69440"
 city: Taluyers
-street: "Route de Saint-Laurent d'Agny"
-housenumber: 685
+street: Route de Saint-Laurent d'Agny
+housenumber: "685"
 phone: "+33478482484"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00"
-website: "https://www.domainedeprapin.fr"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00
+website: https://www.domainedeprapin.fr

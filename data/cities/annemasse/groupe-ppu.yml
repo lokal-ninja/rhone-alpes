@@ -1,11 +1,11 @@
 id: 886684802
-type: way
+type: node
 latitude: 46.19828
 longitude: 6.25811
 postcode: "74100"
 city: Annemasse
-street: "Rue de l'Industrie"
-housenumber: 2
+street: Rue de l'Industrie
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

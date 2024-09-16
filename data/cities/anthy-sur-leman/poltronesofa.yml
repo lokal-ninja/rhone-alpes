@@ -1,11 +1,11 @@
 id: 1119130547
-type: way
+type: node
 latitude: 46.3521
 longitude: 6.43752
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue du Pré Robert Nord"
-housenumber: 2
-phone: "+33 4 80 95 96 35"
-opening_hours: "Mo-Sa 10:00-19:00; Su off"
-website: "https://www.poltronesofa.com/fr-FR/Magasins?k=thonon"
+street: Avenue du Pré Robert Nord
+housenumber: "2"
+phone: +33 4 80 95 96 35
+opening_hours: Mo-Sa 10:00-19:00; Su off
+website: https://www.poltronesofa.com/fr-FR/Magasins?k=thonon

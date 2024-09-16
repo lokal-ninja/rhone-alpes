@@ -1,11 +1,11 @@
 id: 108042879
-type: way
+type: node
 latitude: 45.26618
 longitude: 6.81232
 postcode: "73500"
 city: Sollières-Sardières
-street: "ZA Les Favières"
-housenumber: 
+street: ZA Les Favières
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:30-19:00"
+opening_hours: Mo-Sa 09:00-12:00,14:30-19:00
 website: ""

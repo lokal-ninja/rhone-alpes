@@ -4,8 +4,8 @@ latitude: 45.27208
 longitude: 5.89194
 postcode: "38920"
 city: Crolles
-street: "Rue des Sources"
-housenumber: 452
-phone: "+33 6 03 19 28 02"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00,14:00-18:00"
-website: "https://www.gresy.fr/vente/crolles-bouquinerie/"
+street: Rue des Sources
+housenumber: "452"
+phone: +33 6 03 19 28 02
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00,14:00-18:00
+website: https://www.gresy.fr/vente/crolles-bouquinerie/

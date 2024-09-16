@@ -4,8 +4,8 @@ latitude: 45.18914
 longitude: 5.72109
 postcode: "38000"
 city: Grenoble
-street: "Avenue Alsace Lorraine"
-housenumber: 19
-phone: "+33 4 76 46 34 60"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://librairiegrenoble.glenat.com/"
+street: Avenue Alsace Lorraine
+housenumber: "19"
+phone: +33 4 76 46 34 60
+opening_hours: Tu-Sa 10:00-19:00
+website: https://librairiegrenoble.glenat.com/

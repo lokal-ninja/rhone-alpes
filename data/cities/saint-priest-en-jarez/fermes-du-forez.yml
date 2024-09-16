@@ -1,11 +1,11 @@
 id: 65638473
-type: way
+type: node
 latitude: 45.46958
 longitude: 4.37589
 postcode: "42270"
 city: Saint-Priest-en-Jarez
-street: "Avenue Pierre Mendès France"
-housenumber: 8
+street: Avenue Pierre Mendès France
+housenumber: "8"
 phone: ""
-opening_hours: "Th, Fr 08:30-19:00; Sa 09:00-13:00"
+opening_hours: Th, Fr 08:30-19:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 101692873
-type: way
+type: node
 latitude: 45.29803
 longitude: 5.50324
 postcode: "38210"
 city: Tullins
-street: "Avenue du Peuras"
-housenumber: 666
+street: Avenue du Peuras
+housenumber: "666"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.0362
 longitude: 4.07056
 postcode: "42300"
 city: Roanne
-street: "Rue Charles de Gaulle"
-housenumber: 7
-phone: "+33 4 77 23 65 90"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.monoprix.fr/223.html"
+street: Rue Charles de Gaulle
+housenumber: "7"
+phone: +33 4 77 23 65 90
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.monoprix.fr/223.html

@@ -4,8 +4,8 @@ latitude: 45.19233
 longitude: 5.69941
 postcode: "38600"
 city: Fontaine
-street: "Avenue du Vercors"
-housenumber: 5
+street: Avenue du Vercors
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Th,Sa,Su 09:00-19:00; Fr 09:00-12:00,14:00-19:00"
+opening_hours: Tu-Th,Sa,Su 09:00-19:00; Fr 09:00-12:00,14:00-19:00
 website: ""

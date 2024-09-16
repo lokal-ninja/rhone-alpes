@@ -4,8 +4,8 @@ latitude: 45.19211
 longitude: 5.71924
 postcode: "38000"
 city: Grenoble
-street: "Rue Casimir Brenier"
-housenumber: 4
-phone: "+33 4 76 53 11 91"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://magasins.vival.fr/fr/vival-grenoble-brenier"
+street: Rue Casimir Brenier
+housenumber: "4"
+phone: +33 4 76 53 11 91
+opening_hours: Mo-Su 07:00-23:00
+website: https://magasins.vival.fr/fr/vival-grenoble-brenier

@@ -4,8 +4,8 @@ latitude: 45.46648
 longitude: 4.49868
 postcode: "42400"
 city: Saint-Chamond
-street: "Route de Saint-Étienne"
-housenumber: 17
-phone: "+33 4 77 31 78 64"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00"
-website: "https://www.garage-mondon.fr/"
+street: Route de Saint-Étienne
+housenumber: "17"
+phone: +33 4 77 31 78 64
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00
+website: https://www.garage-mondon.fr/

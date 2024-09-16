@@ -4,8 +4,9 @@ latitude: 45.88874
 longitude: 6.10098
 postcode: "74600"
 city: Seynod
-street: "Avenue de Champ Fleuri"
-housenumber: 31
+street: Avenue de Champ Fleuri
+housenumber: "31"
 phone: "+33450663782"
-opening_hours: "Mo 09:00-18:00; Tu 07:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 08:00-21:00; Sa 07:00-17:00"
-website: "https://loge-coiffure.fr/"
+opening_hours: Mo 09:00-18:00; Tu 07:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr
+    08:00-21:00; Sa 07:00-17:00
+website: https://loge-coiffure.fr/

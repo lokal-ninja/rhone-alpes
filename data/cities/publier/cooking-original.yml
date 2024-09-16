@@ -1,11 +1,11 @@
 id: 1156910105
-type: way
+type: node
 latitude: 46.38813
 longitude: 6.5203
 postcode: "74500"
 city: Publier
-street: "Impasse des Vignes Rouges"
-housenumber: 
+street: Impasse des Vignes Rouges
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
+opening_hours: Mo-Sa 09:00-19:00; Su off
 website: ""

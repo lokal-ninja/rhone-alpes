@@ -4,8 +4,8 @@ latitude: 45.3269
 longitude: 5.56565
 postcode: "38430"
 city: Moirans
-street: "Rue de la République"
-housenumber: 54
+street: Rue de la République
+housenumber: "54"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-19:00; We 15:00-19:00; Sa 09:00-12:30,16:00-19:00"
+opening_hours: Tu,Th,Fr 09:00-19:00; We 15:00-19:00; Sa 09:00-12:30,16:00-19:00
 website: ""

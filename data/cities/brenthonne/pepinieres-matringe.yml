@@ -1,11 +1,11 @@
 id: 224840451
-type: way
+type: node
 latitude: 46.26713
 longitude: 6.40343
 postcode: "74890"
 city: Brenthonne
-street: "Chemin de la Courbe"
-housenumber: 169
+street: Chemin de la Courbe
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-11:30, 14:00-17:00; Su off"
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-11:30, 14:00-17:00; Su off
 website: ""

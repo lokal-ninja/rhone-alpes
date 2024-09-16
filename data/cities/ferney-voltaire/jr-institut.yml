@@ -4,8 +4,8 @@ latitude: 46.25488
 longitude: 6.11018
 postcode: "01210"
 city: Ferney-Voltaire
-street: "Rue de Meyrin"
-housenumber: 15
+street: Rue de Meyrin
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00"
+opening_hours: Mo,Tu,We,Fr 09:00-19:00; Th 09:00-21:00; Sa 08:00-17:00
 website: ""

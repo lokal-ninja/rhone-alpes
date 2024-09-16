@@ -1,11 +1,11 @@
 id: 1268787207
-type: way
+type: node
 latitude: 45.15996
 longitude: 5.69347
 postcode: "38180"
 city: Seyssins
-street: "Avenue du Général de Gaulle"
-housenumber: 100
-phone: "+33 4 38 70 07 21"
-opening_hours: "Mo-Sa 08:30-18:30"
-website: "https://www.vercorslait-seyssins.fr/"
+street: Avenue du Général de Gaulle
+housenumber: "100"
+phone: +33 4 38 70 07 21
+opening_hours: Mo-Sa 08:30-18:30
+website: https://www.vercorslait-seyssins.fr/

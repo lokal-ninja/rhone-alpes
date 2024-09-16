@@ -1,11 +1,11 @@
 id: 84915675
-type: way
+type: node
 latitude: 46.19631
 longitude: 6.24386
 postcode: "74100"
 city: Annemasse
-street: "Rue des Tournelles"
-housenumber: 38
+street: Rue des Tournelles
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.5834
 longitude: 5.2915
 postcode: "38300"
 city: Bourgoin-Jallieu
-street: "Route de Grenoble"
-housenumber: 78
-phone: "+33 4 74 43 20 48"
+street: Route de Grenoble
+housenumber: "78"
+phone: +33 4 74 43 20 48
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

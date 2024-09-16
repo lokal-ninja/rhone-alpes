@@ -1,11 +1,11 @@
 id: 107785716
-type: way
+type: node
 latitude: 46.07403
 longitude: 6.40966
 postcode: "74130"
 city: Bonneville
-street: "Rue Charles Baudelaire"
-housenumber: 220
+street: Rue Charles Baudelaire
+housenumber: "220"
 phone: ""
 opening_hours: ""
 website: ""

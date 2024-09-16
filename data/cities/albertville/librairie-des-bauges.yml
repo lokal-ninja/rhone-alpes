@@ -4,8 +4,8 @@ latitude: 45.67519
 longitude: 6.38857
 postcode: "73200"
 city: Albertville
-street: "Rue de la République"
-housenumber: 104
+street: Rue de la République
+housenumber: "104"
 phone: "+33479320091"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.librairiedesbauges.fr"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.librairiedesbauges.fr

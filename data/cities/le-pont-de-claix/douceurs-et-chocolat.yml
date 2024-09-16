@@ -4,8 +4,8 @@ latitude: 45.12342
 longitude: 5.69828
 postcode: "38800"
 city: Le Pont-de-Claix
-street: "Place du 8 Mai 1945"
-housenumber: 8
-phone: "+33 4 76 98 08 49"
-opening_hours: "Tu-Sa 05:00-19:30; Su 06:00-19:30"
+street: Place du 8 Mai 1945
+housenumber: "8"
+phone: +33 4 76 98 08 49
+opening_hours: Tu-Sa 05:00-19:30; Su 06:00-19:30
 website: ""

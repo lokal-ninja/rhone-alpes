@@ -1,11 +1,11 @@
 id: 64763684
-type: way
+type: node
 latitude: 45.43099
 longitude: 6.02085
 postcode: "38530"
 city: Pontcharra
-street: "Avenue du Dauphiné"
-housenumber: 111
+street: Avenue du Dauphiné
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

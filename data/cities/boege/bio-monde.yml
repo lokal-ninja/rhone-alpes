@@ -1,11 +1,11 @@
 id: 93493667
-type: way
+type: node
 latitude: 46.20645
 longitude: 6.40339
 postcode: "74420"
 city: Boëge
-street: "Rue du Collège"
-housenumber: 152
-phone: "+33 4 50 85 45 32"
+street: Rue du Collège
+housenumber: "152"
+phone: +33 4 50 85 45 32
 opening_hours: ""
 website: ""

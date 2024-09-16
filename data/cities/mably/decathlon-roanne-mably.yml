@@ -1,11 +1,11 @@
 id: 95055929
-type: way
+type: node
 latitude: 46.06326
 longitude: 4.0588
 postcode: "42300"
 city: Mably
-street: "Rue des Buttes"
-housenumber: 
+street: Rue des Buttes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_151"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_151

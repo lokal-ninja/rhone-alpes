@@ -1,11 +1,11 @@
 id: 1135898446
-type: way
+type: node
 latitude: 46.33165
 longitude: 6.37827
 postcode: "74140"
 city: Sciez-sur-Léman
-street: "Avenue de l'Église"
-housenumber: 1
+street: Avenue de l'Église
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 08:30-12:30,15:00-19:00; Su 08:30-12:30; Mo,Th off"
+opening_hours: Tu,We,Fr,Sa 08:30-12:30,15:00-19:00; Su 08:30-12:30; Mo,Th off
 website: ""

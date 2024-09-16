@@ -1,11 +1,11 @@
 id: 77670288
-type: way
+type: node
 latitude: 45.17834
 longitude: 5.74373
 postcode: "38100"
 city: Grenoble
-street: "Rue André Argouges"
-housenumber: 14
-phone: "+33 4 76 03 02 48"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-grenoble-argouges"
+street: Rue André Argouges
+housenumber: "14"
+phone: +33 4 76 03 02 48
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-grenoble-argouges

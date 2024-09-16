@@ -4,8 +4,8 @@ latitude: 45.15272
 longitude: 5.71469
 postcode: "38130"
 city: Échirolles
-street: "Rue Fernand Pelloutier"
-housenumber: 10
-phone: "+33 4 76 09 67 83"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00"
+street: Rue Fernand Pelloutier
+housenumber: "10"
+phone: +33 4 76 09 67 83
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00
 website: ""

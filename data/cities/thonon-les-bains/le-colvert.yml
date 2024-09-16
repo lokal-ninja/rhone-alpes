@@ -4,8 +4,8 @@ latitude: 46.37201
 longitude: 6.47751
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Rue Vallon"
-housenumber: 19
+street: Rue Vallon
+housenumber: "19"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.armurerie-colvert-thonon.fr/"
+opening_hours: Mo,Su off; Tu-Sa 09:00-12:00, 14:00-19:00
+website: https://www.armurerie-colvert-thonon.fr/

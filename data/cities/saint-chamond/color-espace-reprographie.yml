@@ -4,8 +4,8 @@ latitude: 45.4761
 longitude: 4.52074
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue Victor Hugo"
-housenumber: 23
+street: Rue Victor Hugo
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00"
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00
 website: ""

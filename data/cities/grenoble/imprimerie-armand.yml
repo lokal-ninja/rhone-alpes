@@ -4,8 +4,8 @@ latitude: 45.19176
 longitude: 5.71994
 postcode: "38000"
 city: Grenoble
-street: "Cours Jean Jaurès"
-housenumber: 2
+street: Cours Jean Jaurès
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00"
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:00
 website: ""

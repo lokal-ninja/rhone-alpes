@@ -4,8 +4,8 @@ latitude: 44.3029
 longitude: 4.61373
 postcode: "07700"
 city: Saint-Just d'Ardèche
-street: "Route de Pont Saint-Esprit"
-housenumber: 125
-phone: "+33 4 75 52 35 37"
-opening_hours: "Tu-Sa 08:00-12:30,15:30-19:30; Su 08:30-12:30"
+street: Route de Pont Saint-Esprit
+housenumber: "125"
+phone: +33 4 75 52 35 37
+opening_hours: Tu-Sa 08:00-12:30,15:30-19:30; Su 08:30-12:30
 website: ""

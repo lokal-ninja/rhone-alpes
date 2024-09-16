@@ -4,8 +4,8 @@ latitude: 45.91895
 longitude: 5.50997
 postcode: "01230"
 city: Tenay
-street: "rue du carré l’Abbé"
-housenumber: 2
-phone: "+33 4 74 36 66 83"
-opening_hours: "Tu 06:30-13:00; We-Sa 07:00-13:00"
+street: rue du carré l’Abbé
+housenumber: "2"
+phone: +33 4 74 36 66 83
+opening_hours: Tu 06:30-13:00; We-Sa 07:00-13:00
 website: ""

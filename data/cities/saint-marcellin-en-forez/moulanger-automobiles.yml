@@ -1,11 +1,11 @@
 id: 834786852
-type: way
+type: node
 latitude: 45.51647
 longitude: 4.20293
 postcode: "42680"
 city: Saint-Marcellin-en-Forez
-street: "Chemin des Lièvres"
-housenumber: 
-phone: "04 77 52 83 73"
+street: Chemin des Lièvres
+housenumber: ""
+phone: 04 77 52 83 73
 opening_hours: ""
-website: "https://www.moulanger-automobiles.com/"
+website: https://www.moulanger-automobiles.com/

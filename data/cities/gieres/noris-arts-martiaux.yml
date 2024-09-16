@@ -4,8 +4,8 @@ latitude: 45.18745
 longitude: 5.77695
 postcode: "38610"
 city: Gières
-street: "Rue de Mayencin"
-housenumber: 1
+street: Rue de Mayencin
+housenumber: "1"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 10:00-12:00,14:00-18:00; Th 10:00-12:00,14:00-16:30"
+opening_hours: Tu,We,Fr,Sa 10:00-12:00,14:00-18:00; Th 10:00-12:00,14:00-16:30
 website: ""

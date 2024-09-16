@@ -1,11 +1,11 @@
 id: 1125514202
-type: way
+type: node
 latitude: 46.39422
 longitude: 6.53952
 postcode: "74500"
 city: Publier
-street: "Rue du Clos Fleuri"
-housenumber: 21
+street: Rue du Clos Fleuri
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:15"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:15
 website: ""

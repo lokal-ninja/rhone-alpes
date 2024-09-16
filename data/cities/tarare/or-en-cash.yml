@@ -4,8 +4,8 @@ latitude: 45.89564
 longitude: 4.43247
 postcode: "69170"
 city: Tarare
-street: "Rue Pêcherie"
-housenumber: 4
-phone: "+33 4 74 05 60 07"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:15-12:00, 14:00-18:00; Sa 09:15-12:00"
-website: "https://www.orencash.fr/boutiques-achat-or/tarare/"
+street: Rue Pêcherie
+housenumber: "4"
+phone: +33 4 74 05 60 07
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:15-12:00, 14:00-18:00; Sa 09:15-12:00
+website: https://www.orencash.fr/boutiques-achat-or/tarare/

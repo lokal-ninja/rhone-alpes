@@ -1,11 +1,11 @@
 id: 362961677
-type: way
+type: node
 latitude: 46.06525
 longitude: 3.92159
 postcode: "42370"
 city: Saint-Haon-le-Châtel
-street: "Le Pré Normand"
-housenumber: 
-phone: "+33 4 77 64 40 79"
+street: Le Pré Normand
+housenumber: ""
+phone: +33 4 77 64 40 79
 opening_hours: ""
-website: "https://www.mons-fromages.com/"
+website: https://www.mons-fromages.com/

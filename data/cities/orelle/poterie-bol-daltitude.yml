@@ -1,11 +1,11 @@
 id: 1017787615
-type: way
+type: node
 latitude: 45.21191
 longitude: 6.55759
 postcode: "73140"
 city: Orelle
-street: "Le Crêt du Vlé"
-housenumber: 
+street: Le Crêt du Vlé
+housenumber: ""
 phone: "+33671280195"
-opening_hours: "Mo-Tu 14:00-16h30; Th-Fr 09:00-12:00; "
-website: "https://boldaltitude.fr"
+opening_hours: 'Mo-Tu 14:00-16h30; Th-Fr 09:00-12:00; '
+website: https://boldaltitude.fr

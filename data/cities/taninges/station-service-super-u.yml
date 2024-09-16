@@ -1,11 +1,11 @@
 id: 278509075
-type: way
+type: node
 latitude: 46.10876
 longitude: 6.58243
 postcode: "74440"
 city: Taninges
-street: "Route d'Annemasse"
-housenumber: 182
+street: Route d'Annemasse
+housenumber: "182"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 177907858
-type: way
+type: node
 latitude: 46.21998
 longitude: 5.86584
 postcode: "01410"
 city: Chézery-Forens
-street: "Rue de la Fromagerie"
-housenumber: 
-phone: "+33 4 50 56 91 67"
-opening_hours: "We-Fr 08:30-12:00,14:00-18:30; Sa,Su 08:30-12:00,14:00-18:00"
-website: "http://fruitiere.comte.com/fromagerie-de-chezery/chezery-forens.html"
+street: Rue de la Fromagerie
+housenumber: ""
+phone: +33 4 50 56 91 67
+opening_hours: We-Fr 08:30-12:00,14:00-18:30; Sa,Su 08:30-12:00,14:00-18:00
+website: http://fruitiere.comte.com/fromagerie-de-chezery/chezery-forens.html

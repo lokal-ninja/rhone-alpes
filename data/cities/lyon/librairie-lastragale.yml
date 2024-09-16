@@ -4,8 +4,8 @@ latitude: 45.76884
 longitude: 4.8547
 postcode: "69006"
 city: Lyon
-street: "Rue de Sèze"
-housenumber: 108
+street: Rue de Sèze
+housenumber: "108"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:30; Su 10:00-13:00"
+opening_hours: Tu-Sa 10:00-19:30; Su 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 164008847
-type: way
+type: node
 latitude: 45.61925
 longitude: 4.06626
 postcode: "42600"
 city: Montbrison
-street: "Avenue Charles de Gaulle"
-housenumber: 24
+street: Avenue Charles de Gaulle
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

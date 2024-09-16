@@ -4,8 +4,8 @@ latitude: 45.85185
 longitude: 5.05835
 postcode: "01120"
 city: Montluel
-street: "Grande Rue"
-housenumber: 55
-phone: "+33 4 72 88 35 89"
+street: Grande Rue
+housenumber: "55"
+phone: +33 4 72 88 35 89
 opening_hours: ""
-website: "http://epicerie-du-village.com/"
+website: http://epicerie-du-village.com/

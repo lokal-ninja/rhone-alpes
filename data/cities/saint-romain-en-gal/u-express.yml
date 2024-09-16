@@ -1,11 +1,11 @@
 id: 1087159242
-type: way
+type: node
 latitude: 45.52798
 longitude: 4.865
 postcode: "69560"
 city: Saint-Romain-en-Gal
-street: "Avenue de la Gare"
-housenumber: 
+street: Avenue de la Gare
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:00-19:30; Su 09:00-12:30
 website: ""

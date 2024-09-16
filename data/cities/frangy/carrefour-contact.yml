@@ -1,11 +1,11 @@
 id: 176393057
-type: way
+type: node
 latitude: 46.01758
 longitude: 5.92505
 postcode: "74270"
 city: Frangy
-street: "Route du Tram"
-housenumber: 178
+street: Route du Tram
+housenumber: "178"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
 website: ""

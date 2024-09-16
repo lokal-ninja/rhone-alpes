@@ -1,11 +1,11 @@
 id: 87063017
-type: way
+type: node
 latitude: 45.85159
 longitude: 5.95294
 postcode: "74150"
 city: Rumilly
-street: "Rue René Cassin"
-housenumber: 45
+street: Rue René Cassin
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00; Su off"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00; Su off
 website: ""

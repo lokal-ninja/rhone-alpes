@@ -1,11 +1,11 @@
 id: 66851320
-type: way
+type: node
 latitude: 46.40026
 longitude: 6.65438
 postcode: "74500"
 city: Lugrin
-street: "Avenue du Stade"
-housenumber: 
+street: Avenue du Stade
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:15; Su 08:30-11:45"
+opening_hours: Mo-Sa 08:30-19:15; Su 08:30-11:45
 website: ""

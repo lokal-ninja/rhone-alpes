@@ -4,8 +4,8 @@ latitude: 45.77157
 longitude: 5.01724
 postcode: "69330"
 city: Meyzieu
-street: "Avenue Lionel Terray"
-housenumber: 2
+street: Avenue Lionel Terray
+housenumber: "2"
 phone: "+33469982317"
-opening_hours: "Mo-Fr 09:00-12:15,13:00-17:30; Sa 09:00-17:00"
-website: "https://www.resotainer.fr/agence-meyzieu"
+opening_hours: Mo-Fr 09:00-12:15,13:00-17:30; Sa 09:00-17:00
+website: https://www.resotainer.fr/agence-meyzieu

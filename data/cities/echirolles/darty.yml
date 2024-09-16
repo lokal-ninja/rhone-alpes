@@ -1,11 +1,11 @@
 id: 1257150541
-type: way
+type: node
 latitude: 45.14819
 longitude: 5.69146
 postcode: "38130"
 city: Échirolles
-street: "Impasse du Rocher"
-housenumber: 2
+street: Impasse du Rocher
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

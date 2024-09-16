@@ -1,11 +1,11 @@
 id: 61967108
-type: way
+type: node
 latitude: 46.15471
 longitude: 6.33913
 postcode: "74250"
 city: Fillinges
-street: "Route du Chef-Lieu"
-housenumber: 1542
+street: Route du Chef-Lieu
+housenumber: "1542"
 phone: ""
-opening_hours: "Mo-Su 07:00-12:00,18:00-20:00"
+opening_hours: Mo-Su 07:00-12:00,18:00-20:00
 website: ""

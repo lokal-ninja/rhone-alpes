@@ -1,11 +1,11 @@
 id: 158608801
-type: way
+type: node
 latitude: 46.20151
 longitude: 6.26655
 postcode: "74100"
 city: Ville-la-Grand
-street: "Allée des Mousserons des Prés"
-housenumber: 8
+street: Allée des Mousserons des Prés
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00"
+opening_hours: Mo,Su off; Tu-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 78679374
-type: way
+type: node
 latitude: 45.90812
 longitude: 6.70636
 postcode: "74190"
 city: Passy
-street: "Avenue de Chamonix"
-housenumber: 438
-phone: "+33 6 28 49 59 87"
+street: Avenue de Chamonix
+housenumber: "438"
+phone: +33 6 28 49 59 87
 opening_hours: ""
-website: "http://relais-motards.net"
+website: http://relais-motards.net

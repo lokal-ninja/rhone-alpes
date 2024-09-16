@@ -4,8 +4,8 @@ latitude: 45.18894
 longitude: 5.729
 postcode: "38000"
 city: Grenoble
-street: "Rue Condillac"
-housenumber: 2
-phone: "+33 4 38 38 31 22"
-opening_hours: "Mo-Fr 9:00-19:30; Sa 9:00-19:00"
-website: "https://www.labonnepiochegrenoble.com"
+street: Rue Condillac
+housenumber: "2"
+phone: +33 4 38 38 31 22
+opening_hours: Mo-Fr 9:00-19:30; Sa 9:00-19:00
+website: https://www.labonnepiochegrenoble.com

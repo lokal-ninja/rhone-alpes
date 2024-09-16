@@ -1,11 +1,11 @@
 id: 821364046
-type: way
+type: node
 latitude: 45.96468
 longitude: 5.8372
 postcode: "74910"
 city: Seyssel
-street: "Route de Genève"
-housenumber: 28
+street: Route de Genève
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

@@ -5,7 +5,8 @@ longitude: 6.71487
 postcode: "74500"
 city: Thollon-les-Mémises
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Dec 22-Mar 31 Mo-Su 07:00-19:30; Apr 01-Dec 21 Mo-We,Fr-Sa 07:30-12:30, 16:00-19:30, Th,Su 07:30-12:30"
+opening_hours: Dec 22-Mar 31 Mo-Su 07:00-19:30; Apr 01-Dec 21 Mo-We,Fr-Sa 07:30-12:30,
+    16:00-19:30, Th,Su 07:30-12:30
 website: ""

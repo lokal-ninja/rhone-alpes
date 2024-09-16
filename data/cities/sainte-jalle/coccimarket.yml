@@ -1,11 +1,11 @@
 id: 615388531
-type: way
+type: node
 latitude: 44.34238
 longitude: 5.28373
 postcode: "26110"
 city: Sainte Jalle
-street: "allée des platanes"
-housenumber: 235
+street: allée des platanes
+housenumber: "235"
 phone: "+33475273101"
-opening_hours: "Mo-Sa 08:30-12:30,15:00-19:00 / Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-12:30,15:00-19:00 / Su 08:30-12:30
 website: ""

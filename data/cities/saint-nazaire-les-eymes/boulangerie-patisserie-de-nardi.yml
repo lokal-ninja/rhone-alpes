@@ -1,11 +1,11 @@
 id: 156325870
-type: way
+type: node
 latitude: 45.25595
 longitude: 5.84517
 postcode: "38330"
 city: Saint-Nazaire-les-Eymes
-street: "Route de Chambéry"
-housenumber: 940
+street: Route de Chambéry
+housenumber: "940"
 phone: ""
-opening_hours: "06:00-20:00"
+opening_hours: 06:00-20:00
 website: ""

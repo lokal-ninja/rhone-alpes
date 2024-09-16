@@ -1,11 +1,11 @@
 id: 69053228
-type: way
+type: node
 latitude: 46.3457
 longitude: 6.43551
 postcode: "74200"
 city: Margencel
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th,Sa 08:30-20:30, Fr 08:30-21:00, PH 08:30-20:30"
+opening_hours: Mo-Th,Sa 08:30-20:30, Fr 08:30-21:00, PH 08:30-20:30
 website: ""

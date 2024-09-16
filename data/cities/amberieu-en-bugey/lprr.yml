@@ -4,8 +4,8 @@ latitude: 45.969
 longitude: 5.34108
 postcode: "01500"
 city: Ambérieu-en-Bugey
-street: "Rue Marius Berliet"
-housenumber: 4
-phone: "+33 4 74 38 36 25"
-opening_hours: "Tu-Fr 10:00-12:00,13:30-19:00; Sa 10:00-19:00; PH off"
-website: "https://lprr.fr"
+street: Rue Marius Berliet
+housenumber: "4"
+phone: +33 4 74 38 36 25
+opening_hours: Tu-Fr 10:00-12:00,13:30-19:00; Sa 10:00-19:00; PH off
+website: https://lprr.fr

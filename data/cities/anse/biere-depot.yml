@@ -4,8 +4,8 @@ latitude: 45.93437
 longitude: 4.72386
 postcode: "69480"
 city: Anse
-street: "Route de Lyon"
-housenumber: 411
-phone: "+33 4 27 49 36 07"
-opening_hours: "Mo-Fr 14:30-19:30; Sa 09:30-12:00,14:30-19:30"
-website: "https://www.biere-depot.com/"
+street: Route de Lyon
+housenumber: "411"
+phone: +33 4 27 49 36 07
+opening_hours: Mo-Fr 14:30-19:30; Sa 09:30-12:00,14:30-19:30
+website: https://www.biere-depot.com/

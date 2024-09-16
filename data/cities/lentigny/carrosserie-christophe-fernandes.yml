@@ -1,11 +1,11 @@
 id: 376044441
-type: way
+type: node
 latitude: 45.98431
 longitude: 3.96564
 postcode: "42155"
 city: Lentigny
-street: "Route de Villemontais"
-housenumber: 
+street: Route de Villemontais
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.05392
 longitude: 6.0301
 postcode: "38520"
 city: Le Bourg-d'Oisans
-street: "Rue Enerst Graziotti"
-housenumber: 6
+street: Rue Enerst Graziotti
+housenumber: "6"
 phone: "+33476795268"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-13:00"
-website: "https://www.labicicletta.fr/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-13:00
+website: https://www.labicicletta.fr/

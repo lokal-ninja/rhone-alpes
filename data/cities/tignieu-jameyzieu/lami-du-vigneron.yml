@@ -4,8 +4,8 @@ latitude: 45.75328
 longitude: 5.1962
 postcode: "38230"
 city: Tignieu-Jameyzieu
-street: "Route de Crémieu"
-housenumber: 109
-phone: "+33 4 78 20 32 17"
-opening_hours: "Tu-Th 10:00-12:30,14:15-19:15; Fr-Sa 10:00-12:30,13:30-19:15"
-website: "https://www.lamiduvigneron.com/"
+street: Route de Crémieu
+housenumber: "109"
+phone: +33 4 78 20 32 17
+opening_hours: Tu-Th 10:00-12:30,14:15-19:15; Fr-Sa 10:00-12:30,13:30-19:15
+website: https://www.lamiduvigneron.com/

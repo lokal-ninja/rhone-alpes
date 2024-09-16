@@ -1,11 +1,11 @@
 id: 102937345
-type: way
+type: node
 latitude: 45.21463
 longitude: 5.77948
 postcode: "38240"
 city: Meylan
-street: "Chemin de l'Ancienne Mairie"
-housenumber: 14
-phone: "+33 4 76 90 26 49"
+street: Chemin de l'Ancienne Mairie
+housenumber: "14"
+phone: +33 4 76 90 26 49
 opening_hours: ""
-website: "https://concessions.peugeot.fr/meylan/"
+website: https://concessions.peugeot.fr/meylan/

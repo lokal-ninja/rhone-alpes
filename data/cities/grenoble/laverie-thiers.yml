@@ -4,8 +4,8 @@ latitude: 45.18758
 longitude: 5.72131
 postcode: "38000"
 city: Grenoble
-street: "Rue Thiers"
-housenumber: 14
-phone: "+33 4 76 96 28 03"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "http://www.laverie-grenoble.fr/laverie-thiers-1"
+street: Rue Thiers
+housenumber: "14"
+phone: +33 4 76 96 28 03
+opening_hours: Mo-Su 07:00-22:00
+website: http://www.laverie-grenoble.fr/laverie-thiers-1

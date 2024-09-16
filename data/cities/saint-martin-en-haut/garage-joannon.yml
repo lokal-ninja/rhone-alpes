@@ -1,11 +1,11 @@
 id: 614699525
-type: way
+type: node
 latitude: 45.651
 longitude: 4.5574
 postcode: "69850"
 city: Saint-Martin-en-Haut
-street: "ZA Des PLAINES"
-housenumber: 
-phone: "+33 4 78 48 67 24"
+street: ZA Des PLAINES
+housenumber: ""
+phone: +33 4 78 48 67 24
 opening_hours: ""
 website: ""

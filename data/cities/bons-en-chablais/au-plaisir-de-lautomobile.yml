@@ -1,11 +1,11 @@
 id: 1154317247
-type: way
+type: node
 latitude: 46.27767
 longitude: 6.34518
 postcode: "74890"
 city: Bons-en-Chablais
-street: "Rue des Tanières"
-housenumber: 317
+street: Rue des Tanières
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

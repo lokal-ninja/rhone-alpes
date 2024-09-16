@@ -1,11 +1,11 @@
 id: 155891602
-type: way
+type: node
 latitude: 46.08213
 longitude: 3.96373
 postcode: "42640"
 city: Saint-Romain-la-Motte
-street: "Chemin de la Roche"
-housenumber: 285
-phone: "+33 477645096"
-opening_hours: "Mo-Sa 09:00-11:30,17:00-19:00; Su 09:00-11:30; PH closed"
+street: Chemin de la Roche
+housenumber: "285"
+phone: +33 477645096
+opening_hours: Mo-Sa 09:00-11:30,17:00-19:00; Su 09:00-11:30; PH closed
 website: ""

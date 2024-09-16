@@ -4,8 +4,8 @@ latitude: 46.35855
 longitude: 6.14373
 postcode: "01220"
 city: Divonne-les-Bains
-street: "Rue de Lausanne"
-housenumber: 80
+street: Rue de Lausanne
+housenumber: "80"
 phone: ""
-opening_hours: "Tu-Fr 08:30-19:00; Sa 08:00-16:00"
-website: "https://www.espacetendance.fr/"
+opening_hours: Tu-Fr 08:30-19:00; Sa 08:00-16:00
+website: https://www.espacetendance.fr/

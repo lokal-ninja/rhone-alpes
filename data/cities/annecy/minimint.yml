@@ -4,8 +4,8 @@ latitude: 45.90215
 longitude: 6.12622
 postcode: "74000"
 city: Annecy
-street: "Rue Sommeiller"
-housenumber: 36
+street: Rue Sommeiller
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://minimint.fr/"
+website: https://minimint.fr/

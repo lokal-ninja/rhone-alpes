@@ -4,8 +4,8 @@ latitude: 45.18249
 longitude: 5.758
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Pierre Semard"
-housenumber: 1
-phone: "+33 4 76 42 88 02"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa,Su off"
+street: Avenue Pierre Semard
+housenumber: "1"
+phone: +33 4 76 42 88 02
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa,Su off
 website: ""

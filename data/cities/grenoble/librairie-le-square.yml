@@ -4,8 +4,8 @@ latitude: 45.18832
 longitude: 5.72718
 postcode: "38000"
 city: Grenoble
-street: "Square Docteur Léon Martin"
-housenumber: 2
+street: Square Docteur Léon Martin
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.librairielesquare.com/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.librairielesquare.com/

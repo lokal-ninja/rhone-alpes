@@ -4,8 +4,8 @@ latitude: 45.18764
 longitude: 5.72157
 postcode: "38000"
 city: Grenoble
-street: "Rue Thiers"
-housenumber: 15
-phone: "+33 4 76 46 32 39"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.interlude-espace-coiffure.fr/"
+street: Rue Thiers
+housenumber: "15"
+phone: +33 4 76 46 32 39
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://www.interlude-espace-coiffure.fr/

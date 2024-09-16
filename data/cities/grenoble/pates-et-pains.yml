@@ -4,8 +4,8 @@ latitude: 45.2025
 longitude: 5.7045
 postcode: "38000"
 city: Grenoble
-street: "Rue Winston Churchill"
-housenumber: 28
+street: Rue Winston Churchill
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.18851
 longitude: 5.7233
 postcode: "38000"
 city: Grenoble
-street: "Boulevard Gambetta"
-housenumber: 27
-phone: "+33 9 52 31 27 93"
-opening_hours: "Mo 13:00-18:00; Tu-Sa 10:00-19:00; Su off"
-website: "https://www.maxluna.fr/"
+street: Boulevard Gambetta
+housenumber: "27"
+phone: +33 9 52 31 27 93
+opening_hours: Mo 13:00-18:00; Tu-Sa 10:00-19:00; Su off
+website: https://www.maxluna.fr/

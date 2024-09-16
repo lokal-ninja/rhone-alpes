@@ -4,8 +4,8 @@ latitude: 45.65911
 longitude: 4.56337
 postcode: "69850"
 city: Saint-Martin-en-Haut
-street: "Grande Rue"
-housenumber: 55
+street: Grande Rue
+housenumber: "55"
 phone: "+33478486133"
 opening_hours: ""
-website: "http://www.etablissements-martiniere.fr"
+website: http://www.etablissements-martiniere.fr

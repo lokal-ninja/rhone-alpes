@@ -4,8 +4,8 @@ latitude: 45.75515
 longitude: 4.8465
 postcode: "69003"
 city: Lyon
-street: "Avenue Maréchal de Saxe"
-housenumber: 144
-phone: "+33 4 78 60 19 01"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.speedway.fr/pages/1-magasins/4-speedway-lyon.html"
+street: Avenue Maréchal de Saxe
+housenumber: "144"
+phone: +33 4 78 60 19 01
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.speedway.fr/pages/1-magasins/4-speedway-lyon.html

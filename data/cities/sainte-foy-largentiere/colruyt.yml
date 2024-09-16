@@ -4,8 +4,8 @@ latitude: 45.71154
 longitude: 4.47263
 postcode: "69610"
 city: Sainte-Foy-l'Argentière
-street: "Rue du Stade"
-housenumber: 11
+street: Rue du Stade
+housenumber: "11"
 phone: "+33478407345"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "http://www.colruyt.fr/colruytfr/static/magasin.shtml#4882"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: http://www.colruyt.fr/colruytfr/static/magasin.shtml#4882

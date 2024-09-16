@@ -4,8 +4,8 @@ latitude: 45.18577
 longitude: 5.71379
 postcode: "38000"
 city: Grenoble
-street: "Rue Nicolas Chorier"
-housenumber: 27
-phone: "+33 4 76 23 43 77"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-13:00"
-website: "https://www.franprix.fr/magasins/4384"
+street: Rue Nicolas Chorier
+housenumber: "27"
+phone: +33 4 76 23 43 77
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-13:00
+website: https://www.franprix.fr/magasins/4384

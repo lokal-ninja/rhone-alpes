@@ -1,11 +1,11 @@
 id: 512915173
-type: way
+type: node
 latitude: 45.1578
 longitude: 5.73191
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 90
+street: Avenue du Vercors
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

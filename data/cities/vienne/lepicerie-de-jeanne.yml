@@ -4,8 +4,9 @@ latitude: 45.51683
 longitude: 4.86887
 postcode: "38200"
 city: Vienne
-street: "Cours de Verdun"
-housenumber: 
-phone: "+33 4 74 85 60 80"
-opening_hours: "Tu-We 07:30-12:30,15:00-19:00; Th 07:30-12:30; Fr-Sa 07:30-19:00; Su 07:30-12:00; 24/7 closed Fermé pour raison de santé"
-website: "http://commerces.viennagglo.fr/epicerie-de-jeanne-vienne.html"
+street: Cours de Verdun
+housenumber: ""
+phone: +33 4 74 85 60 80
+opening_hours: Tu-We 07:30-12:30,15:00-19:00; Th 07:30-12:30; Fr-Sa 07:30-19:00; Su
+    07:30-12:00; 24/7 closed "Fermé pour raison de santé"
+website: http://commerces.viennagglo.fr/epicerie-de-jeanne-vienne.html

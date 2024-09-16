@@ -1,11 +1,11 @@
 id: 648255582
-type: way
+type: node
 latitude: 45.2024
 longitude: 5.70466
 postcode: "38000"
 city: Grenoble
-street: "Avenue des Martyrs"
+street: Avenue des Martyrs
 housenumber: 82B
-phone: "+33 975241781"
-opening_hours: "Th-Fr 09:00-19:00; Sa 08:30-17:30"
-website: "https://davidetson.com/salon/grenoble-presquile/"
+phone: +33 975241781
+opening_hours: Th-Fr 09:00-19:00; Sa 08:30-17:30
+website: https://davidetson.com/salon/grenoble-presquile/

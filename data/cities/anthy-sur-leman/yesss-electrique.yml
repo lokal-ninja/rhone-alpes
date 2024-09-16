@@ -1,11 +1,11 @@
 id: 69004789
-type: way
+type: node
 latitude: 46.35307
 longitude: 6.44039
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Route du Champ du Puits"
-housenumber: 3
+street: Route du Champ du Puits
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00; Sa-Su off"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00,13:30-17:00; Sa-Su off
 website: ""

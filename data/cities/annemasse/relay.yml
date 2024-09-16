@@ -4,8 +4,8 @@ latitude: 46.19934
 longitude: 6.23678
 postcode: "74100"
 city: Annemasse
-street: "Esplanade François-Mitterrand"
-housenumber: 11
-phone: "+33 4 50 80 23 12"
-opening_hours: "Mo-Fr 06:00-19:00"
-website: "https://www.relay.com/stores/relay-gare-de-wojo-annemasse/"
+street: Esplanade François-Mitterrand
+housenumber: "11"
+phone: +33 4 50 80 23 12
+opening_hours: Mo-Fr 06:00-19:00
+website: https://www.relay.com/stores/relay-gare-de-wojo-annemasse/

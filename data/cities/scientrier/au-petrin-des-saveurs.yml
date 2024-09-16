@@ -1,11 +1,11 @@
 id: 70523208
-type: way
+type: node
 latitude: 46.1187
 longitude: 6.31622
 postcode: "74930"
 city: Scientrier
-street: "Rue des Écoles"
-housenumber: 21
+street: Rue des Écoles
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 06:15-19:30, Su 06:15-13:00"
+opening_hours: Mo-Sa 06:15-19:30, Su 06:15-13:00
 website: ""

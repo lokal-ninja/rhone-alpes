@@ -4,8 +4,8 @@ latitude: 45.76016
 longitude: 4.83307
 postcode: "69002"
 city: Lyon
-street: "Place des Jacobins"
-housenumber: 8
-phone: "+33 4 78 42 90 82"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 11:00-13:00,14:00-19:00"
-website: "https://www.lolo-chatenay.com/"
+street: Place des Jacobins
+housenumber: "8"
+phone: +33 4 78 42 90 82
+opening_hours: Mo 14:00-19:00; Tu-Sa 11:00-13:00,14:00-19:00
+website: https://www.lolo-chatenay.com/

@@ -1,11 +1,11 @@
 id: 827580125
-type: way
+type: node
 latitude: 46.27753
 longitude: 6.82266
 postcode: "74360"
 city: La Chapelle-d'Abondance
-street: "Chemin des Vorges"
-housenumber: 94
+street: Chemin des Vorges
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:15; Su 09:00-12:00"
+opening_hours: Mo-Sa 08:30-19:15; Su 09:00-12:00
 website: ""

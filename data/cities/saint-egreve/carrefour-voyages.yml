@@ -4,8 +4,8 @@ latitude: 45.23942
 longitude: 5.66372
 postcode: "38120"
 city: Saint-Égrève
-street: "Rue des Abattoirs"
-housenumber: 1
-phone: "+33 4 76 58 15 07"
-opening_hours: "Mo-Fr 08:30-21:30; Sa 09:30-20:00"
-website: "https://voyages.carrefour.fr/"
+street: Rue des Abattoirs
+housenumber: "1"
+phone: +33 4 76 58 15 07
+opening_hours: Mo-Fr 08:30-21:30; Sa 09:30-20:00
+website: https://voyages.carrefour.fr/

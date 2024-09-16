@@ -1,11 +1,11 @@
 id: 929381302
-type: way
+type: node
 latitude: 45.27902
 longitude: 6.34656
 postcode: "73300"
 city: Saint-Jean-de-Maurienne
-street: "C C Saint Jean De Maurienne"
-housenumber: 
+street: C C Saint Jean De Maurienne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:00-19:30; Su 08:30-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.67929
 longitude: 4.64854
 postcode: "69510"
 city: Thurins
-street: "Route de la Vallée du Garon"
-housenumber: 31
+street: Route de la Vallée du Garon
+housenumber: "31"
 phone: "+33478489416"
-opening_hours: "Mo-Th 08:00-12:00,14:00-19:00; Fr 08:00-12:00,14:00-17:00"
-website: "https://garagejoannard.multimarque.fr"
+opening_hours: Mo-Th 08:00-12:00,14:00-19:00; Fr 08:00-12:00,14:00-17:00
+website: https://garagejoannard.multimarque.fr

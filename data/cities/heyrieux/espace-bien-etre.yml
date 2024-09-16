@@ -4,8 +4,8 @@ latitude: 45.62982
 longitude: 5.06581
 postcode: "38540"
 city: Heyrieux
-street: "Avenue Général Leclerc"
-housenumber: 54
-phone: "+33 4 78 40 56 94"
-opening_hours: "Su-Mo off; Tu 09:00-19:00; We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://app.flexybeauty.com/espace-bien-etre38/home"
+street: Avenue Général Leclerc
+housenumber: "54"
+phone: +33 4 78 40 56 94
+opening_hours: Su-Mo off; Tu 09:00-19:00; We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://app.flexybeauty.com/espace-bien-etre38/home

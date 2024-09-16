@@ -1,11 +1,11 @@
 id: 82100852
-type: way
+type: node
 latitude: 45.24478
 longitude: 5.65759
 postcode: "38120"
 city: Fontanil-Cornillon
-street: "Rue de la Louisiane"
-housenumber: 6
-phone: "+33 4 76 04 20 42"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-19:00; Sa 10:00-12:30,13:30-18:00"
-website: "https://www.groupe-huillier.mercedes-benz.fr/"
+street: Rue de la Louisiane
+housenumber: "6"
+phone: +33 4 76 04 20 42
+opening_hours: Mo-Fr 09:00-12:30,13:30-19:00; Sa 10:00-12:30,13:30-18:00
+website: https://www.groupe-huillier.mercedes-benz.fr/

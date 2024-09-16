@@ -1,11 +1,11 @@
 id: 164117393
-type: way
+type: node
 latitude: 45.5554
 longitude: 5.97608
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue de la Breisse"
-housenumber: 88
+street: Avenue de la Breisse
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

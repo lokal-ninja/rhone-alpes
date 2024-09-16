@@ -1,11 +1,11 @@
 id: 512917493
-type: way
+type: node
 latitude: 45.15756
 longitude: 5.73266
 postcode: "38100"
 city: Grenoble
-street: "Avenue de Belledonne"
-housenumber: 8
-phone: "+33 4 76 22 00 25"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Louis-Pion"
+street: Avenue de Belledonne
+housenumber: "8"
+phone: +33 4 76 22 00 25
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Louis-Pion

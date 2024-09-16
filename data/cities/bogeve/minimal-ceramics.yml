@@ -1,11 +1,11 @@
 id: 1251519695
-type: way
+type: node
 latitude: 46.19357
 longitude: 6.42974
 postcode: "74250"
 city: Bogève
-street: "Route de la Vallée Verte"
-housenumber: 26
+street: Route de la Vallée Verte
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 45.79845
 longitude: 4.23147
 postcode: "42110"
 city: Pouilly-lès-Feurs
-street: "Rue du Pressoir"
-housenumber: 2
+street: Rue du Pressoir
+housenumber: "2"
 phone: ""
-opening_hours: "Tu,Th,Fr,Sa 06:30-13:30,16:00-19:00; We 06:30-13:00,16:00-19:00; Su,PH 06:30-12:30"
-website: "boulangerie-faverot.wixsite.com/civens"
+opening_hours: Tu,Th,Fr,Sa 06:30-13:30,16:00-19:00; We 06:30-13:00,16:00-19:00; Su,PH
+    06:30-12:30
+website: boulangerie-faverot.wixsite.com/civens

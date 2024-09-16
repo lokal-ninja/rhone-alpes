@@ -1,11 +1,11 @@
 id: 80130311
-type: way
+type: node
 latitude: 46.20253
 longitude: 6.27101
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Biches"
-housenumber: 14
+street: Rue des Biches
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:30-12:30,14:00-18:00; aug 15 off"
+opening_hours: Mo-Sa 09:00-19:00; Su 09:30-12:30,14:00-18:00; aug 15 off
 website: ""

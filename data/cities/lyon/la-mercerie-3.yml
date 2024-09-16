@@ -4,8 +4,8 @@ latitude: 45.77639
 longitude: 4.8322
 postcode: "69004"
 city: Lyon
-street: "Grande Rue de la Croix-Rousse"
-housenumber: 3
+street: Grande Rue de la Croix-Rousse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:30,14:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:30,14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.76486
 longitude: 4.89777
 postcode: "69100"
 city: Villeurbanne
-street: "Rue Bergonier"
-housenumber: 8
-phone: "+33 2 02 14 23 74"
+street: Rue Bergonier
+housenumber: "8"
+phone: +33 2 02 14 23 74
 opening_hours: ""
-website: "https://gaesis.fr/contact/"
+website: https://gaesis.fr/contact/

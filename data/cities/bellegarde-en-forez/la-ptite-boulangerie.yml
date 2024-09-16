@@ -4,8 +4,8 @@ latitude: 45.64618
 longitude: 4.29593
 postcode: "42210"
 city: Bellegarde-en-Forez
-street: "Rue du Stade"
-housenumber: 42
+street: Rue du Stade
+housenumber: "42"
 phone: "+33477548007"
-opening_hours: "Mo-Sa 06:00-20:00; Tu 06:00-14:00; Su 06:00-13:30"
+opening_hours: Mo-Sa 06:00-20:00; Tu 06:00-14:00; Su 06:00-13:30
 website: ""

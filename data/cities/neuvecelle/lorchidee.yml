@@ -1,11 +1,11 @@
 id: 66969934
-type: way
+type: node
 latitude: 46.39897
 longitude: 6.60998
 postcode: "74500"
 city: Neuvecelle
-street: "Avenue d'Abondance"
-housenumber: 1259
+street: Avenue d'Abondance
+housenumber: "1259"
 phone: ""
 opening_hours: ""
 website: ""

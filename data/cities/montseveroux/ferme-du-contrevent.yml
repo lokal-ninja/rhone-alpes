@@ -4,8 +4,8 @@ latitude: 45.42037
 longitude: 4.97447
 postcode: "38122"
 city: Montseveroux
-street: "Route des Quatre Vents"
-housenumber: 277
+street: Route des Quatre Vents
+housenumber: "277"
 phone: "+33474585434"
-opening_hours: "Fr 16:00-19:00"
-website: "https://www.lafermeducontrevent.fr/"
+opening_hours: Fr 16:00-19:00
+website: https://www.lafermeducontrevent.fr/

@@ -1,11 +1,11 @@
 id: 66187491
-type: way
+type: node
 latitude: 45.17779
 longitude: 5.68784
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Rue de la Levade"
-housenumber: 7
-phone: "+33 4 76 70 50 96"
-opening_hours: "Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-12:00"
+street: Rue de la Levade
+housenumber: "7"
+phone: +33 4 76 70 50 96
+opening_hours: Mo-Fr 08:00-12:00, 13:30-18:00; Sa 09:00-12:00
 website: ""

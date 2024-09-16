@@ -1,11 +1,11 @@
 id: 356957380
-type: way
+type: node
 latitude: 45.76695
 longitude: 4.98244
 postcode: "69150"
 city: Décines-Charpieu
-street: "Avenue Simone Veil"
-housenumber: 10
+street: Avenue Simone Veil
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

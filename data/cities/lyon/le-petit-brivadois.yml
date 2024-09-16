@@ -4,8 +4,8 @@ latitude: 45.75974
 longitude: 4.87268
 postcode: "69003"
 city: Lyon
-street: "Rue François Gillet"
-housenumber: 4
+street: Rue François Gillet
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-12:30"
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:00-12:30
 website: ""

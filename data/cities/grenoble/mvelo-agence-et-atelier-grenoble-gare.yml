@@ -1,11 +1,11 @@
 id: 431729735
-type: way
+type: node
 latitude: 45.1923
 longitude: 5.71455
 postcode: "38000"
 city: Grenoble
-street: "Parvis Madeleine-Pauliac/Escadron Bleu"
-housenumber: 11
+street: Parvis Madeleine-Pauliac/Escadron Bleu
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:30; Sa,Su 09:00-18:00"
+opening_hours: Mo-Fr 07:30-19:30; Sa,Su 09:00-18:00
 website: ""

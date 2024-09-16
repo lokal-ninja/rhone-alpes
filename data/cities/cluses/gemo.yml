@@ -1,11 +1,11 @@
 id: 105790118
-type: way
+type: node
 latitude: 46.06728
 longitude: 6.57153
 postcode: "74300"
 city: Cluses
-street: "Rue du Maréchal de Lattre de Tassigny"
-housenumber: 17
+street: Rue du Maréchal de Lattre de Tassigny
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224905386
-type: way
+type: node
 latitude: 46.10754
 longitude: 6.59254
 postcode: "74440"
 city: Taninges
-street: "Rue de la Poste"
-housenumber: 79
+street: Rue de la Poste
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://belledonne.bio/fr/points-de-vente/santoline-magasin-bio-boulangerie-bio-taninges"
+website: https://belledonne.bio/fr/points-de-vente/santoline-magasin-bio-boulangerie-bio-taninges

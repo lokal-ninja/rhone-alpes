@@ -4,8 +4,8 @@ latitude: 46.19277
 longitude: 6.24147
 postcode: "74100"
 city: Annemasse
-street: "Avenue Henri Barbusse"
-housenumber: 11
-phone: "+33 4 50 75 45 57"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:30-12:00, 14:00-18:30"
-website: "https://www.onyris-games.com/"
+street: Avenue Henri Barbusse
+housenumber: "11"
+phone: +33 4 50 75 45 57
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:30-12:00, 14:00-18:30
+website: https://www.onyris-games.com/

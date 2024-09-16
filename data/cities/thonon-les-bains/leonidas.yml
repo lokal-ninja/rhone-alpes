@@ -4,8 +4,8 @@ latitude: 46.37028
 longitude: 6.47866
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Place Jules Mercier"
-housenumber: 3
-phone: "+33 4 50 70 51 25"
-opening_hours: "Mo-Sa 09:30-12:30,14:30-19:00"
-website: "https://www.leonidas.com/en/shops/thonon-les-bains/leonidas-thonon-les-bains"
+street: Place Jules Mercier
+housenumber: "3"
+phone: +33 4 50 70 51 25
+opening_hours: Mo-Sa 09:30-12:30,14:30-19:00
+website: https://www.leonidas.com/en/shops/thonon-les-bains/leonidas-thonon-les-bains

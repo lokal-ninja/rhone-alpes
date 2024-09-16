@@ -1,11 +1,12 @@
 id: 158463250
-type: way
+type: node
 latitude: 46.19992
 longitude: 6.26964
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Buchillons"
-housenumber: 14
+street: Rue des Buchillons
+housenumber: "14"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-12:30, 14:00-18:00; Tu,Th 08:00-12:30; Sa 08:00-19:00; Su off"
+opening_hours: Mo,We,Fr 08:00-12:30, 14:00-18:00; Tu,Th 08:00-12:30; Sa 08:00-19:00;
+    Su off
 website: ""

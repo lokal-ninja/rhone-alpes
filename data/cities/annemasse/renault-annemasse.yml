@@ -1,11 +1,11 @@
 id: 158604308
-type: way
+type: node
 latitude: 46.19903
 longitude: 6.26775
 postcode: "74100"
 city: Annemasse
-street: "Rue des Buchillons"
-housenumber: 6
+street: Rue des Buchillons
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

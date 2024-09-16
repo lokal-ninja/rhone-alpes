@@ -4,8 +4,8 @@ latitude: 45.63576
 longitude: 4.6837
 postcode: "69440"
 city: Saint Laurent d'Agny
-street: "Route de Mornant"
-housenumber: 475
-phone: "+33 4 78 48 30 67"
-opening_hours: "Tu-Fr 09:00-12:30,14:00-19:30; Sa 09:00-12:30"
+street: Route de Mornant
+housenumber: "475"
+phone: +33 4 78 48 30 67
+opening_hours: Tu-Fr 09:00-12:30,14:00-19:30; Sa 09:00-12:30
 website: ""

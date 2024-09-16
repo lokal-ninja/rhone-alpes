@@ -1,11 +1,11 @@
 id: 197279075
-type: way
+type: node
 latitude: 46.33209
 longitude: 6.38342
 postcode: "74140"
 city: Sciez
-street: "Chemin de l'Aulieu"
-housenumber: 15
+street: Chemin de l'Aulieu
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

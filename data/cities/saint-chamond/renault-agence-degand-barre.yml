@@ -4,8 +4,8 @@ latitude: 45.46696
 longitude: 4.49919
 postcode: "42400"
 city: Saint-Chamond
-street: "Route de Saint-Étienne"
-housenumber: 15
-phone: "+33 477225920"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00"
+street: Route de Saint-Étienne
+housenumber: "15"
+phone: +33 477225920
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00
 website: ""

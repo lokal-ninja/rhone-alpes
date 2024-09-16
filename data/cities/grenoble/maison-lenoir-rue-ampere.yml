@@ -4,8 +4,8 @@ latitude: 45.188
 longitude: 5.70602
 postcode: "38000"
 city: Grenoble
-street: "Rue Ampère"
-housenumber: 5
+street: Rue Ampère
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00, Su 07:00-19:00"
+opening_hours: Mo-Sa 06:30-20:00, Su 07:00-19:00
 website: ""

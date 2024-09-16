@@ -1,11 +1,11 @@
 id: 129611903
-type: way
+type: node
 latitude: 45.58502
 longitude: 5.06197
 postcode: "38790"
 city: Diémoz
-street: "Route de Vienne"
-housenumber: 37
-phone: "+33 9 72 83 54 80"
-opening_hours: "Mo-Fr 05:00-19:30; Sa 07:00-19:00"
-website: "https://fr-fr.facebook.com/Boulangeriedelafayette/"
+street: Route de Vienne
+housenumber: "37"
+phone: +33 9 72 83 54 80
+opening_hours: Mo-Fr 05:00-19:30; Sa 07:00-19:00
+website: https://fr-fr.facebook.com/Boulangeriedelafayette/

@@ -1,11 +1,11 @@
 id: 42137299
-type: way
+type: node
 latitude: 46.26972
 longitude: 6.31602
 postcode: "74140"
 city: Loisin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

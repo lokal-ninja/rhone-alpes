@@ -1,11 +1,11 @@
 id: 395064750
-type: way
+type: node
 latitude: 45.90567
 longitude: 4.81654
 postcode: "01600"
 city: Massieux
-street: "Rue de la Gare"
-housenumber: 49
+street: Rue de la Gare
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

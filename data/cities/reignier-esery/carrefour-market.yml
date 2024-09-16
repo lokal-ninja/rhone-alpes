@@ -1,11 +1,11 @@
 id: 814871093
-type: way
+type: node
 latitude: 46.13071
 longitude: 6.26881
 postcode: "74930"
 city: Reignier- Ésery
-street: "Rue de Bersat"
-housenumber: 210
+street: Rue de Bersat
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
 website: ""

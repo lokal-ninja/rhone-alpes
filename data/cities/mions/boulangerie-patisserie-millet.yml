@@ -4,8 +4,8 @@ latitude: 45.66377
 longitude: 4.9566
 postcode: "69780"
 city: Mions
-street: "Place de la République"
-housenumber: 11
-phone: "+33 4 72 18 19 55"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Place de la République
+housenumber: "11"
+phone: +33 4 72 18 19 55
+opening_hours: Mo-Su 06:00-20:00
 website: ""

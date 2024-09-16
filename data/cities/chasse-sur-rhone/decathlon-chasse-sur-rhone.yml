@@ -1,11 +1,11 @@
 id: 368824800
-type: way
+type: node
 latitude: 45.57262
 longitude: 4.81285
 postcode: "38670"
 city: Chasse-Sur-Rhône
-street: "Avenue Frédéric Mistral"
-housenumber: 1963
+street: Avenue Frédéric Mistral
+housenumber: "1963"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

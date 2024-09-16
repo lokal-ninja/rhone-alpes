@@ -4,8 +4,8 @@ latitude: 46.19259
 longitude: 6.23369
 postcode: "74100"
 city: Annemasse
-street: "Passage Jean Moulin"
-housenumber: 3
+street: Passage Jean Moulin
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-19:00"
-website: "https://www.vrakopolis.com/"
+opening_hours: Mo-Sa 09:30-12:30, 14:00-19:00
+website: https://www.vrakopolis.com/

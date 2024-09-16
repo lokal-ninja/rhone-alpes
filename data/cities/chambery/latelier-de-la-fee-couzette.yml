@@ -4,8 +4,8 @@ latitude: 45.56558
 longitude: 5.91901
 postcode: "73000"
 city: Chambéry
-street: "Rue Juiverie"
-housenumber: 61
-phone: "+33 9 54 79 89 89"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-18:30"
+street: Rue Juiverie
+housenumber: "61"
+phone: +33 9 54 79 89 89
+opening_hours: Tu-Sa 10:00-12:00,14:00-18:30
 website: ""

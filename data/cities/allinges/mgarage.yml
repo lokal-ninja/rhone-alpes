@@ -1,11 +1,11 @@
 id: 69098564
-type: way
+type: node
 latitude: 46.33601
 longitude: 6.48289
 postcode: "74200"
 city: Allinges
-street: "Route des Blaves"
-housenumber: 289
+street: Route des Blaves
+housenumber: "289"
 phone: ""
 opening_hours: ""
 website: ""

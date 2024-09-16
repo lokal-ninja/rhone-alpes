@@ -1,11 +1,11 @@
 id: 1088466420
-type: way
+type: node
 latitude: 45.37215
 longitude: 5.99131
 postcode: "38570"
 city: Le Cheylas
-street: "Rue des Commerces"
-housenumber: 24
+street: Rue des Commerces
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

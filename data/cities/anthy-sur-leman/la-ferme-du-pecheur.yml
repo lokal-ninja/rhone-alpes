@@ -1,11 +1,11 @@
 id: 69004142
-type: way
+type: node
 latitude: 46.35832
 longitude: 6.42657
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Rue des Pêcheurs"
-housenumber: 19
-phone: "+33 4 50 70 36 13"
+street: Rue des Pêcheurs
+housenumber: "19"
+phone: +33 4 50 70 36 13
 opening_hours: ""
 website: ""

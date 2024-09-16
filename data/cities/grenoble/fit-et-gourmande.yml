@@ -4,8 +4,8 @@ latitude: 45.1814
 longitude: 5.72452
 postcode: "38000"
 city: Grenoble
-street: "Boulevard Maréchal Foch"
-housenumber: 22
-phone: "+33 6 13 86 78 24"
-opening_hours: "Mo 09:00-15:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://fit-et-gourmande.com"
+street: Boulevard Maréchal Foch
+housenumber: "22"
+phone: +33 6 13 86 78 24
+opening_hours: Mo 09:00-15:00; Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://fit-et-gourmande.com

@@ -1,11 +1,12 @@
 id: 439477421
-type: way
+type: node
 latitude: 45.80725
 longitude: 4.76983
 postcode: "69570"
 city: Dardilly
-street: "Chemin de la Bruyère"
-housenumber: 58
-phone: "+33 4 78 43 85 43"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off"
-website: "https://www.honda-moto.fr/"
+street: Chemin de la Bruyère
+housenumber: "58"
+phone: +33 4 78 43 85 43
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-19:00; Su,Mo,PH
+    off
+website: https://www.honda-moto.fr/

@@ -4,8 +4,8 @@ latitude: 45.18929
 longitude: 5.72641
 postcode: "38000"
 city: Grenoble
-street: "Rue de Bonne"
-housenumber: 11
-phone: "+33 4 76 46 48 22"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 08:00-19:30; Su off"
-website: "https://www.patisserie-lesecrins.com/"
+street: Rue de Bonne
+housenumber: "11"
+phone: +33 4 76 46 48 22
+opening_hours: Mo 14:00-19:30; Tu-Sa 08:00-19:30; Su off
+website: https://www.patisserie-lesecrins.com/

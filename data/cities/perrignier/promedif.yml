@@ -1,11 +1,11 @@
 id: 224805987
-type: way
+type: node
 latitude: 46.30449
 longitude: 6.42225
 postcode: "74550"
 city: Perrignier
-street: "Route des Grandes Teppes"
-housenumber: 335
-phone: "+33 4 50 72 43 44"
+street: Route des Grandes Teppes
+housenumber: "335"
+phone: +33 4 50 72 43 44
 opening_hours: ""
-website: "http://www.promedif.eu"
+website: http://www.promedif.eu

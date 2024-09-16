@@ -4,8 +4,8 @@ latitude: 46.2022
 longitude: 6.27811
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue de Montréal"
-housenumber: 6
+street: Rue de Montréal
+housenumber: "6"
 phone: "+33450244432"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
-website: "https://heth.actueldesign.fr/magasin-heth-annemasse.html"
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
+website: https://heth.actueldesign.fr/magasin-heth-annemasse.html

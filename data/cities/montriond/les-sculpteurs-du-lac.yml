@@ -1,11 +1,11 @@
 id: 316598032
-type: way
+type: node
 latitude: 46.20552
 longitude: 6.7085
 postcode: "74110"
 city: Montriond
-street: "Route de Dravachet"
-housenumber: 1050
+street: Route de Dravachet
+housenumber: "1050"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.sculpteursdulac-shop.com"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00
+website: https://www.sculpteursdulac-shop.com

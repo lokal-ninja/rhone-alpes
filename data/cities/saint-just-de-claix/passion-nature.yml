@@ -1,11 +1,11 @@
 id: 337264083
-type: way
+type: node
 latitude: 45.06451
 longitude: 5.26739
 postcode: "38680"
 city: Saint-Just-de-Claix
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.valsoleil.fr/"
+website: https://www.valsoleil.fr/

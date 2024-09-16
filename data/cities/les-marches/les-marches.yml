@@ -4,8 +4,9 @@ latitude: 45.49956
 longitude: 6.00009
 postcode: "73800"
 city: Les Marches
-street: "Place de la Mairie"
-housenumber: 62
+street: Place de la Mairie
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-We,Fr 07:00-12:30,15:15-19:00; Th 07:00-12:15; Sa 07:30-12:30,15:15-18:00; Su 08:00-12:00; PH off; 2024 May 19 08:00-12:00; 2024 May 20 off"
+opening_hours: Mo-We,Fr 07:00-12:30,15:15-19:00; Th 07:00-12:15; Sa 07:30-12:30,15:15-18:00;
+    Su 08:00-12:00; PH off; 2024 May 19 08:00-12:00; 2024 May 20 off
 website: ""

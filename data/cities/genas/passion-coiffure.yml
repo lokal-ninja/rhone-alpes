@@ -4,8 +4,9 @@ latitude: 45.73693
 longitude: 5.0167
 postcode: "69740"
 city: Genas
-street: "Rue Jean Jaurès"
+street: Rue Jean Jaurès
 housenumber: 13b
-phone: "+33 478901046"
-opening_hours: "Tu 09:00-16:00; We 09:00-12:00; Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-15:00"
+phone: +33 478901046
+opening_hours: Tu 09:00-16:00; We 09:00-12:00; Th 09:00-17:00; Fr 09:00-18:00; Sa
+    09:00-15:00
 website: ""

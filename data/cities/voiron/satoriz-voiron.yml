@@ -5,7 +5,7 @@ longitude: 5.5817
 postcode: "38500"
 city: Voiron
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.satoriz.fr/magasin-bio/satoriz-voiron/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.satoriz.fr/magasin-bio/satoriz-voiron/

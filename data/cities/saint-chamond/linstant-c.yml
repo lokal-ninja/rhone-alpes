@@ -4,8 +4,8 @@ latitude: 45.47325
 longitude: 4.51032
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue Gambetta"
-housenumber: 20
+street: Rue Gambetta
+housenumber: "20"
 phone: ""
-opening_hours: "sur rendez-vous les jeudis, vendredis et samedis"
+opening_hours: '"sur rendez-vous les jeudis, vendredis et samedis"'
 website: ""

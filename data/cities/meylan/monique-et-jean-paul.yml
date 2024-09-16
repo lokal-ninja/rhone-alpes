@@ -1,11 +1,11 @@
 id: 102936898
-type: way
+type: node
 latitude: 45.20808
 longitude: 5.80846
 postcode: "38240"
 city: Meylan
-street: "Chemin des Cantines"
-housenumber: 
-phone: "+33 4 76 41 00 92"
+street: Chemin des Cantines
+housenumber: ""
+phone: +33 4 76 41 00 92
 opening_hours: ""
 website: ""

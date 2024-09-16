@@ -1,11 +1,11 @@
 id: 113059662
-type: way
+type: node
 latitude: 46.00213
 longitude: 6.18225
 postcode: "74570"
 city: Groisy
-street: "Rue du Plot"
-housenumber: 81
+street: Rue du Plot
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
 website: ""

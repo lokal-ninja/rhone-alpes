@@ -1,11 +1,11 @@
 id: 62527328
-type: way
+type: node
 latitude: 45.91886
 longitude: 6.09079
 postcode: "74960"
 city: Meythet
-street: "Route de Frangy"
-housenumber: 58
-phone: "+33 4 50 22 03 22"
+street: Route de Frangy
+housenumber: "58"
+phone: +33 4 50 22 03 22
 opening_hours: ""
 website: ""

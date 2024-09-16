@@ -1,11 +1,11 @@
 id: 935462917
-type: way
+type: node
 latitude: 45.93982
 longitude: 6.07907
 postcode: "74330"
 city: Epagny Metz-Tessy
-street: "Rue de la Mandallaz"
-housenumber: 79
+street: Rue de la Mandallaz
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.cocoavalley.fr/"
+website: https://www.cocoavalley.fr/

@@ -1,11 +1,11 @@
 id: 226291218
-type: way
+type: node
 latitude: 45.65614
 longitude: 6.36543
 postcode: "73200"
 city: Albertville
-street: "Chemin de la Cassine"
-housenumber: 1300
+street: Chemin de la Cassine
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.la-galerie.com/albertville"
+website: https://www.la-galerie.com/albertville

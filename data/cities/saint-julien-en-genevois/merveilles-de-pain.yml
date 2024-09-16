@@ -4,8 +4,8 @@ latitude: 46.14175
 longitude: 6.081
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Le Mail"
-housenumber: 4
-phone: "+33 4 50 85 25 96"
-opening_hours: "Mo-Sa 06:30-19:30; Su, PH 07:00-13:30;"
-website: "https://merveillesdepain.com/"
+street: Le Mail
+housenumber: "4"
+phone: +33 4 50 85 25 96
+opening_hours: Mo-Sa 06:30-19:30; Su, PH 07:00-13:30;
+website: https://merveillesdepain.com/

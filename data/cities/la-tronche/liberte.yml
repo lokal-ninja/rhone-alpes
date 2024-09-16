@@ -4,8 +4,8 @@ latitude: 45.20334
 longitude: 5.73604
 postcode: "38700"
 city: La Tronche
-street: "Grande Rue"
-housenumber: 102
-phone: "+33 6 84 43 50 71"
-opening_hours: "Mo-Su 06:30-21:00"
+street: Grande Rue
+housenumber: "102"
+phone: +33 6 84 43 50 71
+opening_hours: Mo-Su 06:30-21:00
 website: ""

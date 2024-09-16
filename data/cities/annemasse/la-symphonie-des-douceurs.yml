@@ -4,8 +4,8 @@ latitude: 46.19459
 longitude: 6.23482
 postcode: "74100"
 city: Annemasse
-street: "Rue des Voirons"
-housenumber: 8
+street: Rue des Voirons
+housenumber: "8"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Sa 09:00-13:00, 14:00-18:30"
+opening_hours: Mo,Su off; Tu-Sa 09:00-13:00, 14:00-18:30
 website: ""

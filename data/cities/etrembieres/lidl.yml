@@ -1,11 +1,11 @@
 id: 79295360
-type: way
+type: node
 latitude: 46.18193
 longitude: 6.22892
 postcode: "74100"
 city: Étrembières
-street: "Chemin de la Digue"
-housenumber: 99
+street: Chemin de la Digue
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su off"
+opening_hours: Mo-Sa 08:30-19:30; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 318081092
-type: way
+type: node
 latitude: 45.21177
 longitude: 5.85735
 postcode: "38420"
 city: Le Versoud
-street: "Route de Grenoble"
-housenumber: 143
+street: Route de Grenoble
+housenumber: "143"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30, 15:00-19:00"
-website: "http://leversoud.intercaves.fr/"
+opening_hours: Tu-Sa 09:30-12:30, 15:00-19:00
+website: http://leversoud.intercaves.fr/

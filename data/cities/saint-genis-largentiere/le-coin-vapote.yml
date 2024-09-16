@@ -4,8 +4,8 @@ latitude: 45.71065
 longitude: 4.46811
 postcode: "69610"
 city: Saint-Genis-l'Argentière
-street: "Route de Lyon"
-housenumber: 115
+street: Route de Lyon
+housenumber: "115"
 phone: "+33478223882"
-opening_hours: "Tu-Fr 15:00-19:00; We,Sa 15:00-18:30"
-website: "https://www.lecoinvapote.com"
+opening_hours: Tu-Fr 15:00-19:00; We,Sa 15:00-18:30
+website: https://www.lecoinvapote.com

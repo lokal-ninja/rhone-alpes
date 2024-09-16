@@ -1,11 +1,11 @@
 id: 28709471
-type: way
+type: node
 latitude: 45.18569
 longitude: 5.75836
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 76
-phone: "+33 1 53 70 56 56"
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.la-galerie.com/"
+street: Avenue Gabriel Péri
+housenumber: "76"
+phone: +33 1 53 70 56 56
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.la-galerie.com/

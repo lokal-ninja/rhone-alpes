@@ -1,11 +1,11 @@
 id: 266191770
-type: way
+type: node
 latitude: 45.29487
 longitude: 4.61247
 postcode: "42220"
 city: Saint-Julien-Molin-Molette
-street: "Route du Crêt du Perron"
-housenumber: 285
+street: Route du Crêt du Perron
+housenumber: "285"
 phone: ""
-opening_hours: "We 16:00-19:00"
+opening_hours: We 16:00-19:00
 website: ""

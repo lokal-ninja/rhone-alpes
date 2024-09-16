@@ -4,8 +4,8 @@ latitude: 45.65966
 longitude: 4.56084
 postcode: "69850"
 city: Saint-Martin-en-Haut
-street: "Grande Rue"
-housenumber: 18
+street: Grande Rue
+housenumber: "18"
 phone: "+33478486223"
-opening_hours: "Mo-Sa 07:00-12:30, 14:30-19:30; Su 07:30-12:30"
+opening_hours: Mo-Sa 07:00-12:30, 14:30-19:30; Su 07:30-12:30
 website: ""

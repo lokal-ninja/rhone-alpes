@@ -1,11 +1,11 @@
 id: 158604373
-type: way
+type: node
 latitude: 46.20559
 longitude: 6.28365
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue de Montréal"
-housenumber: 38
+street: Rue de Montréal
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

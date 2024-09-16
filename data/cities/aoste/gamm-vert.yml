@@ -1,11 +1,11 @@
 id: 1148425918
-type: way
+type: node
 latitude: 45.59515
 longitude: 5.60823
 postcode: "38490"
 city: Aoste
-street: "Rue Athéna"
-housenumber: 
+street: Rue Athéna
+housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:30,14:00-19:00; Su 09:00-12:30
 website: ""

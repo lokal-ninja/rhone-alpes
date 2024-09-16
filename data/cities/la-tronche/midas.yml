@@ -4,8 +4,8 @@ latitude: 45.20088
 longitude: 5.75741
 postcode: "38700"
 city: La Tronche
-street: "Boulevard de la Chantourne"
-housenumber: 6
-phone: "+33 4 76 90 79 50"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.midas.fr/"
+street: Boulevard de la Chantourne
+housenumber: "6"
+phone: +33 4 76 90 79 50
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.midas.fr/

@@ -1,11 +1,11 @@
 id: 162984609
-type: way
+type: node
 latitude: 45.64318
 longitude: 5.91759
 postcode: "73420"
 city: Méry
-street: "Rue Charles Montreuil"
-housenumber: 9
+street: Rue Charles Montreuil
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

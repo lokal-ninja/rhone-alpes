@@ -4,8 +4,8 @@ latitude: 46.39157
 longitude: 6.52474
 postcode: "74500"
 city: Publier
-street: "Rue de la Botte"
-housenumber: 1005
-phone: "+33 4 50 81 45 00"
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:30"
-website: "https://www.cora.fr/amphion/"
+street: Rue de la Botte
+housenumber: "1005"
+phone: +33 4 50 81 45 00
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-12:30
+website: https://www.cora.fr/amphion/

@@ -4,8 +4,8 @@ latitude: 46.03657
 longitude: 4.06805
 postcode: "42300"
 city: Roanne
-street: "Rue Alsace-Lorraine"
-housenumber: 32
-phone: "+33 4 77 71 09 43"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://opticien.optical-center.fr/3441-optical-center-roanne"
+street: Rue Alsace-Lorraine
+housenumber: "32"
+phone: +33 4 77 71 09 43
+opening_hours: Mo-Sa 10:00-19:00
+website: https://opticien.optical-center.fr/3441-optical-center-roanne

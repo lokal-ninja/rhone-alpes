@@ -1,11 +1,11 @@
 id: 1117555497
-type: way
+type: node
 latitude: 46.35227
 longitude: 6.43345
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Route Impériale"
-housenumber: 7
+street: Route Impériale
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00; Su off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00; Su off
 website: ""

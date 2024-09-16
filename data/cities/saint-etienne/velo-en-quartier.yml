@@ -4,8 +4,8 @@ latitude: 45.43366
 longitude: 4.37834
 postcode: "42000"
 city: Saint-Étienne
-street: "Rue de l'Apprentissage"
-housenumber: 11
-phone: "+33 6 95 61 86 57"
-opening_hours: "week 2-52/2 We 10:00-12:00, 14:00-16:00; Th 14:00-16:00; Fr 10:00-12:00"
+street: Rue de l'Apprentissage
+housenumber: "11"
+phone: +33 6 95 61 86 57
+opening_hours: week 2-52/2 We 10:00-12:00, 14:00-16:00; Th 14:00-16:00; Fr 10:00-12:00
 website: ""

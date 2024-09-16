@@ -1,11 +1,11 @@
 id: 116667461
-type: way
+type: node
 latitude: 46.22274
 longitude: 5.20339
 postcode: "01440"
 city: Viriat
-street: "Rue des Vareys"
-housenumber: 905
-phone: "+33 4 74 23 19 21"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00"
-website: "https://magasins.decor-discount.com/decordiscount/fr/store/france/auvergne-rhone-alpes/ain/viriat/bourg-en-bresse/m23"
+street: Rue des Vareys
+housenumber: "905"
+phone: +33 4 74 23 19 21
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00
+website: https://magasins.decor-discount.com/decordiscount/fr/store/france/auvergne-rhone-alpes/ain/viriat/bourg-en-bresse/m23

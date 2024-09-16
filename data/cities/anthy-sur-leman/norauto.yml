@@ -1,11 +1,11 @@
 id: 265308732
-type: way
+type: node
 latitude: 46.34847
 longitude: 6.43341
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue de Verniaz"
-housenumber: 
+street: Avenue de Verniaz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:00,14:00-19:00; Su off"
+opening_hours: Mo-Sa 08:30-12:00,14:00-19:00; Su off
 website: ""

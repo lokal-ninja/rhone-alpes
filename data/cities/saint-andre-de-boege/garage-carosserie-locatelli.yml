@@ -1,11 +1,11 @@
 id: 839982758
-type: way
+type: node
 latitude: 46.20166
 longitude: 6.3947
 postcode: "74420"
 city: Saint-André-de-Boëge
-street: "Impasse des Chapotines"
-housenumber: 25
-phone: "+33 4 50 39 16 96"
+street: Impasse des Chapotines
+housenumber: "25"
+phone: +33 4 50 39 16 96
 opening_hours: ""
 website: ""

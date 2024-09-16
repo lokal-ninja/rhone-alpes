@@ -4,8 +4,8 @@ latitude: 45.43721
 longitude: 6.00837
 postcode: "38530"
 city: Pontcharra
-street: "Rue du Port"
-housenumber: 224
-phone: "+33 4 76 45 78 93"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00"
+street: Rue du Port
+housenumber: "224"
+phone: +33 4 76 45 78 93
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00
 website: ""

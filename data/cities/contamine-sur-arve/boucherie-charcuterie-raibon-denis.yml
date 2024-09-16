@@ -4,8 +4,8 @@ latitude: 46.12781
 longitude: 6.33911
 postcode: "74130"
 city: Contamine-sur-Arve
-street: "Route d'Annemasse"
-housenumber: 123
-phone: "+33 4 50 03 67 90"
-opening_hours: "Tu-Sa 08:30-19:00; Su 08:00-12:30"
+street: Route d'Annemasse
+housenumber: "123"
+phone: +33 4 50 03 67 90
+opening_hours: Tu-Sa 08:30-19:00; Su 08:00-12:30
 website: ""

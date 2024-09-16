@@ -4,8 +4,9 @@ latitude: 45.54858
 longitude: 5.9858
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue Louis Domenget"
-housenumber: 43
-phone: "+33 4 79 71 96 92"
-opening_hours: "Tu,We 08:00-12:30,15:00-19:00; Th 08:00-12:30; Fr 08:00-13:00,15:00-19:00; Sa 08:00-12:30,15:00-19:00; Su 08:00-12:30"
+street: Avenue Louis Domenget
+housenumber: "43"
+phone: +33 4 79 71 96 92
+opening_hours: Tu,We 08:00-12:30,15:00-19:00; Th 08:00-12:30; Fr 08:00-13:00,15:00-19:00;
+    Sa 08:00-12:30,15:00-19:00; Su 08:00-12:30
 website: ""

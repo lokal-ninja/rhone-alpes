@@ -1,11 +1,11 @@
 id: 1148904690
-type: way
+type: node
 latitude: 46.22836
 longitude: 5.99419
 postcode: "01710"
 city: Thoiry
-street: "Zone d'Activité Pré-Jacquet - CC Val Thoiry"
-housenumber: 
+street: Zone d'Activité Pré-Jacquet - CC Val Thoiry
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-thoiry-0070160201602"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-thoiry-0070160201602

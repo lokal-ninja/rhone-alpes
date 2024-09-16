@@ -1,11 +1,11 @@
 id: 77600262
-type: way
+type: node
 latitude: 46.13888
 longitude: 6.0783
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Rue des Vieux Moulins"
-housenumber: 3
-phone: "+33 450350769"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Fr 09:00-12:00,14:00-18:00; Aug 15 off"
+street: Rue des Vieux Moulins
+housenumber: "3"
+phone: +33 450350769
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Fr 09:00-12:00,14:00-18:00; Aug 15 off
 website: ""

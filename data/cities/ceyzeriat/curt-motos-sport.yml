@@ -1,11 +1,11 @@
 id: 296289822
-type: way
+type: node
 latitude: 46.18723
 longitude: 5.30388
 postcode: "01250"
 city: Ceyzériat
-street: "Rue Albert Metras"
-housenumber: 132
+street: Rue Albert Metras
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "http://polarisbourgenbresse.com/"
+website: http://polarisbourgenbresse.com/

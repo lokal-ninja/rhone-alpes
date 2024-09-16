@@ -1,11 +1,11 @@
 id: 156365481
-type: way
+type: node
 latitude: 45.41863
 longitude: 4.68477
 postcode: "42410"
 city: Pélussin
 street: ""
-housenumber: 
-phone: "+33 4 74 85 11 12"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-pelussin"
+housenumber: ""
+phone: +33 4 74 85 11 12
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-pelussin

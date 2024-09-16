@@ -1,11 +1,11 @@
 id: 61390203
-type: way
+type: node
 latitude: 45.18586
 longitude: 5.77095
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Rue du Champ Roman"
-housenumber: 7
+street: Rue du Champ Roman
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
 website: ""

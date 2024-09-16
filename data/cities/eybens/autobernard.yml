@@ -1,11 +1,11 @@
 id: 70888966
-type: way
+type: node
 latitude: 45.16211
 longitude: 5.74354
 postcode: "38320"
 city: Eybens
-street: "Avenue Jean Jaurès"
-housenumber: 38
-phone: "+33 4 76 24 20 63"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://reseau.citroen.fr/grenoble-eybens"
+street: Avenue Jean Jaurès
+housenumber: "38"
+phone: +33 4 76 24 20 63
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://reseau.citroen.fr/grenoble-eybens

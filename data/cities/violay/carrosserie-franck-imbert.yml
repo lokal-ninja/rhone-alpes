@@ -1,11 +1,11 @@
 id: 1036826700
-type: way
+type: node
 latitude: 45.8511
 longitude: 4.34433
 postcode: "42780"
 city: Violay
-street: "Zone artisanale"
-housenumber: 
-phone: "+33 474639608"
+street: Zone artisanale
+housenumber: ""
+phone: +33 474639608
 opening_hours: ""
-website: "https://www.carrosserie-franck-imbert-fivestar.fr/"
+website: https://www.carrosserie-franck-imbert-fivestar.fr/

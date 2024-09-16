@@ -1,11 +1,11 @@
 id: 82104871
-type: way
+type: node
 latitude: 45.2462
 longitude: 5.6579
 postcode: "38120"
 city: Fontanil-Cornillon
-street: "Rue de la Louisiane"
-housenumber: 
+street: Rue de la Louisiane
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ad-poidslourds.fr/"
+website: https://www.ad-poidslourds.fr/

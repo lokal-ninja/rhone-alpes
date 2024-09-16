@@ -1,11 +1,11 @@
 id: 254004284
-type: way
+type: node
 latitude: 46.25341
 longitude: 6.02712
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue de la Faucille"
-housenumber: 50
+street: Rue de la Faucille
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

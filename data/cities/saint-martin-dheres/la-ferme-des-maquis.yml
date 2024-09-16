@@ -1,11 +1,11 @@
 id: 260300527
-type: way
+type: node
 latitude: 45.17077
 longitude: 5.78326
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Route des Maquis"
-housenumber: 165
+street: Route des Maquis
+housenumber: "165"
 phone: ""
-opening_hours: "We,Fr 16:00-19:00; Sa 10:00-12:00,16:00-19:00"
+opening_hours: We,Fr 16:00-19:00; Sa 10:00-12:00,16:00-19:00
 website: ""

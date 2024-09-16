@@ -4,8 +4,8 @@ latitude: 45.70954
 longitude: 4.98416
 postcode: "69800"
 city: Saint-Priest
-street: "Route de Grenoble"
-housenumber: 90
+street: Route de Grenoble
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Su 10:00-12:00,14:00-19:00"
-website: "http://www.aquarium-saint-priest.fr/"
+opening_hours: Tu-Su 10:00-12:00,14:00-19:00
+website: http://www.aquarium-saint-priest.fr/

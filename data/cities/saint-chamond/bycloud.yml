@@ -1,11 +1,11 @@
 id: 119198343
-type: way
+type: node
 latitude: 45.47161
 longitude: 4.50576
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue Loubet"
-housenumber: 30
+street: Rue Loubet
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://bYcloud.fr"
+website: https://bYcloud.fr

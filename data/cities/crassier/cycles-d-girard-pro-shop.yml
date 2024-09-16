@@ -4,8 +4,8 @@ latitude: 46.37327
 longitude: 6.16575
 postcode: "1263"
 city: Crassier
-street: "Route de Nyon"
-housenumber: 3
-phone: "+41 22 734 40 40"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-17:00"
-website: "https://cycles-girard.ch/pro-shop/"
+street: Route de Nyon
+housenumber: "3"
+phone: +41 22 734 40 40
+opening_hours: Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-17:00
+website: https://cycles-girard.ch/pro-shop/

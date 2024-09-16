@@ -4,8 +4,8 @@ latitude: 45.2392
 longitude: 5.81611
 postcode: "38330"
 city: Biviers
-street: "Chemin des Evequaux"
-housenumber: 100
-phone: "+33 4 76 52 09 37"
-opening_hours: "Th-Fr 09:00-19:00, Sa 09:00-18:00"
+street: Chemin des Evequaux
+housenumber: "100"
+phone: +33 4 76 52 09 37
+opening_hours: Th-Fr 09:00-19:00, Sa 09:00-18:00
 website: ""

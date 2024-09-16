@@ -4,8 +4,9 @@ latitude: 45.97719
 longitude: 4.71884
 postcode: "69400"
 city: Limas
-street: "Rue des Chantiers du Beaujolais"
-housenumber: 157
-phone: "+33 952520510"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH off"
-website: "http://www.motoracingservice.fr"
+street: Rue des Chantiers du Beaujolais
+housenumber: "157"
+phone: +33 952520510
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su,Mo,PH
+    off
+website: http://www.motoracingservice.fr

@@ -1,11 +1,11 @@
 id: 81099437
-type: way
+type: node
 latitude: 45.14402
 longitude: 5.69326
 postcode: "38130"
 city: Echirolles
-street: "rue De Comboire"
-housenumber: 23
+street: Rue De Comboire
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.stokomani.fr/echirolles.html"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.stokomani.fr/echirolles.html

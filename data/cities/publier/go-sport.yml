@@ -5,7 +5,7 @@ longitude: 6.52431
 postcode: "74500"
 city: Publier
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1812"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.go-sport.com/stores?lang=default#/stores/1812

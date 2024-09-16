@@ -1,11 +1,11 @@
 id: 482828862
-type: way
+type: node
 latitude: 46.1721
 longitude: 6.31218
 postcode: ""
 city: Bonne
-street: "Route de chez Montagnon"
-housenumber: 249
+street: Route de chez Montagnon
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.90619
 longitude: 6.12409
 postcode: "74000"
 city: Annecy
-street: "Rue Joseph Dessaix"
-housenumber: 4
+street: Rue Joseph Dessaix
+housenumber: "4"
 phone: "+33450627163"
-opening_hours: "Mo-Sa 09:30-13:00, 14:30-19:00"
-website: "https://daybyday-shop.com/magasin/annecy"
+opening_hours: Mo-Sa 09:30-13:00, 14:30-19:00
+website: https://daybyday-shop.com/magasin/annecy

@@ -1,11 +1,11 @@
 id: 173581443
-type: way
+type: node
 latitude: 46.33564
 longitude: 6.48213
 postcode: "74200"
 city: Allinges
-street: "Route des Blaves"
-housenumber: 157
+street: Route des Blaves
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

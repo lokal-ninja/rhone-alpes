@@ -1,11 +1,11 @@
 id: 40491752
-type: way
+type: node
 latitude: 45.1709
 longitude: 5.73894
 postcode: "38100"
 city: Grenoble
-street: "Avenue Jean Perrot"
+street: Avenue Jean Perrot
 housenumber: 112 bis
-phone: "+33 4 76 25 26 15"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-12:30"
-website: "https://www.auchan.fr/magasins/supermarche-grenoble-perrot/sl-1170"
+phone: +33 4 76 25 26 15
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-12:30
+website: https://www.auchan.fr/magasins/supermarche-grenoble-perrot/sl-1170

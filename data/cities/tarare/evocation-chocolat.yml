@@ -4,8 +4,8 @@ latitude: 45.89562
 longitude: 4.43171
 postcode: "69170"
 city: Tarare
-street: "Rue de la République"
-housenumber: 30
-phone: "+33 4 74 63 13 24;+33 6 77 70 78 20"
-opening_hours: "Tu-Sa 08:30-12:30, 14:00-18:45"
-website: "https://evocationchocolat.fr/"
+street: Rue de la République
+housenumber: "30"
+phone: +33 4 74 63 13 24;+33 6 77 70 78 20
+opening_hours: Tu-Sa 08:30-12:30, 14:00-18:45
+website: https://evocationchocolat.fr/

@@ -4,8 +4,8 @@ latitude: 45.75585
 longitude: 5.19534
 postcode: "38230"
 city: Tignieu-Jameyzieu
-street: "Boulevard Ampère"
-housenumber: 31
+street: Boulevard Ampère
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-12:00"
-website: "https://www.franceparebrise.fr/"
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-12:00
+website: https://www.franceparebrise.fr/

@@ -1,11 +1,11 @@
 id: 131216985
-type: way
+type: node
 latitude: 45.28529
 longitude: 6.88193
 postcode: "73480"
 city: Val-Cenis
 street: ""
-housenumber: 110
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

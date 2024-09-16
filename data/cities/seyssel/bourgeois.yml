@@ -1,11 +1,11 @@
 id: 63192826
-type: way
+type: node
 latitude: 45.95845
 longitude: 5.83187
 postcode: "01420"
 city: Seyssel
-street: "Quai Charles de Gaulle"
-housenumber: 1
+street: Quai Charles de Gaulle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo, We-Su 06:00-20:00"
+opening_hours: Mo, We-Su 06:00-20:00
 website: ""

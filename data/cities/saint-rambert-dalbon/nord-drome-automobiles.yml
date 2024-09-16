@@ -1,11 +1,11 @@
 id: 486789309
-type: way
+type: node
 latitude: 45.28738
 longitude: 4.82376
 postcode: "26140"
 city: Saint-Rambert-d'Albon
-street: "Route d'Anneyron"
-housenumber: 7
+street: Route d'Anneyron
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 45.95693
 longitude: 6.0394
 postcode: "74330"
 city: Sillingy
-street: "Route de Bellegarde"
-housenumber: 2984
-phone: "+33 4 50 05 21 17"
-opening_hours: "Tu-Th 09:30-12:30,15:30-19:30; Fr-Sa 09:30-12:30,14:45-19:30; Su-Mo off"
+street: Route de Bellegarde
+housenumber: "2984"
+phone: +33 4 50 05 21 17
+opening_hours: Tu-Th 09:30-12:30,15:30-19:30; Fr-Sa 09:30-12:30,14:45-19:30; Su-Mo
+    off
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.44664
 longitude: 4.42356
 postcode: "42000"
 city: Saint-Étienne
-street: "Rue Ferrer"
-housenumber: 2
+street: Rue Ferrer
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:30; Su 09:30-19:00
 website: ""

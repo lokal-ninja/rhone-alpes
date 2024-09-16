@@ -4,8 +4,8 @@ latitude: 45.18935
 longitude: 5.71876
 postcode: "38000"
 city: Grenoble
-street: "Rue Gabriel Péri"
-housenumber: 1
+street: Rue Gabriel Péri
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 16:00-23:00; Th, Fr 16:00-01:00"
+opening_hours: Mo-We 16:00-23:00; Th, Fr 16:00-01:00
 website: ""

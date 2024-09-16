@@ -4,8 +4,8 @@ latitude: 45.18522
 longitude: 5.7092
 postcode: "38000"
 city: Grenoble
-street: "Rue Mozart"
-housenumber: 10
-phone: "+33 4 76 70 01 68"
+street: Rue Mozart
+housenumber: "10"
+phone: +33 4 76 70 01 68
 opening_hours: ""
-website: "https://www.pascal-lavigne.fr/"
+website: https://www.pascal-lavigne.fr/

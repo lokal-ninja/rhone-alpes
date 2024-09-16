@@ -1,11 +1,11 @@
 id: 152254507
-type: way
+type: node
 latitude: 45.6595
 longitude: 6.36865
 postcode: "73209"
 city: Albertville
-street: "Chemin de la Charrette"
-housenumber: 627
-phone: "+33 4 79 37 02 14"
+street: Chemin de la Charrette
+housenumber: "627"
+phone: +33 4 79 37 02 14
 opening_hours: ""
-website: "https://www.alpinessences.com"
+website: https://www.alpinessences.com

@@ -1,11 +1,11 @@
 id: 766867083
-type: way
+type: node
 latitude: 46.36062
 longitude: 6.69254
 postcode: "74500"
 city: Bernex
-street: "Impasse de la Rasse"
-housenumber: 71
+street: Impasse de la Rasse
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

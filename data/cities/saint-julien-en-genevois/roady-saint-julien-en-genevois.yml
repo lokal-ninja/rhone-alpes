@@ -1,11 +1,11 @@
 id: 77598049
-type: way
+type: node
 latitude: 46.14271
 longitude: 6.08872
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Avenue Louis Armand"
-housenumber: 6
-phone: "+33 4 50 35 60 00"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00; Aug 15 off"
-website: "https://www.roady.fr/centre-automobile/megale"
+street: Avenue Louis Armand
+housenumber: "6"
+phone: +33 4 50 35 60 00
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00; Aug 15 off
+website: https://www.roady.fr/centre-automobile/megale

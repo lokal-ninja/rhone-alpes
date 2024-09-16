@@ -4,8 +4,8 @@ latitude: 45.73291
 longitude: 4.87915
 postcode: "69008"
 city: Lyon
-street: "Rue Claude Violet"
-housenumber: 4
-phone: "+33 4 78 01 02 41"
-opening_hours: "Tu-Fr 09:30-19:15; Sa 09:00-13:45"
+street: Rue Claude Violet
+housenumber: "4"
+phone: +33 4 78 01 02 41
+opening_hours: Tu-Fr 09:30-19:15; Sa 09:00-13:45
 website: ""

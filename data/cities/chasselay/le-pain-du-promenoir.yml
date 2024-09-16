@@ -1,11 +1,11 @@
 id: 137125342
-type: way
+type: node
 latitude: 45.87387
 longitude: 4.7719
 postcode: "69380"
 city: Chasselay
-street: "Rue du Promenoir"
-housenumber: 8
+street: Rue du Promenoir
+housenumber: "8"
 phone: "+33478438481"
 opening_hours: ""
 website: ""

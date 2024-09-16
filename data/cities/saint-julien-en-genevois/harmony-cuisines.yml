@@ -4,8 +4,8 @@ latitude: 46.1426
 longitude: 6.09298
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Route d'Annemasse"
-housenumber: 9
-phone: "+33 04 50 35 12 72"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa-Su off"
-website: "https://harmonycuisines.com"
+street: Route d'Annemasse
+housenumber: "9"
+phone: +33 04 50 35 12 72
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa-Su off
+website: https://harmonycuisines.com

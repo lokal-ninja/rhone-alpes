@@ -4,8 +4,8 @@ latitude: 45.37054
 longitude: 5.58069
 postcode: "38500"
 city: Voiron
-street: "Avenue de Verdun"
-housenumber: 17
-phone: "+33 4 76 67 30 30"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
-website: "https://www.midas.fr/"
+street: Avenue de Verdun
+housenumber: "17"
+phone: +33 4 76 67 30 30
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
+website: https://www.midas.fr/

@@ -1,11 +1,11 @@
 id: 170514459
-type: way
+type: node
 latitude: 45.20322
 longitude: 5.76669
 postcode: "38240"
 city: Meylan
-street: "Boulevard des Alpes"
-housenumber: 3
-phone: "+33 4 76 04 93 93"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.king-jouet.com/magasins/38-Isere/magasin-MEYLAN-0430.htm"
+street: Boulevard des Alpes
+housenumber: "3"
+phone: +33 4 76 04 93 93
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.king-jouet.com/magasins/38-Isere/magasin-MEYLAN-0430.htm

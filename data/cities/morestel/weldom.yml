@@ -4,8 +4,8 @@ latitude: 45.67339
 longitude: 5.48574
 postcode: "38510"
 city: Morestel
-street: "Route d'Argent"
-housenumber: 1121
+street: Route d'Argent
+housenumber: "1121"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.weldom.fr/magasin/51"
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://www.weldom.fr/magasin/51

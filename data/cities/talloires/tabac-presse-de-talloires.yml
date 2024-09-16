@@ -4,8 +4,8 @@ latitude: 45.84004
 longitude: 6.21461
 postcode: "74290"
 city: Talloires
-street: "Place des Vendangeurs"
-housenumber: 3
-phone: "+33 4 50 60 77 04"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Place des Vendangeurs
+housenumber: "3"
+phone: +33 4 50 60 77 04
+opening_hours: Mo-Su 07:00-20:00
 website: ""

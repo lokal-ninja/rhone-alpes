@@ -4,8 +4,8 @@ latitude: 45.47369
 longitude: 4.51057
 postcode: "42400"
 city: Saint-Chamond
-street: "Avenue Sadi Carnot"
-housenumber: 3
+street: Avenue Sadi Carnot
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "http://www.corabio.org/"
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: http://www.corabio.org/

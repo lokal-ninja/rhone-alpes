@@ -4,8 +4,8 @@ latitude: 45.90134
 longitude: 6.12055
 postcode: "74000"
 city: Annecy
-street: "Rue de l'Industrie"
-housenumber: 1
+street: Rue de l'Industrie
+housenumber: "1"
 phone: ""
-opening_hours: "Mo off; Tu-Sa 09:00-21:00; Su 09:00-13:00, 15:00-21:00"
+opening_hours: Mo off; Tu-Sa 09:00-21:00; Su 09:00-13:00, 15:00-21:00
 website: ""

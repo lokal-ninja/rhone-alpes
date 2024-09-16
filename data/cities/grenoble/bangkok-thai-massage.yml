@@ -4,8 +4,8 @@ latitude: 45.19359
 longitude: 5.72176
 postcode: "38000"
 city: Grenoble
-street: "Quai de France"
-housenumber: 22
+street: Quai de France
+housenumber: "22"
 phone: "0950988682"
-opening_hours: "11:00-19:30"
+opening_hours: 11:00-19:30
 website: ""

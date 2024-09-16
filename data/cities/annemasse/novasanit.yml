@@ -1,11 +1,11 @@
 id: 158463244
-type: way
+type: node
 latitude: 46.19558
 longitude: 6.26977
 postcode: "74100"
 city: Annemasse
-street: "Rue Germain Sommeiller"
-housenumber: 7
+street: Rue Germain Sommeiller
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30; Sa-Su,Mo-Tu off"
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30; Sa-Su,Mo-Tu off
 website: ""

@@ -1,11 +1,11 @@
 id: 1230591024
-type: way
+type: node
 latitude: 46.30023
 longitude: 6.32805
 postcode: "74140"
 city: Ballaison
-street: "Impasse de Thénières"
-housenumber: 120
+street: Impasse de Thénières
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

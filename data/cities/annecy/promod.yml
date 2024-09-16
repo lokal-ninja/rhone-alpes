@@ -4,8 +4,8 @@ latitude: 45.90277
 longitude: 6.12486
 postcode: ""
 city: Annecy
-street: "Rue Carnot"
-housenumber: 45
+street: Rue Carnot
+housenumber: "45"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu-Fr 09:30-19:00; Sa 09:00-19:00"
+opening_hours: Mo 10:00-19:00; Tu-Fr 09:30-19:00; Sa 09:00-19:00
 website: ""

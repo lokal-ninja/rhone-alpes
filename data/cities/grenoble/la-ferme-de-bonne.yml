@@ -4,8 +4,8 @@ latitude: 45.18312
 longitude: 5.72506
 postcode: "38000"
 city: Grenoble
-street: "Allée Henri Frenay"
-housenumber: 14
-phone: "+33 4 76 43 34 46"
-opening_hours: "We-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.facebook.com/lafermedebonne/"
+street: Allée Henri Frenay
+housenumber: "14"
+phone: +33 4 76 43 34 46
+opening_hours: We-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.facebook.com/lafermedebonne/

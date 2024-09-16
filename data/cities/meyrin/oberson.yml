@@ -4,8 +4,8 @@ latitude: 46.22868
 longitude: 6.07179
 postcode: "1217"
 city: Meyrin
-street: "Route de Meyrin"
-housenumber: 299
-phone: "+41 22 782 10 45"
-opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 06:00-13:30"
-website: "https://www.boulangerie-oberson.ch/"
+street: Route de Meyrin
+housenumber: "299"
+phone: +41 22 782 10 45
+opening_hours: Mo-Fr 06:00-18:30; Sa-Su 06:00-13:30
+website: https://www.boulangerie-oberson.ch/

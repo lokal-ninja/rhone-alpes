@@ -1,11 +1,11 @@
 id: 398056926
-type: way
+type: node
 latitude: 45.18367
 longitude: 5.7227
 postcode: "38000"
 city: Grenoble
-street: "Rue Berthe de Boissieux"
-housenumber: 25
+street: Rue Berthe de Boissieux
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.04406
 longitude: 4.08398
 postcode: "42311"
 city: Roanne
-street: "Boulevard Jean-Baptiste Clément"
-housenumber: 90
-phone: "+33 4 77 44 51 51"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-18:30"
-website: "https://www.ford-garagegambetta.fr/"
+street: Boulevard Jean-Baptiste Clément
+housenumber: "90"
+phone: +33 4 77 44 51 51
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-18:30
+website: https://www.ford-garagegambetta.fr/

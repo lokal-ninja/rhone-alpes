@@ -1,11 +1,11 @@
 id: 138473277
-type: way
+type: node
 latitude: 46.14089
 longitude: 5.62334
 postcode: "01130"
 city: Nantua
-street: "Rue des Battoirs"
-housenumber: 21
+street: Rue des Battoirs
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 851895920
-type: way
+type: node
 latitude: 46.3876
 longitude: 6.51995
 postcode: "74500"
 city: Publier
-street: "Rue des Vignes Rouges"
-housenumber: 420
+street: Rue des Vignes Rouges
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

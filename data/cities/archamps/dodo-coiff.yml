@@ -4,8 +4,8 @@ latitude: 46.13699
 longitude: 6.12739
 postcode: "74160"
 city: Archamps
-street: "Route d'Annecy"
-housenumber: 196
+street: Route d'Annecy
+housenumber: "196"
 phone: ""
-opening_hours: "09:00-19:00"
-website: "http://dodocoiff.e-monsite.com/"
+opening_hours: 09:00-19:00
+website: http://dodocoiff.e-monsite.com/

@@ -4,8 +4,8 @@ latitude: 45.38137
 longitude: 5.58475
 postcode: "38500"
 city: Voiron
-street: "Rue du Château"
-housenumber: 1
+street: Rue du Château
+housenumber: "1"
 phone: ""
-opening_hours: "We,Fr,Sa 10:00-12:00,16:00-18:30"
+opening_hours: We,Fr,Sa 10:00-12:00,16:00-18:30
 website: ""

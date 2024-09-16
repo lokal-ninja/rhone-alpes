@@ -1,11 +1,11 @@
 id: 102933028
-type: way
+type: node
 latitude: 45.20848
 longitude: 5.7915
 postcode: "38240"
 city: Meylan
-street: "Chemin du Vieux Chêne"
-housenumber: 25
+street: Chemin du Vieux Chêne
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

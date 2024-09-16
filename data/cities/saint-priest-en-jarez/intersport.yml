@@ -1,11 +1,11 @@
 id: 65635027
-type: way
+type: node
 latitude: 45.47855
 longitude: 4.35975
 postcode: "42270"
 city: Saint-Priest-en-Jarez
-street: "Rue de Ratarieux"
-housenumber: 82
+street: Rue de Ratarieux
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.intersport.fr/Loire-42/STPRIESTENJAREZ-42270/INTERSPORT-STPRIESTENJAREZ/00809_000/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.intersport.fr/Loire-42/STPRIESTENJAREZ-42270/INTERSPORT-STPRIESTENJAREZ/00809_000/

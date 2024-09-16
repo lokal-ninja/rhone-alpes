@@ -5,7 +5,8 @@ longitude: 6.68549
 postcode: "73120"
 city: Plagne Soleil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 08:45-12:30,14:30-18:00; Fr 08:45-12:30,14:00-18:00; Sa 08:30-12:30,13:30-19:00; Su 08:30-12:30,14:00-18:00"
+opening_hours: Mo-Th 08:45-12:30,14:30-18:00; Fr 08:45-12:30,14:00-18:00; Sa 08:30-12:30,13:30-19:00;
+    Su 08:30-12:30,14:00-18:00
 website: ""

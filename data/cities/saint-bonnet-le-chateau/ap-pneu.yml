@@ -4,8 +4,8 @@ latitude: 45.42516
 longitude: 4.06608
 postcode: "42380"
 city: Saint-Bonnet-le-Château
-street: "Rue Paul Verlaine"
-housenumber: 6
-phone: "+33 4 77 57 32 62"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00"
+street: Rue Paul Verlaine
+housenumber: "6"
+phone: +33 4 77 57 32 62
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00
 website: ""

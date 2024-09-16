@@ -4,8 +4,9 @@ latitude: 45.81946
 longitude: 4.66182
 postcode: "69210"
 city: Lentilly
-street: "Place de l'Église"
-housenumber: 12
+street: Place de l'Église
+housenumber: "12"
 phone: "+33474018774"
-opening_hours: "Tu 08:30-12:00,13:30-18:30; Th 08:30-18:30; Sa 08:30-15:30; Fr 08:30-19:00; We 08:30-12:00"
-website: "http://aloecoiffure.fr"
+opening_hours: Tu 08:30-12:00,13:30-18:30; Th 08:30-18:30; Sa 08:30-15:30; Fr 08:30-19:00;
+    We 08:30-12:00
+website: http://aloecoiffure.fr

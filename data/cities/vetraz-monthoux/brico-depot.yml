@@ -1,11 +1,11 @@
 id: 166776368
-type: way
+type: node
 latitude: 46.18607
 longitude: 6.27423
 postcode: "74100"
 city: Vétraz-Monthoux
-street: "Route de Taninges"
-housenumber: 124
+street: Route de Taninges
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30; Su off"
+opening_hours: Mo-Sa 07:00-19:30; Su off
 website: ""

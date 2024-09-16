@@ -1,11 +1,11 @@
 id: 136475238
-type: way
+type: node
 latitude: 45.85777
 longitude: 4.6963
 postcode: "69380"
 city: Lozanne
-street: "Chemin de la Rivière"
-housenumber: 
+street: Chemin de la Rivière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

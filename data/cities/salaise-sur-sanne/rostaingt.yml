@@ -1,11 +1,11 @@
 id: 108559905
-type: way
+type: node
 latitude: 45.34103
 longitude: 4.81613
 postcode: "38150"
 city: Salaise sur Sanne
 street: ""
-housenumber: 28
-phone: "+33 4 27 69 13 36"
-opening_hours: "Mo-Sa 06:30-13:00, 15:00-19:30; Su 06:30-13:00"
+housenumber: "28"
+phone: +33 4 27 69 13 36
+opening_hours: Mo-Sa 06:30-13:00, 15:00-19:30; Su 06:30-13:00
 website: ""

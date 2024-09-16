@@ -1,11 +1,11 @@
 id: 225315524
-type: way
+type: node
 latitude: 46.17852
 longitude: 6.70555
 postcode: "74110"
 city: Morzine
-street: "Avenue de Joux Plane"
-housenumber: 452
+street: Avenue de Joux Plane
+housenumber: "452"
 phone: ""
 opening_hours: ""
 website: ""

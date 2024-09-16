@@ -4,8 +4,8 @@ latitude: 46.19388
 longitude: 6.23524
 postcode: "74100"
 city: Annemasse
-street: "Rue du Commerce"
-housenumber: 14
-phone: "+33 4 50 92 11 80"
-opening_hours: "Mo-Sa 07:30-19:30; Su off"
-website: "http://www.burdin-fleurs-interflora.fr/"
+street: Rue du Commerce
+housenumber: "14"
+phone: +33 4 50 92 11 80
+opening_hours: Mo-Sa 07:30-19:30; Su off
+website: http://www.burdin-fleurs-interflora.fr/

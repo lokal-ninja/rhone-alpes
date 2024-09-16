@@ -1,11 +1,11 @@
 id: 61406319
-type: way
+type: node
 latitude: 45.18717
 longitude: 5.77888
 postcode: "38610"
 city: Gières
-street: "Rue de la Condamine"
-housenumber: 9
-phone: "+33 4 78 49 49 49"
-opening_hours: "Mo-Fr 07:00-12:00, 13:30-17:30"
-website: "https://www.foussier.fr/nos-magasins-et-points-de-retrait/foussier-grenoble/155"
+street: Rue de la Condamine
+housenumber: "9"
+phone: +33 4 78 49 49 49
+opening_hours: Mo-Fr 07:00-12:00, 13:30-17:30
+website: https://www.foussier.fr/nos-magasins-et-points-de-retrait/foussier-grenoble/155

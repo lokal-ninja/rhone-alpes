@@ -4,8 +4,8 @@ latitude: 46.03463
 longitude: 4.06919
 postcode: "42300"
 city: Roanne
-street: "Rue Beaulieu"
-housenumber: 6
+street: Rue Beaulieu
+housenumber: "6"
 phone: "+33477712696"
-opening_hours: "Mo-Fr 06:30-13:00,15:00-19:30; Sa 06:30-13:00"
+opening_hours: Mo-Fr 06:30-13:00,15:00-19:30; Sa 06:30-13:00
 website: ""

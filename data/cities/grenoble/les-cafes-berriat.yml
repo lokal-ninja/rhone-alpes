@@ -4,8 +4,8 @@ latitude: 45.18779
 longitude: 5.72117
 postcode: "38000"
 city: Grenoble
-street: "Cours Berriat"
-housenumber: 21
-phone: "+33 4 76 46 43 16"
-opening_hours: "Tu-Fr 08:30-12:30,14:00-19:00; Sa 09:00-12:30,14:00-19:00"
-website: "http://cafesberriat.free.fr/"
+street: Cours Berriat
+housenumber: "21"
+phone: +33 4 76 46 43 16
+opening_hours: Tu-Fr 08:30-12:30,14:00-19:00; Sa 09:00-12:30,14:00-19:00
+website: http://cafesberriat.free.fr/

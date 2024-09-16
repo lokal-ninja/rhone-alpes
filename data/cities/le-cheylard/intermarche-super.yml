@@ -1,11 +1,11 @@
 id: 150505646
-type: way
+type: node
 latitude: 44.91314
 longitude: 4.44264
 postcode: "07160"
 city: Le Cheylard
-street: "Allée des Vergers"
-housenumber: 
+street: Allée des Vergers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

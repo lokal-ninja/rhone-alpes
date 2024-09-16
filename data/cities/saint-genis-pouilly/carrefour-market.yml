@@ -1,11 +1,11 @@
 id: 121763448
-type: way
+type: node
 latitude: 46.24163
 longitude: 6.02875
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue de Genève"
-housenumber: 
-phone: "+33 4 50 42 24 60"
-opening_hours: "Mo-Sa 08:30-19:30, Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/market-saint-genis-pouilly"
+street: Rue de Genève
+housenumber: ""
+phone: +33 4 50 42 24 60
+opening_hours: Mo-Sa 08:30-19:30, Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/market-saint-genis-pouilly

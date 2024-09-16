@@ -1,11 +1,11 @@
 id: 27108404
-type: way
+type: node
 latitude: 45.18085
 longitude: 5.72559
 postcode: "38100"
 city: Grenoble
-street: "Boulevard Maréchal Foch"
-housenumber: 13
+street: Boulevard Maréchal Foch
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:15-20:00; Su 08:15-12:45"
+opening_hours: Mo-Sa 08:15-20:00; Su 08:15-12:45
 website: ""

@@ -1,11 +1,11 @@
 id: 110600771
-type: way
+type: node
 latitude: 45.59649
 longitude: 5.89741
 postcode: "73000"
 city: Chambery
-street: "Avenue des Landiers"
-housenumber: 1549
-phone: "+33 4 79 62 84 89"
-opening_hours: "Mo-Sa 09:30-19:00; Su 14:00-18:30"
-website: "https://www.gifi.fr/?store_id=1362&utm_source=GMB&utm_medium=groupe&utm_campaign=1362"
+street: Avenue des Landiers
+housenumber: "1549"
+phone: +33 4 79 62 84 89
+opening_hours: Mo-Sa 09:30-19:00; Su 14:00-18:30
+website: https://www.gifi.fr/?store_id=1362&utm_source=GMB&utm_medium=groupe&utm_campaign=1362

@@ -4,8 +4,8 @@ latitude: 45.17715
 longitude: 5.72633
 postcode: "38100"
 city: Grenoble
-street: "Rue de Stalingrad"
-housenumber: 59
-phone: "+33 4 76 50 96 57"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "http://www.laverie-grenoble.fr/laverie-stalingrad"
+street: Rue de Stalingrad
+housenumber: "59"
+phone: +33 4 76 50 96 57
+opening_hours: Mo-Su 07:00-20:00
+website: http://www.laverie-grenoble.fr/laverie-stalingrad

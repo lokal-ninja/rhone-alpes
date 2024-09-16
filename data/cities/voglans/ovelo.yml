@@ -4,8 +4,8 @@ latitude: 45.61924
 longitude: 5.8876
 postcode: "73420"
 city: Voglans
-street: "Rue de la Françon"
-housenumber: 40
-phone: "+33 9 86 71 26 28"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ovelo.fr/fr/"
+street: Rue de la Françon
+housenumber: "40"
+phone: +33 9 86 71 26 28
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ovelo.fr/fr/

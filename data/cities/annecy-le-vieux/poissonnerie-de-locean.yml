@@ -4,8 +4,8 @@ latitude: 45.91005
 longitude: 6.14385
 postcode: "74940"
 city: Annecy-le-Vieux
-street: "Rue des Pommaries"
-housenumber: 9
+street: Rue des Pommaries
+housenumber: "9"
 phone: "+33450325664"
-opening_hours: "Tu-Th 07:45-13:00,15:00-19:00; Fr,Sa 07:45-19:00; Su 08:30-12:00"
-website: "https://annecy-poissonnerie.fr/"
+opening_hours: Tu-Th 07:45-13:00,15:00-19:00; Fr,Sa 07:45-19:00; Su 08:30-12:00
+website: https://annecy-poissonnerie.fr/

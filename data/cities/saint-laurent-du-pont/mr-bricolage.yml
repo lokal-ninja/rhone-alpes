@@ -1,11 +1,11 @@
 id: 41435825
-type: way
+type: node
 latitude: 45.38914
 longitude: 5.73292
 postcode: "38380"
 city: Saint-Laurent-du-Pont
-street: "Avenue Jules Ferry"
-housenumber: 3
+street: Avenue Jules Ferry
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

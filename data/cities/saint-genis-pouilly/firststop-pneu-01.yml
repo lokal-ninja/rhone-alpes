@@ -1,11 +1,11 @@
 id: 116481602
-type: way
+type: node
 latitude: 46.25513
 longitude: 6.02635
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue du Tiocan"
-housenumber: 26
-phone: "+33 4 50 42 07 85"
+street: Rue du Tiocan
+housenumber: "26"
+phone: +33 4 50 42 07 85
 opening_hours: ""
-website: "https://www.firststop.fr/"
+website: https://www.firststop.fr/

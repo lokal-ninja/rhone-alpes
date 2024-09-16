@@ -4,8 +4,9 @@ latitude: 46.26369
 longitude: 6.84034
 postcode: "74390"
 city: Châtel
-street: "Chemin de l'Étringa"
-housenumber: 125
+street: Chemin de l'Étringa
+housenumber: "125"
 phone: ""
-opening_hours: "Oct 01-May 31 Mo-Su 07:30-12:30, 15:00-19:15; Jun 01-Sep 30 Mo-Su 07:30-12:15, 15:30-19:00"
+opening_hours: Oct 01-May 31 Mo-Su 07:30-12:30, 15:00-19:15; Jun 01-Sep 30 Mo-Su 07:30-12:15,
+    15:30-19:00
 website: ""

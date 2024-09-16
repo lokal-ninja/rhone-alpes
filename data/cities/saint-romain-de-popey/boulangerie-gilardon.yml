@@ -4,8 +4,9 @@ latitude: 45.84743
 longitude: 4.53074
 postcode: "69490"
 city: Saint-Romain-de-Popey
-street: "Place du Popey"
-housenumber: 
+street: Place du Popey
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Tu 05:00-13:00, Mo-Tu 15:00-19:30, Th-Sa 05:00-13:00, Th-Sa 15:00-19:30, Su 06:00-13:00"
+opening_hours: Mo-Tu 05:00-13:00, Mo-Tu 15:00-19:30, Th-Sa 05:00-13:00, Th-Sa 15:00-19:30,
+    Su 06:00-13:00
 website: ""

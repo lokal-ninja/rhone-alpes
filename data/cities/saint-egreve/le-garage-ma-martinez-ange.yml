@@ -1,11 +1,11 @@
 id: 66952990
-type: way
+type: node
 latitude: 45.23538
 longitude: 5.66914
 postcode: "38120"
 city: Saint-Egrève
-street: "Avenue de l'Île Brune"
-housenumber: 67
-phone: "+33 4 76 75 17 32"
+street: Avenue de l'Île Brune
+housenumber: "67"
+phone: +33 4 76 75 17 32
 opening_hours: ""
-website: "http://www.le-garage.fr/"
+website: http://www.le-garage.fr/

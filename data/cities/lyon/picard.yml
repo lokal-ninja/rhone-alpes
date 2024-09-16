@@ -4,8 +4,8 @@ latitude: 45.77754
 longitude: 4.83309
 postcode: "69004"
 city: Lyon
-street: "Rue du Mail"
-housenumber: 17
-phone: "+33 4 78 29 31 84"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/270-picard-croix-rousse"
+street: Rue du Mail
+housenumber: "17"
+phone: +33 4 78 29 31 84
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/270-picard-croix-rousse

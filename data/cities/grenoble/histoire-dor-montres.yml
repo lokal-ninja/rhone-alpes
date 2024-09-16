@@ -1,11 +1,11 @@
 id: 512915171
-type: way
+type: node
 latitude: 45.15821
 longitude: 5.73156
 postcode: "38100"
 city: Grenoble
-street: "Avenue de la Chartreuse"
-housenumber: 50
-phone: "+33 4 76 40 30 63"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/boutiques-restaurants/histoire-d-or-montres"
+street: Avenue de la Chartreuse
+housenumber: "50"
+phone: +33 4 76 40 30 63
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/boutiques-restaurants/histoire-d-or-montres

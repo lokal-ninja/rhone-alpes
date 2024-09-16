@@ -1,11 +1,11 @@
 id: 134696455
-type: way
+type: node
 latitude: 46.19881
 longitude: 6.22052
 postcode: ""
 city: Thônex
-street: "Route d'Ambilly"
-housenumber: 58
+street: Route d'Ambilly
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 201833869
-type: way
+type: node
 latitude: 46.18309
 longitude: 5.92803
 postcode: "01630"
 city: Péron
-street: "ZA du Pré Munny"
-housenumber: 
+street: ZA du Pré Munny
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

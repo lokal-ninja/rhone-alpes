@@ -4,8 +4,8 @@ latitude: 45.20923
 longitude: 5.79113
 postcode: "38240"
 city: Meylan
-street: "Chemin du Vieux Chêne"
-housenumber: 22
-phone: "+33 4 76 54 64 95"
-opening_hours: "Mo-Fr 08:30-19:00"
-website: "https://www.lequilibristeboulangerie.fr/"
+street: Chemin du Vieux Chêne
+housenumber: "22"
+phone: +33 4 76 54 64 95
+opening_hours: Mo-Fr 08:30-19:00
+website: https://www.lequilibristeboulangerie.fr/

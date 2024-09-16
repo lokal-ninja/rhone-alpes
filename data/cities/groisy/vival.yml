@@ -1,11 +1,11 @@
 id: 113060786
-type: way
+type: node
 latitude: 46.00924
 longitude: 6.16997
 postcode: "74570"
 city: Groisy
-street: "Rue de Boisy"
-housenumber: 571
+street: Rue de Boisy
+housenumber: "571"
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:45, 15:15-20:00; Su 08:30-13:00, 17:00-20:00"
+opening_hours: Mo-Sa 08:30-12:45, 15:15-20:00; Su 08:30-13:00, 17:00-20:00
 website: ""

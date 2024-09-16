@@ -1,11 +1,11 @@
 id: 69098460
-type: way
+type: node
 latitude: 46.34114
 longitude: 6.48129
 postcode: "74200"
 city: Allinges
-street: "Avenue de Lonnaz"
-housenumber: 511
-phone: "+33 4 50 70 56 09"
+street: Avenue de Lonnaz
+housenumber: "511"
+phone: +33 4 50 70 56 09
 opening_hours: ""
-website: "https://www.carrosserie-deville.fr"
+website: https://www.carrosserie-deville.fr

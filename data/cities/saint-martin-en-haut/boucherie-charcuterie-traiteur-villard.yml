@@ -4,8 +4,8 @@ latitude: 45.65903
 longitude: 4.56373
 postcode: "69850"
 city: Saint-Martin-en-Haut
-street: "Grande Rue"
-housenumber: 61
+street: Grande Rue
+housenumber: "61"
 phone: "+33478486132"
 opening_hours: ""
-website: "http://www.villard-traiteur.fr"
+website: http://www.villard-traiteur.fr

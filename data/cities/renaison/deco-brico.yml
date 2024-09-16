@@ -4,8 +4,8 @@ latitude: 46.05139
 longitude: 3.93669
 postcode: "42370"
 city: Renaison
-street: "Chemin du Château"
-housenumber: 51
+street: Chemin du Château
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00,14:00-19:00; Sa 8:00-12:00,14:00-18:00"
-website: "https://www.bricopro.fr/carte-magasins/bricopro-renaison"
+opening_hours: Mo-Fr 8:00-12:00,14:00-19:00; Sa 8:00-12:00,14:00-18:00
+website: https://www.bricopro.fr/carte-magasins/bricopro-renaison

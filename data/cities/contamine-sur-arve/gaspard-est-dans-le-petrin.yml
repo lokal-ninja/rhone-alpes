@@ -4,8 +4,8 @@ latitude: 46.1363
 longitude: 6.3366
 postcode: "74130"
 city: Contamine-sur-Arve
-street: "Route des Granges"
-housenumber: 337
+street: Route des Granges
+housenumber: "337"
 phone: "+33678423850"
-opening_hours: "Mo-Fr 15:00-19:00"
-website: "https://www.gaspardestdanslepetrin.fr/"
+opening_hours: Mo-Fr 15:00-19:00
+website: https://www.gaspardestdanslepetrin.fr/

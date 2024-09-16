@@ -4,8 +4,8 @@ latitude: 45.18584
 longitude: 5.71235
 postcode: "38000"
 city: Grenoble
-street: "Rue Nicolas Chorier"
-housenumber: 32
-phone: "+33 4 76 48 82 32"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://casabiochorier.biocoop.net/"
+street: Rue Nicolas Chorier
+housenumber: "32"
+phone: +33 4 76 48 82 32
+opening_hours: Mo-Sa 09:00-19:00
+website: https://casabiochorier.biocoop.net/

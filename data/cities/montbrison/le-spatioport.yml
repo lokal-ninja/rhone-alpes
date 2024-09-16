@@ -4,8 +4,8 @@ latitude: 45.60684
 longitude: 4.06361
 postcode: "42600"
 city: Montbrison
-street: "Rue Grenette"
-housenumber: 5
-phone: "+33 4 77 96 95 05"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.lespatioport.com/"
+street: Rue Grenette
+housenumber: "5"
+phone: +33 4 77 96 95 05
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.lespatioport.com/

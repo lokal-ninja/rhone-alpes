@@ -4,8 +4,8 @@ latitude: 45.18792
 longitude: 5.72282
 postcode: "38000"
 city: Grenoble
-street: "Cours Berriat"
-housenumber: 2
+street: Cours Berriat
+housenumber: "2"
 phone: "+33476479471"
-opening_hours: "Mo-Sa 07:00-19:30"
+opening_hours: Mo-Sa 07:00-19:30
 website: ""

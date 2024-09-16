@@ -4,8 +4,8 @@ latitude: 45.98458
 longitude: 6.92732
 postcode: "74400"
 city: Argentière
-street: "Place du Marché"
-housenumber: 39
+street: Place du Marché
+housenumber: "39"
 phone: "+33450540597"
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:30-12:30"
-website: "https://www.magasins-u.com/magasin/marcheu-argentieres"
+opening_hours: Mo-Sa 08:00-19:30; Su 08:30-12:30
+website: https://www.magasins-u.com/magasin/marcheu-argentieres

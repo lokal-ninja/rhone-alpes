@@ -4,8 +4,8 @@ latitude: 46.13923
 longitude: 6.07198
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Route des Vignes"
-housenumber: 3
+street: Route des Vignes
+housenumber: "3"
 phone: "0450833619"
-opening_hours: "We-Sa 09:30-12:00;14:00-19:00"
-website: "http://www.lanatureduvin.fr/"
+opening_hours: We-Sa 09:30-12:00;14:00-19:00
+website: http://www.lanatureduvin.fr/

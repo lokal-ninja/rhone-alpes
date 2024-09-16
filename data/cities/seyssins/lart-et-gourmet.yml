@@ -1,11 +1,11 @@
 id: 1233995018
-type: way
+type: node
 latitude: 45.16984
 longitude: 5.69378
 postcode: "38180"
 city: Seyssins
-street: "Avenue Louis Armand"
-housenumber: 10
+street: Avenue Louis Armand
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:30-19:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:30-19:00
 website: ""

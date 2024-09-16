@@ -4,8 +4,9 @@ latitude: 45.63084
 longitude: 4.45701
 postcode: "69590"
 city: Saint-Symphorien-sur-Coise
-street: "Boulevard du 11 Novembre"
-housenumber: 181
+street: Boulevard du 11 Novembre
+housenumber: "181"
 phone: ""
-opening_hours: "Tu 15:00-19:00; We 09:30-12:30,15:00-18:30; Th 15:00-18:30; Fr 14:30-19:00; Sa 09:30-12:30"
-website: "https://librairie-dederrierelesfagots.fr/"
+opening_hours: Tu 15:00-19:00; We 09:30-12:30,15:00-18:30; Th 15:00-18:30; Fr 14:30-19:00;
+    Sa 09:30-12:30
+website: https://librairie-dederrierelesfagots.fr/

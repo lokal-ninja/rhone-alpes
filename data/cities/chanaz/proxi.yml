@@ -4,8 +4,8 @@ latitude: 45.80893
 longitude: 5.79407
 postcode: "73310"
 city: Chanaz
-street: "Route du Canal"
-housenumber: 159
-phone: "+33 4 79 35 11 20"
-opening_hours: "Tu-Sa 08:00-19:00; Su 08:00-12:30"
+street: Route du Canal
+housenumber: "159"
+phone: +33 4 79 35 11 20
+opening_hours: Tu-Sa 08:00-19:00; Su 08:00-12:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.18213
 longitude: 5.792
 postcode: "38610"
 city: Gières
-street: "Place de la République"
-housenumber: 5
-phone: "+33 4 76 89 37 50"
-opening_hours: "Mo-Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-gieres"
+street: Place de la République
+housenumber: "5"
+phone: +33 4 76 89 37 50
+opening_hours: Mo-Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30
+website: https://magasins.spar.fr/fr/s/spar-supermarche-gieres

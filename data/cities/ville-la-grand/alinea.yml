@@ -1,11 +1,11 @@
 id: 156890444
-type: way
+type: node
 latitude: 46.2045
 longitude: 6.28103
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue de Deux Montagnes (Québec)"
-housenumber: 3
+street: Rue de Deux Montagnes (Québec)
+housenumber: "3"
 phone: "+33450872740"
 opening_hours: ""
-website: "https://www.alinea.com/"
+website: https://www.alinea.com/

@@ -1,11 +1,11 @@
 id: 69006156
-type: way
+type: node
 latitude: 46.35129
 longitude: 6.43502
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Route Impériale"
-housenumber: 12
-phone: "+33 4 50 17 04 30"
+street: Route Impériale
+housenumber: "12"
+phone: +33 4 50 17 04 30
 opening_hours: ""
-website: "https://www.fly74.fr"
+website: https://www.fly74.fr

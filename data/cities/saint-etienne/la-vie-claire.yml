@@ -4,8 +4,8 @@ latitude: 45.43224
 longitude: 4.38854
 postcode: "42000"
 city: Saint-Étienne
-street: "Cours Victor Hugo"
-housenumber: 25
+street: Cours Victor Hugo
+housenumber: "25"
 phone: "+33477378214"
-opening_hours: "Mo-Sa 08:30-13:00,14:30-19:30"
-website: "https://www.lavieclaire.com/magasin-bio/saint-etienne.html"
+opening_hours: Mo-Sa 08:30-13:00,14:30-19:30
+website: https://www.lavieclaire.com/magasin-bio/saint-etienne.html

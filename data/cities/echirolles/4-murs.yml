@@ -1,11 +1,11 @@
 id: 81099485
-type: way
+type: node
 latitude: 45.15208
 longitude: 5.6939
 postcode: "38130"
 city: Échirolles
-street: "Place de la Grande Moucherolle"
-housenumber: 2
+street: Place de la Grande Moucherolle
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 10:00-12:30, 12:30-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 10:00-12:30, 12:30-19:00; Tu-Sa 10:00-19:00
 website: ""

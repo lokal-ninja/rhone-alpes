@@ -1,11 +1,11 @@
 id: 178660567
-type: way
+type: node
 latitude: 46.09618
 longitude: 5.81712
 postcode: "01200"
 city: Valserhône
-street: "Rue des Usines"
-housenumber: 7
+street: Rue des Usines
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00 Sat 13:00-17:00"
+opening_hours: Mo-Fr 14:00-18:00 Sat 13:00-17:00
 website: ""

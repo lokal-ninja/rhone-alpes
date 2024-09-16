@@ -4,8 +4,8 @@ latitude: 45.90219
 longitude: 6.12452
 postcode: "74000"
 city: Annecy
-street: "Rue Sommeiller"
-housenumber: 18
-phone: "+33 4 50 33 00 00"
+street: Rue Sommeiller
+housenumber: "18"
+phone: +33 4 50 33 00 00
 opening_hours: ""
-website: "https://www.decitre.fr/aide/nos-librairies/annecy"
+website: https://www.decitre.fr/aide/nos-librairies/annecy

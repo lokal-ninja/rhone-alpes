@@ -1,11 +1,11 @@
 id: 81099411
-type: way
+type: node
 latitude: 45.14688
 longitude: 5.69304
 postcode: "38130"
 city: Échirolles
-street: "Rue de Comboire"
-housenumber: 12
+street: Rue de Comboire
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

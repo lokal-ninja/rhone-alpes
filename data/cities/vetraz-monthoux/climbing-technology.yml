@@ -1,11 +1,11 @@
 id: 166776373
-type: way
+type: node
 latitude: 46.18309
 longitude: 6.2763
 postcode: "74100"
 city: Vétraz-Monthoux
-street: "Rue des Artisans"
-housenumber: 6
+street: Rue des Artisans
+housenumber: "6"
 phone: "+33450493741"
 opening_hours: ""
 website: ""

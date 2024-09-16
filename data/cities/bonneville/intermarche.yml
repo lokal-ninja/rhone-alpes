@@ -1,11 +1,11 @@
 id: 823067549
-type: way
+type: node
 latitude: 46.08358
 longitude: 6.40365
 postcode: "74130"
 city: Bonneville
-street: "Avenue de Genève"
-housenumber: 516
+street: Avenue de Genève
+housenumber: "516"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:45; Su 08:30-12:45"
+opening_hours: Mo-Sa 08:30-19:45; Su 08:30-12:45
 website: ""

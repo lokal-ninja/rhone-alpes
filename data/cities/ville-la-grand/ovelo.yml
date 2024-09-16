@@ -1,11 +1,11 @@
 id: 1261918393
-type: way
+type: node
 latitude: 46.2033
 longitude: 6.27911
 postcode: "74100"
 city: Ville-la-Grand
-street: "Allée de Montréal"
-housenumber: 20
+street: Allée de Montréal
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

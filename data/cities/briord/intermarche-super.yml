@@ -1,11 +1,11 @@
 id: 224688629
-type: way
+type: node
 latitude: 45.78809
 longitude: 5.45326
 postcode: "01470"
 city: Briord
-street: "Rue des Verchères"
-housenumber: 
-phone: "+33 4 74 40 48 00"
-opening_hours: "Mo-Sa 08:30-19:30"
+street: Rue des Verchères
+housenumber: ""
+phone: +33 4 74 40 48 00
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

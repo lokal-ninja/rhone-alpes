@@ -1,11 +1,11 @@
 id: 362418320
-type: way
+type: node
 latitude: 46.05527
 longitude: 3.97317
 postcode: "42155"
 city: Pouilly-Les-Nonains
-street: "Route Napoléon"
-housenumber: 654
-phone: "+33 4 77 66 85 31"
+street: Route Napoléon
+housenumber: "654"
+phone: +33 4 77 66 85 31
 opening_hours: ""
-website: "https://fermedeboisy.fr/"
+website: https://fermedeboisy.fr/

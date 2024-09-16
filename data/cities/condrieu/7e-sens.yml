@@ -5,7 +5,7 @@ longitude: 4.76734
 postcode: "69420"
 city: Condrieu
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: "+33474480599"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.planity.com/7eme-sens-69420-condrieu"
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.planity.com/7eme-sens-69420-condrieu

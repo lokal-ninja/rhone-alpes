@@ -4,8 +4,8 @@ latitude: 45.19192
 longitude: 5.73176
 postcode: "38000"
 city: Grenoble
-street: "Rue Bayard"
-housenumber: 5
-phone: "+33 4 76 24 77 82"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-19:00"
-website: "http://omerveilles.com/"
+street: Rue Bayard
+housenumber: "5"
+phone: +33 4 76 24 77 82
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-19:00
+website: http://omerveilles.com/

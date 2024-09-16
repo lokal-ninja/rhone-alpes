@@ -1,11 +1,11 @@
 id: 224807058
-type: way
+type: node
 latitude: 46.30356
 longitude: 6.43689
 postcode: "74550"
 city: Perrignier
-street: "Route de Thonon"
-housenumber: 44
+street: Route de Thonon
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

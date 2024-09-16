@@ -4,8 +4,8 @@ latitude: 46.03757
 longitude: 5.0944
 postcode: "01330"
 city: Le Plantay
-street: "Route de l'Abbaye"
-housenumber: 1600
+street: Route de l'Abbaye
+housenumber: "1600"
 phone: ""
-opening_hours: "Mo,We-Mo 10:00-11:45,15:00-18:00; Su 10:00-11:15,15:00-18:00"
-website: "https://www.chemin-neuf.fr/fr/pres-de-chez-toi/abbayes/abbaye-des-dombes"
+opening_hours: Mo,We-Mo 10:00-11:45,15:00-18:00; Su 10:00-11:15,15:00-18:00
+website: https://www.chemin-neuf.fr/fr/pres-de-chez-toi/abbayes/abbaye-des-dombes

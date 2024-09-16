@@ -4,8 +4,8 @@ latitude: 45.1921
 longitude: 5.72938
 postcode: "38000"
 city: Grenoble
-street: "Rue des Clercs"
-housenumber: 12
-phone: "+33 4 76 51 31 10"
-opening_hours: "Mo 14:00-19:00"
-website: "http://www.sesam-bijoux.fr/"
+street: Rue des Clercs
+housenumber: "12"
+phone: +33 4 76 51 31 10
+opening_hours: Mo 14:00-19:00
+website: http://www.sesam-bijoux.fr/

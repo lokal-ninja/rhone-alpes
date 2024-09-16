@@ -4,8 +4,8 @@ latitude: 45.90118
 longitude: 6.12219
 postcode: "74000"
 city: Annecy
-street: "Rue Vaugelas"
-housenumber: 42
+street: Rue Vaugelas
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30; Su 07:30-19:30"
-website: "https://www.instagram.com/painetcopains/"
+opening_hours: Mo-Sa 06:30-19:30; Su 07:30-19:30
+website: https://www.instagram.com/painetcopains/

@@ -1,11 +1,11 @@
 id: 63052568
-type: way
+type: node
 latitude: 45.56301
 longitude: 4.291
 postcode: "42340"
 city: Veauche
-street: "Avenue Henri Planchet"
-housenumber: 12
-phone: "+33 4 77 06 10 03"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-veauche"
+street: Avenue Henri Planchet
+housenumber: "12"
+phone: +33 4 77 06 10 03
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-veauche

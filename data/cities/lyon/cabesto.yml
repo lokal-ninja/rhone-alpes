@@ -4,8 +4,8 @@ latitude: 45.76732
 longitude: 4.8492
 postcode: "69006"
 city: Lyon
-street: "Rue Boileau"
-housenumber: 102
-phone: "+33 4 37 24 22 23"
-opening_hours: "Tu-Fr 11:00-14:00,15:00-19:00; Sa 11:00-19:00"
-website: "https://www.cabesto.com/fr/verticalite"
+street: Rue Boileau
+housenumber: "102"
+phone: +33 4 37 24 22 23
+opening_hours: Tu-Fr 11:00-14:00,15:00-19:00; Sa 11:00-19:00
+website: https://www.cabesto.com/fr/verticalite

@@ -4,8 +4,8 @@ latitude: 45.56621
 longitude: 5.92236
 postcode: "73000"
 city: Chambéry
-street: "Rue de Boigne"
-housenumber: 
+street: Rue de Boigne
+housenumber: ""
 phone: ""
-opening_hours: "Tu,Sa 09:30-19:00; We,Fr 10:00-13:00,14:00-19:00; Th 10:00-12:30,13:30-19:00"
+opening_hours: Tu,Sa 09:30-19:00; We,Fr 10:00-13:00,14:00-19:00; Th 10:00-12:30,13:30-19:00
 website: ""

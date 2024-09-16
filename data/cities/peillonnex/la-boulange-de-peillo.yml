@@ -1,11 +1,11 @@
 id: 148803826
-type: way
+type: node
 latitude: 46.13123
 longitude: 6.37576
 postcode: "74250"
 city: Peillonnex
-street: "Route de Bonneville"
-housenumber: 1058
+street: Route de Bonneville
+housenumber: "1058"
 phone: ""
-opening_hours: ""
+opening_hours: Sa-Su 07h30:12h30
 website: ""

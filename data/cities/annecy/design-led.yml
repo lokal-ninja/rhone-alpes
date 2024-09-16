@@ -4,8 +4,9 @@ latitude: 45.91056
 longitude: 6.09827
 postcode: "74960"
 city: Annecy
-street: "Avenue du Pont de Tasset"
-housenumber: 2
+street: Avenue du Pont de Tasset
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00; Sa-Su off; PH off"
-website: "https://design-led.fr/"
+opening_hours: Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-17:00; Sa-Su off;
+    PH off
+website: https://design-led.fr/

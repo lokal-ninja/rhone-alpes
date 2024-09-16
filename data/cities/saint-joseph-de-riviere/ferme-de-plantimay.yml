@@ -4,8 +4,8 @@ latitude: 45.37213
 longitude: 5.68008
 postcode: "38134"
 city: Saint-Joseph de Rivière
-street: "Chemin des Roberts"
-housenumber: 1026
-phone: "+33 4 76 55 25 26"
-opening_hours: "We,Fr 10:00-12:00, We-Sa 15:00-18:30, Sa 09:00-12:00"
-website: "https://www.fermedeplantimay.fr/"
+street: Chemin des Roberts
+housenumber: "1026"
+phone: +33 4 76 55 25 26
+opening_hours: We,Fr 10:00-12:00, We-Sa 15:00-18:30, Sa 09:00-12:00
+website: https://www.fermedeplantimay.fr/

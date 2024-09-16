@@ -1,11 +1,11 @@
 id: 893806513
-type: way
+type: node
 latitude: 46.26832
 longitude: 6.31603
 postcode: "74140"
 city: Loisin
-street: "Route de Bons-en-Chablais"
-housenumber: 80
+street: Route de Bons-en-Chablais
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 13:30-18:30; Fr 07:30-12:00; Sa-Su off"
+opening_hours: Mo-Th 08:00-12:00, 13:30-18:30; Fr 07:30-12:00; Sa-Su off
 website: ""

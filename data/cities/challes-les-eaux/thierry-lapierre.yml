@@ -4,8 +4,8 @@ latitude: 45.55445
 longitude: 5.97852
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue de Chambéry"
-housenumber: 582
-phone: "+33 6 03 43 03 07"
-opening_hours: "Sur rendez-vous uniquement"
-website: "https://chamberymeubles.fr/"
+street: Avenue de Chambéry
+housenumber: "582"
+phone: +33 6 03 43 03 07
+opening_hours: '"Sur rendez-vous uniquement"'
+website: https://chamberymeubles.fr/

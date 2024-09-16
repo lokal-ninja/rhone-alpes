@@ -1,11 +1,11 @@
 id: 78663478
-type: way
+type: node
 latitude: 45.92344
 longitude: 6.68646
 postcode: "74190"
 city: Passy
-street: "Place de la Mairie"
-housenumber: 82
+street: Place de la Mairie
+housenumber: "82"
 phone: "+33450891459"
 opening_hours: ""
 website: ""

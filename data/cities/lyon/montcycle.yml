@@ -4,8 +4,8 @@ latitude: 45.7535
 longitude: 4.8921
 postcode: "69003"
 city: Lyon
-street: "Cours Richard Vitton"
-housenumber: 57
+street: Cours Richard Vitton
+housenumber: "57"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:30; Sa 10:00-17:00; Su off"
-website: "https://www.montcycle.fr/"
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:30; Sa 10:00-17:00; Su off
+website: https://www.montcycle.fr/

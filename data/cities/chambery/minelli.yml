@@ -4,8 +4,8 @@ latitude: 45.56809
 longitude: 5.92066
 postcode: "73000"
 city: Chambéry
-street: "Rue Saint-Antoine"
-housenumber: 2
+street: Rue Saint-Antoine
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 13:00-19:00; Tu-Sa 10:00-19:00
 website: ""

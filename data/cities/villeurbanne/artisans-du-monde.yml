@@ -4,8 +4,8 @@ latitude: 45.77456
 longitude: 4.86852
 postcode: "69100"
 city: Villeurbanne
-street: "Avenue Roger Salengro"
-housenumber: 5
-phone: "+33 4 78 94 08 65"
-opening_hours: "Tu-Sa 10:00-12:30, 15:00-19:00"
-website: "https://admlyonvilleurbanne.fr/vie-associative/villeurbanne/"
+street: Avenue Roger Salengro
+housenumber: "5"
+phone: +33 4 78 94 08 65
+opening_hours: Tu-Sa 10:00-12:30, 15:00-19:00
+website: https://admlyonvilleurbanne.fr/vie-associative/villeurbanne/

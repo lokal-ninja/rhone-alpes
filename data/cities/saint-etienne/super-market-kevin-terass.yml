@@ -4,8 +4,8 @@ latitude: 45.43451
 longitude: 4.38206
 postcode: "42000"
 city: Saint-Étienne
-street: "Rue Saint-Ennemond"
-housenumber: 3
+street: Rue Saint-Ennemond
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

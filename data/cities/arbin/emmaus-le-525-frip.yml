@@ -4,8 +4,8 @@ latitude: 45.50678
 longitude: 6.07377
 postcode: "73800"
 city: Arbin
-street: "Rue de La Déserte"
-housenumber: 525
-phone: "+33 4 79 79 98 01"
-opening_hours: "Tu,Sa 10:30-18:00"
-website: "https://www.emmaus73.fr/lieux-et-horaires/"
+street: Rue de La Déserte
+housenumber: "525"
+phone: +33 4 79 79 98 01
+opening_hours: Tu,Sa 10:30-18:00
+website: https://www.emmaus73.fr/lieux-et-horaires/

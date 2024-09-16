@@ -4,8 +4,8 @@ latitude: 45.19797
 longitude: 5.68815
 postcode: "38600"
 city: Fontaine
-street: "Rue Jean Pain"
-housenumber: 56
-phone: "+33 7 58 84 39 22"
-opening_hours: "Mo-Sa 08:30-18:30"
-website: "https://www.ready4pneus.fr/"
+street: Rue Jean Pain
+housenumber: "56"
+phone: +33 7 58 84 39 22
+opening_hours: Mo-Sa 08:30-18:30
+website: https://www.ready4pneus.fr/

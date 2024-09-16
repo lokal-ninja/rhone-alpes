@@ -4,8 +4,8 @@ latitude: 45.44388
 longitude: 4.42634
 postcode: "42100"
 city: Saint-Étienne
-street: "Impasse Cote Thiollière"
-housenumber: 2
+street: Impasse Cote Thiollière
+housenumber: "2"
 phone: "+33477251137"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00"
-website: "https://www.culturevelo.com/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:00, 14:00-19:00
+website: https://www.culturevelo.com/

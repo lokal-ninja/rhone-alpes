@@ -4,8 +4,8 @@ latitude: 45.17028
 longitude: 5.72755
 postcode: "38100"
 city: Grenoble
-street: "Rue des Alliés"
-housenumber: 35
+street: Rue des Alliés
+housenumber: "35"
 phone: ""
-opening_hours: "Sa 09:00-17:00; Mo-Fr 07:30-18:00"
-website: "https://boxmax.com"
+opening_hours: Sa 09:00-17:00; Mo-Fr 07:30-18:00
+website: https://boxmax.com

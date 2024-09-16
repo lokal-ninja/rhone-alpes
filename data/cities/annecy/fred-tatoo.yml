@@ -4,8 +4,8 @@ latitude: 45.91075
 longitude: 6.12362
 postcode: "74000"
 city: Annecy
-street: "Avenue de Genève"
-housenumber: 43
+street: Avenue de Genève
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://fredtattoo.fr/"
+website: http://fredtattoo.fr/

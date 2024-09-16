@@ -4,8 +4,8 @@ latitude: 45.36574
 longitude: 5.59204
 postcode: "38500"
 city: Voiron
-street: "Rue Bourg-de-Péage"
-housenumber: 2
+street: Rue Bourg-de-Péage
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00"
-website: "http://bord-de-laize.fr/"
+opening_hours: Tu-Fr 09:30-12:00
+website: http://bord-de-laize.fr/

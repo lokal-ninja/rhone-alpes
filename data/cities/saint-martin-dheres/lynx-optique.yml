@@ -1,11 +1,11 @@
 id: 918460891
-type: way
+type: node
 latitude: 45.18562
 longitude: 5.76304
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 103
+street: Avenue Gabriel Péri
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38568493
-type: way
+type: node
 latitude: 46.14173
 longitude: 6.4027
 postcode: "74250"
 city: Viuz-en-Sallaz
-street: "Allée du Commerce"
-housenumber: 182
+street: Allée du Commerce
+housenumber: "182"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
-website: "https://www.auchan.fr/magasins/supermarche/auchan-supermarche-viuz-en-sallaz/s-240"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
+website: https://www.auchan.fr/magasins/supermarche/auchan-supermarche-viuz-en-sallaz/s-240

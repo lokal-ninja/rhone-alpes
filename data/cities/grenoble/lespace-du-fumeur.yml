@@ -1,11 +1,11 @@
 id: 512915553
-type: way
+type: node
 latitude: 45.15831
 longitude: 5.73276
 postcode: "38100"
 city: Grenoble
-street: "Grande Place"
-housenumber: 24
+street: Grande Place
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

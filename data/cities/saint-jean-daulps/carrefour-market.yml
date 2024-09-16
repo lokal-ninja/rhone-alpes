@@ -1,11 +1,11 @@
 id: 361136254
-type: way
+type: node
 latitude: 46.21046
 longitude: 6.6734
 postcode: "74430"
 city: Saint-Jean-d'Aulps
-street: "Route des Grandes Alpes"
-housenumber: 4679
+street: Route des Grandes Alpes
+housenumber: "4679"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

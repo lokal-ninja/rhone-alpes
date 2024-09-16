@@ -1,11 +1,11 @@
 id: 117220970
-type: way
+type: node
 latitude: 45.77362
 longitude: 4.98096
 postcode: "69150"
 city: Décines-Charpieu
-street: "Route de Jonage"
-housenumber: 33
+street: Route de Jonage
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

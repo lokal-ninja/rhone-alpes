@@ -4,8 +4,8 @@ latitude: 45.02331
 longitude: 5.8631
 postcode: "38350"
 city: Alpe du Grand Serre
-street: "Allée de la Blache"
-housenumber: 9
-phone: "+33 4 76 78 36 86"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-18:00"
-website: "https://location-ski.sport2000.fr/magasins/365-sport-2000-loulou-sports"
+street: Allée de la Blache
+housenumber: "9"
+phone: +33 4 76 78 36 86
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su 09:00-18:00
+website: https://location-ski.sport2000.fr/magasins/365-sport-2000-loulou-sports

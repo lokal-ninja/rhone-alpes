@@ -4,8 +4,8 @@ latitude: 45.21506
 longitude: 5.68509
 postcode: "38950"
 city: Grenoble
-street: "Rue Louis Gagnière"
-housenumber: 25
-phone: "+33 476 044 242"
-opening_hours: "Mo-Fr 10:00-12:30,13:30-17:00"
+street: Rue Louis Gagnière
+housenumber: "25"
+phone: +33 476 044 242
+opening_hours: Mo-Fr 10:00-12:30,13:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.85531
 longitude: 4.67978
 postcode: "69380"
 city: Lozanne
-street: "Rue du Pont"
-housenumber: 13
+street: Rue du Pont
+housenumber: "13"
 phone: "+33478430733"
-opening_hours: "Tu-Sa 09:30-12:30,15:00-19:00; Su 09:30-12:30"
-website: "https://magnolisa.fr/"
+opening_hours: Tu-Sa 09:30-12:30,15:00-19:00; Su 09:30-12:30
+website: https://magnolisa.fr/

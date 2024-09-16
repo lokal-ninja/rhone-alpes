@@ -1,11 +1,11 @@
 id: 67485359
-type: way
+type: node
 latitude: 45.70409
 longitude: 4.57967
 postcode: "69510"
 city: Yzeron
-street: "Le Plat"
-housenumber: 741
+street: Le Plat
+housenumber: "741"
 phone: ""
 opening_hours: ""
 website: ""

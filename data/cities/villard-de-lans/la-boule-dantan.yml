@@ -4,8 +4,8 @@ latitude: 45.0699
 longitude: 5.5516
 postcode: "38250"
 city: Villard-de-Lans
-street: "Rue Vaucanson"
-housenumber: 50
-phone: "+33 4 76 94 02 58"
-opening_hours: "Mo-Su 07:30-12:30,15:30-19:00"
+street: Rue Vaucanson
+housenumber: "50"
+phone: +33 4 76 94 02 58
+opening_hours: Mo-Su 07:30-12:30,15:30-19:00
 website: ""

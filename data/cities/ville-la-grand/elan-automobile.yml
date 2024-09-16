@@ -1,11 +1,11 @@
 id: 116337707
-type: way
+type: node
 latitude: 46.20202
 longitude: 6.26861
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue Chantemerle"
-housenumber: 7
+street: Rue Chantemerle
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

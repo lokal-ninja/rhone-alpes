@@ -1,11 +1,11 @@
 id: 77479048
-type: way
+type: node
 latitude: 45.18066
 longitude: 5.74486
 postcode: "38100"
 city: Grenoble
-street: "Avenue Jeanne d'Arc"
-housenumber: 68
+street: Avenue Jeanne d'Arc
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00"
+opening_hours: Mo-Sa 06:00-19:00
 website: ""

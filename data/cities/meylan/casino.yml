@@ -4,8 +4,9 @@ latitude: 45.21152
 longitude: 5.78626
 postcode: "38240"
 city: Meylan
-street: "Place des Tuileaux"
-housenumber: 2
-phone: "+33 4 76 90 10 86"
-opening_hours: "Mo-Fr 08:00-13:00,15:30-19:30; Sa 08:00-12:30; Jun 01 Mo-Fr 08:00-13:00,15:30-19:30; Jun 01 Sa 08:00-12:30; PH off"
+street: Place des Tuileaux
+housenumber: "2"
+phone: +33 4 76 90 10 86
+opening_hours: Mo-Fr 08:00-13:00,15:30-19:30; Sa 08:00-12:30; Jun 01 Mo-Fr 08:00-13:00,15:30-19:30;
+    Jun 01 Sa 08:00-12:30; PH off
 website: ""

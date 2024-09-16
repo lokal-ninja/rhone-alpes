@@ -4,8 +4,8 @@ latitude: 45.17942
 longitude: 5.70849
 postcode: "38000"
 city: Grenoble
-street: "Rue des Violettes"
-housenumber: 22
+street: Rue des Violettes
+housenumber: "22"
 phone: ""
-opening_hours: "We 18:30-21:30; Su 16:00-19:00"
-website: "https://www.bibliothequeantigone.org/"
+opening_hours: We 18:30-21:30; Su 16:00-19:00
+website: https://www.bibliothequeantigone.org/

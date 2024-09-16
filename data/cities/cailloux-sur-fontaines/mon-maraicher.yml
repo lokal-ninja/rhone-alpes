@@ -1,11 +1,11 @@
 id: 828217779
-type: way
+type: node
 latitude: 45.84504
 longitude: 4.87447
 postcode: ""
 city: Cailloux-sur-Fontaines
-street: "Chemin de Jambe de Loup"
-housenumber: 111
-phone: "+33 6 16 47 80 39"
-opening_hours: "Sa 09:00-12:00; We 16:00-19:00"
-website: "https://www.monmaraicher.fr/fr/"
+street: Chemin de Jambe de Loup
+housenumber: "111"
+phone: +33 6 16 47 80 39
+opening_hours: Sa 09:00-12:00; We 16:00-19:00
+website: https://www.monmaraicher.fr/fr/

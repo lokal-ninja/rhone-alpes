@@ -4,8 +4,9 @@ latitude: 45.99608
 longitude: 4.7348
 postcode: "69400"
 city: Villefranche sur Saone
-street: "Rue François Meunier"
-housenumber: 240
+street: Rue François Meunier
+housenumber: "240"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su closed"
-website: "https://www.action.com/fr-fr/points-de-vente/villefranche-sur-saone-240-rue-francois-meunier/"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-19:00; Su closed
+website: https://www.action.com/fr-fr/points-de-vente/villefranche-sur-saone-240-rue-francois-meunier/

@@ -1,11 +1,11 @@
 id: 1163477338
-type: way
+type: node
 latitude: 46.28887
 longitude: 6.43389
 postcode: "74550"
 city: Cervens
-street: "Chemin du Pré Nouveau"
-housenumber: 277
+street: Chemin du Pré Nouveau
+housenumber: "277"
 phone: ""
 opening_hours: ""
 website: ""

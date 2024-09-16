@@ -4,8 +4,8 @@ latitude: 45.17178
 longitude: 5.75191
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue de la Mogne"
-housenumber: 41
-phone: "+33 4 77 21 99 22"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://grenoble.envie.org"
+street: Avenue de la Mogne
+housenumber: "41"
+phone: +33 4 77 21 99 22
+opening_hours: Mo-Fr 10:00-19:00
+website: https://grenoble.envie.org

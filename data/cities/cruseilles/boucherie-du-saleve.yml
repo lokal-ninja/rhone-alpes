@@ -4,8 +4,8 @@ latitude: 46.03413
 longitude: 6.1078
 postcode: "74350"
 city: Cruseilles
-street: "Grande Rue"
-housenumber: 163
-phone: "+33 4 50 44 11 30"
-opening_hours: "Tu-Fr 07:30-12:30,15:00-19:00; Sa 07:30-18:00"
-website: "https://www.boucheriedusaleve.fr/"
+street: Grande Rue
+housenumber: "163"
+phone: +33 4 50 44 11 30
+opening_hours: Tu-Fr 07:30-12:30,15:00-19:00; Sa 07:30-18:00
+website: https://www.boucheriedusaleve.fr/

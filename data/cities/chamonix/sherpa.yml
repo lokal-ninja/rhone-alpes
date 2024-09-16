@@ -4,8 +4,9 @@ latitude: 45.92305
 longitude: 6.87217
 postcode: "74400"
 city: Chamonix
-street: "Avenue Michel Croz"
-housenumber: 190
+street: Avenue Michel Croz
+housenumber: "190"
 phone: ""
-opening_hours: "Dec 02-Apr 10 Mo-Tu,Th-Su 08:00-13:00, 15:00-20:00; Jul 02-Sep 01 Mo-Su 08:00-20:00"
+opening_hours: Dec 02-Apr 10 Mo-Tu,Th-Su 08:00-13:00, 15:00-20:00; Jul 02-Sep 01 Mo-Su
+    08:00-20:00
 website: ""

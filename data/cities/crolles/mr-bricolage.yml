@@ -1,11 +1,11 @@
 id: 69106643
-type: way
+type: node
 latitude: 45.27138
 longitude: 5.89205
 postcode: "38920"
 city: Crolles
-street: "Rue des Sources"
-housenumber: 
+street: Rue des Sources
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://magasin.mr-bricolage.fr/76-mr-bricolage-crolles"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://magasin.mr-bricolage.fr/76-mr-bricolage-crolles

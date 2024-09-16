@@ -1,11 +1,11 @@
 id: 827585517
-type: way
+type: node
 latitude: 45.9086
 longitude: 6.36425
 postcode: "74230"
 city: Les Villards-sur-Thones
-street: "Route des Perrils"
-housenumber: 100
+street: Route des Perrils
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:15; Sa 09:00-19:13; Su off"
+opening_hours: Mo-Fr 09:00-19:15; Sa 09:00-19:13; Su off
 website: ""

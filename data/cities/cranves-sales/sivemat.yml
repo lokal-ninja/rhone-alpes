@@ -1,11 +1,11 @@
 id: 1259168373
-type: way
+type: node
 latitude: 46.18256
 longitude: 6.28231
 postcode: "74380"
 city: Cranves-Sales
-street: "Route de Taninges"
-housenumber: 360
+street: Route de Taninges
+housenumber: "360"
 phone: "+33450431171"
 opening_hours: ""
-website: "https://www.sivemat.fr/index.php"
+website: https://www.sivemat.fr/index.php

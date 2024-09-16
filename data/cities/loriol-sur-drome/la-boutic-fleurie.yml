@@ -4,8 +4,8 @@ latitude: 44.75244
 longitude: 4.82093
 postcode: "26270"
 city: Loriol-sur-Drôme
-street: "Avenue de la République"
-housenumber: 83
-phone: "+33 4 75 85 52 26"
-opening_hours: "Mo-Sa 08:45-12:15, Tu-Sa 14:30-19:15, Su 09:30-12:00"
-website: "https://www.labouticfleurie.fr"
+street: Avenue de la République
+housenumber: "83"
+phone: +33 4 75 85 52 26
+opening_hours: Mo-Sa 08:45-12:15, Tu-Sa 14:30-19:15, Su 09:30-12:00
+website: https://www.labouticfleurie.fr

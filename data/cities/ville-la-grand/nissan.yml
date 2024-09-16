@@ -1,11 +1,11 @@
 id: 80119745
-type: way
+type: node
 latitude: 46.19909
 longitude: 6.26422
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Esserts"
-housenumber: 6
+street: Rue des Esserts
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00, Su off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:00-12:00, 14:00-18:00, Su off
 website: ""

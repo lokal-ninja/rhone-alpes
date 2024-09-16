@@ -1,11 +1,11 @@
 id: 67042085
-type: way
+type: node
 latitude: 46.39916
 longitude: 6.50418
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Avenue de Saint-Disdille"
-housenumber: 102
+street: Avenue de Saint-Disdille
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

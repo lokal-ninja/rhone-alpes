@@ -1,11 +1,11 @@
 id: 1307949940
-type: way
+type: node
 latitude: 45.19808
 longitude: 5.67202
 postcode: "38600"
 city: Fontaine
-street: "Boulevard Paul Langevin"
-housenumber: 120
+street: Boulevard Paul Langevin
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00"
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00
 website: ""

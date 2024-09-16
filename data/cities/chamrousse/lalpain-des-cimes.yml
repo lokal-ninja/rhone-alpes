@@ -4,8 +4,8 @@ latitude: 45.12652
 longitude: 5.8788
 postcode: "38410"
 city: Chamrousse
-street: "Avenue Henri Duhamel"
-housenumber: 18
-phone: "+33 4 76 59 02 53"
-opening_hours: "Mo-Tu,Th-Su 07:00-14:00,16:00-19:00"
+street: Avenue Henri Duhamel
+housenumber: "18"
+phone: +33 4 76 59 02 53
+opening_hours: Mo-Tu,Th-Su 07:00-14:00,16:00-19:00
 website: ""

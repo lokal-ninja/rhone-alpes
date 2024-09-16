@@ -1,11 +1,11 @@
 id: 68885828
-type: way
+type: node
 latitude: 46.25007
 longitude: 6.09004
 postcode: "01280"
 city: Prévessin-Moëns
-street: "Route du Nant"
-housenumber: 573
+street: Route du Nant
+housenumber: "573"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224418530
-type: way
+type: node
 latitude: 46.24326
 longitude: 5.62675
 postcode: "01100"
 city: Bellignat
-street: "Rue des Montains"
-housenumber: 7
-phone: "+33 4 74 77 49 17"
+street: Rue des Montains
+housenumber: "7"
+phone: +33 4 74 77 49 17
 opening_hours: ""
 website: ""

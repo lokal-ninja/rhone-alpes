@@ -4,8 +4,8 @@ latitude: 45.89832
 longitude: 6.12312
 postcode: "74000"
 city: Annecy
-street: "Place George Volland"
-housenumber: 1
+street: Place George Volland
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 08:00-19:00; Su 08:00-13:00"
+opening_hours: Mo,Tu,Th-Sa 08:00-19:00; Su 08:00-13:00
 website: ""

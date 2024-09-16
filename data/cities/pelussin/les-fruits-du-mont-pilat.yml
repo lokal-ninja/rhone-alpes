@@ -1,11 +1,11 @@
 id: 312666114
-type: way
+type: node
 latitude: 45.40248
 longitude: 4.68418
 postcode: "42410"
 city: Pélussin
-street: "RTE de Maclas - La Garde"
-housenumber: 58
+street: RTE de Maclas - La Garde
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 9:00-18:30"
+opening_hours: Mo-Sa 9:00-18:30
 website: ""

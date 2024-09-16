@@ -1,11 +1,11 @@
 id: 73345939
-type: way
+type: node
 latitude: 45.39209
 longitude: 5.25885
 postcode: "38260"
 city: La Côte-Saint-André
-street: "Rue Salpétrière"
-housenumber: 
-phone: "+33 474206800"
-opening_hours: "Mo-Sa 08:00-19:30; Su 09:00-12:30"
-website: "https://magasins.supercasino.fr/supermarche/la-cote-saint-andre"
+street: Rue Salpétrière
+housenumber: ""
+phone: +33 474206800
+opening_hours: Mo-Sa 08:00-19:30; Su 09:00-12:30
+website: https://magasins.supercasino.fr/supermarche/la-cote-saint-andre

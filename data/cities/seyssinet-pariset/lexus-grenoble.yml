@@ -1,11 +1,11 @@
 id: 66184436
-type: way
+type: node
 latitude: 45.17844
 longitude: 5.69078
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Avenue de la Houille Blanche"
-housenumber: 32
+street: Avenue de la Houille Blanche
+housenumber: "32"
 phone: "+33476221111"
 opening_hours: ""
-website: "https://mobilite.jeanlain.com/concessions/lexus-grenoble/"
+website: https://mobilite.jeanlain.com/concessions/lexus-grenoble/

@@ -4,8 +4,8 @@ latitude: 45.77952
 longitude: 4.80492
 postcode: "69009"
 city: Lyon
-street: "Rue de la Claire"
-housenumber: 32
+street: Rue de la Claire
+housenumber: "32"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,15:00-19:30; Sa 09:30-19:30"
+opening_hours: Tu-Fr 09:30-12:30,15:00-19:30; Sa 09:30-19:30
 website: ""

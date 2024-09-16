@@ -4,8 +4,8 @@ latitude: 45.56864
 longitude: 5.903
 postcode: "73000"
 city: Chambéry
-street: "Boulevard Henry Bordeaux"
-housenumber: 572
+street: Boulevard Henry Bordeaux
+housenumber: "572"
 phone: "+33982235323"
-opening_hours: "Mo 16:00-19:30; Tu-Fr 09:00-13:00, 15:30-19:30; Sa 09:00-13:00, 16:00-18:00"
-website: "https://www.ekosystm.com/"
+opening_hours: Mo 16:00-19:30; Tu-Fr 09:00-13:00, 15:30-19:30; Sa 09:00-13:00, 16:00-18:00
+website: https://www.ekosystm.com/

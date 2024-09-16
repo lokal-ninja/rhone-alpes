@@ -1,11 +1,11 @@
 id: 107344905
-type: way
+type: node
 latitude: 45.57465
 longitude: 5.92375
 postcode: "73000"
 city: Chambéry
-street: "Boulevard de Lemenc"
-housenumber: 50
+street: Boulevard de Lemenc
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

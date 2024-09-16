@@ -4,8 +4,8 @@ latitude: 45.88123
 longitude: 6.32475
 postcode: "74230"
 city: Thônes
-street: "Rue Blanche"
-housenumber: 5
-phone: "+33 4 50 02 01 53"
-opening_hours: "09:15-12:15,14:30-19:15"
+street: Rue Blanche
+housenumber: "5"
+phone: +33 4 50 02 01 53
+opening_hours: 09:15-12:15,14:30-19:15
 website: ""

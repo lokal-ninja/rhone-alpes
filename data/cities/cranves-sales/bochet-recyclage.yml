@@ -1,11 +1,11 @@
 id: 166776280
-type: way
+type: node
 latitude: 46.17983
 longitude: 6.27776
 postcode: "74380"
 city: Cranves-Sales
-street: "Route des Tattes de Borly"
-housenumber: 635
-phone: "+33 4 50 39 30 64"
+street: Route des Tattes de Borly
+housenumber: "635"
+phone: +33 4 50 39 30 64
 opening_hours: ""
-website: "http://www.bochet.com"
+website: http://www.bochet.com

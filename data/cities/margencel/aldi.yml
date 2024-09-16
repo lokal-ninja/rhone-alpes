@@ -1,11 +1,11 @@
 id: 1034493382
-type: way
+type: node
 latitude: 46.34569
 longitude: 6.42145
 postcode: "74200"
 city: Margencel
-street: "Route du Crêt Gojon"
-housenumber: 631
+street: Route du Crêt Gojon
+housenumber: "631"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:30-19:30; Su 08:30-12:30
 website: ""

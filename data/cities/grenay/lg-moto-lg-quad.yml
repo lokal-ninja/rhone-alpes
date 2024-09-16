@@ -1,11 +1,11 @@
 id: 128924955
-type: way
+type: node
 latitude: 45.66685
 longitude: 5.09267
 postcode: "38540"
 city: Grenay
-street: "Impasse de Satolas"
-housenumber: 2
-phone: "+33 4 74 94 69 61"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.lgquad.com/"
+street: Impasse de Satolas
+housenumber: "2"
+phone: +33 4 74 94 69 61
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.lgquad.com/

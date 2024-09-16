@@ -4,8 +4,8 @@ latitude: 45.63582
 longitude: 4.46193
 postcode: "69590"
 city: Saint-Symphorien-sur-Coise
-street: "Avenue Emmanuel Clément"
-housenumber: 182
-phone: "+33 4 78 44 48 45"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/market-saint-symphorien-sur-coise"
+street: Avenue Emmanuel Clément
+housenumber: "182"
+phone: +33 4 78 44 48 45
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/market-saint-symphorien-sur-coise

@@ -4,8 +4,8 @@ latitude: 45.44008
 longitude: 4.38146
 postcode: "42000"
 city: Saint-Étienne
-street: "Rue d'Arcole"
-housenumber: 38
+street: Rue d'Arcole
+housenumber: "38"
 phone: "+33477211829"
-opening_hours: "Tu-Fr 14:00-20:00; Sa 14:00-19:00"
-website: "https://ocivelo.fr/"
+opening_hours: Tu-Fr 14:00-20:00; Sa 14:00-19:00
+website: https://ocivelo.fr/

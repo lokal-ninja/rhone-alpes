@@ -1,11 +1,11 @@
 id: 69006556
-type: way
+type: node
 latitude: 46.34974
 longitude: 6.43515
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue du Pré Robert Sud"
-housenumber: 29
-phone: "+33 1 44 88 79 79"
-opening_hours: "Mo-Sa 09:30-19:00; Su off"
-website: "https://www.c-and-a.com/stores/fr-fr/auvergne-rhone-alpes/anthy-sur-leman/avenue-du-pre-robert-sud-29.html"
+street: Avenue du Pré Robert Sud
+housenumber: "29"
+phone: +33 1 44 88 79 79
+opening_hours: Mo-Sa 09:30-19:00; Su off
+website: https://www.c-and-a.com/stores/fr-fr/auvergne-rhone-alpes/anthy-sur-leman/avenue-du-pre-robert-sud-29.html

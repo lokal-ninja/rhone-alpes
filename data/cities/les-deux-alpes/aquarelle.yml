@@ -5,7 +5,7 @@ longitude: 6.12527
 postcode: "38860"
 city: Les Deux Alpes
 street: ""
-housenumber: 2
-phone: "+33 4 76 79 87 57"
+housenumber: "2"
+phone: +33 4 76 79 87 57
 opening_hours: ""
-website: "http://www.institut-aquarelle.fr/"
+website: http://www.institut-aquarelle.fr/

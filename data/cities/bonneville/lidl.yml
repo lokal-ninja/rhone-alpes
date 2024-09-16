@@ -1,11 +1,11 @@
 id: 107783783
-type: way
+type: node
 latitude: 46.07419
 longitude: 6.41878
 postcode: "74130"
 city: Bonneville
-street: "Rue des Bernacles"
-housenumber: 21
+street: Rue des Bernacles
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

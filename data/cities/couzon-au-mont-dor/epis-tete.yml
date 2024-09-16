@@ -4,8 +4,8 @@ latitude: 45.8453
 longitude: 4.83109
 postcode: "69270"
 city: Couzon-au-Mont-d'Or
-street: "Rue Pierre Dupont"
-housenumber: 7
-phone: "+33 4 78 22 05 77"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:00-15:00"
+street: Rue Pierre Dupont
+housenumber: "7"
+phone: +33 4 78 22 05 77
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:00-15:00
 website: ""

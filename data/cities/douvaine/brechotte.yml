@@ -4,8 +4,8 @@ latitude: 46.30596
 longitude: 6.30151
 postcode: "74140"
 city: Douvaine
-street: "Rue du Centre"
-housenumber: 5
+street: Rue du Centre
+housenumber: "5"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 09:00-12:00, 16:00-18:30; Sa 09:00-12:00"
+opening_hours: Mo,Su off; Tu-Fr 09:00-12:00, 16:00-18:30; Sa 09:00-12:00
 website: ""

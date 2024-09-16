@@ -1,11 +1,11 @@
 id: 732129300
-type: way
+type: node
 latitude: 45.75412
 longitude: 4.21843
 postcode: "42110"
 city: Civens
-street: "Rn 82"
-housenumber: 
+street: Rn 82
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Tu 08:30-19:30; Fr-Sa 08:30-19:30; Su 09:00-12:15"
+opening_hours: Mo-Tu 08:30-19:30; Fr-Sa 08:30-19:30; Su 09:00-12:15
 website: ""

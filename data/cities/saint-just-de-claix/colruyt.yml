@@ -1,11 +1,11 @@
 id: 638554128
-type: way
+type: node
 latitude: 45.06358
 longitude: 5.26948
 postcode: "38680"
 city: Saint-Just-de-Claix
-street: "Chemin de la Motte"
-housenumber: 67
+street: Chemin de la Motte
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.colruyt.fr/"
+website: https://www.colruyt.fr/

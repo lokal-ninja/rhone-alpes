@@ -1,11 +1,11 @@
 id: 164119955
-type: way
+type: node
 latitude: 45.54579
 longitude: 5.98708
 postcode: "73190"
 city: Challes-les-Eaux
-street: "Avenue de Chambéry"
-housenumber: 1749
+street: Avenue de Chambéry
+housenumber: "1749"
 phone: ""
 opening_hours: ""
 website: ""

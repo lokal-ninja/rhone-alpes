@@ -1,11 +1,11 @@
 id: 157666398
-type: way
+type: node
 latitude: 45.87095
 longitude: 6.63052
 postcode: "74120"
 city: Megève
-street: "Route de Sallanches"
-housenumber: 283
+street: Route de Sallanches
+housenumber: "283"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30; PH closed"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30; PH closed
 website: ""

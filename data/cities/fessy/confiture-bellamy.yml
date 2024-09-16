@@ -1,11 +1,11 @@
 id: 316733398
-type: way
+type: node
 latitude: 46.27985
 longitude: 6.40825
 postcode: "74890"
 city: Fessy
-street: "Route des Crêts Marteneaux"
-housenumber: 532
+street: Route des Crêts Marteneaux
+housenumber: "532"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00; Sa-Su off"
+opening_hours: Mo-Th 07:30-12:00,13:30-17:30; Fr 07:30-12:00; Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 91369616
-type: way
+type: node
 latitude: 46.18161
 longitude: 6.23654
 postcode: "74100"
 city: Annemasse
-street: "Route de Bonneville"
-housenumber: 90
+street: Route de Bonneville
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:30-19:30; Su 09:00-12:30
 website: ""

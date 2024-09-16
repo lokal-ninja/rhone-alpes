@@ -4,8 +4,8 @@ latitude: 46.14263
 longitude: 6.07293
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Grande Rue"
-housenumber: 27
-phone: "+33 4 50 49 03 98"
-opening_hours: "Tu-Fr 09:30-18:30; Sa 09:30-17:30"
+street: Grande Rue
+housenumber: "27"
+phone: +33 4 50 49 03 98
+opening_hours: Tu-Fr 09:30-18:30; Sa 09:30-17:30
 website: ""

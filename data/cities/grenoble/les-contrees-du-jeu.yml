@@ -4,8 +4,8 @@ latitude: 45.18759
 longitude: 5.73104
 postcode: "38000"
 city: Grenoble
-street: "Rue Beyle-Stendhal"
-housenumber: 6
+street: Rue Beyle-Stendhal
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://lescontreesdujeu.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://lescontreesdujeu.com/

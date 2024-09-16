@@ -4,8 +4,8 @@ latitude: 45.95171
 longitude: 5.32899
 postcode: "01500"
 city: Saint-Denis-en-Bugey
-street: "Rue du Docteur Charcot"
-housenumber: 15
-phone: "+33 4 74 34 01 47"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.beautedange.fr/"
+street: Rue du Docteur Charcot
+housenumber: "15"
+phone: +33 4 74 34 01 47
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.beautedange.fr/

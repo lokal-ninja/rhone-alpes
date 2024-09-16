@@ -1,11 +1,11 @@
 id: 512917491
-type: way
+type: node
 latitude: 45.15746
 longitude: 5.73284
 postcode: "38100"
 city: Grenoble
-street: "Cour des Erables"
-housenumber: 104
+street: Cour des Erables
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

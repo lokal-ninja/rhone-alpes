@@ -4,8 +4,8 @@ latitude: 45.18988
 longitude: 5.71584
 postcode: "38000"
 city: Grenoble
-street: "Place de la Gare"
-housenumber: 4
-phone: "+33 4 76 87 34 17"
-opening_hours: "Mo-Fr 04:00-19:45; Sa 04:00-15:00"
+street: Place de la Gare
+housenumber: "4"
+phone: +33 4 76 87 34 17
+opening_hours: Mo-Fr 04:00-19:45; Sa 04:00-15:00
 website: ""

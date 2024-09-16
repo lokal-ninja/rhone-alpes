@@ -1,11 +1,11 @@
 id: 66184801
-type: way
+type: node
 latitude: 45.17729
 longitude: 5.68765
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Avenue du général de Gaulle"
-housenumber: 12
-phone: "+334 38 12 33 11"
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-12:45"
-website: "https://www.chronodrive.com/magasins-chronodrive/drive-magasin-1057-seyssinet-pariset"
+street: Avenue du Général de Gaulle
+housenumber: "12"
+phone: +334 38 12 33 11
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-12:45
+website: https://www.chronodrive.com/magasins-chronodrive/drive-magasin-1057-seyssinet-pariset

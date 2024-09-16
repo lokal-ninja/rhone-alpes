@@ -4,8 +4,8 @@ latitude: 45.59331
 longitude: 5.89727
 postcode: "73000"
 city: Chambéry
-street: "Rue Eugène Ducretet"
-housenumber: 325
-phone: "+33 4 79 96 71 50"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 09:30-19:30"
-website: "https://www.go-sport.com/stores?lang=default#/stores/1192"
+street: Rue Eugène Ducretet
+housenumber: "325"
+phone: +33 4 79 96 71 50
+opening_hours: Mo-Fr 10:00-19:30; Sa 09:30-19:30
+website: https://www.go-sport.com/stores?lang=default#/stores/1192

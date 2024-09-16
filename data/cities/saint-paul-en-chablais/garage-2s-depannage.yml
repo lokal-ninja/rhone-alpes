@@ -1,11 +1,11 @@
 id: 69397403
-type: way
+type: node
 latitude: 46.36548
 longitude: 6.6526
 postcode: "74500"
 city: Saint-Paul-en-Chablais
-street: "Route du Champ Querbay"
-housenumber: 983
+street: Route du Champ Querbay
+housenumber: "983"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa-Su off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa-Su off
 website: ""

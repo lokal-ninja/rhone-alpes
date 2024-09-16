@@ -1,11 +1,11 @@
 id: 815631843
-type: way
+type: node
 latitude: 45.94009
 longitude: 6.06797
 postcode: "74330"
 city: Épagny
-street: "Chemin des Perdrix"
-housenumber: 
+street: Chemin des Perdrix
+housenumber: ""
 phone: ""
-opening_hours: "Apr-Oct: Mo-Sa 09:00-20:00; Apr-Oct: Su off; Nov-Mar: Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-epagny-0070005100051"
+opening_hours: 'Apr-Oct: Mo-Sa 09:00-20:00; Apr-Oct: Su off; Nov-Mar: Mo-Sa 09:00-19:30'
+website: https://www.decathlon.fr/store-view/magasin-de-sports-epagny-0070005100051

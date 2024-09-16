@@ -4,8 +4,8 @@ latitude: 45.82595
 longitude: 4.98209
 postcode: "01700"
 city: Saint-Maurice-de-Beynost
-street: "Place d'Arménie"
-housenumber: 1
-phone: "+33 4 78 55 67 21"
-opening_hours: "Mo-Fr 06:00-19:00; Sa,Su 08:00-19:00"
+street: Place d'Arménie
+housenumber: "1"
+phone: +33 4 78 55 67 21
+opening_hours: Mo-Fr 06:00-19:00; Sa,Su 08:00-19:00
 website: ""

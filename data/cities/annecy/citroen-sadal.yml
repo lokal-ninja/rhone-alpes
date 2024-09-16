@@ -1,11 +1,11 @@
 id: 62597758
-type: way
+type: node
 latitude: 45.88053
 longitude: 6.09497
 postcode: "74600"
 city: Annecy
-street: "Avenue d'Aix les Bains"
-housenumber: 209
+street: Avenue d'Aix les Bains
+housenumber: "209"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-19:00"
+opening_hours: Mo-Fr 07:30-12:00,13:30-19:00
 website: ""

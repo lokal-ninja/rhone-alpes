@@ -1,11 +1,11 @@
 id: 70530143
-type: way
+type: node
 latitude: 45.55657
 longitude: 5.08624
 postcode: "38790"
 city: Saint-Georges-d'Espéranche
-street: "Route des Ayes"
-housenumber: 33
-phone: "+33 4 74 59 03 10"
+street: Route des Ayes
+housenumber: "33"
+phone: +33 4 74 59 03 10
 opening_hours: ""
-website: "https://agents.peugeot.fr/st-georges-d-esperanche"
+website: https://agents.peugeot.fr/st-georges-d-esperanche

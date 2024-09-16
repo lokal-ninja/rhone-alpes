@@ -4,8 +4,8 @@ latitude: 45.56616
 longitude: 5.92137
 postcode: "73000"
 city: Chambéry
-street: "Rue Favre"
-housenumber: 
+street: Rue Favre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

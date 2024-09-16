@@ -4,8 +4,8 @@ latitude: 46.14346
 longitude: 6.08106
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Grande Rue"
-housenumber: 5
-phone: "+33 4 50 49 04 19"
-opening_hours: "Tu-We,Fr 09:30-12:30,14:30-18:30; Th 09:30-12:30,15:30-19:30; Sa 09:30-12:30,14:00-18:00"
-website: "https://st-julien-en-genevois.cuisineplaisir.fr/"
+street: Grande Rue
+housenumber: "5"
+phone: +33 4 50 49 04 19
+opening_hours: Tu-We,Fr 09:30-12:30,14:30-18:30; Th 09:30-12:30,15:30-19:30; Sa 09:30-12:30,14:00-18:00
+website: https://st-julien-en-genevois.cuisineplaisir.fr/

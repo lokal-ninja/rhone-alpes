@@ -1,11 +1,11 @@
 id: 823111616
-type: way
+type: node
 latitude: 45.53162
 longitude: 5.96078
 postcode: "73190"
 city: Saint-Baldoph
-street: "Impasse de la Roselière"
-housenumber: 94
-phone: "+33 4 79 28 74 99"
-opening_hours: "Mo 08:00-12:30; Tu-Fr 08:00-12:30, 14:00-18:30; Sa 09:00-12:00"
-website: "https://www.labelenergie.com/"
+street: Impasse de la Roselière
+housenumber: "94"
+phone: +33 4 79 28 74 99
+opening_hours: Mo 08:00-12:30; Tu-Fr 08:00-12:30, 14:00-18:30; Sa 09:00-12:00
+website: https://www.labelenergie.com/

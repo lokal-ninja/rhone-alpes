@@ -1,11 +1,11 @@
 id: 106100019
-type: way
+type: node
 latitude: 46.08594
 longitude: 6.52391
 postcode: "74300"
 city: Thyez
-street: "Avenue des Vallées"
-housenumber: 2525
+street: Avenue des Vallées
+housenumber: "2525"
 phone: ""
 opening_hours: ""
 website: ""

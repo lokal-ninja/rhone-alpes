@@ -1,11 +1,11 @@
 id: 1054728294
-type: way
+type: node
 latitude: 46.36931
 longitude: 6.33165
 postcode: "74140"
 city: Yvoire
-street: "Rue des Bouchets"
-housenumber: 120
+street: Rue des Bouchets
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

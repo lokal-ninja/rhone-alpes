@@ -1,11 +1,11 @@
 id: 648381033
-type: way
+type: node
 latitude: 46.18475
 longitude: 6.27306
 postcode: "74100"
 city: Vétraz-Monthoux
-street: "Allée des Chênes"
-housenumber: 8
+street: Allée des Chênes
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

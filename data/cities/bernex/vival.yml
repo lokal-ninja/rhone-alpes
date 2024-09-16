@@ -4,8 +4,8 @@ latitude: 46.36106
 longitude: 6.67488
 postcode: "74500"
 city: Bernex
-street: "Route de la Mairie"
-housenumber: 2
+street: Route de la Mairie
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 08:30-12:30,15:30-19:00"
+opening_hours: Mo-Su 08:30-12:30,15:30-19:00
 website: ""

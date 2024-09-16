@@ -1,11 +1,11 @@
 id: 1118849247
-type: way
+type: node
 latitude: 46.3499
 longitude: 6.43389
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue du Pré Robert Sud"
-housenumber: 35
-phone: "+33 4 50 16 03 04"
-opening_hours: "Mo-Sa 09:30-19:00; Su off"
-website: "https://www.cache-cache.fr/magasins-haute-savoie-74-thonon-les-bains-anthy-sur-leman-701.html"
+street: Avenue du Pré Robert Sud
+housenumber: "35"
+phone: +33 4 50 16 03 04
+opening_hours: Mo-Sa 09:30-19:00; Su off
+website: https://www.cache-cache.fr/magasins-haute-savoie-74-thonon-les-bains-anthy-sur-leman-701.html

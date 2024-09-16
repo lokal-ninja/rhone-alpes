@@ -1,11 +1,11 @@
 id: 152123491
-type: way
+type: node
 latitude: 45.6579
 longitude: 6.36925
 postcode: "73200"
 city: Albertville
-street: "Rue Ambroise Croizat"
-housenumber: 10
+street: Rue Ambroise Croizat
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.auvieuxcampeur.fr/"
+website: https://www.auvieuxcampeur.fr/

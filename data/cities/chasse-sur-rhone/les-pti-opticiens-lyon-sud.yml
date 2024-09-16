@@ -4,8 +4,8 @@ latitude: 45.57343
 longitude: 4.81314
 postcode: "38670"
 city: Chasse-Sur-Rhône
-street: "Avenue Frédéric Mistral"
-housenumber: 1833
-phone: "+33 4 78 07 23 50"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.lesptiopticiens.fr/"
+street: Avenue Frédéric Mistral
+housenumber: "1833"
+phone: +33 4 78 07 23 50
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.lesptiopticiens.fr/

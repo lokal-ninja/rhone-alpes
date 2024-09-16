@@ -4,8 +4,8 @@ latitude: 45.76365
 longitude: 4.89857
 postcode: "69100"
 city: Villeurbanne
-street: "Rue Chevreul"
-housenumber: 22
-phone: "+33 4 78 84 80 31"
-opening_hours: "Mo-Th 08:00-12:00,14:00-19:00; Fr 08:00-12:00,14:00-18:30"
+street: Rue Chevreul
+housenumber: "22"
+phone: +33 4 78 84 80 31
+opening_hours: Mo-Th 08:00-12:00,14:00-19:00; Fr 08:00-12:00,14:00-18:30
 website: ""

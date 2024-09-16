@@ -4,8 +4,8 @@ latitude: 46.03381
 longitude: 6.10831
 postcode: "74350"
 city: Cruseilles
-street: "Place de la Fontaine"
-housenumber: 32
-phone: "+33 4 50 32 34 91;+33 6 52 85 75 54"
-opening_hours: "We-Fr 09:00-12:30,15:30-19:00; Sa 09:00-12:30"
-website: "https://terre-ferme-cruseilles.fr"
+street: Place de la Fontaine
+housenumber: "32"
+phone: +33 4 50 32 34 91;+33 6 52 85 75 54
+opening_hours: We-Fr 09:00-12:30,15:30-19:00; Sa 09:00-12:30
+website: https://terre-ferme-cruseilles.fr

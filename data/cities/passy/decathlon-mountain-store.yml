@@ -1,11 +1,11 @@
 id: 231148124
-type: way
+type: node
 latitude: 45.91698
 longitude: 6.69048
 postcode: "74190"
 city: Passy
-street: "Avenue Léman Mont-Blanc"
-housenumber: 170
+street: Avenue Léman Mont-Blanc
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
+opening_hours: Mo-Sa 09:30-19:30; Su off
 website: ""

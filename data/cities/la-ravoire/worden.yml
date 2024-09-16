@@ -1,11 +1,11 @@
 id: 931975743
-type: way
+type: node
 latitude: 45.56758
 longitude: 5.96521
 postcode: "73490"
 city: La Ravoire
-street: "Rue Pierre et Marie Curie"
-housenumber: 315
+street: Rue Pierre et Marie Curie
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

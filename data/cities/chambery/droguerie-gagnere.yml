@@ -4,8 +4,8 @@ latitude: 45.56589
 longitude: 5.91527
 postcode: "73000"
 city: Chambéry
-street: "Avenue des Bernardines"
-housenumber: 61
+street: Avenue des Bernardines
+housenumber: "61"
 phone: ""
-opening_hours: "Mo, Sa 09:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-18:00"
+opening_hours: Mo, Sa 09:00-12:00, 14:00-18:00; Tu-Fr 08:00-12:00, 14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 126697699
-type: way
+type: node
 latitude: 45.82987
 longitude: 4.98087
 postcode: "01700"
 city: Saint-Maurice-de-Beynost
-street: "Route de Genève"
-housenumber: 42
+street: Route de Genève
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

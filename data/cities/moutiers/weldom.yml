@@ -1,11 +1,11 @@
 id: 669758991
-type: way
+type: node
 latitude: 45.4862
 longitude: 6.52429
 postcode: "73600"
 city: Moûtiers
-street: "Rue des Érables"
-housenumber: 
-phone: "+33 4 79 24 44 89"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+street: Rue des Érables
+housenumber: ""
+phone: +33 4 79 24 44 89
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

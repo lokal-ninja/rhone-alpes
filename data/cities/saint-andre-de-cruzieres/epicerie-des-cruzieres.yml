@@ -1,11 +1,11 @@
 id: 155801576
-type: way
+type: node
 latitude: 44.3147
 longitude: 4.21172
 postcode: "07460"
 city: Saint-André-de-Cruzières
-street: "Place Maurice Grimaud"
-housenumber: 1
-phone: "+33 4 75 93 65 88"
+street: Place Maurice Grimaud
+housenumber: "1"
+phone: +33 4 75 93 65 88
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 81060057
-type: way
+type: node
 latitude: 45.14091
 longitude: 5.70396
 postcode: "38130"
 city: Échirolles
-street: "Cours Jean Jaurès"
-housenumber: 173
+street: Cours Jean Jaurès
+housenumber: "173"
 phone: ""
 opening_hours: ""
 website: ""

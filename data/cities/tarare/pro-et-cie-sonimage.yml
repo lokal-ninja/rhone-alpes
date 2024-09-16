@@ -4,8 +4,8 @@ latitude: 45.89626
 longitude: 4.43261
 postcode: "69170"
 city: Tarare
-street: "Rue Pêcherie"
-housenumber: 26
-phone: "+33 4 74 63 04 04"
-opening_hours: "Tu-Sa 09:00-12:00; Tu-Fr 14:00-19:00; Sa 14:00-19:00"
-website: "http://www.procie-tarare.com/"
+street: Rue Pêcherie
+housenumber: "26"
+phone: +33 4 74 63 04 04
+opening_hours: Tu-Sa 09:00-12:00; Tu-Fr 14:00-19:00; Sa 14:00-19:00
+website: http://www.procie-tarare.com/

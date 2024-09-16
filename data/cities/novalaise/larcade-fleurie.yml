@@ -1,11 +1,11 @@
 id: 62721720
-type: way
+type: node
 latitude: 45.59395
 longitude: 5.77784
 postcode: "73470"
 city: Novalaise
-street: "Route du Lac"
-housenumber: 
-phone: "+33 4 79 28 72 42"
+street: Route du Lac
+housenumber: ""
+phone: +33 4 79 28 72 42
 opening_hours: ""
 website: ""

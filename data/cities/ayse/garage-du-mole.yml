@@ -1,11 +1,11 @@
 id: 107800171
-type: way
+type: node
 latitude: 46.07511
 longitude: 6.44748
 postcode: "74130"
 city: Ayse
-street: "Avenue du Môle"
-housenumber: 60
-phone: "+33 457437116"
+street: Avenue du Môle
+housenumber: "60"
+phone: +33 457437116
 opening_hours: ""
-website: "https://www.garagedumole.com/"
+website: https://www.garagedumole.com/

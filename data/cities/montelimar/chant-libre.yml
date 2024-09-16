@@ -1,11 +1,11 @@
 id: 74564745
-type: way
+type: node
 latitude: 44.55906
 longitude: 4.75214
 postcode: "26200"
 city: Montélimar
-street: "Place des Clercs"
-housenumber: 22
-phone: "+33 4 75 01 92 22"
-opening_hours: "Mo,Su off; Tu-Sa 09:00-12:00,14:30-19:00"
+street: Place des Clercs
+housenumber: "22"
+phone: +33 4 75 01 92 22
+opening_hours: Mo,Su off; Tu-Sa 09:00-12:00,14:30-19:00
 website: ""

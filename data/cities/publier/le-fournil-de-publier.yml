@@ -1,11 +1,11 @@
 id: 1229012853
-type: way
+type: node
 latitude: 46.38745
 longitude: 6.54298
 postcode: "74500"
 city: Publier
-street: "Place du 8 Mai 1945"
-housenumber: 3
+street: Place du 8 Mai 1945
+housenumber: "3"
 phone: ""
-opening_hours: "06:30-19:30"
+opening_hours: 06:30-19:30
 website: ""

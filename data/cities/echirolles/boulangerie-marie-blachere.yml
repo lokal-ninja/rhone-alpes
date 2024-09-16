@@ -1,11 +1,11 @@
 id: 81099321
-type: way
+type: node
 latitude: 45.14503
 longitude: 5.69091
 postcode: "38130"
 city: Échirolles
-street: "Rue du Drac"
-housenumber: 7
+street: Rue du Drac
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30"
-website: "https://boulangeries.marieblachere.com/Echirolles"
+opening_hours: Mo-Sa 06:30-19:30
+website: https://boulangeries.marieblachere.com/Echirolles

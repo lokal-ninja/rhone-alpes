@@ -1,11 +1,11 @@
 id: 86265938
-type: way
+type: node
 latitude: 46.19833
 longitude: 6.25922
 postcode: "74100"
 city: Annemasse
-street: "Rue de l'Industrie"
-housenumber: 8
+street: Rue de l'Industrie
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa-Su off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 171377024
-type: way
+type: node
 latitude: 44.82143
 longitude: 4.58483
 postcode: "07190"
 city: Saint-sauveur de montagut
-street: "Grande Rue"
-housenumber: 64
-phone: "+33 4 75 30 06 46"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/contact-saint-sauveur-de-montagut"
+street: Grande Rue
+housenumber: "64"
+phone: +33 4 75 30 06 46
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-20:00
+website: https://www.carrefour.fr/magasin/contact-saint-sauveur-de-montagut

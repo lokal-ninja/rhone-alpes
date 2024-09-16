@@ -1,11 +1,11 @@
 id: 152323146
-type: way
+type: node
 latitude: 45.66424
 longitude: 6.36441
 postcode: "73200"
 city: Albertville
-street: "Avenue Général de Gaulle"
-housenumber: 146
-phone: "+33 4 79320830"
+street: Avenue Général de Gaulle
+housenumber: "146"
+phone: +33 4 79320830
 opening_hours: ""
 website: ""

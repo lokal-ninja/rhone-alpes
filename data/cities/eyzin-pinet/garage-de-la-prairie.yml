@@ -1,11 +1,11 @@
 id: 112321712
-type: way
+type: node
 latitude: 45.47579
 longitude: 4.99868
 postcode: "38780"
 city: Eyzin Pinet
 street: ""
-housenumber: 234
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 225312989
-type: way
+type: node
 latitude: 46.18029
 longitude: 6.70517
 postcode: "74110"
 city: Morzine
-street: "Chemin de la Coutettaz"
-housenumber: 84
+street: Chemin de la Coutettaz
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

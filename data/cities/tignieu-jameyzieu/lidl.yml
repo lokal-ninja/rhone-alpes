@@ -1,11 +1,11 @@
 id: 142879140
-type: way
+type: node
 latitude: 45.75217
 longitude: 5.19899
 postcode: "38230"
 city: Tignieu-Jameyzieu
-street: "Route de Crémieu"
-housenumber: 111
+street: Route de Crémieu
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:15"
-website: "https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/tignieu-jamezieu/111-route-de-cremieu/"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:15
+website: https://www.lidl.fr/s/fr-FR/supermarch%C3%A9s/tignieu-jamezieu/111-route-de-cremieu/

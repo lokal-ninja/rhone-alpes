@@ -1,11 +1,11 @@
 id: 311965416
-type: way
+type: node
 latitude: 45.5559
 longitude: 4.53453
 postcode: "42800"
 city: Saint-Romain-en-Jarez
-street: "Place Melchior Arod"
-housenumber: 32
-phone: "+33 477206982"
-opening_hours: "Su 07:00-12:00; Sa 07:30-12:30; Tu-Fr 07:30-12:30, 16:00-19:00"
-website: "https://courses.vival.fr/magasin-vival-loire-42-saint-romain-en-jarez-groupe/magasin-e0192-o.html"
+street: Place Melchior Arod
+housenumber: "32"
+phone: +33 477206982
+opening_hours: Su 07:00-12:00; Sa 07:30-12:30; Tu-Fr 07:30-12:30, 16:00-19:00
+website: https://courses.vival.fr/magasin-vival-loire-42-saint-romain-en-jarez-groupe/magasin-e0192-o.html

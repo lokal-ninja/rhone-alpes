@@ -5,7 +5,7 @@ longitude: 6.72739
 postcode: "74340"
 city: Samoëns
 street: ""
-housenumber: 175
+housenumber: "175"
 phone: ""
-opening_hours: "Mo-Fr"
-website: "https://www.espace-soan.com"
+opening_hours: Mo-Fr
+website: https://www.espace-soan.com

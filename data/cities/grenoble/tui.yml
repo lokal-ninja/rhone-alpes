@@ -4,8 +4,8 @@ latitude: 45.18956
 longitude: 5.72013
 postcode: "38000"
 city: Grenoble
-street: "Avenue Alsace Lorraine"
-housenumber: 24
-phone: "+33 4 76 43 28 06"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-18:00"
+street: Avenue Alsace Lorraine
+housenumber: "24"
+phone: +33 4 76 43 28 06
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-18:00
 website: ""

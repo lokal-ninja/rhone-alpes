@@ -1,11 +1,11 @@
 id: 556267111
-type: way
+type: node
 latitude: 45.48087
 longitude: 4.45133
 postcode: "42290"
 city: Sorbiers
-street: "Rue de la Vaure"
-housenumber: 61
+street: Rue de la Vaure
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

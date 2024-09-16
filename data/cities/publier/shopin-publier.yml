@@ -1,11 +1,11 @@
 id: 556822483
-type: way
+type: node
 latitude: 46.39216
 longitude: 6.52488
 postcode: "74500"
 city: Publier
-street: "Rue de la Botte"
-housenumber: 1005
+street: Rue de la Botte
+housenumber: "1005"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su off"
+opening_hours: Mo-Sa 09:00-19:30; Su off
 website: ""

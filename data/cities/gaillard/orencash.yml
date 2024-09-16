@@ -4,8 +4,9 @@ latitude: 46.19153
 longitude: 6.21426
 postcode: "74240"
 city: Gaillard
-street: "Rue de Genève"
-housenumber: 102
+street: Rue de Genève
+housenumber: "102"
 phone: ""
-opening_hours: "Mo 14:00-19:30, Tu-Th 09:00-13:00, 15:00-19:30; Fr 09:00-14:30; Sa off"
+opening_hours: Mo 14:00-19:30, Tu-Th 09:00-13:00, 15:00-19:30; Fr 09:00-14:30; Sa
+    off
 website: ""

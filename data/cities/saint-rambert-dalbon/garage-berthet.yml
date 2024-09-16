@@ -4,8 +4,8 @@ latitude: 45.2961
 longitude: 4.81286
 postcode: "26140"
 city: Saint-Rambert-d'Albon
-street: "Avenue de Lyon"
-housenumber: 33
-phone: "+33 4 75 31 04 09"
-opening_hours: "Mo-Fr 14:15-18:00; Tu-Fr 08:30-12:00"
+street: Avenue de Lyon
+housenumber: "33"
+phone: +33 4 75 31 04 09
+opening_hours: Mo-Fr 14:15-18:00; Tu-Fr 08:30-12:00
 website: ""

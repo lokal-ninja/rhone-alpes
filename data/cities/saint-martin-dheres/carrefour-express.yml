@@ -4,8 +4,8 @@ latitude: 45.17845
 longitude: 5.75589
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Benoît Frachon"
-housenumber: 97
-phone: "+33 4 76 44 78 76"
-opening_hours: "Mo-Sa 07:00-20:30; Su 08:30-18:00"
-website: "https://www.carrefour.fr/magasin/express-saint-martin-d-heres"
+street: Avenue Benoît Frachon
+housenumber: "97"
+phone: +33 4 76 44 78 76
+opening_hours: Mo-Sa 07:00-20:30; Su 08:30-18:00
+website: https://www.carrefour.fr/magasin/express-saint-martin-d-heres

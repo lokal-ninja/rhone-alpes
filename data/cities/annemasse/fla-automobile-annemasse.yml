@@ -1,11 +1,11 @@
 id: 86266672
-type: way
+type: node
 latitude: 46.19753
 longitude: 6.26067
 postcode: "74100"
 city: Annemasse
-street: "Rue de la Résistance"
-housenumber: 31
+street: Rue de la Résistance
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

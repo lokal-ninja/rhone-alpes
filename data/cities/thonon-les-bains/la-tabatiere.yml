@@ -4,8 +4,8 @@ latitude: 46.37065
 longitude: 6.47905
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Grande Rue"
-housenumber: 23
+street: Grande Rue
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 07:00-19:00; PH,Th,Su 07:00-12:30"
+opening_hours: Mo-We,Fr,Sa 07:00-19:00; PH,Th,Su 07:00-12:30
 website: ""

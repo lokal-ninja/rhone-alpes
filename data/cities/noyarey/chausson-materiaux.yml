@@ -1,11 +1,11 @@
 id: 83636258
-type: way
+type: node
 latitude: 45.23055
 longitude: 5.64711
 postcode: "38360"
 city: Noyarey
-street: "Rue Louise Drevet"
-housenumber: 51
+street: Rue Louise Drevet
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

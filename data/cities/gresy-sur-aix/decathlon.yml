@@ -1,11 +1,11 @@
 id: 72581675
-type: way
+type: node
 latitude: 45.71874
 longitude: 5.92288
 postcode: "73100"
 city: Grésy-sur-Aix
-street: "Route des Bauges"
-housenumber: 
-phone: "+33 4 79 88 19 90"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-gresy-sur-aix-aix-les-bains--0070054100541"
+street: Route des Bauges
+housenumber: ""
+phone: +33 4 79 88 19 90
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-gresy-sur-aix-aix-les-bains--0070054100541

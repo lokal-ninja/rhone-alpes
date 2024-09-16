@@ -1,11 +1,11 @@
 id: 67647106
-type: way
+type: node
 latitude: 45.24195
 longitude: 4.8055
 postcode: "26140"
 city: Andancette
-street: "Rue du Radier"
-housenumber: 2
+street: Rue du Radier
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 15:00-19:00, We-Fr 08:00-12:00, Sa,Su 09:00-12:00"
+opening_hours: Tu-Sa 15:00-19:00, We-Fr 08:00-12:00, Sa,Su 09:00-12:00
 website: ""

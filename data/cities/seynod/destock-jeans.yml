@@ -4,8 +4,8 @@ latitude: 45.87768
 longitude: 6.09545
 postcode: "74600"
 city: Seynod
-street: "Boulevard Costa de Beauregard"
-housenumber: 69
-phone: "+33 4 50 02 70 31"
-opening_hours: "Mo-Fr 10:00-12:30,13:30-19:00; Sa 10:00-19:00"
-website: "https://www.destockjeans.fr/storelocator/store/index/shop_id/12"
+street: Boulevard Costa de Beauregard
+housenumber: "69"
+phone: +33 4 50 02 70 31
+opening_hours: Mo-Fr 10:00-12:30,13:30-19:00; Sa 10:00-19:00
+website: https://www.destockjeans.fr/storelocator/store/index/shop_id/12

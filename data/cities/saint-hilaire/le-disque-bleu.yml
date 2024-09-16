@@ -1,11 +1,12 @@
 id: 37737876
-type: way
+type: node
 latitude: 45.3014
 longitude: 5.87396
 postcode: "38660"
 city: Saint-Hilaire
-street: "route des Trois Villages"
-housenumber: 22
+street: Route des Trois Villages
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-12:30, Mo-We 15:30-19:30, Sa 08:15-12:30,15:30-19:45, Su 08:15-12:30"
+opening_hours: Mo-We,Fr 08:00-12:30, Mo-We 15:30-19:30, Sa 08:15-12:30,15:30-19:45,
+    Su 08:15-12:30
 website: ""

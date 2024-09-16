@@ -1,11 +1,11 @@
 id: 225166518
-type: way
+type: node
 latitude: 46.134
 longitude: 6.52183
 postcode: "74440"
 city: Mieussy
-street: "Route de la Montagne"
-housenumber: 394
+street: Route de la Montagne
+housenumber: "394"
 phone: ""
 opening_hours: ""
 website: ""

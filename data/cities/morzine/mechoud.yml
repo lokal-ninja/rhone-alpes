@@ -4,8 +4,8 @@ latitude: 46.18069
 longitude: 6.70548
 postcode: "74110"
 city: Morzine
-street: "Rue du Bourg"
-housenumber: 349
-phone: "+33 4 50 79 14 40"
-opening_hours: "Mo-Sa 08:30-12:00,14:30-19:00"
-website: "http://www.mechoud.fr/"
+street: Rue du Bourg
+housenumber: "349"
+phone: +33 4 50 79 14 40
+opening_hours: Mo-Sa 08:30-12:00,14:30-19:00
+website: http://www.mechoud.fr/

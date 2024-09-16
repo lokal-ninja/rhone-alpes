@@ -4,8 +4,8 @@ latitude: 45.901
 longitude: 6.12248
 postcode: "74000"
 city: Annecy
-street: "Rue Vaugelas"
-housenumber: 43
+street: Rue Vaugelas
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.purvapor.fr/"
+website: https://www.purvapor.fr/

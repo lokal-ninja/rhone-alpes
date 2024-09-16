@@ -1,11 +1,11 @@
 id: 1115771087
-type: way
+type: node
 latitude: 45.86713
 longitude: 4.54654
 postcode: "69490"
 city: Saint-Romain-de-Popey
-street: "Route de Sarcey"
-housenumber: 1050
+street: Route de Sarcey
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://www.junet.fr/"
+website: https://www.junet.fr/

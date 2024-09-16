@@ -1,11 +1,11 @@
 id: 63087642
-type: way
+type: node
 latitude: 45.156
 longitude: 5.82423
 postcode: "38410"
 city: Saint-Martin-d'Uriage
 street: ""
-housenumber: 1530
+housenumber: "1530"
 phone: "+33476820993"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biomonde.fr/manabio,3,328"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biomonde.fr/manabio,3,328

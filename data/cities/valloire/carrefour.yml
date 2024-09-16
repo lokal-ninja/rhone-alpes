@@ -1,11 +1,11 @@
 id: 130913977
-type: way
+type: node
 latitude: 45.16387
 longitude: 6.42517
 postcode: "73450"
 city: Valloire
-street: "Avenue de la Vallée d'Or"
-housenumber: 
+street: Avenue de la Vallée d'Or
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:15,16:30-19:30; Su 08:00-12:00; PH 08:00-12:00"
+opening_hours: Mo-Sa 08:00-12:15,16:30-19:30; Su 08:00-12:00; PH 08:00-12:00
 website: ""

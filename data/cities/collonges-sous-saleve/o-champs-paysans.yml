@@ -1,11 +1,11 @@
 id: 77854558
-type: way
+type: node
 latitude: 46.14415
 longitude: 6.13907
 postcode: "74160"
 city: Collonges-sous-Salève
-street: "Route de Rozon"
-housenumber: 350
-phone: "+33 450350597"
-opening_hours: "We-Fr 14:30-19:00; Sa 09:00-18:00"
+street: Route de Rozon
+housenumber: "350"
+phone: +33 450350597
+opening_hours: We-Fr 14:30-19:00; Sa 09:00-18:00
 website: ""

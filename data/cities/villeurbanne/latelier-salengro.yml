@@ -4,8 +4,8 @@ latitude: 45.776
 longitude: 4.87062
 postcode: "69100"
 city: Villeurbanne
-street: "Avenue Roger Salengro"
-housenumber: 31
-phone: "+33 4 72 44 22 80"
-opening_hours: "Mo-Sa 06:30-19:30"
+street: Avenue Roger Salengro
+housenumber: "31"
+phone: +33 4 72 44 22 80
+opening_hours: Mo-Sa 06:30-19:30
 website: ""

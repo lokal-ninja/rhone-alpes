@@ -4,8 +4,8 @@ latitude: 45.91143
 longitude: 6.13136
 postcode: "74000"
 city: Annecy
-street: "Avenue de la Plaine"
-housenumber: 27
-phone: "+33 450016031"
-opening_hours: "10:00-12:30,14:00-19:00"
-website: "https://vapeurabsolue.fr/"
+street: Avenue de la Plaine
+housenumber: "27"
+phone: +33 450016031
+opening_hours: 10:00-12:30,14:00-19:00
+website: https://vapeurabsolue.fr/

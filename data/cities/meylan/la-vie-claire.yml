@@ -1,11 +1,11 @@
 id: 313218551
-type: way
+type: node
 latitude: 45.21079
 longitude: 5.76351
 postcode: "38240"
 city: Meylan
-street: "Avenue du Grésivaudan"
-housenumber: 21
+street: Avenue du Grésivaudan
+housenumber: "21"
 phone: "+33476540908"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.lavieclaire.com/magasin-bio/meylan.html"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.lavieclaire.com/magasin-bio/meylan.html

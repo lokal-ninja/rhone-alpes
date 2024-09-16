@@ -4,8 +4,8 @@ latitude: 45.32367
 longitude: 5.59049
 postcode: "38430"
 city: Moirans
-street: "Route de Grenoble"
-housenumber: 48
+street: Route de Grenoble
+housenumber: "48"
 phone: ""
-opening_hours: "mo-sa 9:00-12:00, 14:00-18:30"
+opening_hours: mo-sa 9:00-12:00, 14:00-18:30
 website: ""

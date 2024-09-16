@@ -1,11 +1,11 @@
 id: 1266513418
-type: way
+type: node
 latitude: 45.4378
 longitude: 6.00852
 postcode: "38530"
 city: Pontcharra
-street: "Rue du Port"
-housenumber: 
+street: Rue du Port
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

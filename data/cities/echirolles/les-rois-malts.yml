@@ -1,11 +1,11 @@
 id: 1186322394
-type: way
+type: node
 latitude: 45.14653
 longitude: 5.69285
 postcode: "38130"
 city: Échirolles
-street: "Rue du Grand Veymont"
-housenumber: 5
+street: Rue du Grand Veymont
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:30-20:00, Sa 10:00-13:00,14:30-19:00"
+opening_hours: Tu-Fr 10:00-13:00,14:30-20:00, Sa 10:00-13:00,14:30-19:00
 website: ""

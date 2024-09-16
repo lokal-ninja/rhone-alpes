@@ -4,8 +4,8 @@ latitude: 45.1873
 longitude: 5.72977
 postcode: "38000"
 city: Grenoble
-street: "Rue de Strasbourg"
-housenumber: 8
-phone: "+33 4 76 43 04 39"
-opening_hours: "Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:30-19:00"
-website: "https://levindesalpes.fr/"
+street: Rue de Strasbourg
+housenumber: "8"
+phone: +33 4 76 43 04 39
+opening_hours: Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:30-19:00
+website: https://levindesalpes.fr/

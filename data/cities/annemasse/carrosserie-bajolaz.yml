@@ -1,11 +1,11 @@
 id: 86265928
-type: way
+type: node
 latitude: 46.1976
 longitude: 6.25962
 postcode: "74100"
 city: Annemasse
-street: "Rue Lavalette"
-housenumber: 5
+street: Rue Lavalette
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; Su off"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00; Su off
 website: ""

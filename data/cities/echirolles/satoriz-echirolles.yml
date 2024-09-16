@@ -1,11 +1,11 @@
 id: 1185580901
-type: way
+type: node
 latitude: 45.15209
 longitude: 5.69536
 postcode: "38130"
 city: Échirolles
-street: "Rue des Montagnes de Lans"
-housenumber: 12
+street: Rue des Montagnes de Lans
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

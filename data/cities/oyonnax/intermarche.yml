@@ -1,11 +1,11 @@
 id: 696109627
-type: way
+type: node
 latitude: 46.26216
 longitude: 5.64801
 postcode: "01100"
 city: Oyonnax
-street: "Rue Jules Michelet"
-housenumber: 74
+street: Rue Jules Michelet
+housenumber: "74"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

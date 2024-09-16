@@ -1,11 +1,11 @@
 id: 880213132
-type: way
+type: node
 latitude: 46.32903
 longitude: 6.36337
 postcode: "74140"
 city: Sciez
-street: "Avenue de Genève"
-housenumber: 468
+street: Avenue de Genève
+housenumber: "468"
 phone: ""
 opening_hours: ""
 website: ""

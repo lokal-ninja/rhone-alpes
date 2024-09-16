@@ -4,8 +4,8 @@ latitude: 45.75624
 longitude: 5.19627
 postcode: "38230"
 city: Tignieu-Jameyzieu
-street: "Boulevard Ampère"
-housenumber: 31
-phone: "+33 4 81 65 80 00"
-opening_hours: "Mo-Th 07:00-12:00,13:30-17:00; We 07:00-12:00,13:30-16:00;"
-website: "https://www.tereva-direct.fr/document/A-593519-tereva-agence-tereva-tignieu-jameyzieu"
+street: Boulevard Ampère
+housenumber: "31"
+phone: +33 4 81 65 80 00
+opening_hours: Mo-Th 07:00-12:00,13:30-17:00; We 07:00-12:00,13:30-16:00;
+website: https://www.tereva-direct.fr/document/A-593519-tereva-agence-tereva-tignieu-jameyzieu

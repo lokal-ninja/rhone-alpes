@@ -1,11 +1,11 @@
 id: 81060067
-type: way
+type: node
 latitude: 45.14095
 longitude: 5.7098
 postcode: "38130"
 city: Échirolles
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

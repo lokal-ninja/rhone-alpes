@@ -1,11 +1,11 @@
 id: 101971081
-type: way
+type: node
 latitude: 45.56792
 longitude: 5.921
 postcode: "73000"
 city: Chambéry
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

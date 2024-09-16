@@ -4,8 +4,8 @@ latitude: 45.76518
 longitude: 4.79064
 postcode: "69009"
 city: Lyon
-street: "Rue Professeur Patel"
-housenumber: 15
-phone: "+33 4 78 15 93 64"
-opening_hours: "Mo-Sa 07:00-19:00"
+street: Rue Professeur Patel
+housenumber: "15"
+phone: +33 4 78 15 93 64
+opening_hours: Mo-Sa 07:00-19:00
 website: ""

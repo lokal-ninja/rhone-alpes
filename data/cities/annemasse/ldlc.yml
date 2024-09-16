@@ -4,8 +4,8 @@ latitude: 46.1943
 longitude: 6.25739
 postcode: "74100"
 city: Annemasse
-street: "Route de Thonon"
-housenumber: 65
+street: Route de Thonon
+housenumber: "65"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 09:30-19:00; Sa 09:30-12:30, 14:00-19:00"
+opening_hours: Mo,Su off; Tu-Fr 09:30-19:00; Sa 09:30-12:30, 14:00-19:00
 website: ""

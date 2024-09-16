@@ -1,11 +1,11 @@
 id: 512900586
-type: way
+type: node
 latitude: 45.15792
 longitude: 5.73143
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 81
-phone: "+33 4 76 09 89 68"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Kaporal"
+street: Avenue du Vercors
+housenumber: "81"
+phone: +33 4 76 09 89 68
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Kaporal

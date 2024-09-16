@@ -4,8 +4,8 @@ latitude: 45.17329
 longitude: 5.69702
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Avenue de la République"
-housenumber: 143
-phone: "+33 4 76 22 06 53"
-opening_hours: "Mo-Sa 06:30-19:30; Su 07:00-18:30"
+street: Avenue de la République
+housenumber: "143"
+phone: +33 4 76 22 06 53
+opening_hours: Mo-Sa 06:30-19:30; Su 07:00-18:30
 website: ""

@@ -4,8 +4,9 @@ latitude: 45.61333
 longitude: 4.50055
 postcode: "69590"
 city: Larajasse
-street: "Route des Grands Sapins"
-housenumber: 
+street: Route des Grands Sapins
+housenumber: ""
 phone: "+33478190618"
-opening_hours: "Mo 07:30-12:30,16:00-19:00; Tu 07:30-12:30,14:30-19:00; Th-Sa 07:30-19:00; Su 07:30-12:00"
+opening_hours: Mo 07:30-12:30,16:00-19:00; Tu 07:30-12:30,14:30-19:00; Th-Sa 07:30-19:00;
+    Su 07:30-12:00
 website: ""

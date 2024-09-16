@@ -1,11 +1,11 @@
 id: 169046088
-type: way
+type: node
 latitude: 46.17234
 longitude: 5.57596
 postcode: "01460"
 city: Montréal-la-Cluse
-street: "Rue du Jura"
-housenumber: 70
-phone: "+33 4 74 76 03 44"
+street: Rue du Jura
+housenumber: "70"
+phone: +33 4 74 76 03 44
 opening_hours: ""
 website: ""

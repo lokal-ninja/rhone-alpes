@@ -1,11 +1,12 @@
 id: 91386614
-type: way
+type: node
 latitude: 45.20812
 longitude: 5.76747
 postcode: "38240"
 city: Meylan
-street: "Chemin de la Revirée"
-housenumber: 46
-phone: "+33 4 76 41 92 12"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00; Su 09:30-12:30,14:00-18:00; Jan Su off; Jul Su off; Aug Su off"
-website: "https://www.paquetjardin.com/"
+street: Chemin de la Revirée
+housenumber: "46"
+phone: +33 4 76 41 92 12
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00; Su 09:30-12:30,14:00-18:00; Jan Su off;
+    Jul Su off; Aug Su off
+website: https://www.paquetjardin.com/

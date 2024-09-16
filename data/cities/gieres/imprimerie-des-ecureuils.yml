@@ -1,11 +1,11 @@
 id: 61406317
-type: way
+type: node
 latitude: 45.18714
 longitude: 5.7771
 postcode: "38610"
 city: Gières
-street: "Rue de Mayencin"
-housenumber: 3
-phone: "+33 4 76 42 11 92"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00"
+street: Rue de Mayencin
+housenumber: "3"
+phone: +33 4 76 42 11 92
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00
 website: ""

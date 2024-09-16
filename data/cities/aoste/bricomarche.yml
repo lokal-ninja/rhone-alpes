@@ -1,11 +1,11 @@
 id: 539799353
-type: way
+type: node
 latitude: 45.59435
 longitude: 5.60927
 postcode: "38490"
 city: Aoste
-street: "Route de Belley"
-housenumber: 
+street: Route de Belley
+housenumber: ""
 phone: "+33476371075"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bricomarche.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bricomarche.com/

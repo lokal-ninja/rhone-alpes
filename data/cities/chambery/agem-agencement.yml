@@ -4,8 +4,8 @@ latitude: 45.56926
 longitude: 5.93146
 postcode: "73000"
 city: Chambéry
-street: "Avenue de Turin"
-housenumber: 111
-phone: "+33 4 79 60 37 36"
-opening_hours: "Tu-Fr 09:00-12:00, 14:00-19:00; Sa 10:00-12:00, 14:00-18:00"
+street: Avenue de Turin
+housenumber: "111"
+phone: +33 4 79 60 37 36
+opening_hours: Tu-Fr 09:00-12:00, 14:00-19:00; Sa 10:00-12:00, 14:00-18:00
 website: ""

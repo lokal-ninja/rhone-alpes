@@ -1,11 +1,11 @@
 id: 814555823
-type: way
+type: node
 latitude: 46.26866
 longitude: 6.3666
 postcode: "74890"
 city: Bons-en-Chablais
-street: "Rue de la Scie"
-housenumber: 136
+street: Rue de la Scie
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-12:30
 website: ""

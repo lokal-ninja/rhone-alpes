@@ -1,11 +1,11 @@
 id: 233140559
-type: way
+type: node
 latitude: 45.91342
 longitude: 5.19153
 postcode: "01800"
 city: Meximieux
-street: "Route de Chalamont"
-housenumber: 
+street: Route de Chalamont
+housenumber: ""
 phone: "+33474347266"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.brico-meximieux.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.brico-meximieux.com/

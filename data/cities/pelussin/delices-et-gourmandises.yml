@@ -1,11 +1,11 @@
 id: 312318792
-type: way
+type: node
 latitude: 45.41824
 longitude: 4.68258
 postcode: "42410"
 city: Pélussin
-street: "Place Notre-Dame"
-housenumber: 
+street: Place Notre-Dame
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

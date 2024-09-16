@@ -1,11 +1,11 @@
 id: 793812864
-type: way
+type: node
 latitude: 46.19433
 longitude: 6.23385
 postcode: "74100"
 city: Annemasse
-street: "Rue de la Gare"
-housenumber: 10
+street: Rue de la Gare
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:15; Su off"
-website: "https://www.monoprix.fr/189.html"
+opening_hours: Mo-Sa 08:30-20:15; Su off
+website: https://www.monoprix.fr/189.html

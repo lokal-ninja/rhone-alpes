@@ -4,8 +4,9 @@ latitude: 46.24226
 longitude: 6.01943
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue de Lyon"
+street: Rue de Lyon
 housenumber: 9 Bis
 phone: ""
-opening_hours: "Tu-Fr 07:30-13:00,15:00-19:00; Sa 07:30-13:00,14:00-19:00; Su 07:30-13:00; Mo off"
-website: "http://www.brocard-patissier.com/"
+opening_hours: Tu-Fr 07:30-13:00,15:00-19:00; Sa 07:30-13:00,14:00-19:00; Su 07:30-13:00;
+    Mo off
+website: http://www.brocard-patissier.com/

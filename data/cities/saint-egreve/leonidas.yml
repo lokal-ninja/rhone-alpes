@@ -1,11 +1,11 @@
 id: 723604005
-type: way
+type: node
 latitude: 45.2392
 longitude: 5.66348
 postcode: "38120"
 city: Saint-Égrève
-street: "Rue des Abattoirs"
-housenumber: 1
-phone: "+33 4 76 58 22 79"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.leonidas.com/en/shops/saint-egreve/leonidas-saint-egreve"
+street: Rue des Abattoirs
+housenumber: "1"
+phone: +33 4 76 58 22 79
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.leonidas.com/en/shops/saint-egreve/leonidas-saint-egreve

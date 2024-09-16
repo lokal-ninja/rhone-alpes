@@ -1,11 +1,11 @@
 id: 190120405
-type: way
+type: node
 latitude: 45.50275
 longitude: 6.50182
 postcode: "73260"
 city: Aigueblanche
-street: "Rue de la Petite Prairie"
-housenumber: 333
+street: Rue de la Petite Prairie
+housenumber: "333"
 phone: ""
-opening_hours: "Tu-Sa 9:00-12:00,15:00-19:00"
+opening_hours: Tu-Sa 9:00-12:00,15:00-19:00
 website: ""

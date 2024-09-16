@@ -4,8 +4,9 @@ latitude: 45.97376
 longitude: 6.45385
 postcode: "74450"
 city: Le Grand Bornand
-street: "Route du Chinaillon"
-housenumber: 6903
+street: Route du Chinaillon
+housenumber: "6903"
 phone: ""
-opening_hours: "Dec 20-Mar 23 Mo-Su 07:30-13:00, 15:00-19:30; Jun 27-Aug 30 Mo-Su 07:30-12:30, 15:30-19:30"
+opening_hours: Dec 20-Mar 23 Mo-Su 07:30-13:00, 15:00-19:30; Jun 27-Aug 30 Mo-Su 07:30-12:30,
+    15:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 605037630
-type: way
+type: node
 latitude: 45.53248
 longitude: 5.63079
 postcode: "38480"
 city: Pressins
-street: "ZA Les Perrières"
-housenumber: 110
-phone: "+33 4 76 35 45 21"
+street: ZA Les Perrières
+housenumber: "110"
+phone: +33 4 76 35 45 21
 opening_hours: ""
-website: "https://www.alpesboisderives.fr"
+website: https://www.alpesboisderives.fr

@@ -4,8 +4,8 @@ latitude: 45.87969
 longitude: 4.27437
 postcode: "42540"
 city: Sainte-Colombe-sur-Gand
-street: "Place de l'Église"
-housenumber: 26
-phone: "+33 9 54 66 92 71"
-opening_hours: "Mo-Su 08:00-14:00"
+street: Place de l'Église
+housenumber: "26"
+phone: +33 9 54 66 92 71
+opening_hours: Mo-Su 08:00-14:00
 website: ""

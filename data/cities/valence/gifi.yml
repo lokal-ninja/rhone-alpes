@@ -1,11 +1,11 @@
 id: 99541264
-type: way
+type: node
 latitude: 44.95338
 longitude: 4.93372
 postcode: "26000"
 city: Valence
 street: ""
-housenumber: 
-phone: "+33 4 75 84 76 82"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30"
-website: "https://www.gifi.fr/?store_id=11219&utm_source=GMB&utm_medium=groupe&utm_campaign=11219"
+housenumber: ""
+phone: +33 4 75 84 76 82
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30
+website: https://www.gifi.fr/?store_id=11219&utm_source=GMB&utm_medium=groupe&utm_campaign=11219

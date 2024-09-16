@@ -4,8 +4,8 @@ latitude: 45.48388
 longitude: 6.53204
 postcode: "73600"
 city: Moûtiers
-street: "Grande Rue"
-housenumber: 132
+street: Grande Rue
+housenumber: "132"
 phone: "+33479229499"
-opening_hours: "Mo 09:00-12:30,14:30-19:15; Tu,Fr 08:00-19:15; We,Th,Sa 09:00-19:15"
-website: "https://www.dietetique-bio-promovert.fr/"
+opening_hours: Mo 09:00-12:30,14:30-19:15; Tu,Fr 08:00-19:15; We,Th,Sa 09:00-19:15
+website: https://www.dietetique-bio-promovert.fr/

@@ -1,11 +1,11 @@
 id: 158605545
-type: way
+type: node
 latitude: 46.19483
 longitude: 6.25585
 postcode: "74100"
 city: Annemasse
-street: "Route de Thonon"
-housenumber: 53
+street: Route de Thonon
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
+opening_hours: Mo-Sa 09:30-19:30; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 511913534
-type: way
+type: node
 latitude: 45.40616
 longitude: 5.56328
 postcode: "38850"
 city: Chirens
-street: "Route de Chartreuse"
-housenumber: 886
+street: Route de Chartreuse
+housenumber: "886"
 phone: "+33986507407"
-opening_hours: "Mo-Su 06:00-20:00"
+opening_hours: Mo-Su 06:00-20:00
 website: ""

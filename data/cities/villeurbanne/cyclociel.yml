@@ -4,8 +4,8 @@ latitude: 45.77411
 longitude: 4.8838
 postcode: "69100"
 city: Villeurbanne
-street: "Rue de Fontanières"
-housenumber: 57
-phone: "+33 4 78545144"
-opening_hours: "sur rendez-vous uniquement"
-website: "https://www.cyclociel.com/"
+street: Rue de Fontanières
+housenumber: "57"
+phone: +33 4 78545144
+opening_hours: '"sur rendez-vous uniquement"'
+website: https://www.cyclociel.com/

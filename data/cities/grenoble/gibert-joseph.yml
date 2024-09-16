@@ -4,8 +4,8 @@ latitude: 45.18805
 longitude: 5.72382
 postcode: "38000"
 city: Grenoble
-street: "Rue Béranger"
-housenumber: 4
-phone: "+33 4 76 43 04 30"
-opening_hours: "Mo 10:30-18:45; Tu-Sa 10:00-18:45; Su off"
-website: "https://www.gibert.com/stores/grenoble-gibert-joseph-librairie-papeterie"
+street: Rue Béranger
+housenumber: "4"
+phone: +33 4 76 43 04 30
+opening_hours: Mo 10:30-18:45; Tu-Sa 10:00-18:45; Su off
+website: https://www.gibert.com/stores/grenoble-gibert-joseph-librairie-papeterie

@@ -4,8 +4,8 @@ latitude: 45.44569
 longitude: 4.33493
 postcode: "42530"
 city: Saint-Genest-Lerpt
-street: "Rue Francis Garnier"
-housenumber: 5
-phone: "+33 4 77 90 29 63"
-opening_hours: "Tu-Fr 06:30-13:00; Tu-Fr 14:30-19:00; Sa 06:30-19:00"
+street: Rue Francis Garnier
+housenumber: "5"
+phone: +33 4 77 90 29 63
+opening_hours: Tu-Fr 06:30-13:00; Tu-Fr 14:30-19:00; Sa 06:30-19:00
 website: ""

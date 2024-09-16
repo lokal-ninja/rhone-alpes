@@ -1,11 +1,11 @@
 id: 931388125
-type: way
+type: node
 latitude: 46.34941
 longitude: 6.44216
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Rue de l'Europe"
-housenumber: 3
-phone: "+33 4 58 55 01 43"
+street: Rue de l'Europe
+housenumber: "3"
+phone: +33 4 58 55 01 43
 opening_hours: ""
-website: "https://partenaire.bmw.fr/hermone-automobiles/concession-hermone-automobiles"
+website: https://partenaire.bmw.fr/hermone-automobiles/concession-hermone-automobiles

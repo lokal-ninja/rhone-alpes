@@ -1,11 +1,11 @@
 id: 143729675
-type: way
+type: node
 latitude: 45.68767
 longitude: 5.36948
 postcode: "38460"
 city: Soleymieu
-street: "Chemin du Vieux Sablonnières"
-housenumber: 11
+street: Chemin du Vieux Sablonnières
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

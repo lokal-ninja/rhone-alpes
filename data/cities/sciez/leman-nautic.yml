@@ -1,11 +1,11 @@
 id: 1112022964
-type: way
+type: node
 latitude: 46.33974
 longitude: 6.39325
 postcode: "74140"
 city: Sciez
-street: "Chemin de Songy"
-housenumber: 759
-phone: "+33 450 726 113"
+street: Chemin de Songy
+housenumber: "759"
+phone: +33 450 726 113
 opening_hours: ""
-website: "https://www.leman-nautic.com/"
+website: https://www.leman-nautic.com/

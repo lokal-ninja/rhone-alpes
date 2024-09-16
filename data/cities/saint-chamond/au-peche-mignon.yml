@@ -4,8 +4,8 @@ latitude: 45.46933
 longitude: 4.51432
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue du Pilat"
-housenumber: 60
-phone: "+33 4 77 22 07 33"
-opening_hours: "Tu-Sa 06:00-19:15; Su 06:00-13:00"
+street: Rue du Pilat
+housenumber: "60"
+phone: +33 4 77 22 07 33
+opening_hours: Tu-Sa 06:00-19:15; Su 06:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.18004
 longitude: 5.69486
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Boulevard de l'Europe"
-housenumber: 29
-phone: "+33 9 52 64 24 64"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-seyssinet-pariset"
+street: Boulevard de l'Europe
+housenumber: "29"
+phone: +33 9 52 64 24 64
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-20:00
+website: https://www.carrefour.fr/magasin/city-seyssinet-pariset

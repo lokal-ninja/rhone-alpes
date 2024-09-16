@@ -1,11 +1,11 @@
 id: 271961129
-type: way
+type: node
 latitude: 45.61856
 longitude: 5.88795
 postcode: "73420"
 city: Voglans
-street: "Rue de la Françon"
-housenumber: 
-phone: "+33 4 79 52 05 20"
+street: Rue de la Françon
+housenumber: ""
+phone: +33 4 79 52 05 20
 opening_hours: ""
-website: "https://www.axeauto.fr/"
+website: https://www.axeauto.fr/

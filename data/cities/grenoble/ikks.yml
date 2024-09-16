@@ -1,11 +1,11 @@
 id: 512899510
-type: way
+type: node
 latitude: 45.15774
 longitude: 5.73176
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 89
-phone: "+33 4 76 22 85 69"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/IKKS-Women-Junior"
+street: Avenue du Vercors
+housenumber: "89"
+phone: +33 4 76 22 85 69
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/IKKS-Women-Junior

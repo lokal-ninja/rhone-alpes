@@ -4,8 +4,8 @@ latitude: 45.54402
 longitude: 4.4859
 postcode: "42320"
 city: Saint-Christo-en-Jarez
-street: "Rue de la Mairie"
-housenumber: 5
+street: Rue de la Mairie
+housenumber: "5"
 phone: "+33477208503"
-opening_hours: "Tu-Sa 06:30-13:00,15:00-19:00; Su 06:30-13:00"
-website: "https://patisserie-couzon.com/"
+opening_hours: Tu-Sa 06:30-13:00,15:00-19:00; Su 06:30-13:00
+website: https://patisserie-couzon.com/

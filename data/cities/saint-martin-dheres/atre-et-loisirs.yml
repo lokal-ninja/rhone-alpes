@@ -4,8 +4,8 @@ latitude: 45.18471
 longitude: 5.77783
 postcode: "38400"
 city: Saint Martin d'Hères
-street: "Rue du Champ Roman"
-housenumber: 53
-phone: "+33 4 76 44 10 60"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.atre-loisirs.fr/"
+street: Rue du Champ Roman
+housenumber: "53"
+phone: +33 4 76 44 10 60
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-12:00,14:00-18:00
+website: https://www.atre-loisirs.fr/

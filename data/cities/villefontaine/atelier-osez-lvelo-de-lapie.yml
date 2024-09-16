@@ -4,8 +4,8 @@ latitude: 45.60651
 longitude: 5.1487
 postcode: "38090"
 city: VILLEFONTAINE
-street: "Place de l'Échiquier"
-housenumber: 27
+street: Place de l'Échiquier
+housenumber: "27"
 phone: ""
-opening_hours: "saturday 14:00-18:00"
-website: "https://apie-asso.net/accueil"
+opening_hours: saturday 14:00-18:00
+website: https://apie-asso.net/accueil

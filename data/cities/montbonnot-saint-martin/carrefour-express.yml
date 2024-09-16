@@ -4,8 +4,8 @@ latitude: 45.22271
 longitude: 5.81327
 postcode: "38330"
 city: Montbonnot-Saint-Martin
-street: "Avenue de l'Europe"
-housenumber: 1435
-phone: "+33 6 40 23 81 19"
-opening_hours: "Mo-Sa 07:00-20:00, Su 08:30-13:00, 15:00-20:00"
-website: "https://www.carrefour.fr/magasin/express-montbonnot-st-martin"
+street: Avenue de l'Europe
+housenumber: "1435"
+phone: +33 6 40 23 81 19
+opening_hours: Mo-Sa 07:00-20:00, Su 08:30-13:00, 15:00-20:00
+website: https://www.carrefour.fr/magasin/express-montbonnot-st-martin

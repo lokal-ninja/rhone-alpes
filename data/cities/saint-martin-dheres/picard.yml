@@ -1,11 +1,11 @@
 id: 1267654323
-type: way
+type: node
 latitude: 45.18566
 longitude: 5.76087
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 90
-phone: "+33 4 76 01 17 22"
-opening_hours: "Mo-Sa 09:00-19:00, Su 09:00-12:45"
-website: "https://magasins.picard.fr/835-picard-saint-martin-d-heres"
+street: Avenue Gabriel Péri
+housenumber: "90"
+phone: +33 4 76 01 17 22
+opening_hours: Mo-Sa 09:00-19:00, Su 09:00-12:45
+website: https://magasins.picard.fr/835-picard-saint-martin-d-heres

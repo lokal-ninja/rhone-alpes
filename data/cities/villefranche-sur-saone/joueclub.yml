@@ -1,11 +1,11 @@
 id: 136802837
-type: way
+type: node
 latitude: 45.98944
 longitude: 4.74276
 postcode: "69400"
 city: Villefranche-sur-Saône
-street: "Rue des Frères Bonnet"
-housenumber: 34
-phone: "04 74 09 95 78"
+street: Rue des Frères Bonnet
+housenumber: "34"
+phone: 04 74 09 95 78
 opening_hours: ""
 website: ""

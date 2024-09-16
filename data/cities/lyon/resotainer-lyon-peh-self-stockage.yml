@@ -4,8 +4,8 @@ latitude: 45.72111
 longitude: 4.83308
 postcode: "69007"
 city: Lyon
-street: "Rue de Bâle"
-housenumber: 1
+street: Rue de Bâle
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 271961078
-type: way
+type: node
 latitude: 45.61689
 longitude: 5.89061
 postcode: "73420"
 city: Voglans
-street: "Rue Pré Gaut"
-housenumber: 413
-phone: "06 95 13 92 25"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://louiseverlaine.fr/chambery"
+street: Rue Pré Gaut
+housenumber: "413"
+phone: 06 95 13 92 25
+opening_hours: Mo-Sa 10:00-19:00
+website: https://louiseverlaine.fr/chambery

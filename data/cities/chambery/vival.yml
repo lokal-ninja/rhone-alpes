@@ -4,8 +4,8 @@ latitude: 45.57141
 longitude: 5.91577
 postcode: "73000"
 city: Chambéry
-street: "Rue Nicolas Parent"
-housenumber: 
-phone: "+33 4 79 26 02 38"
-opening_hours: "Mo-Tu 08:00-12:30,15:00-19:00; We 00:00-12:30,15:00-19:00; Th-Sa 08:00-12:30,15:00-19:00"
-website: "https://magasins.vival.fr/fr/vival-chambery"
+street: Rue Nicolas Parent
+housenumber: ""
+phone: +33 4 79 26 02 38
+opening_hours: Mo-Tu 08:00-12:30,15:00-19:00; We 00:00-12:30,15:00-19:00; Th-Sa 08:00-12:30,15:00-19:00
+website: https://magasins.vival.fr/fr/vival-chambery

@@ -1,11 +1,11 @@
 id: 142816171
-type: way
+type: node
 latitude: 45.83765
 longitude: 5.28659
 postcode: "01150"
 city: Saint-Vulbas
-street: "Avenue Charles de Gaulle"
-housenumber: 140
+street: Avenue Charles de Gaulle
+housenumber: "140"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

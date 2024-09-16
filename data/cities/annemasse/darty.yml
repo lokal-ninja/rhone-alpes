@@ -1,11 +1,11 @@
 id: 61975904
-type: way
+type: node
 latitude: 46.19813
 longitude: 6.26442
 postcode: "74100"
 city: Annemasse
-street: "Rue des Esserts"
-housenumber: 2
+street: Rue des Esserts
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
+opening_hours: Mo-Sa 09:30-19:30; Su off
 website: ""

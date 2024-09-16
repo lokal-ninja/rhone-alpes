@@ -1,11 +1,11 @@
 id: 732057037
-type: way
+type: node
 latitude: 45.99145
 longitude: 4.77388
 postcode: "01480"
 city: Frans
-street: "Rue des Gagères"
-housenumber: 9
-phone: "+33 4 74 69 47 22"
+street: Rue des Gagères
+housenumber: "9"
+phone: +33 4 74 69 47 22
 opening_hours: ""
-website: "https://beautedantan.fr/"
+website: https://beautedantan.fr/

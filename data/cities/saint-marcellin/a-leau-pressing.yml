@@ -4,8 +4,8 @@ latitude: 45.15467
 longitude: 5.32317
 postcode: "38160"
 city: Saint-Marcellin
-street: "Grande Rue"
-housenumber: 1
+street: Grande Rue
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:30,14:00-19:00"
+opening_hours: Tu-Fr 08:00-12:30,14:00-19:00
 website: ""

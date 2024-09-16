@@ -1,11 +1,11 @@
 id: 748978863
-type: way
+type: node
 latitude: 46.27377
 longitude: 6.39565
 postcode: "74890"
 city: Brenthonne
-street: "Route de Thonon les Bains"
-housenumber: 276
+street: Route de Thonon les Bains
+housenumber: "276"
 phone: ""
-opening_hours: "Mo-Tu,Th-Sa 08:00-12:15, 15:00-19:15; We 08:00-12:15; Su off"
+opening_hours: Mo-Tu,Th-Sa 08:00-12:15, 15:00-19:15; We 08:00-12:15; Su off
 website: ""

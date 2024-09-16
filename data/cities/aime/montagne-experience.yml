@@ -4,8 +4,8 @@ latitude: 45.55707
 longitude: 6.65142
 postcode: "73210"
 city: Aime
-street: "Grande Rue"
-housenumber: 157
-phone: "+33 9 53 41 63 95"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.montagne-experience.fr"
+street: Grande Rue
+housenumber: "157"
+phone: +33 9 53 41 63 95
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.montagne-experience.fr

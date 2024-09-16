@@ -4,8 +4,8 @@ latitude: 45.18423
 longitude: 5.71808
 postcode: "38000"
 city: Grenoble
-street: "Cours Jean Jaurès"
-housenumber: 83
+street: Cours Jean Jaurès
+housenumber: "83"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 10:00-14:30,16:30-22:00; Sa 10:00-23:00; Su 10:00-14:00"
-website: "https://apericerie.fr/"
+opening_hours: Mo off; Tu-Fr 10:00-14:30,16:30-22:00; Sa 10:00-23:00; Su 10:00-14:00
+website: https://apericerie.fr/

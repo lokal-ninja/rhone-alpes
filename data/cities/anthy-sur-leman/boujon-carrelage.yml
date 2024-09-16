@@ -1,11 +1,11 @@
 id: 69005277
-type: way
+type: node
 latitude: 46.35186
 longitude: 6.43619
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue Pré Robert Nord"
-housenumber: 8
+street: Avenue Pré Robert Nord
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

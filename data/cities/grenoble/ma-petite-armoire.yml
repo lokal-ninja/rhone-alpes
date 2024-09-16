@@ -4,8 +4,8 @@ latitude: 45.18219
 longitude: 5.72611
 postcode: "38000"
 city: Grenoble
-street: "Rue André Maginot"
-housenumber: 5
+street: Rue André Maginot
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 10:00-18:30, We-Fr 14:00-18:30, Sa 10:00-13:00"
+opening_hours: Tu 10:00-18:30, We-Fr 14:00-18:30, Sa 10:00-13:00
 website: ""

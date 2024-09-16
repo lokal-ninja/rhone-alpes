@@ -1,11 +1,11 @@
 id: 1049881058
-type: way
+type: node
 latitude: 45.24325
 longitude: 5.82541
 postcode: "38330"
 city: Saint-Ismier
-street: "Route de Chambéry"
-housenumber: 700
-phone: "+33 476770303"
+street: Route de Chambéry
+housenumber: "700"
+phone: +33 476770303
 opening_hours: ""
-website: "https://www.millesime-spa.fr/"
+website: https://www.millesime-spa.fr/

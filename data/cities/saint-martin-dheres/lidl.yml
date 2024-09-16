@@ -1,11 +1,11 @@
 id: 999291913
-type: way
+type: node
 latitude: 45.18694
 longitude: 5.76149
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Rue des Glairons"
-housenumber: 17
+street: Rue des Glairons
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.lidl.fr/

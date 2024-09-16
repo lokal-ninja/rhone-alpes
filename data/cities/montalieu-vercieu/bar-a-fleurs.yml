@@ -4,8 +4,8 @@ latitude: 45.81453
 longitude: 5.40407
 postcode: "38390"
 city: Montalieu-Vercieu
-street: "Grande Rue"
-housenumber: 107
-phone: "+33 4 74 88 61 62"
-opening_hours: "Tu-Sa 08:30-12:30,14:00-19:15; Su,PH 08:30-12:30"
-website: "https://www.bar-a-fleurs-montalieu.fr/"
+street: Grande Rue
+housenumber: "107"
+phone: +33 4 74 88 61 62
+opening_hours: Tu-Sa 08:30-12:30,14:00-19:15; Su,PH 08:30-12:30
+website: https://www.bar-a-fleurs-montalieu.fr/

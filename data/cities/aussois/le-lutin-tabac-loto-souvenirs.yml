@@ -4,8 +4,8 @@ latitude: 45.22919
 longitude: 6.74144
 postcode: "73500"
 city: Aussois
-street: "Le Plan Champ"
-housenumber: 4
-phone: "+33 4 79 20 32 10"
-opening_hours: "Mo 08:00-12:00,15:30-19:00; Tu-Sa 08:00-12:15,15:00-19:00; Su 08:30-12:00,17:00-19:00"
+street: Le Plan Champ
+housenumber: "4"
+phone: +33 4 79 20 32 10
+opening_hours: Mo 08:00-12:00,15:30-19:00; Tu-Sa 08:00-12:15,15:00-19:00; Su 08:30-12:00,17:00-19:00
 website: ""

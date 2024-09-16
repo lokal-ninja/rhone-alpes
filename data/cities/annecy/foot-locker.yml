@@ -4,8 +4,8 @@ latitude: 45.90278
 longitude: 6.12499
 postcode: ""
 city: Annecy
-street: "Rue Carnot"
-housenumber: 50
-phone: "+33 4 58 13 00 51"
-opening_hours: "Mo-Sa 10:00-19:00; Su closed"
-website: "https://stores.footlocker.fr/en/fr-69/annecy/50-avenue-carnot-261_31_05172.html"
+street: Rue Carnot
+housenumber: "50"
+phone: +33 4 58 13 00 51
+opening_hours: Mo-Sa 10:00-19:00; Su closed
+website: https://stores.footlocker.fr/en/fr-69/annecy/50-avenue-carnot-261_31_05172.html

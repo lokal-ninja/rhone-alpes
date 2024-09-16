@@ -4,8 +4,8 @@ latitude: 45.88176
 longitude: 6.32649
 postcode: "74230"
 city: Thônes
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 2
-phone: "+33 4 50 02 01 87"
-opening_hours: "8:30-12:00; 14:00-18:00"
-website: "http://coopthones.free.fr/"
+street: Rue Jean-Jacques Rousseau
+housenumber: "2"
+phone: +33 4 50 02 01 87
+opening_hours: 8:30-12:00; 14:00-18:00
+website: http://coopthones.free.fr/

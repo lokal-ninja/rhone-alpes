@@ -1,11 +1,11 @@
 id: 159276194
-type: way
+type: node
 latitude: 46.25769
 longitude: 5.65667
 postcode: "01100"
 city: Oyonnax
-street: "Rue Francisco Ferrer"
-housenumber: 10
-phone: "+33 4 74 81 21 60"
-opening_hours: "Mo-Sa 8:30-20:00; Su 9:00-13:00"
-website: "https://www.monoprix.fr/822.html"
+street: Rue Francisco Ferrer
+housenumber: "10"
+phone: +33 4 74 81 21 60
+opening_hours: Mo-Sa 8:30-20:00; Su 9:00-13:00
+website: https://www.monoprix.fr/822.html

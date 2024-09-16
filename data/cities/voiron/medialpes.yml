@@ -4,8 +4,8 @@ latitude: 45.3596
 longitude: 5.59249
 postcode: "38500"
 city: Voiron
-street: "Boulevard Denfert-Rochereau"
-housenumber: 26
-phone: "+33 4 76061975"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:45; Sa 09:00-12:00"
-website: "https://www.medialpes.com/"
+street: Boulevard Denfert-Rochereau
+housenumber: "26"
+phone: +33 4 76061975
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:45; Sa 09:00-12:00
+website: https://www.medialpes.com/

@@ -4,8 +4,8 @@ latitude: 46.06659
 longitude: 4.05991
 postcode: "42300"
 city: Roanne
-street: "Rue Jean de la Fontaine"
-housenumber: 
+street: Rue Jean de la Fontaine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.pascalcoste.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.pascalcoste.com/

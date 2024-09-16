@@ -1,11 +1,11 @@
 id: 143523473
-type: way
+type: node
 latitude: 46.03522
 longitude: 4.28992
 postcode: "69240"
 city: Thizy-les-Bourgs
-street: "Route de Roanne"
-housenumber: 
+street: Route de Roanne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 08:30-12:15, 14:30-19:00; Tu-Sa 08:30-19:00; Su 08:30-12:30"
-website: "https://www.intermarche.com/magasins/10369/thizy-les-bourg-69240/infos-pratiques"
+opening_hours: Mo-We 08:30-12:15, 14:30-19:00; Tu-Sa 08:30-19:00; Su 08:30-12:30
+website: https://www.intermarche.com/magasins/10369/thizy-les-bourg-69240/infos-pratiques

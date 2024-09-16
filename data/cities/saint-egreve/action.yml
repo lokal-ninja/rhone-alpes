@@ -1,11 +1,11 @@
 id: 305144108
-type: way
+type: node
 latitude: 45.2177
 longitude: 5.68221
 postcode: "38120"
 city: Saint-Égrève
-street: "Avenue René Cassin"
-housenumber: 
+street: Avenue René Cassin
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/saint-egreve-avenue-rene-cassin/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.action.com/fr-fr/points-de-vente/saint-egreve-avenue-rene-cassin/

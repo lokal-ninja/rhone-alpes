@@ -1,11 +1,11 @@
 id: 277647891
-type: way
+type: node
 latitude: 45.37269
 longitude: 4.66618
 postcode: "42520"
 city: Véranne
-street: "Chemin du Combeau"
-housenumber: 785
+street: Chemin du Combeau
+housenumber: "785"
 phone: ""
-opening_hours: "Th-Sa 16:30-20:00"
+opening_hours: Th-Sa 16:30-20:00
 website: ""

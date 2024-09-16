@@ -1,11 +1,11 @@
 id: 512899324
-type: way
+type: node
 latitude: 45.15759
 longitude: 5.73203
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 93
-phone: "+33 4 76 22 11 71"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Morgan"
+street: Avenue du Vercors
+housenumber: "93"
+phone: +33 4 76 22 11 71
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Morgan

@@ -1,11 +1,11 @@
 id: 185719473
-type: way
+type: node
 latitude: 46.20348
 longitude: 6.24928
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue du Révérend Père Favre"
-housenumber: 19
-phone: "+33 4 50 38 36 32"
+street: Rue du Révérend Père Favre
+housenumber: "19"
+phone: +33 4 50 38 36 32
 opening_hours: ""
 website: ""

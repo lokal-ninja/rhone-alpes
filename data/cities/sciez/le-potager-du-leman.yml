@@ -1,11 +1,11 @@
 id: 197286081
-type: way
+type: node
 latitude: 46.33801
 longitude: 6.4022
 postcode: "74140"
 city: Sciez
-street: "Chemin des Hutins Vieux"
-housenumber: 129
-phone: "+33 4 50 72 45 19"
+street: Chemin des Hutins Vieux
+housenumber: "129"
+phone: +33 4 50 72 45 19
 opening_hours: ""
 website: ""

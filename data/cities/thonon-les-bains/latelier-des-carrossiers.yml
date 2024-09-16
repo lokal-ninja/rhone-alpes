@@ -1,11 +1,11 @@
 id: 67044924
-type: way
+type: node
 latitude: 46.35102
 longitude: 6.46547
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Route de la Versoie"
-housenumber: 100
+street: Route de la Versoie
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00, 14:00-18:30; Sa-Su off"
+opening_hours: Mo-Fr 07:00-12:00, 14:00-18:30; Sa-Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.14546
 longitude: 5.71659
 postcode: "38130"
 city: Échirolles
-street: "Avenue du 8 Mai 1945"
-housenumber: 24
-phone: "+33 6 11 95 30 30"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "http://www.laverie-grenoble.fr/laverie-d-echirolles"
+street: Avenue du 8 Mai 1945
+housenumber: "24"
+phone: +33 6 11 95 30 30
+opening_hours: Mo-Su 07:00-20:00
+website: http://www.laverie-grenoble.fr/laverie-d-echirolles

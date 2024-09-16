@@ -1,11 +1,11 @@
 id: 225315331
-type: way
+type: node
 latitude: 46.19398
 longitude: 6.68137
 postcode: "74110"
 city: Morzine
-street: "Route d'Essert-Romand"
-housenumber: 364
+street: Route d'Essert-Romand
+housenumber: "364"
 phone: ""
 opening_hours: ""
 website: ""

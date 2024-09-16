@@ -1,11 +1,11 @@
 id: 69490388
-type: way
+type: node
 latitude: 46.35419
 longitude: 6.49689
 postcode: "74200"
 city: Armoy
-street: "Route de l'Ermitage"
-housenumber: 625
-phone: "+33 4 50 70 52 96"
+street: Route de l'Ermitage
+housenumber: "625"
+phone: +33 4 50 70 52 96
 opening_hours: ""
 website: ""

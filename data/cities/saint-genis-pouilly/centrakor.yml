@@ -1,11 +1,11 @@
 id: 116481652
-type: way
+type: node
 latitude: 46.25498
 longitude: 6.02664
 postcode: "01630"
 city: Saint-Genis-Pouilly
-street: "Rue du Tiocan"
-housenumber: 19
+street: Rue du Tiocan
+housenumber: "19"
 phone: "+33450400288"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.centrakor.com/magasin-centrakor/mpg3/centrakor-saint-genis-pouilly-01630.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.centrakor.com/magasin-centrakor/mpg3/centrakor-saint-genis-pouilly-01630.html

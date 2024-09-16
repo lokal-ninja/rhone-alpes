@@ -1,11 +1,11 @@
 id: 1150230979
-type: way
+type: node
 latitude: 45.52902
 longitude: 5.59067
 postcode: "38490"
 city: Charancieu
-street: "Route Nationale 75"
-housenumber: 305
-phone: "+33 9 80 89 47 42"
+street: Route Nationale 75
+housenumber: "305"
+phone: +33 9 80 89 47 42
 opening_hours: ""
 website: ""

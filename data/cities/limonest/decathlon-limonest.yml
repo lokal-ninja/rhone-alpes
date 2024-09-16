@@ -1,11 +1,11 @@
 id: 40905957
-type: way
+type: node
 latitude: 45.82253
 longitude: 4.76742
 postcode: "69760"
 city: Limonest
-street: "Chemin des Tuileries"
-housenumber: 
+street: Chemin des Tuileries
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_105"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_105

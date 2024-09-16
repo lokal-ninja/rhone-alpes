@@ -1,11 +1,11 @@
 id: 638750289
-type: way
+type: node
 latitude: 45.19967
 longitude: 5.4205
 postcode: "38470"
 city: Vinay
-street: "Chemin des Côtes de Trellins"
-housenumber: 300
+street: Chemin des Côtes de Trellins
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.dherbeymoto.com/"
+website: https://www.dherbeymoto.com/

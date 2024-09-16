@@ -1,11 +1,11 @@
 id: 62548901
-type: way
+type: node
 latitude: 45.93955
 longitude: 6.07961
 postcode: "74330"
 city: Épagny
-street: "Rue de la Mandallaz"
-housenumber: 79
+street: Rue de la Mandallaz
+housenumber: "79"
 phone: "+33457410611"
 opening_hours: ""
-website: "https://annecy-epagny.cyclable.com/"
+website: https://annecy-epagny.cyclable.com/

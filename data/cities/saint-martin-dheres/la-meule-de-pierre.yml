@@ -1,11 +1,11 @@
 id: 149492495
-type: way
+type: node
 latitude: 45.18382
 longitude: 5.76384
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Rue Jean-Jacques Rousseau"
-housenumber: 30
-phone: "+33 4 76 54 67 56"
-opening_hours: "Mo-Fr 05:30-13:00,16:30-19:30; Sa 05:30-13:00"
+street: Rue Jean-Jacques Rousseau
+housenumber: "30"
+phone: +33 4 76 54 67 56
+opening_hours: Mo-Fr 05:30-13:00,16:30-19:30; Sa 05:30-13:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 46.1993
 longitude: 6.26544
 postcode: "74100"
 city: Annemasse
-street: "Rue des Buchillons"
-housenumber: 5
+street: Rue des Buchillons
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00; Su off"
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00; Su
+    off
 website: ""

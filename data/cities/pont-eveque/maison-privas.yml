@@ -1,11 +1,11 @@
 id: 159293525
-type: way
+type: node
 latitude: 45.52947
 longitude: 4.90205
 postcode: "38780"
 city: Pont-Évêque
-street: "Montée Lucien Magnat"
-housenumber: 2
-phone: "+33 4 74 85 91 76"
-opening_hours: "Tu-Sa 07:00-12:30,15:00-19:00; Th 07:00-12:30"
+street: Montée Lucien Magnat
+housenumber: "2"
+phone: +33 4 74 85 91 76
+opening_hours: Tu-Sa 07:00-12:30,15:00-19:00; Th 07:00-12:30
 website: ""

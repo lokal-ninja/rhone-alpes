@@ -1,11 +1,11 @@
 id: 626383006
-type: way
+type: node
 latitude: 45.16737
 longitude: 5.7325
 postcode: "38100"
 city: Grenoble
-street: "Avenue La Bruyère"
-housenumber: 38
+street: Avenue La Bruyère
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00; Su 09:00-12:30
 website: ""

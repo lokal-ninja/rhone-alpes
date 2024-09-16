@@ -4,8 +4,8 @@ latitude: 45.19001
 longitude: 5.72506
 postcode: "38000"
 city: Grenoble
-street: "Rue Molière"
-housenumber: 2
-phone: "+33 4 76 46 80 87"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.leonidas.com/en/shops/grenoble/leonidas-grenoble"
+street: Rue Molière
+housenumber: "2"
+phone: +33 4 76 46 80 87
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.leonidas.com/en/shops/grenoble/leonidas-grenoble

@@ -4,8 +4,8 @@ latitude: 46.12086
 longitude: 5.81052
 postcode: "01200"
 city: Bellegarde-sur-Valserine
-street: "Avenue du Maréchal Leclerc"
-housenumber: 
+street: Avenue du Maréchal Leclerc
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:00-12:00, 13:00-17:00"
-website: "https://www.billet-fournier.fr/"
+opening_hours: Mo-Th 07:30-12:00, 13:30-18:00; Fr 07:00-12:00, 13:00-17:00
+website: https://www.billet-fournier.fr/

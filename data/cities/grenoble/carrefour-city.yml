@@ -4,8 +4,8 @@ latitude: 45.18756
 longitude: 5.71922
 postcode: "38000"
 city: Grenoble
-street: "Cours Jean Jaurès"
-housenumber: 31
+street: Cours Jean Jaurès
+housenumber: "31"
 phone: ""
-opening_hours: "Su 09:00-12:30; Mo-Sa 07:00-21:00"
-website: "https://www.carrefour.fr/magasin/city-grenoble-jaures-31"
+opening_hours: Su 09:00-12:30; Mo-Sa 07:00-21:00
+website: https://www.carrefour.fr/magasin/city-grenoble-jaures-31

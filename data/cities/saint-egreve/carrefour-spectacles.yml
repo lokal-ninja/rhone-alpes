@@ -4,8 +4,8 @@ latitude: 45.23941
 longitude: 5.66369
 postcode: "38120"
 city: Saint-Égrève
-street: "Rue des Abattoirs"
-housenumber: 1
-phone: "+33 4 76 58 15 07"
-opening_hours: "Mo-Sa 10:00-13:00,14:15-19:00"
+street: Rue des Abattoirs
+housenumber: "1"
+phone: +33 4 76 58 15 07
+opening_hours: Mo-Sa 10:00-13:00,14:15-19:00
 website: ""

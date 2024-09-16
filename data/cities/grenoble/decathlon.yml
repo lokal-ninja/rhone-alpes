@@ -1,11 +1,11 @@
 id: 398056942
-type: way
+type: node
 latitude: 45.18412
 longitude: 5.72361
 postcode: "38000"
 city: Grenoble
-street: "Boulevard Gambetta"
-housenumber: 48
+street: Boulevard Gambetta
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-grenoble-centre-ville-centre-commercial-caserne-de-bonne--0070077300773"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.decathlon.fr/store-view/magasin-de-sports-grenoble-centre-ville-centre-commercial-caserne-de-bonne--0070077300773

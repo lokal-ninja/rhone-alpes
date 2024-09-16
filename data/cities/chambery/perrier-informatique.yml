@@ -4,8 +4,8 @@ latitude: 45.56266
 longitude: 5.90119
 postcode: "73000"
 city: Chambéry
-street: "Avenue de Lyon"
-housenumber: 1491
+street: Avenue de Lyon
+housenumber: "1491"
 phone: ""
 opening_hours: ""
-website: "http://site.perrier-informatique.fr/"
+website: http://site.perrier-informatique.fr/

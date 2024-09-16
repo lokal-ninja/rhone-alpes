@@ -1,11 +1,11 @@
 id: 144810481
-type: way
+type: node
 latitude: 45.47468
 longitude: 4.4266
 postcode: "42354"
 city: La Talaudière
-street: "Impasse des Fraisses"
-housenumber: 2
+street: Impasse des Fraisses
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.18134
 longitude: 5.71721
 postcode: "38000"
 city: Grenoble
-street: "Rue Général Janssen"
-housenumber: 3
+street: Rue Général Janssen
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

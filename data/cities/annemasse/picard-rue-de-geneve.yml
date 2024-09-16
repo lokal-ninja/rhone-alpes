@@ -1,11 +1,11 @@
 id: 128117605
-type: way
+type: node
 latitude: 46.19316
 longitude: 6.23211
 postcode: "74100"
 city: Annemasse
-street: "Rue de Genève"
-housenumber: 10
+street: Rue de Genève
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, 14:30-19:30; Su off"
+opening_hours: Mo-Sa 09:00-13:00, 14:30-19:30; Su off
 website: ""

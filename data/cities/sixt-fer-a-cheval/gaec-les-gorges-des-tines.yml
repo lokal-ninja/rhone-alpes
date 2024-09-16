@@ -1,11 +1,11 @@
 id: 1118082724
-type: way
+type: node
 latitude: 46.05743
 longitude: 6.7516
 postcode: "74740"
 city: Sixt-Fer-à-Cheval
-street: "Route du Tunnel"
-housenumber: 413
+street: Route du Tunnel
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

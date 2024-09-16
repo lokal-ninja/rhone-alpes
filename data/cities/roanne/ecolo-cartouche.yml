@@ -4,8 +4,8 @@ latitude: 46.04453
 longitude: 4.07093
 postcode: "42300"
 city: Roanne
-street: "Avenue de Paris"
-housenumber: 59
-phone: "+33 4 77 78 13 52"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:30-12:00,13:30- 18:00"
-website: "https://www.ecolo-cartouche.fr"
+street: Avenue de Paris
+housenumber: "59"
+phone: +33 4 77 78 13 52
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:30-12:00,13:30- 18:00
+website: https://www.ecolo-cartouche.fr

@@ -1,11 +1,11 @@
 id: 144808530
-type: way
+type: node
 latitude: 45.48011
 longitude: 4.43035
 postcode: "42350"
 city: La Talaudière
-street: "Rue Devernoille"
-housenumber: 5
+street: Rue Devernoille
+housenumber: "5"
 phone: "+33477218227"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:30"
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:30
 website: ""

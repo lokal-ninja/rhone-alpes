@@ -1,11 +1,11 @@
 id: 69004732
-type: way
+type: node
 latitude: 46.34905
 longitude: 6.441
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Boulevard du Pré Biollat"
-housenumber: 1
+street: Boulevard du Pré Biollat
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-17:00"
+opening_hours: Mo,Su off; Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-17:00
 website: ""

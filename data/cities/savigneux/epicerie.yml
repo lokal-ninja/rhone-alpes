@@ -4,8 +4,8 @@ latitude: 46.00155
 longitude: 4.84838
 postcode: "01480"
 city: Savigneux
-street: "Rue de l'Église"
-housenumber: 87
-phone: "+33 9 54999843"
-opening_hours: "Mo off; Tu-Sa 07:00-12:30,14:30-19:30; Su 07:30-12:30"
+street: Rue de l'Église
+housenumber: "87"
+phone: +33 9 54999843
+opening_hours: Mo off; Tu-Sa 07:00-12:30,14:30-19:30; Su 07:30-12:30
 website: ""

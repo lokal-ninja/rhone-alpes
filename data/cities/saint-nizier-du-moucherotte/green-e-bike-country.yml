@@ -1,11 +1,11 @@
 id: 134897270
-type: way
+type: node
 latitude: 45.15506
 longitude: 5.61947
 postcode: "38250"
 city: Saint-Nizier-du-Moucherotte
-street: "Chemin du Bruyant"
-housenumber: 105
+street: Chemin du Bruyant
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

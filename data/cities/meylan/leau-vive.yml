@@ -1,11 +1,11 @@
 id: 170514448
-type: way
+type: node
 latitude: 45.20308
 longitude: 5.76543
 postcode: "38240"
 city: Meylan
-street: "Allée des Centaurées"
-housenumber: 3
+street: Allée des Centaurées
+housenumber: "3"
 phone: "+33476511950"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.eau-vive.com/pa371/magasin?lieuID=1"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.eau-vive.com/pa371/magasin?lieuID=1

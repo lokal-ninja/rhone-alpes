@@ -5,7 +5,7 @@ longitude: 4.80429
 postcode: "38150"
 city: Salaise-sur-Sanne
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: "+33155564152"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/salaise-sur-sanne-avenue-plein-sud---parc-commercial-green/"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.action.com/fr-fr/points-de-vente/salaise-sur-sanne-avenue-plein-sud---parc-commercial-green/

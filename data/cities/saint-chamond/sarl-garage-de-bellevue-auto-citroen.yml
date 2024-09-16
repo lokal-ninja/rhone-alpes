@@ -4,8 +4,8 @@ latitude: 45.4797
 longitude: 4.52643
 postcode: "42400"
 city: Saint-Chamond
-street: "Route de Lyon"
-housenumber: 34
+street: Route de Lyon
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 07:00-12:00,14:00-19:00"
+opening_hours: Mo-Fr 07:00-12:00,14:00-19:00
 website: ""

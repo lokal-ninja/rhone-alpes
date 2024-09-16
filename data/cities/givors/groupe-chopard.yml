@@ -4,8 +4,8 @@ latitude: 45.58697
 longitude: 4.76302
 postcode: "69700"
 city: Givors
-street: "3 Avenue Georges Charpak Givors"
-housenumber: 3
-phone: "+33 4 78 07 44 10"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00"
-website: "https://www.groupechopard.com/peugeot/contact/peugeot-givors/"
+street: 3 Avenue Georges Charpak Givors
+housenumber: "3"
+phone: +33 4 78 07 44 10
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-18:00
+website: https://www.groupechopard.com/peugeot/contact/peugeot-givors/

@@ -1,11 +1,11 @@
 id: 265312823
-type: way
+type: node
 latitude: 46.35002
 longitude: 6.43424
 postcode: "74200"
 city: Anthy-sur-Léman
-street: "Avenue du Pré Robert Sud"
-housenumber: 35
+street: Avenue du Pré Robert Sud
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-thonon_anthy-sur-leman_74200/238.html"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-thonon_anthy-sur-leman_74200/238.html

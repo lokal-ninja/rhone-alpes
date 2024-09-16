@@ -1,11 +1,11 @@
 id: 271960072
-type: way
+type: node
 latitude: 45.62377
 longitude: 5.87681
 postcode: "73420"
 city: Voglans
-street: "Rue de la Prairie"
-housenumber: 
+street: Rue de la Prairie
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

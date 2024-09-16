@@ -4,8 +4,8 @@ latitude: 45.45392
 longitude: 4.39026
 postcode: "42000"
 city: Saint-Étienne
-street: "Rue Barrouin"
-housenumber: 12
+street: Rue Barrouin
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:00-14:30"
+opening_hours: Mo-Fr 06:00-14:30
 website: ""

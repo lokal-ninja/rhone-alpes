@@ -1,11 +1,11 @@
 id: 79135301
-type: way
+type: node
 latitude: 45.67707
 longitude: 4.96834
 postcode: "69780"
 city: Mions
-street: "Route d'Heyrieux"
-housenumber: 31
-phone: "+33 8 25351134"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-19:00"
-website: "https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-lyon-mions_mions_69780/189.html"
+street: Route d'Heyrieux
+housenumber: "31"
+phone: +33 8 25351134
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-19:00
+website: https://www.besson-chaussures.com/nos-boutiques/besson-chaussures-lyon-mions_mions_69780/189.html

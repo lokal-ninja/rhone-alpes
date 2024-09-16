@@ -1,11 +1,11 @@
 id: 67055847
-type: way
+type: node
 latitude: 46.36162
 longitude: 6.4578
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Avenue de Genève"
-housenumber: 19
+street: Avenue de Genève
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:00-19:30; Su 09:30-12:30"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:00-19:30; Su 09:30-12:30
 website: ""

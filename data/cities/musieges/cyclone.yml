@@ -1,11 +1,11 @@
 id: 315542662
-type: way
+type: node
 latitude: 46.01259
 longitude: 5.94781
 postcode: "74270"
 city: Musièges
-street: "Allée de la Zone des Bonnets"
-housenumber: 538
-phone: "+33 4 50 32 27 15"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
+street: Allée de la Zone des Bonnets
+housenumber: "538"
+phone: +33 4 50 32 27 15
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
 website: ""

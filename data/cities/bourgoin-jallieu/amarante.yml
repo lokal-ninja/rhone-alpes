@@ -4,8 +4,8 @@ latitude: 45.58927
 longitude: 5.27919
 postcode: "38300"
 city: Bourgoin-Jallieu
-street: "Avenue du Professeur Tixier"
-housenumber: 8
-phone: "+33 4 74 43 23 24"
-opening_hours: "Mo-Th 08:00-19:30; Fr-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://amarante-bourgoin-jallieu.com/"
+street: Avenue du Professeur Tixier
+housenumber: "8"
+phone: +33 4 74 43 23 24
+opening_hours: Mo-Th 08:00-19:30; Fr-Sa 08:00-20:00; Su 08:00-13:00
+website: https://amarante-bourgoin-jallieu.com/

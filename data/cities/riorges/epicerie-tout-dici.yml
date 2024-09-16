@@ -1,11 +1,11 @@
 id: 71641851
-type: way
+type: node
 latitude: 46.03784
 longitude: 4.03407
 postcode: "42153"
 city: Riorges
-street: "Rue de Saint-Alban"
-housenumber: 1463
-phone: "+33 6 14 61 92 23"
-opening_hours: "Tu,Fr 11:30-19:30; Sa 10:00-15:00"
-website: "https://www.toutdici.fr/"
+street: Rue de Saint-Alban
+housenumber: "1463"
+phone: +33 6 14 61 92 23
+opening_hours: Tu,Fr 11:30-19:30; Sa 10:00-15:00
+website: https://www.toutdici.fr/

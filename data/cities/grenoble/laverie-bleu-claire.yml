@@ -4,8 +4,8 @@ latitude: 45.19463
 longitude: 5.72801
 postcode: "38000"
 city: Grenoble
-street: "Quai Perrière"
-housenumber: 10
-phone: "+33 4 76 47 01 41"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Quai Perrière
+housenumber: "10"
+phone: +33 4 76 47 01 41
+opening_hours: Mo-Su 07:00-20:00
 website: ""

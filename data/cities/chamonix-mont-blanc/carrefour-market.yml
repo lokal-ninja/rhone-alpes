@@ -1,11 +1,11 @@
 id: 97318746
-type: way
+type: node
 latitude: 45.91862
 longitude: 6.87458
 postcode: "74400"
 city: Chamonix-Mont-Blanc
-street: "Route Blanche"
-housenumber: 339
+street: Route Blanche
+housenumber: "339"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:00-19:30; Su 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 512898603
-type: way
+type: node
 latitude: 45.1574
 longitude: 5.73236
 postcode: "38100"
 city: Grenoble
-street: "Avenue du Vercors"
-housenumber: 97
-phone: "+33 4 76 23 50 60"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Nocibe"
+street: Avenue du Vercors
+housenumber: "97"
+phone: +33 4 76 23 50 60
+opening_hours: Mo-Sa 10:00-20:00
+website: https://grand-place.klepierre.fr/Shopping/Nocibe

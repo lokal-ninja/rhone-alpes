@@ -4,8 +4,8 @@ latitude: 45.19534
 longitude: 5.72962
 postcode: "38000"
 city: Grenoble
-street: "Quai Mounier"
-housenumber: 2
+street: Quai Mounier
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 09:00-13:00, 13:00-19:00; Tu-Su 09:30-12:35,15:30-19:30"
+opening_hours: Mo 09:00-13:00, 13:00-19:00; Tu-Su 09:30-12:35,15:30-19:30
 website: ""

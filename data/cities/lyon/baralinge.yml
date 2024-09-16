@@ -4,8 +4,8 @@ latitude: 45.753
 longitude: 4.83174
 postcode: "69002"
 city: Lyon
-street: "Rue de la Charité"
-housenumber: 21
-phone: "+33 4 78 29 79 78"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00"
-website: "https://www.baralinge.com/"
+street: Rue de la Charité
+housenumber: "21"
+phone: +33 4 78 29 79 78
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00
+website: https://www.baralinge.com/

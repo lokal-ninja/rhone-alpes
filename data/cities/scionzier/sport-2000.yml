@@ -1,11 +1,11 @@
 id: 629490082
-type: way
+type: node
 latitude: 46.06687
 longitude: 6.55108
 postcode: "74950"
 city: Scionzier
-street: "Rue des Chasseurs"
-housenumber: 8
+street: Rue des Chasseurs
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

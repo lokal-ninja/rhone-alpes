@@ -4,8 +4,8 @@ latitude: 45.6012
 longitude: 6.25437
 postcode: "73460"
 city: Grésy-sur-Isère
-street: "Place Pierre Bonnet"
-housenumber: 42
-phone: "+33 4 79 37 96 31"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-14:00; Su,Mo off"
-website: "https://www.studiotyna.fr"
+street: Place Pierre Bonnet
+housenumber: "42"
+phone: +33 4 79 37 96 31
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-19:00; Sa 09:00-14:00; Su,Mo off
+website: https://www.studiotyna.fr

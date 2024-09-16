@@ -4,8 +4,8 @@ latitude: 45.72759
 longitude: 4.22501
 postcode: "42110"
 city: Feurs
-street: "Route de Saint-Étienne"
-housenumber: 
+street: Route de Saint-Étienne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00"
-website: "https://www.garage-cheminal.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00
+website: https://www.garage-cheminal.fr/

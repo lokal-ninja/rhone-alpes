@@ -1,11 +1,11 @@
 id: 257536365
-type: way
+type: node
 latitude: 45.8478
 longitude: 5.65248
 postcode: "01510"
 city: Virieu-le-Grand
-street: "Avenue de la Gare"
-housenumber: 64
+street: Avenue de la Gare
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 06:30-12:30,15:00-19:30; Su 07:30-12:00"
+opening_hours: Mo-Sa 06:30-12:30,15:00-19:30; Su 07:30-12:00
 website: ""

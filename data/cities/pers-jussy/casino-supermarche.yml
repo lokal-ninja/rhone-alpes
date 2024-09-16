@@ -1,11 +1,11 @@
 id: 807465717
-type: way
+type: node
 latitude: 46.12335
 longitude: 6.26763
 postcode: "74930"
 city: Pers-Jussy
-street: "Impasse des Contamines"
-housenumber: 240
+street: Impasse des Contamines
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Th 08:00-19:30; Fr-Sa 08:00-20:00; Su 08:30-12:30"
+opening_hours: Mo-Th 08:00-19:30; Fr-Sa 08:00-20:00; Su 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 170516506
-type: way
+type: node
 latitude: 45.20642
 longitude: 5.76716
 postcode: "38240"
 city: Meylan
-street: "Avenue de Verdun"
-housenumber: 29
+street: Avenue de Verdun
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:30; Sa 07:00-19:00"
+opening_hours: Mo-Fr 07:00-19:30; Sa 07:00-19:00
 website: ""

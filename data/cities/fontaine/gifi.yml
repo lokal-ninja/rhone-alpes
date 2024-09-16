@@ -1,11 +1,11 @@
 id: 66593143
-type: way
+type: node
 latitude: 45.19613
 longitude: 5.67597
 postcode: "38600"
 city: Fontaine
-street: "Avenue Ambroise Croizat"
-housenumber: 46
-phone: "+33 4 76 43 49 72"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:00"
-website: "https://magasins.gifi.fr/fr/gifi-grenoble-29658"
+street: Avenue Ambroise Croizat
+housenumber: "46"
+phone: +33 4 76 43 49 72
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:00,14:00-18:00
+website: https://magasins.gifi.fr/fr/gifi-grenoble-29658

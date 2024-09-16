@@ -1,11 +1,11 @@
 id: 723604003
-type: way
+type: node
 latitude: 45.23913
 longitude: 5.66334
 postcode: "38120"
 city: Saint-Égrève
-street: "Rue des Abattoirs"
-housenumber: 1
-phone: "+33 9 86 77 40 00"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://pressing-kokliko.fr/"
+street: Rue des Abattoirs
+housenumber: "1"
+phone: +33 9 86 77 40 00
+opening_hours: Mo-Sa 09:30-20:00
+website: https://pressing-kokliko.fr/

@@ -4,8 +4,8 @@ latitude: 45.60645
 longitude: 4.0651
 postcode: "42600"
 city: Montbrison
-street: "Rue Tupinerie"
-housenumber: 42
+street: Rue Tupinerie
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:30-13:00, 14:00-19:00"
-website: "https://www.yves-rocher.fr/magasins-instituts-de-beaute/montbrison/S-FRYROC265"
+opening_hours: Tu-Fr 09:30-12:30, 14:00-19:00; Sa 09:30-13:00, 14:00-19:00
+website: https://www.yves-rocher.fr/magasins-instituts-de-beaute/montbrison/S-FRYROC265

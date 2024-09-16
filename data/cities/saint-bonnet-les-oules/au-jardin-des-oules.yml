@@ -1,11 +1,11 @@
 id: 1095561106
-type: way
+type: node
 latitude: 45.54496
 longitude: 4.32113
 postcode: "42330"
 city: Saint-Bonnet-les-Oules
-street: "Chemin Rouge"
-housenumber: 2
-phone: "+33 6 03 61 36 32"
-opening_hours: "Fr 14:00-19:00"
+street: Chemin Rouge
+housenumber: "2"
+phone: +33 6 03 61 36 32
+opening_hours: Fr 14:00-19:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 6.12232
 postcode: "38860"
 city: Les Deux Alpes
 street: ""
-housenumber: 126
-phone: "+33 4 76 80 50 42"
+housenumber: "126"
+phone: +33 4 76 80 50 42
 opening_hours: ""
-website: "https://www.location-ski-deux-alpes.fr/"
+website: https://www.location-ski-deux-alpes.fr/

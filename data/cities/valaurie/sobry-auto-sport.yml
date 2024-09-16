@@ -4,8 +4,8 @@ latitude: 44.41663
 longitude: 4.80572
 postcode: "26230"
 city: Valaurie
-street: "Rue Pierre et Marie Curie"
-housenumber: 4
-phone: "+33 4 75 46 55 29"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00"
+street: Rue Pierre et Marie Curie
+housenumber: "4"
+phone: +33 4 75 46 55 29
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00
 website: ""

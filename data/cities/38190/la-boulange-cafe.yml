@@ -3,9 +3,9 @@ type: node
 latitude: 45.27202
 longitude: 5.86884
 postcode: ""
-city: 38190
+city: "38190"
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

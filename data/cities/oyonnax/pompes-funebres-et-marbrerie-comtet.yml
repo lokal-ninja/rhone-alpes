@@ -1,11 +1,11 @@
 id: 713890090
-type: way
+type: node
 latitude: 46.26403
 longitude: 5.6323
 postcode: "01100"
 city: Oyonnax
-street: "Rue des Cherolles"
-housenumber: 11
-phone: "+334 74 12 04 20"
+street: Rue des Cherolles
+housenumber: "11"
+phone: +334 74 12 04 20
 opening_hours: ""
-website: "http://www.pf-comtet.fr/"
+website: http://www.pf-comtet.fr/

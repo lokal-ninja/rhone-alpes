@@ -1,11 +1,11 @@
 id: 81099336
-type: way
+type: node
 latitude: 45.14832
 longitude: 5.69412
 postcode: "38130"
 city: Echirolles
-street: "Rue Comboire"
-housenumber: 9
+street: Rue Comboire
+housenumber: "9"
 phone: "+33476098620"
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30"
-website: "https://www.gifi.fr/?store_id=11156&utm_source=GMB&utm_medium=groupe&utm_campaign=11156"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-12:30,14:00-18:30
+website: https://www.gifi.fr/?store_id=11156&utm_source=GMB&utm_medium=groupe&utm_campaign=11156

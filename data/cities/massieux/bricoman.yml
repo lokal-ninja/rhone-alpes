@@ -1,11 +1,11 @@
 id: 394993982
-type: way
+type: node
 latitude: 45.90508
 longitude: 4.81724
 postcode: "01600"
 city: Massieux
-street: "Avenue Lavoisier"
-housenumber: 101
+street: Avenue Lavoisier
+housenumber: "101"
 phone: "+33478983540"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.bricoman.fr/nos-magasins/magasin-massieux.html"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.bricoman.fr/nos-magasins/magasin-massieux.html

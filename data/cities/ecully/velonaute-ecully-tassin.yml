@@ -4,8 +4,8 @@ latitude: 45.76398
 longitude: 4.7726
 postcode: ""
 city: Écully
-street: "Place des Trois Renards"
-housenumber: 6
+street: Place des Trois Renards
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00, 14:30-19:00"
-website: "https://www.velonaute.com/content/88-velonaute-tassin-ecully-magasin-velo-electrique"
+opening_hours: Mo-Sa 10:00-13:00, 14:30-19:00
+website: https://www.velonaute.com/content/88-velonaute-tassin-ecully-magasin-velo-electrique

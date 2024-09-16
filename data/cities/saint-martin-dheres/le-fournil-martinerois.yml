@@ -1,11 +1,11 @@
 id: 187402304
-type: way
+type: node
 latitude: 45.17154
 longitude: 5.75818
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Potié"
-housenumber: 67
+street: Avenue Potié
+housenumber: "67"
 phone: "0953386635"
-opening_hours: "Mo-Su 06:00-20:10"
+opening_hours: Mo-Su 06:00-20:10
 website: ""

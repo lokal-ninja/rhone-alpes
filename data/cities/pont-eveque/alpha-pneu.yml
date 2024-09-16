@@ -1,11 +1,11 @@
 id: 159292460
-type: way
+type: node
 latitude: 45.52381
 longitude: 4.91949
 postcode: "38780"
 city: Pont-Évêque
-street: "Avenue Georges et Louis Frêrejean"
-housenumber: 34
-phone: "+33 4 74 79 98 46"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
+street: Avenue Georges et Louis Frêrejean
+housenumber: "34"
+phone: +33 4 74 79 98 46
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.73777
 longitude: 5.01613
 postcode: "69740"
 city: Genas
-street: "Rue Jean Jaurès"
-housenumber: 22
-phone: "+33 4 78 90 18 23"
-opening_hours: "Mo off; Tu-Sa 08:00-19:00; Su 08:00-12:00"
-website: "https://www.leshallesdegenas.fr/"
+street: Rue Jean Jaurès
+housenumber: "22"
+phone: +33 4 78 90 18 23
+opening_hours: Mo off; Tu-Sa 08:00-19:00; Su 08:00-12:00
+website: https://www.leshallesdegenas.fr/

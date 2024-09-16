@@ -1,11 +1,11 @@
 id: 208380428
-type: way
+type: node
 latitude: 46.27673
 longitude: 6.35115
 postcode: "74890"
 city: Bons-en-Chablais
-street: "Rue des Prés Vignan"
-housenumber: 145
+street: Rue des Prés Vignan
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

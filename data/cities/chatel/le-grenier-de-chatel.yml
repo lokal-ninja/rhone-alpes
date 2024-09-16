@@ -1,11 +1,11 @@
 id: 693878817
-type: way
+type: node
 latitude: 46.26525
 longitude: 6.84102
 postcode: "74390"
 city: Châtel
-street: "Route du Linga"
-housenumber: 207
+street: Route du Linga
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

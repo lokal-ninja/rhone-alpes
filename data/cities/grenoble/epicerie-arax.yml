@@ -4,8 +4,8 @@ latitude: 45.18483
 longitude: 5.7218
 postcode: "38000"
 city: Grenoble
-street: "Rue de Turenne"
-housenumber: 3
-phone: "+33 4 76 87 23 37"
-opening_hours: "Tu-Sa 09:00-12:00, 15:00-19:00"
-website: "https://epicerie-arax.com/"
+street: Rue de Turenne
+housenumber: "3"
+phone: +33 4 76 87 23 37
+opening_hours: Tu-Sa 09:00-12:00, 15:00-19:00
+website: https://epicerie-arax.com/

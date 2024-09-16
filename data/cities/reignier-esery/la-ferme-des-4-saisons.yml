@@ -1,11 +1,11 @@
 id: 80549515
-type: way
+type: node
 latitude: 46.15813
 longitude: 6.24251
 postcode: "74930"
 city: Reignier-Ésery
-street: "Route de Viaison"
-housenumber: 270
+street: Route de Viaison
+housenumber: "270"
 phone: ""
 opening_hours: ""
-website: "https://www.fermedes4saisons.com/"
+website: https://www.fermedes4saisons.com/

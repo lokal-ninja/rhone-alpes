@@ -1,11 +1,11 @@
 id: 31348922
-type: way
+type: node
 latitude: 45.18197
 longitude: 5.77534
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 150
+street: Avenue Gabriel Péri
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.com/fr/fr/stores/grenoble/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.com/fr/fr/stores/grenoble/

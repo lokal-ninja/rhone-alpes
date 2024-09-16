@@ -1,11 +1,11 @@
 id: 270449564
-type: way
+type: node
 latitude: 46.27595
 longitude: 6.3125
 postcode: "74140"
 city: Loisin
-street: "Route des Penets"
-housenumber: 775
+street: Route des Penets
+housenumber: "775"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su off"
+opening_hours: Mo-Sa 09:30-19:00; Su off
 website: ""

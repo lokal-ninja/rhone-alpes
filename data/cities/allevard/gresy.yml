@@ -4,8 +4,8 @@ latitude: 45.40288
 longitude: 6.08159
 postcode: "38580"
 city: Allevard
-street: "Route de la Mirande"
-housenumber: 3
-phone: "+33 6 76 00 18 88"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.gresy.fr/"
+street: Route de la Mirande
+housenumber: "3"
+phone: +33 6 76 00 18 88
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.gresy.fr/

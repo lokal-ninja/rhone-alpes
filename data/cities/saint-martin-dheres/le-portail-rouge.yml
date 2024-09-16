@@ -1,11 +1,11 @@
 id: 149493042
-type: way
+type: node
 latitude: 45.18095
 longitude: 5.76543
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Ambroise Croizat"
-housenumber: 205
+street: Avenue Ambroise Croizat
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00, Sa 08:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00, Sa 08:00-19:00
 website: ""

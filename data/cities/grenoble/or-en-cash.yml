@@ -4,8 +4,8 @@ latitude: 45.17981
 longitude: 5.7058
 postcode: "38000"
 city: Grenoble
-street: "Boulevard Joseph Vallier"
-housenumber: 65
-phone: "+33 4 38 49 25 51"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://orencash.fr/"
+street: Boulevard Joseph Vallier
+housenumber: "65"
+phone: +33 4 38 49 25 51
+opening_hours: Mo-Fr 09:30-18:00
+website: https://orencash.fr/

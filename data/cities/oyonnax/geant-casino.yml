@@ -1,11 +1,11 @@
 id: 507803997
-type: way
+type: node
 latitude: 46.2839
 longitude: 5.66275
 postcode: "01100"
 city: Oyonnax
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

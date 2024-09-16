@@ -4,8 +4,8 @@ latitude: 46.12292
 longitude: 5.81132
 postcode: "01200"
 city: Valserhône
-street: "Avenue du Maréchal Leclerc"
-housenumber: 2
-phone: "+33 4.50.56.09.64"
-opening_hours: "Mo-Fr 6:00-19:00"
-website: "http://www.leptitchezery.fr/"
+street: Avenue du Maréchal Leclerc
+housenumber: "2"
+phone: +33 4.50.56.09.64
+opening_hours: Mo-Fr 6:00-19:00
+website: http://www.leptitchezery.fr/

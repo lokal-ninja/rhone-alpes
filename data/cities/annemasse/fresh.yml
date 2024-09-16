@@ -1,11 +1,11 @@
 id: 521939198
-type: way
+type: node
 latitude: 46.19726
 longitude: 6.25651
 postcode: "74100"
 city: Annemasse
-street: "Rue du Mont Rond"
-housenumber: 1
+street: Rue du Mont Rond
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

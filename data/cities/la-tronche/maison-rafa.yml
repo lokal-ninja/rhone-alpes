@@ -4,8 +4,8 @@ latitude: 45.20715
 longitude: 5.74545
 postcode: "38700"
 city: La Tronche
-street: "Grande Rue"
-housenumber: 20
+street: Grande Rue
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 08:30-13:00, 15:30-19:30; Sa 08:30-13:00, 15:30-19:00"
-website: "https://fr.linkedin.com/company/maison-rafa"
+opening_hours: Tu-Fr 08:30-13:00, 15:30-19:30; Sa 08:30-13:00, 15:30-19:00
+website: https://fr.linkedin.com/company/maison-rafa

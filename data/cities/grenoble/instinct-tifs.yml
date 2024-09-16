@@ -4,8 +4,8 @@ latitude: 45.19079
 longitude: 5.72503
 postcode: "38000"
 city: Grenoble
-street: "Rue de Belgrade"
-housenumber: 10
-phone: "+33 4 76 47 38 56"
+street: Rue de Belgrade
+housenumber: "10"
+phone: +33 4 76 47 38 56
 opening_hours: ""
-website: "http://www.instinctifs.fr/"
+website: http://www.instinctifs.fr/

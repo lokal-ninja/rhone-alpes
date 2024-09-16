@@ -1,11 +1,11 @@
 id: 86299454
-type: way
+type: node
 latitude: 46.19644
 longitude: 6.25626
 postcode: "74100"
 city: Annemasse
-street: "Rue de la Résistance"
-housenumber: 19
+street: Rue de la Résistance
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:45-12:30, 14:00-18:45; Sa 09:45-18:00; Su off"
+opening_hours: Mo-Fr 08:45-12:30, 14:00-18:45; Sa 09:45-18:00; Su off
 website: ""

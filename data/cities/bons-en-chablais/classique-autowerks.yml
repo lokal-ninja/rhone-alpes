@@ -1,11 +1,11 @@
 id: 208379682
-type: way
+type: node
 latitude: 46.26076
 longitude: 6.3514
 postcode: "74890"
 city: Bons-en-Chablais
-street: "Rue de la Golliasse"
-housenumber: 11
+street: Rue de la Golliasse
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 17:00-21:00; Mo,Sa-Su off"
+opening_hours: Tu-Fr 17:00-21:00; Mo,Sa-Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 46.0981
 longitude: 4.76554
 postcode: "01090"
 city: Guéreins
-street: "Route de Montmerle"
-housenumber: 2444
+street: Route de Montmerle
+housenumber: "2444"
 phone: "+33631785602"
-opening_hours: "Mo-Sa 12:15-13:15,17:30-20:00; Su 10:00-12:00"
-website: "https://www.locadens.fr/"
+opening_hours: Mo-Sa 12:15-13:15,17:30-20:00; Su 10:00-12:00
+website: https://www.locadens.fr/

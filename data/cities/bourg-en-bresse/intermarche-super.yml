@@ -1,11 +1,11 @@
 id: 335689964
-type: way
+type: node
 latitude: 46.19719
 longitude: 5.22842
 postcode: "01000"
 city: Bourg-en-Bresse
 street: ""
-housenumber: 56
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

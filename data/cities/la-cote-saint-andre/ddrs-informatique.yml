@@ -4,8 +4,8 @@ latitude: 45.39424
 longitude: 5.2587
 postcode: "38260"
 city: La Côte-Saint-André
-street: "Rue de l'Hôtel de Ville"
-housenumber: 29
+street: Rue de l'Hôtel de Ville
+housenumber: "29"
 phone: "+33675051864"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-17:00"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-17:00
 website: ""

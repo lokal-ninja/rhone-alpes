@@ -1,11 +1,11 @@
 id: 79207748
-type: way
+type: node
 latitude: 45.48143
 longitude: 4.44292
 postcode: "42290"
 city: Sorbiers
-street: "Rue du Moulin Gillier"
-housenumber: 3
-phone: "+33 4 77 53 35 49"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-sorbiers"
+street: Rue du Moulin Gillier
+housenumber: "3"
+phone: +33 4 77 53 35 49
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-sorbiers

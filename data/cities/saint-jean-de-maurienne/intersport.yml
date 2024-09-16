@@ -1,11 +1,11 @@
 id: 163110574
-type: way
+type: node
 latitude: 45.27041
 longitude: 6.36539
 postcode: "73300"
 city: Saint-Jean-de-Maurienne
-street: "Avenue du 8 Mai 1945"
-housenumber: 
-phone: "+33 4 79 83 38 30"
-opening_hours: "Mo-Fr 09:30-12:15,14:00-19:00; Sa 09:00-19:00; Su off"
+street: Avenue du 8 Mai 1945
+housenumber: ""
+phone: +33 4 79 83 38 30
+opening_hours: Mo-Fr 09:30-12:15,14:00-19:00; Sa 09:00-19:00; Su off
 website: ""

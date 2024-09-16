@@ -1,11 +1,11 @@
 id: 67045319
-type: way
+type: node
 latitude: 46.35296
 longitude: 6.4692
 postcode: "74200"
 city: Thonon-les-Bains
-street: "Avenue de Senevulaz"
-housenumber: 48
+street: Avenue de Senevulaz
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

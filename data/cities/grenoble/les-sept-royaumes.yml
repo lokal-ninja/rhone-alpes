@@ -4,8 +4,8 @@ latitude: 45.1918
 longitude: 5.72965
 postcode: "38000"
 city: Grenoble
-street: "Rue Lafayette"
-housenumber: 5
-phone: "+33 4 76 54 58 35"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://les7royaumes.com/"
+street: Rue Lafayette
+housenumber: "5"
+phone: +33 4 76 54 58 35
+opening_hours: Mo-Sa 10:00-19:00
+website: https://les7royaumes.com/

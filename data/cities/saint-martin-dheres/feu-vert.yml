@@ -1,11 +1,11 @@
 id: 1230643356
-type: way
+type: node
 latitude: 45.18623
 longitude: 5.76264
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue Gabriel Péri"
-housenumber: 99
+street: Avenue Gabriel Péri
+housenumber: "99"
 phone: "+33476423472"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.feuvert.fr/centres-auto/st-martin-d-heres/feu-vert-grenoble-stmdheres/193.html"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.feuvert.fr/centres-auto/st-martin-d-heres/feu-vert-grenoble-stmdheres/193.html

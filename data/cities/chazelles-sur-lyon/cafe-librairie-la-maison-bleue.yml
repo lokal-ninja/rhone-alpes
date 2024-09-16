@@ -1,11 +1,11 @@
 id: 313004593
-type: way
+type: node
 latitude: 45.63581
 longitude: 4.38335
 postcode: "42140"
 city: Chazelles-sur-Lyon
-street: "Allée de la Châtelaine"
-housenumber: 3
+street: Allée de la Châtelaine
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

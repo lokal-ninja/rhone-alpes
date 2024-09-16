@@ -1,11 +1,11 @@
 id: 183157485
-type: way
+type: node
 latitude: 45.68985
 longitude: 5.37536
 postcode: "38460"
 city: Soleymieu
-street: "Place de l'Ancienne Gare"
-housenumber: 6
+street: Place de l'Ancienne Gare
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

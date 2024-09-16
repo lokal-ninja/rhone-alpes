@@ -1,11 +1,11 @@
 id: 269736766
-type: way
+type: node
 latitude: 46.26693
 longitude: 6.27082
 postcode: "74140"
 city: Veigy-Foncenex
-street: "Route des Mermes"
-housenumber: 100
-phone: "+334 50 94 94 93"
-opening_hours: "Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-18:00"
+street: Route des Mermes
+housenumber: "100"
+phone: +334 50 94 94 93
+opening_hours: Mo-Fr 08:30-12:30,15:00-19:00; Sa 08:30-18:00
 website: ""

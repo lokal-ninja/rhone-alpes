@@ -1,11 +1,11 @@
 id: 61214503
-type: way
+type: node
 latitude: 46.18422
 longitude: 6.27525
 postcode: "74100"
 city: Vétraz-Monthoux
-street: "Rue des Teppes"
-housenumber: 17
+street: Rue des Teppes
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

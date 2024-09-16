@@ -4,8 +4,8 @@ latitude: 45.59713
 longitude: 5.62864
 postcode: "38490"
 city: Aoste
-street: "Rue de la Chapelière"
-housenumber: 
+street: Rue de la Chapelière
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-19:00; Su 06:00-13:00"
-website: "https://www.leparfumduble.fr/"
+opening_hours: Mo-Sa 06:00-19:00; Su 06:00-13:00
+website: https://www.leparfumduble.fr/

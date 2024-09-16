@@ -4,8 +4,8 @@ latitude: 45.35112
 longitude: 5.59593
 postcode: "38500"
 city: Coublevie
-street: "Route de Grenoble"
-housenumber: 131
+street: Route de Grenoble
+housenumber: "131"
 phone: "+33476661160"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://magasins.lavieclaire.com"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://magasins.lavieclaire.com

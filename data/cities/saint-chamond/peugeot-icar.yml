@@ -4,8 +4,8 @@ latitude: 45.48256
 longitude: 4.52871
 postcode: "42400"
 city: Saint-Chamond
-street: "Rue de la Maladière"
-housenumber: 1
+street: Rue de la Maladière
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:30; Sa 08:00-12:00, 14:00-18:30"
-website: "https://concessions.peugeot.fr/icarstcham/nous-contacter/info-utiles/"
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:30; Sa 08:00-12:00, 14:00-18:30
+website: https://concessions.peugeot.fr/icarstcham/nous-contacter/info-utiles/

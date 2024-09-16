@@ -4,8 +4,8 @@ latitude: 45.47486
 longitude: 4.50911
 postcode: "42400"
 city: Saint-Chamond
-street: "Place de la Liberté"
-housenumber: 33
+street: Place de la Liberté
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://magasins.vival.fr/fr/vival-saint-chamond"
+opening_hours: Mo-Su 07:30-21:00
+website: https://magasins.vival.fr/fr/vival-saint-chamond

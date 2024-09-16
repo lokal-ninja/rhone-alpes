@@ -4,8 +4,8 @@ latitude: 45.70948
 longitude: 4.46853
 postcode: "69610"
 city: Sainte-Foy-l'Argentière
-street: "Grande Rue"
-housenumber: 132
+street: Grande Rue
+housenumber: "132"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:30-18:30; Sa 09:00-12:00,14:30-17:30"
+opening_hours: Tu-Fr 09:00-12:00,14:30-18:30; Sa 09:00-12:00,14:30-17:30
 website: ""

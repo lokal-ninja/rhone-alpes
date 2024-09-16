@@ -4,8 +4,8 @@ latitude: 45.17704
 longitude: 5.70952
 postcode: "38100"
 city: Grenoble
-street: "Rue des Eaux Claires"
-housenumber: 30
-phone: "+33 4 76 21 24 09"
-opening_hours: "Mo-Fr 07:00-12:00,13:30-18:00; Sa 08:00-12:00"
-website: "https://www.rao.fr/magasins/rao-grenoble"
+street: Rue des Eaux Claires
+housenumber: "30"
+phone: +33 4 76 21 24 09
+opening_hours: Mo-Fr 07:00-12:00,13:30-18:00; Sa 08:00-12:00
+website: https://www.rao.fr/magasins/rao-grenoble

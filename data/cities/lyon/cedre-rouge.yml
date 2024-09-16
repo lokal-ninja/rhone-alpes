@@ -4,8 +4,8 @@ latitude: 45.7798
 longitude: 4.8071
 postcode: "69009"
 city: Lyon
-street: "Rue de Saint-Cyr"
-housenumber: 37
+street: Rue de Saint-Cyr
+housenumber: "37"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:30,13:30-19:00"
+opening_hours: Tu-Sa 10:00-12:30,13:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.73771
 longitude: 4.85252
 postcode: "69008"
 city: Lyon
-street: "Route de Vienne"
-housenumber: 104
-phone: "+33 7 55 51 69 19"
-opening_hours: "24/7"
+street: Route de Vienne
+housenumber: "104"
+phone: +33 7 55 51 69 19
+opening_hours: 24/7
 website: ""

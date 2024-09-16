@@ -1,11 +1,11 @@
 id: 142814962
-type: way
+type: node
 latitude: 45.83771
 longitude: 5.28649
 postcode: "01150"
 city: Saint-Vulbas
 street: ""
-housenumber: 140
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00"
+opening_hours: Mo-Fr 06:00-20:00
 website: ""

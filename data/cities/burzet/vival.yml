@@ -4,8 +4,8 @@ latitude: 44.74032
 longitude: 4.24362
 postcode: "07450"
 city: Burzet
-street: "Grand Rue"
-housenumber: 2
-phone: "+33 4 26 62 41 67"
-opening_hours: "Mo 08:00-12:15; Tu-Sa 08:00-12:15,15:30-19:15; Su 08:00-12:15"
-website: "https://magasins.vival.fr/fr/vival-burzet"
+street: Grand Rue
+housenumber: "2"
+phone: +33 4 26 62 41 67
+opening_hours: Mo 08:00-12:15; Tu-Sa 08:00-12:15,15:30-19:15; Su 08:00-12:15
+website: https://magasins.vival.fr/fr/vival-burzet

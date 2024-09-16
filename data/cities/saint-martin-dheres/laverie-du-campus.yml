@@ -4,8 +4,8 @@ latitude: 45.19272
 longitude: 5.77116
 postcode: "38400"
 city: Saint-Martin-d'Hères
-street: "Avenue de la Bibliothèque"
-housenumber: 411
-phone: "+33 4 76 96 28 03"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.laverie-grenoble.fr/laverie-thiers"
+street: Avenue de la Bibliothèque
+housenumber: "411"
+phone: +33 4 76 96 28 03
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.laverie-grenoble.fr/laverie-thiers

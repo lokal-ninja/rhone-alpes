@@ -4,8 +4,8 @@ latitude: 45.19039
 longitude: 5.7263
 postcode: "38000"
 city: Grenoble
-street: "Rue Félix Poulat"
-housenumber: 4
-phone: "+33 825 020 020"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.fnac.com/Grenoble-Victor-Hugo/Fnac-Grenoble-Victor-Hugo/cl99/w-4"
+street: Rue Félix Poulat
+housenumber: "4"
+phone: +33 825 020 020
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.fnac.com/Grenoble-Victor-Hugo/Fnac-Grenoble-Victor-Hugo/cl99/w-4

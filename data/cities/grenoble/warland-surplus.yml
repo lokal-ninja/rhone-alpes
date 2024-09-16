@@ -4,8 +4,8 @@ latitude: 45.18809
 longitude: 5.72575
 postcode: "38000"
 city: Grenoble
-street: "Rue Paul Bert"
-housenumber: 9
-phone: "+33 9 70 99 09 60"
-opening_hours: "Tu-Sa 10:00-19:00; Mo 14:00-19:00"
-website: "https://warland-surplus.fr/"
+street: Rue Paul Bert
+housenumber: "9"
+phone: +33 9 70 99 09 60
+opening_hours: Tu-Sa 10:00-19:00; Mo 14:00-19:00
+website: https://warland-surplus.fr/

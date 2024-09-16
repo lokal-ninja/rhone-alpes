@@ -4,8 +4,8 @@ latitude: 44.9639
 longitude: 4.94308
 postcode: "26320"
 city: Saint-Marcel-lès-Valence
-street: "Rue de la Roche"
-housenumber: 30
-phone: "+33 4 75 58 90 00"
-opening_hours: "Mo-Th 10:00-12:30,13:30-19:00; Fr-Sa 10:00-19:00"
-website: "https://www.cimalp.fr"
+street: Rue de la Roche
+housenumber: "30"
+phone: +33 4 75 58 90 00
+opening_hours: Mo-Th 10:00-12:30,13:30-19:00; Fr-Sa 10:00-19:00
+website: https://www.cimalp.fr

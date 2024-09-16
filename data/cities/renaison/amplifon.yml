@@ -1,11 +1,11 @@
 id: 553305583
-type: way
+type: node
 latitude: 46.05173
 longitude: 3.93181
 postcode: "42370"
 city: Renaison
-street: "Rue du Collège"
-housenumber: 554
-phone: "+33 4 77 87 43 04"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://www.amplifon.com/web/fr/nous-trouver/-/store/amplifon-shop/563/amplifon+renaison/renaison/554+rue+du+college"
+street: Rue du Collège
+housenumber: "554"
+phone: +33 4 77 87 43 04
+opening_hours: Mo-Fr 09:00-18:30
+website: https://www.amplifon.com/web/fr/nous-trouver/-/store/amplifon-shop/563/amplifon+renaison/renaison/554+rue+du+college

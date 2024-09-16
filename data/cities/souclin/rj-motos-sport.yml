@@ -4,8 +4,8 @@ latitude: 45.86885
 longitude: 5.42765
 postcode: "01150"
 city: Souclin
-street: "Rue de Champiout"
-housenumber: 108
-phone: "+33 6 51 97 44 98"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00"
+street: Rue de Champiout
+housenumber: "108"
+phone: +33 6 51 97 44 98
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00
 website: ""

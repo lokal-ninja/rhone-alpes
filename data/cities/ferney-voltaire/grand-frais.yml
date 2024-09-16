@@ -1,11 +1,11 @@
 id: 479855469
-type: way
+type: node
 latitude: 46.24465
 longitude: 6.09387
 postcode: "01210"
 city: Ferney-Voltaire
-street: "Route de Meyrin"
-housenumber: 
-phone: "+33 4 50 28 72 02"
-opening_hours: "Mo-Sa 08:30-20:30, Su 09:00-12:30"
-website: "https://www.grandfrais.com/ferney-voltaire/magasin-211.html"
+street: Route de Meyrin
+housenumber: ""
+phone: +33 4 50 28 72 02
+opening_hours: Mo-Sa 08:30-20:30, Su 09:00-12:30
+website: https://www.grandfrais.com/ferney-voltaire/magasin-211.html

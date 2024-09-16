@@ -1,11 +1,11 @@
 id: 778806907
-type: way
+type: node
 latitude: 45.44945
 longitude: 5.55048
 postcode: "38850"
 city: Bilieu
-street: "Route de Fayarde et Côtes"
-housenumber: 25
+street: Route de Fayarde et Côtes
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

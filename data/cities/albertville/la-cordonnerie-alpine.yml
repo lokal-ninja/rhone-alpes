@@ -4,8 +4,8 @@ latitude: 45.6734
 longitude: 6.38526
 postcode: "73200"
 city: Albertville
-street: "Avenue Victor Hugo"
-housenumber: 21
+street: Avenue Victor Hugo
+housenumber: "21"
 phone: "+33762384203"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00"
-website: "https://www.lacordonneriealpine.fr/"
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00
+website: https://www.lacordonneriealpine.fr/

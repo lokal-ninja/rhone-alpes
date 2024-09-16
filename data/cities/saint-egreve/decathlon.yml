@@ -1,11 +1,11 @@
 id: 66959726
-type: way
+type: node
 latitude: 45.24084
 longitude: 5.66844
 postcode: "38120"
 city: Saint-Égrève
-street: "Rue de la Trémollière"
-housenumber: 3
+street: Rue de la Trémollière
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su off"
+opening_hours: Mo-Sa 09:00-19:30; Su off
 website: ""

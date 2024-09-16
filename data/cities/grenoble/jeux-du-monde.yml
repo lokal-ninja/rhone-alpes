@@ -4,8 +4,8 @@ latitude: 45.18663
 longitude: 5.72386
 postcode: "38000"
 city: Grenoble
-street: "Rue Lakanal"
-housenumber: 1
+street: Rue Lakanal
+housenumber: "1"
 phone: "+33954734834"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.jeuxdumonde.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.jeuxdumonde.com/

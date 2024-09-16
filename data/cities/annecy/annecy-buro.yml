@@ -4,8 +4,8 @@ latitude: 45.89976
 longitude: 6.12182
 postcode: "74000"
 city: Annecy
-street: "Rue Royale"
-housenumber: 28
+street: Rue Royale
+housenumber: "28"
 phone: ""
-opening_hours: "Mo 09:00-12:00,14:00-18:30; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://annecyburo-calipage.fournituredebureau.com/"
+opening_hours: Mo 09:00-12:00,14:00-18:30; Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://annecyburo-calipage.fournituredebureau.com/

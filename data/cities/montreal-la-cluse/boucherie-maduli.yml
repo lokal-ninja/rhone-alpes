@@ -4,8 +4,8 @@ latitude: 46.17054
 longitude: 5.57675
 postcode: "01460"
 city: Montréal-la-Cluse
-street: "Rue des Savoies"
-housenumber: 3
+street: Rue des Savoies
+housenumber: "3"
 phone: "+33474760363"
-opening_hours: "Tu,Th,Fr 08:00-12:30,15:30-19:00; We 08:00-12:30"
+opening_hours: Tu,Th,Fr 08:00-12:30,15:30-19:00; We 08:00-12:30
 website: ""

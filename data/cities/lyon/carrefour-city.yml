@@ -4,8 +4,8 @@ latitude: 45.76508
 longitude: 4.83609
 postcode: "69002"
 city: Lyon
-street: "Rue de la République"
-housenumber: 17
+street: Rue de la République
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-lyon-republique"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-lyon-republique

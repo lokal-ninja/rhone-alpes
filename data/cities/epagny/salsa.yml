@@ -1,11 +1,11 @@
 id: 62546962
-type: way
+type: node
 latitude: 45.93942
 longitude: 6.07882
 postcode: "74330"
 city: Épagny
-street: "Rue de la Mandallaz"
-housenumber: 51
+street: Rue de la Mandallaz
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.salsajeans.com/fr/"
+website: https://www.salsajeans.com/fr/

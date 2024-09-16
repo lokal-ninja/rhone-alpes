@@ -1,11 +1,11 @@
 id: 66386417
-type: way
+type: node
 latitude: 45.16026
 longitude: 5.69528
 postcode: "38180"
 city: Seyssins
-street: "Rue de la Liberté"
-housenumber: 112
+street: Rue de la Liberté
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:00"
+opening_hours: Mo-Th, Sa 08:30-19:30; Fr 08:30-20:00; Su 09:00-12:00
 website: ""

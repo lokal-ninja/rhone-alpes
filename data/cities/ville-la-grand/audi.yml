@@ -1,11 +1,11 @@
 id: 158608795
-type: way
+type: node
 latitude: 46.20173
 longitude: 6.27188
 postcode: "74100"
 city: Ville-la-Grand
-street: "Rue des Buchillons"
-housenumber: 21
+street: Rue des Buchillons
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00"
-website: "https://www.audi-annemasse.fr/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00
+website: https://www.audi-annemasse.fr/

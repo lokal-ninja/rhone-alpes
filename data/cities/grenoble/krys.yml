@@ -1,11 +1,11 @@
 id: 512917499
-type: way
+type: node
 latitude: 45.15805
 longitude: 5.73282
 postcode: "38100"
 city: Grenoble
-street: "Avenue de Belledonne"
-housenumber: 18
-phone: "+33 4 76 33 22 44"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://grand-place.klepierre.fr/Shopping/Krys"
+street: Avenue de Belledonne
+housenumber: "18"
+phone: +33 4 76 33 22 44
+opening_hours: Mo-Sa 09:30-20:00
+website: https://grand-place.klepierre.fr/Shopping/Krys

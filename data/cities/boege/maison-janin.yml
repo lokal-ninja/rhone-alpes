@@ -1,11 +1,11 @@
 id: 122925938
-type: way
+type: node
 latitude: 46.20533
 longitude: 6.39856
 postcode: "74420"
 city: Boëge
-street: "Rue de la Vallée Verte"
-housenumber: 569
+street: Rue de la Vallée Verte
+housenumber: "569"
 phone: ""
-opening_hours: "Mo-Su 06:00-19:30"
+opening_hours: Mo-Su 06:00-19:30
 website: ""

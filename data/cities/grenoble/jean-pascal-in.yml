@@ -4,8 +4,8 @@ latitude: 45.18741
 longitude: 5.73001
 postcode: "38000"
 city: Grenoble
-street: "Rue de Strasbourg"
-housenumber: 5
+street: Rue de Strasbourg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

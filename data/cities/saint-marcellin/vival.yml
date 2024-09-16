@@ -4,8 +4,8 @@ latitude: 45.15345
 longitude: 5.32082
 postcode: "38160"
 city: Saint-Marcellin
-street: "Grande Rue"
-housenumber: 36
-phone: "+33 9 86 51 65 57"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://magasins.vival.fr/fr/s/vival-saint-marcellin"
+street: Grande Rue
+housenumber: "36"
+phone: +33 9 86 51 65 57
+opening_hours: Mo-Su 07:30-21:00
+website: https://magasins.vival.fr/fr/s/vival-saint-marcellin

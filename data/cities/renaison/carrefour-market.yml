@@ -1,11 +1,11 @@
 id: 193334304
-type: way
+type: node
 latitude: 46.05238
 longitude: 3.93152
 postcode: "42370"
 city: Renaison
-street: "Rue du Tacot"
-housenumber: 2
-phone: "+33 4 77 66 49 14"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.carrefour.fr/magasin/market-renaison"
+street: Rue du Tacot
+housenumber: "2"
+phone: +33 4 77 66 49 14
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.carrefour.fr/magasin/market-renaison

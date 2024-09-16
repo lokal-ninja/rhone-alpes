@@ -4,8 +4,8 @@ latitude: 45.18178
 longitude: 5.72989
 postcode: "38000"
 city: Grenoble
-street: "Avenue Albert 1er de Belgique"
-housenumber: 27
-phone: "+33 4 76 87 36 49"
-opening_hours: "Mo-Sa 06:45-19:45"
-website: "http://www.auchardonbleu.com/boutiques/albert-1er-de-belgique/"
+street: Avenue Albert 1er de Belgique
+housenumber: "27"
+phone: +33 4 76 87 36 49
+opening_hours: Mo-Sa 06:45-19:45
+website: http://www.auchardonbleu.com/boutiques/albert-1er-de-belgique/

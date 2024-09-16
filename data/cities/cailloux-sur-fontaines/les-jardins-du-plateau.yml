@@ -1,11 +1,11 @@
 id: 129816494
-type: way
+type: node
 latitude: 45.86114
 longitude: 4.88943
 postcode: ""
 city: Cailloux-sur-Fontaines
-street: "Routes des Echets"
-housenumber: 800
+street: Routes des Echets
+housenumber: "800"
 phone: ""
-opening_hours: "Tu,Fr 16:00-19:30"
+opening_hours: Tu,Fr 16:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 66183948
-type: way
+type: node
 latitude: 45.17707
 longitude: 5.69042
 postcode: "38170"
 city: Seyssinet-Pariset
-street: "Avenue du Général de Gaulle"
-housenumber: 9
+street: Avenue du Général de Gaulle
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.seyssinetalpesauto.fr/"
+website: https://www.seyssinetalpesauto.fr/

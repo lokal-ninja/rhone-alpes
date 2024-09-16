@@ -4,8 +4,8 @@ latitude: 45.19425
 longitude: 5.71927
 postcode: "38000"
 city: Grenoble
-street: "Route de Lyon"
-housenumber: 4
-phone: "+33 4 76 46 50 10"
-opening_hours: "Tu-Sa 06:30-19:30; Su 06:30-19:00"
+street: Route de Lyon
+housenumber: "4"
+phone: +33 4 76 46 50 10
+opening_hours: Tu-Sa 06:30-19:30; Su 06:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.74122
 longitude: 4.81629
 postcode: "69002"
 city: Lyon
-street: "Cours Charlemagne"
-housenumber: 112
-phone: "+33 4 37 23 15 00"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.apple.com/fr/retail/confluence/"
+street: Cours Charlemagne
+housenumber: "112"
+phone: +33 4 37 23 15 00
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.apple.com/fr/retail/confluence/

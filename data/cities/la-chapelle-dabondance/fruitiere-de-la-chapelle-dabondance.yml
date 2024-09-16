@@ -1,11 +1,11 @@
 id: 666447302
-type: way
+type: node
 latitude: 46.29341
 longitude: 6.79398
 postcode: "74360"
 city: La Chapelle-d'Abondance
-street: "Route des Frasses"
-housenumber: 494
+street: Route des Frasses
+housenumber: "494"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.75227
 longitude: 4.84516
 postcode: "69003"
 city: Lyon
-street: "Rue Chalopin"
-housenumber: 4
+street: Rue Chalopin
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-20:00; Su 13:00-19:00"
-website: "https://www.yumna.fr/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-20:00; Su 13:00-19:00
+website: https://www.yumna.fr/

@@ -4,8 +4,8 @@ latitude: 45.05416
 longitude: 6.02957
 postcode: "38520"
 city: Le Bourg-d'Oisans
-street: "Rue de Viennois"
-housenumber: 18
-phone: "+33 6 82 42 99 88"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://oisans-informatique.com/"
+street: Rue de Viennois
+housenumber: "18"
+phone: +33 6 82 42 99 88
+opening_hours: Mo-Sa 09:00-19:00
+website: https://oisans-informatique.com/

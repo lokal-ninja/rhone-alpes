@@ -1,11 +1,12 @@
 id: 305046261
-type: way
+type: node
 latitude: 46.14744
 longitude: 6.08574
 postcode: "74160"
 city: Saint-Julien-en-Genevois
-street: "Avenue de Mössingen"
-housenumber: 2
+street: Avenue de Mössingen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 14:00-19:30; Tu-Th 8:00-19:30; Fr 8:00-20:00; Sa 8:00-19:30; Su 8:30-12:30"
+opening_hours: Mo 14:00-19:30; Tu-Th 8:00-19:30; Fr 8:00-20:00; Sa 8:00-19:30; Su
+    8:30-12:30
 website: ""

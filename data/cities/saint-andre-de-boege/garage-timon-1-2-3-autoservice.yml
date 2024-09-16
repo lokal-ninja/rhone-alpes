@@ -1,11 +1,11 @@
 id: 197943994
-type: way
+type: node
 latitude: 46.2015
 longitude: 6.39275
 postcode: "74420"
 city: Saint-André-de-Boëge
-street: "Impasse de Chez Merlin"
-housenumber: 115
-phone: "+33 4 50 95 27 23"
+street: Impasse de Chez Merlin
+housenumber: "115"
+phone: +33 4 50 95 27 23
 opening_hours: ""
-website: "https://www.123autoservice.fr/nos-garages/auvergne-rhone-alpes/haute-savoie/saint-andre-de-boege/garage-timon/"
+website: https://www.123autoservice.fr/nos-garages/auvergne-rhone-alpes/haute-savoie/saint-andre-de-boege/garage-timon/

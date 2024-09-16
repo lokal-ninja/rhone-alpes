@@ -1,11 +1,12 @@
 id: 80985764
-type: way
+type: node
 latitude: 45.15839
 longitude: 5.71363
 postcode: "38130"
 city: Échirolles
-street: "Rue de Bretagne"
-housenumber: 
-phone: "+33 4 76 09 31 83"
-opening_hours: "Nov-Feb Tu-Sa 09:30-12:00,14:00-18:00; Mar-Oct Tu-Fr 09:00-12:00,14:00-19:00; Mar-Oct Sa 09:00-12:00,14:00-18:00; Su,Mo,PH off"
-website: "http://www.motolabo.fr/"
+street: Rue de Bretagne
+housenumber: ""
+phone: +33 4 76 09 31 83
+opening_hours: Nov-Feb Tu-Sa 09:30-12:00,14:00-18:00; Mar-Oct Tu-Fr 09:00-12:00,14:00-19:00;
+    Mar-Oct Sa 09:00-12:00,14:00-18:00; Su,Mo,PH off
+website: http://www.motolabo.fr/

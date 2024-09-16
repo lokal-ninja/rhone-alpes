@@ -4,8 +4,8 @@ latitude: 45.73721
 longitude: 4.83686
 postcode: "69007"
 city: Lyon
-street: "Avenue Jean Jaurès"
-housenumber: 182
-phone: "+33 4 78 96 01 38"
-opening_hours: "Mo-Sa 06:30-20:00; Su,PH 07:00-19:00"
-website: "https://www.boulangeriechezjules.fr/"
+street: Avenue Jean Jaurès
+housenumber: "182"
+phone: +33 4 78 96 01 38
+opening_hours: Mo-Sa 06:30-20:00; Su,PH 07:00-19:00
+website: https://www.boulangeriechezjules.fr/

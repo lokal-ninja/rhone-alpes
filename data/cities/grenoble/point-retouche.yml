@@ -4,8 +4,8 @@ latitude: 45.17955
 longitude: 5.70557
 postcode: "38000"
 city: Grenoble
-street: "Avenue Rhin et Danube"
-housenumber: 3
-phone: "+33 9 52 21 50 15"
-opening_hours: "Mo-Fr 09:00-12:00,12:30-18:00; Sa 09:00-12:30"
-website: "https://www.servet.fr/"
+street: Avenue Rhin et Danube
+housenumber: "3"
+phone: +33 9 52 21 50 15
+opening_hours: Mo-Fr 09:00-12:00,12:30-18:00; Sa 09:00-12:30
+website: https://www.servet.fr/

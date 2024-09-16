@@ -4,8 +4,8 @@ latitude: 45.56626
 longitude: 5.9194
 postcode: "73000"
 city: Chambéry
-street: "Rue Bonivard"
-housenumber: 5
+street: Rue Bonivard
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 45.81992
 longitude: 4.66335
 postcode: "69210"
 city: Lentilly
-street: "Rue des Écoles"
-housenumber: 2
+street: Rue des Écoles
+housenumber: "2"
 phone: "+33474017726"
-opening_hours: "Mo 13:30-18:30; Tu,We 08:30-12:00,13:30-18:30; Th 08:30-12:00; Fr 08:30-18:00; Sa 08:00-15:00"
+opening_hours: Mo 13:30-18:30; Tu,We 08:30-12:00,13:30-18:30; Th 08:30-12:00; Fr 08:30-18:00;
+    Sa 08:00-15:00
 website: ""

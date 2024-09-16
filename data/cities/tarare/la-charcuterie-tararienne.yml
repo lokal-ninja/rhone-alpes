@@ -4,8 +4,8 @@ latitude: 45.89644
 longitude: 4.43654
 postcode: "69170"
 city: Tarare
-street: "Place Georges-Antoine Simonet"
-housenumber: 4
-phone: "+33 4 74 63 15 85"
-opening_hours: "Tu-We 07:30-12:00, 14:30-19:00; Th-Fr 07:30-19:00; Sa 07:00-19:00"
+street: Place Georges-Antoine Simonet
+housenumber: "4"
+phone: +33 4 74 63 15 85
+opening_hours: Tu-We 07:30-12:00, 14:30-19:00; Th-Fr 07:30-19:00; Sa 07:00-19:00
 website: ""

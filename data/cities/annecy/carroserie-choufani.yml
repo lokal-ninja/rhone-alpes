@@ -1,11 +1,11 @@
 id: 1110338087
-type: way
+type: node
 latitude: 45.91647
 longitude: 6.10516
 postcode: "74960"
 city: ANNECY
-street: "Avenue du Pont de Tasset"
-housenumber: 26
-phone: "+33 4 50 46 61 20"
+street: Avenue du Pont de Tasset
+housenumber: "26"
+phone: +33 4 50 46 61 20
 opening_hours: ""
 website: ""
