@@ -1,6 +1,6 @@
 ---
 title: Gex
 url: /gex/
-latitude: 46.331
-longitude: 6.065
+latitude: 46.34
+longitude: 6.075
 ---

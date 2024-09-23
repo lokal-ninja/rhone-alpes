@@ -1,5 +1,5 @@
 ---
 title: "Cessy Vélos"
-url: /gex/cessy-velos/
+url: /cessy/cessy-velos/
 shop: vélo
 ---
