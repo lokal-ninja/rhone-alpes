@@ -1,6 +1,6 @@
 ---
 title: Thônes
 url: /thones/
-latitude: 45.881
-longitude: 6.325
+latitude: 45.882
+longitude: 6.326
 ---
