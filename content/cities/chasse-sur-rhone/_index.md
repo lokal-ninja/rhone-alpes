@@ -1,6 +1,6 @@
 ---
-title: Chasse-sur-Rhône
+title: Chasse-Sur-Rhône
 url: /chasse-sur-rhone/
-latitude: 45.573
+latitude: 45.572
 longitude: 4.814
 ---
