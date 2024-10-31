@@ -7,5 +7,5 @@ city: Grenoble
 street: Rue Lesdiguières
 housenumber: "16"
 phone: +33 4 76 46 00 46
-opening_hours: Tu 10:00-20:00; We-Th 10:00-21:00; Fr 10:00-19:00; Sa 08:00-12:00
+opening_hours: Tu,Fr 10:00-20:00; We-Th 10:00-21:00; Sa 08:00-12:00
 website: https://www.planity.com/edouard-b-38000-grenoble
