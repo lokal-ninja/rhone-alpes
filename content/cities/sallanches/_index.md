@@ -1,6 +1,6 @@
 ---
-title: Sallanches
+title: SALLANCHES
 url: /sallanches/
-latitude: 45.942
-longitude: 6.631
+latitude: 45.945
+longitude: 6.63
 ---
