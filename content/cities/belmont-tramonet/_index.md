@@ -1,6 +1,6 @@
 ---
 title: Belmont-Tramonet
 url: /belmont-tramonet/
-latitude: 45.56
-longitude: 5.683
+latitude: 45.582
+longitude: 5.658
 ---

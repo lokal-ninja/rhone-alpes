@@ -1,6 +1,6 @@
 ---
 title: Belley
 url: /belley/
-latitude: 45.761
-longitude: 5.682
+latitude: 45.759
+longitude: 5.701
 ---

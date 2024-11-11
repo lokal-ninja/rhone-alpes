@@ -1,5 +1,5 @@
 ---
 title: "Episol"
 url: /grenoble/episol/
-shop: commodité
+shop: supermarché
 ---
