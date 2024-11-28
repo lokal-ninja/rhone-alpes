@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /plagne-centre/intersport/
+url: /macot-la-plagne/intersport-2/
 shop: sports
 ---
