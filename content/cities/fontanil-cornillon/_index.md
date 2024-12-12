@@ -1,6 +1,6 @@
 ---
 title: Fontanil-Cornillon
 url: /fontanil-cornillon/
-latitude: 45.245
+latitude: 45.246
 longitude: 5.658
 ---
