@@ -7,5 +7,6 @@ city: La Tronche
 street: Boulevard de la Chantourne
 housenumber: "18"
 phone: ""
-opening_hours: Tu-Fr 09:30-12:30,14:30-19:00; Sa 10:00-12:00,14:00-18:00
+opening_hours: Tu-We, Fr 10:00-12:00, 14:30-19:00; Sa 10:00-12:00, 14:00-18:00; Th
+    14:30-19:00
 website: ""
