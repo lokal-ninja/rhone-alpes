@@ -1,5 +1,5 @@
 ---
-title: "POMPES SERVICES"
+title: "Pompes Services"
 url: /arnas/pompes-services/
 shop: électrique
 ---
