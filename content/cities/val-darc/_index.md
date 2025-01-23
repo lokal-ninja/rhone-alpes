@@ -1,6 +1,6 @@
 ---
 title: Val d'Arc
 url: /val-darc/
-latitude: 45.542
-longitude: 6.305
+latitude: 45.544
+longitude: 6.301
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LAMIRI Garage"
+title: "Lamiri Garage"
 url: /chirens/lamiri-garage/
 shop: réparation de voitures
 ---

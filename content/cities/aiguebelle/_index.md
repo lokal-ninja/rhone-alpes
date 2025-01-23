@@ -1,6 +1,6 @@
 ---
 title: Aiguebelle
 url: /aiguebelle/
-latitude: 45.542
-longitude: 6.305
+latitude: 45.543
+longitude: 6.304
 ---
