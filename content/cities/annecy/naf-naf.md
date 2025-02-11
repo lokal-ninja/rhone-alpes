@@ -1,5 +1,5 @@
 ---
-title: "Naf Naf"
+title: "NAF NAF"
 url: /annecy/naf-naf/
 shop: vêtements
 ---
