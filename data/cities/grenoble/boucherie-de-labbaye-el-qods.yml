@@ -7,6 +7,5 @@ city: Grenoble
 street: Avenue Jeanne d'Arc
 housenumber: "83"
 phone: ""
-opening_hours: Mo-Th 08:00-13:00;15:00-19:00; Fr 08:00-12:00;15:00-19:00; Sa 08:00-19:00;
-    Su 08:00-13:00
+opening_hours: Mo-Th,Sa 08:30-13:00,15:30-19:00; Fr 08:30-12:00,15:30-19:00; Su 08:30-13:00
 website: ""
