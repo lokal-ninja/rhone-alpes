@@ -1,5 +1,5 @@
 ---
-title: "Le petit Casino"
+title: "Le Petit Casino"
 url: /brindas/le-petit-casino/
-shop: supermarché
+shop: commodité
 ---

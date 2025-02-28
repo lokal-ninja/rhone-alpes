@@ -1,6 +1,6 @@
 ---
 title: Magland
 url: /magland/
-latitude: 46.038
-longitude: 6.611
+latitude: 46.021
+longitude: 6.621
 ---
