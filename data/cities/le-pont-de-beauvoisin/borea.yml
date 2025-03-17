@@ -7,7 +7,5 @@ city: Le Pont-de-Beauvoisin
 street: La Baronnie
 housenumber: ""
 phone: 09 86 66 76 77
-opening_hours: 'Dimanche: 06:00 - 20:00   Lundi: 06:00 - 20:00   Mardi: 06:00 - 20:00   Mercredi:
-    06:00 - 20:00   Jeudi: 06:00 - 20:00   Vendredi: 06:00 - 20:00   Samedi: 06:00
-    - 20:00'
+opening_hours: Mo-Su 06:00-20:00
 website: ""
