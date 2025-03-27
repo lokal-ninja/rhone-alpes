@@ -1,6 +1,6 @@
 ---
 title: Charantonnay
 url: /charantonnay/
-latitude: 45.537
-longitude: 5.109
+latitude: 45.533
+longitude: 5.117
 ---
