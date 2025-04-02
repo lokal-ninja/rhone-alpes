@@ -1,6 +1,6 @@
 ---
 title: Champdieu
 url: /champdieu/
-latitude: 45.648
-longitude: 4.072
+latitude: 45.646
+longitude: 4.047
 ---
