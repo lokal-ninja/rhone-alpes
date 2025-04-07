@@ -1,5 +1,5 @@
 ---
 title: "Bric'a drog'"
 url: /lyon/brica-drog/
-shop: chimiste
+shop: matériel informatique
 ---
