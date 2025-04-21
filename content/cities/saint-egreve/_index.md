@@ -1,6 +1,6 @@
 ---
 title: Saint-Égrève
 url: /saint-egreve/
-latitude: 45.223
-longitude: 5.688
+latitude: 45.239
+longitude: 5.665
 ---

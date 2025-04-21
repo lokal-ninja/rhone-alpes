@@ -1,6 +1,6 @@
 ---
 title: Sanilhac
 url: /sanilhac/
-latitude: 44.535
-longitude: 4.257
+latitude: 44.538
+longitude: 4.253
 ---
