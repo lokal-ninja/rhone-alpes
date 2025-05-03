@@ -7,5 +7,5 @@ city: Écully
 street: Place des Trois Renards
 housenumber: "6"
 phone: ""
-opening_hours: Mo-Sa 10:00-13:00, 14:30-19:00
+opening_hours: Tu,We,Fr 10:00-13:00,14:00-19:00; Th 14:00-19:00; Sa 09:30-13:00,14:00-19:00
 website: https://www.velonaute.com/content/88-velonaute-tassin-ecully-magasin-velo-electrique
