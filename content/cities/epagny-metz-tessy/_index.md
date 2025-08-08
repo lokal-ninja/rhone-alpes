@@ -1,6 +1,6 @@
 ---
 title: Épagny Metz-Tessy
 url: /epagny-metz-tessy/
-latitude: 45.936
-longitude: 6.082
+latitude: 45.94
+longitude: 6.08
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Carrefour city"
+title: "Carrefour City"
 url: /saint-marcellin/carrefour-city/
-shop: supermarché
+shop: commodité
 ---

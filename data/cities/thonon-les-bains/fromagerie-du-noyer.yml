@@ -7,6 +7,5 @@ city: Thonon-les-Bains
 street: Grande Rue
 housenumber: "8"
 phone: ""
-opening_hours: Mo-Th 08:30-12:30, 15:00-19:30; Fr-Sa 08:30-12:30, 15:00-19:00; Su
-    off
+opening_hours: Fr,Sa 15:00-19:00, Mo-Sa 09:00-12:30, Mo-Th 15:30-19:00; Su off
 website: ""

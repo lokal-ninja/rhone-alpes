@@ -1,6 +1,6 @@
 ---
 title: Argonay
 url: /argonay/
-latitude: 45.94
-longitude: 6.137
+latitude: 45.942
+longitude: 6.148
 ---

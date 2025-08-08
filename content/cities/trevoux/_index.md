@@ -1,6 +1,6 @@
 ---
 title: Trévoux
 url: /trevoux/
-latitude: 45.952
-longitude: 4.756
+latitude: 45.941
+longitude: 4.775
 ---

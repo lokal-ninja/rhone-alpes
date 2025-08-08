@@ -1,5 +1,5 @@
 ---
-title: "MKS INFORMATIQUE"
+title: "MKS Informatique"
 url: /saint-donat-sur-lherbasse/mks-informatique/
 shop: ordinateur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Épagny
 url: /epagny/
-latitude: 45.941
-longitude: 6.078
+latitude: 45.936
+longitude: 6.083
 ---
