@@ -7,5 +7,5 @@ city: Meyrin
 street: Promenade des Champs-Fréchets
 housenumber: "17"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 09:00-19:00; We 09:00-14:00
 website: ""
