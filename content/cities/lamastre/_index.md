@@ -1,6 +1,6 @@
 ---
 title: Lamastre
 url: /lamastre/
-latitude: 44.983
-longitude: 4.572
+latitude: 44.985
+longitude: 4.58
 ---

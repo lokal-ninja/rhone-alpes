@@ -1,6 +1,6 @@
 ---
-title: Notre Dame de Bellecombe
+title: Notre-Dame-de-Bellecombe
 url: /notre-dame-de-bellecombe/
-latitude: 45.804
-longitude: 6.549
+latitude: 45.808
+longitude: 6.517
 ---
