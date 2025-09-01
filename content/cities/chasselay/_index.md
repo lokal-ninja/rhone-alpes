@@ -1,6 +1,6 @@
 ---
 title: Chasselay
 url: /chasselay/
-latitude: 45.874
-longitude: 4.772
+latitude: 45.873
+longitude: 4.771
 ---
