@@ -1,6 +1,6 @@
 ---
 title: Bourg-Argental
 url: /bourg-argental/
-latitude: 45.296
+latitude: 45.297
 longitude: 4.56
 ---
