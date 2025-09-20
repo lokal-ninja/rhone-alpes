@@ -4,8 +4,8 @@ latitude: 44.61488
 longitude: 5.45254
 postcode: "26310"
 city: Luc-en-Diois
-street: Grande Rue
-housenumber: "99"
+street: ""
+housenumber: ""
 phone: 04 75 22 39 67
-opening_hours: Tu-Sa 08:30-12:30, 15:30-19:00
+opening_hours: Tu,Th,Fr 08:30-12:30,15:30-19:00; We,Sa 09:00-12:30,15:30-19:00
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Létra
 url: /letra/
-latitude: 45.962
-longitude: 4.525
+latitude: 45.957
+longitude: 4.524
 ---
