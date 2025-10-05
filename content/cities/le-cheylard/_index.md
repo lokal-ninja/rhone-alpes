@@ -2,5 +2,5 @@
 title: Le Cheylard
 url: /le-cheylard/
 latitude: 44.912
-longitude: 4.441
+longitude: 4.445
 ---

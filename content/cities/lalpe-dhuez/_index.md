@@ -1,6 +1,6 @@
 ---
-title: L'Alpe d'Huez
+title: l'Alpe d'Huez
 url: /lalpe-dhuez/
-latitude: 45.093
+latitude: 45.088
 longitude: 6.068
 ---

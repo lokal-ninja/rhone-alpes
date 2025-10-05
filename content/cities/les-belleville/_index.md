@@ -1,6 +1,6 @@
 ---
-title: Les belleville
+title: Les Belleville
 url: /les-belleville/
-latitude: 45.318
-longitude: 6.547
+latitude: 45.323
+longitude: 6.538
 ---

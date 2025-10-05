@@ -1,6 +1,6 @@
 ---
 title: La Coucourde
 url: /la-coucourde/
-latitude: 44.653
-longitude: 4.783
+latitude: 44.648
+longitude: 4.782
 ---

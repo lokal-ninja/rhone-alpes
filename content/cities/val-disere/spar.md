@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /val-disere/spar/
-shop: supermarché
+shop: commodité
 ---

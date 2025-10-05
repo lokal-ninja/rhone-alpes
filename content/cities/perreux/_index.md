@@ -1,6 +1,6 @@
 ---
 title: Perreux
 url: /perreux/
-latitude: 46.03
-longitude: 4.097
+latitude: 46.035
+longitude: 4.098
 ---
