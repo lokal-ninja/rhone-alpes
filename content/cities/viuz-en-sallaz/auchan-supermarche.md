@@ -1,5 +1,5 @@
 ---
 title: "Auchan Supermarché"
-url: /grenoble/auchan-supermarche/
+url: /viuz-en-sallaz/auchan-supermarche/
 shop: supermarché
 ---
