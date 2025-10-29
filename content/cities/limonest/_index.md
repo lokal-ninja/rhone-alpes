@@ -1,6 +1,6 @@
 ---
 title: Limonest
 url: /limonest/
-latitude: 45.823
-longitude: 4.767
+latitude: 45.837
+longitude: 4.771
 ---
