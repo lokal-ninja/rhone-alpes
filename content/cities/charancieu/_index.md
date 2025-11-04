@@ -1,6 +1,6 @@
 ---
 title: Charancieu
 url: /charancieu/
-latitude: 45.528
-longitude: 5.591
+latitude: 45.53
+longitude: 5.588
 ---
