@@ -6,8 +6,6 @@ postcode: "73330"
 city: Le Pont-de-Beauvoisin
 street: Avenue Jean Jaurès
 housenumber: ""
-phone: "0476556542"
-opening_hours: lundi 14:00-18:30  mardi 09:30-12:00 14:00-18:30  mercredi 09:30-12:00
-    14:00-18:30  jeudi 09:30-12:00 14:00-18:30  vendredi 09:30-12:00 14:00-18:30  samedi
-    09:30-12:30 14:00-18:30
+phone: +33 4 76 55 65 42
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:30, 14:00-18:30
 website: ""
