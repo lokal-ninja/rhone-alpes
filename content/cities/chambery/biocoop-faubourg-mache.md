@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /saint-bonnet-le-chateau/biocoop/
+url: /chambery/biocoop-faubourg-mache/
 shop: supermarché
 ---

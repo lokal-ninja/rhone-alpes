@@ -1,5 +1,5 @@
 ---
-title: "BioCoop"
+title: "Biocoop"
 url: /chambonas/biocoop/
 shop: commodité
 ---
