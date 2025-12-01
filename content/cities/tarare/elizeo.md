@@ -1,5 +1,5 @@
 ---
-title: "Elizeo"
+title: "Élizéo"
 url: /tarare/elizeo/
-shop: fournitures de bureau
+shop: livres
 ---

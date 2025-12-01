@@ -7,5 +7,5 @@ city: Écully
 street: Adresse  Avenue Paul Santy
 housenumber: "66"
 phone: "+33478332855"
-opening_hours: Mo-Sa 09:00-19:00 Su 09:30-12h30 et 14:00-18:30
+opening_hours: Mo-Sa 09:00-19:00; Su 09:30-12h30,14:00-18:30
 website: ""
