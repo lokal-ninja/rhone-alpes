@@ -1,6 +1,6 @@
 ---
 title: Quincieux
 url: /quincieux/
-latitude: 45.91
-longitude: 4.791
+latitude: 45.917
+longitude: 4.776
 ---
