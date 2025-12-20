@@ -1,5 +1,5 @@
 ---
 title: "Antre Flammes"
 url: /montelimar/antre-flammes/
-shop: shop
+shop: meubles
 ---
