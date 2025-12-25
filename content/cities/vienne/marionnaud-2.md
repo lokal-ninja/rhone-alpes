@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /vienne/marionnaud-rue-ponsard/
+url: /vienne/marionnaud-2/
 shop: parfumerie
 ---
