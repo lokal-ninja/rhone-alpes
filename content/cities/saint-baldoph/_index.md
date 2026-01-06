@@ -1,6 +1,6 @@
 ---
 title: Saint-Baldoph
 url: /saint-baldoph/
-latitude: 45.532
-longitude: 5.961
+latitude: 45.54
+longitude: 5.959
 ---
