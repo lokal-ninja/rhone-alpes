@@ -1,6 +1,6 @@
 ---
 title: Miribel
 url: /miribel/
-latitude: 45.83
-longitude: 4.947
+latitude: 45.864
+longitude: 4.911
 ---

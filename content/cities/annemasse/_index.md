@@ -1,6 +1,6 @@
 ---
 title: Annemasse
 url: /annemasse/
-latitude: 46.194
-longitude: 6.237
+latitude: 46.195
+longitude: 6.236
 ---

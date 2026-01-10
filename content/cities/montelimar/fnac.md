@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /montelimar/fnac/
-shop: électronique
+shop: livres
 ---
