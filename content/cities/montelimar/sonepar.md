@@ -1,5 +1,5 @@
 ---
 title: "Sonepar"
 url: /montelimar/sonepar/
-shop: électrique
+shop: approvisionnement médical
 ---

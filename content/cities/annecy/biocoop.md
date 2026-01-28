@@ -1,5 +1,5 @@
 ---
-title: "BioCoop"
+title: "Biocoop"
 url: /annecy/biocoop/
-shop: commodité
+shop: supermarché
 ---

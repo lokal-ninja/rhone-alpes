@@ -1,6 +1,6 @@
 ---
 title: Mens
 url: /mens/
-latitude: 44.817
-longitude: 5.748
+latitude: 44.818
+longitude: 5.752
 ---
