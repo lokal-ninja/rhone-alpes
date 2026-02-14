@@ -1,5 +1,5 @@
 ---
-title: "Hors catégorie"
+title: "Hors Catégorie"
 url: /grenoble/hors-categorie/
-shop: sports
+shop: vélo
 ---
