@@ -1,6 +1,6 @@
 ---
 title: Domarin
 url: /domarin/
-latitude: 45.59
-longitude: 5.242
+latitude: 45.585
+longitude: 5.262
 ---

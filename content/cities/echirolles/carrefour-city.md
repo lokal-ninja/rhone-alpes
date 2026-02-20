@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /annecy/carrefour-city-place-annapurna/
+url: /echirolles/carrefour-city/
 shop: commodité
 ---
