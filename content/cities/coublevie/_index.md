@@ -1,6 +1,6 @@
 ---
 title: Coublevie
 url: /coublevie/
-latitude: 45.351
-longitude: 5.602
+latitude: 45.354
+longitude: 5.608
 ---
