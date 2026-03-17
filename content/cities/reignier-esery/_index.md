@@ -1,6 +1,6 @@
 ---
-title: Reignier-Esery
+title: Reignier-Ésery
 url: /reignier-esery/
-latitude: 46.138
-longitude: 6.27
+latitude: 46.136
+longitude: 6.269
 ---
