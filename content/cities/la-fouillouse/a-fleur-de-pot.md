@@ -1,5 +1,5 @@
 ---
-title: "A Fleur de Pot"
+title: "À Fleur de Pot"
 url: /la-fouillouse/a-fleur-de-pot/
 shop: fleuriste
 ---
