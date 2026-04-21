@@ -1,5 +1,5 @@
 ---
-title: "Avec"
+title: "avec"
 url: /meyrin/avec/
-shop: shop
+shop: commodité
 ---
