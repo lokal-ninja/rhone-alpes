@@ -1,5 +1,5 @@
 ---
-title: "Vélos papillon"
+title: "Vélos Papillon"
 url: /saint-martin-le-vinoux/velos-papillon/
 shop: vélo
 ---

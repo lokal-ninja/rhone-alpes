@@ -1,6 +1,6 @@
 ---
 title: Soleymieu
 url: /soleymieu/
-latitude: 45.69
-longitude: 5.374
+latitude: 45.688
+longitude: 5.369
 ---

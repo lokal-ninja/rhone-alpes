@@ -1,6 +1,6 @@
 ---
 title: Renage
 url: /renage/
-latitude: 45.332
-longitude: 5.486
+latitude: 45.333
+longitude: 5.484
 ---

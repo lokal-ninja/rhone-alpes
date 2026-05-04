@@ -1,5 +1,5 @@
 ---
-title: "cynthia atelier beauté"
+title: "Cynthia atelier beauté"
 url: /grenoble/cynthia-atelier-beaute/
 shop: beauté
 ---
