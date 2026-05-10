@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /chambery/biocoop-faubourg-mache/
+url: /chambery/biocoop-quai-de-la-rize/
 shop: supermarché
 ---

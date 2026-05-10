@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /annecy/renault/
-shop: voiture
+shop: réparation de voitures
 ---

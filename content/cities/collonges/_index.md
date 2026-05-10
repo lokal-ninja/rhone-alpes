@@ -1,6 +1,6 @@
 ---
 title: Collonges
 url: /collonges/
-latitude: 46.146
-longitude: 5.916
+latitude: 46.139
+longitude: 5.904
 ---
