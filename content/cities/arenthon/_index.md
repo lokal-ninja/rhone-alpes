@@ -1,6 +1,6 @@
 ---
 title: Arenthon
 url: /arenthon/
-latitude: 46.101
-longitude: 6.338
+latitude: 46.111
+longitude: 6.326
 ---
