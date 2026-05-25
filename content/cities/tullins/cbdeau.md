@@ -1,5 +1,5 @@
 ---
-title: "CBDeau"
+title: "CBD'eau"
 url: /tullins/cbdeau/
-shop: shop
+shop: cannabis
 ---
