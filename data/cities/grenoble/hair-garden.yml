@@ -7,5 +7,5 @@ city: Grenoble
 street: Avenue Jean Perrot
 housenumber: "39"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We 09:30-12:30,13:30-19:00; Th 12:30-20:30; Fr 09:00-19:00; Sa 09:00-17:00
 website: https://www.hairgarden.fr/

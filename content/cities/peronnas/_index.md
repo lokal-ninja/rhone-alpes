@@ -1,6 +1,6 @@
 ---
 title: Péronnas
 url: /peronnas/
-latitude: 46.187
-longitude: 5.209
+latitude: 46.191
+longitude: 5.211
 ---
