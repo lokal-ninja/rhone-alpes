@@ -1,5 +1,5 @@
 ---
-title: "maxxess"
+title: "Maxxess"
 url: /seynod/maxxess/
 shop: moto
 ---
