@@ -1,6 +1,6 @@
 ---
 title: Albens
 url: /albens/
-latitude: 45.787
-longitude: 5.95
+latitude: 45.786
+longitude: 5.952
 ---
