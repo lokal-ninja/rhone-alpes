@@ -1,6 +1,6 @@
 ---
 title: Cublize
 url: /cublize/
-latitude: 46.019
-longitude: 4.378
+latitude: 46.016
+longitude: 4.377
 ---

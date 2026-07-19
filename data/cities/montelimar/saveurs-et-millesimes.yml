@@ -7,6 +7,6 @@ city: Montélimar
 street: Rue Pierre Julien
 housenumber: "97"
 phone: +33 4 75 90 96 97
-opening_hours: Mo off; Tu 10:00–12:30, 15:00–19:00; We-Fr 09:00–12:30, 15:00–19:00;
-    Sa 09:00–19:00; Su 09:00–12:15
+opening_hours: Mo off; Tu 10:00-12:30,15:00-19:00; We-Fr 09:00-12:30,15:00-19:00;
+    Sa 09:00-19:00; Su 09:00-12:15
 website: ""

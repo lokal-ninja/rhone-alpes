@@ -7,6 +7,6 @@ city: La Vernaz
 street: Route des Grandes Alpes
 housenumber: "205"
 phone: ""
-opening_hours: Jan-Mar,Oct-Dec off; Apr-Jun,Sep 10:00-12:00, 14:00-17:00; Jul-Aug
-    09:00-18:00
+opening_hours: 'Apr-Jun,Sep: 10:00-12:00,14:00-17:00; Jul-Aug: 09:00-18:00; Jan-Mar,Oct-Dec
+    off'
 website: ""

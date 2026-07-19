@@ -1,5 +1,5 @@
 ---
-title: "Gerentes"
+title: "Gérentes"
 url: /montelimar/gerentes/
 shop: fromage
 ---
