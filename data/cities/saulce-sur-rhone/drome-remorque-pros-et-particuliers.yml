@@ -7,5 +7,5 @@ city: Saulce-sur-Rhône
 street: Avenue de Provence
 housenumber: "66"
 phone: +33 4 75 56 19 46
-opening_hours: Mo-Fr 09:00-12:00 14:00-18:00 Sa 09:00-12:00
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: http://www.drome-remorque.com/

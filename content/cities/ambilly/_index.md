@@ -1,6 +1,6 @@
 ---
 title: Ambilly
 url: /ambilly/
-latitude: 46.196
+latitude: 46.194
 longitude: 6.228
 ---

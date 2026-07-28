@@ -7,5 +7,6 @@ city: Larajasse
 street: Place de la Mairie
 housenumber: "48"
 phone: "+33478190023"
-opening_hours: ""
+opening_hours: Mo 08:30-14:30, Tu-Th 08:30-12:00, Tu,Th 13:30-18:30, Fr 08:30-19:00,
+    Sa 07:00-13:30
 website: ""
