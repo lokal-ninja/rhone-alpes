@@ -1,6 +1,6 @@
 ---
 title: Poisy
 url: /poisy/
-latitude: 45.917
-longitude: 6.083
+latitude: 45.922
+longitude: 6.063
 ---

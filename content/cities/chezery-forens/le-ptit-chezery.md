@@ -1,5 +1,5 @@
 ---
-title: "Le p'tit Chézery"
+title: "Le P'tit Chézery"
 url: /chezery-forens/le-ptit-chezery/
 shop: boulangerie
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boën-sur-Lignon
 url: /boen-sur-lignon/
-latitude: 45.746
-longitude: 4.003
+latitude: 45.747
+longitude: 4.004
 ---

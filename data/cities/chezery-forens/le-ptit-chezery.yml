@@ -7,5 +7,5 @@ city: Chézery-Forens
 street: Route de Confort
 housenumber: "120"
 phone: ""
-opening_hours: Tu-Su 07:15-12:15; Tu,Sa 16:30-18:30
-website: ""
+opening_hours: Tu,Sa 07:15-12:15,16:30-18:30; We,Th,Fr,Su 07:15-12:15; Mo off
+website: http://www.leptitchezery.fr/

@@ -1,6 +1,6 @@
 ---
 title: Voglans
 url: /voglans/
-latitude: 45.62
-longitude: 5.887
+latitude: 45.618
+longitude: 5.889
 ---

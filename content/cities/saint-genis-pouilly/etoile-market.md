@@ -1,5 +1,5 @@
 ---
-title: "ÉTOILE MARKET"
+title: "Étoile Market"
 url: /saint-genis-pouilly/etoile-market/
 shop: commodité
 ---

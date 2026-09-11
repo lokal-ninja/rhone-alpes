@@ -1,6 +1,6 @@
 ---
 title: Aigueblanche
 url: /aigueblanche/
-latitude: 45.502
-longitude: 6.503
+latitude: 45.503
+longitude: 6.502
 ---

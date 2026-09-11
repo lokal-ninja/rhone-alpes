@@ -1,6 +1,6 @@
 ---
-title: Alba-la-Romaine
+title: Alba la Romaine
 url: /alba-la-romaine/
-latitude: 44.555
-longitude: 4.598
+latitude: 44.558
+longitude: 4.596
 ---
