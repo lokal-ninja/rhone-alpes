@@ -1,6 +1,6 @@
 ---
 title: Pierrelatte
 url: /pierrelatte/
-latitude: 44.365
-longitude: 4.724
+latitude: 44.377
+longitude: 4.696
 ---

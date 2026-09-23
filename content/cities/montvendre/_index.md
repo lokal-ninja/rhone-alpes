@@ -1,6 +1,6 @@
 ---
 title: Montvendre
 url: /montvendre/
-latitude: 44.871
-longitude: 5.021
+latitude: 44.867
+longitude: 5.02
 ---

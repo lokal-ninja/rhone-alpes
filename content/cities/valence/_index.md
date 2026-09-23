@@ -1,6 +1,6 @@
 ---
 title: Valence
 url: /valence/
-latitude: 44.92
-longitude: 4.886
+latitude: 44.912
+longitude: 4.885
 ---
