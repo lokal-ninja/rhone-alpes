@@ -1,5 +1,5 @@
 ---
 title: "CEDEO"
 url: /bourg-en-bresse/cedeo/
-shop: shop
+shop: à faire soi-même
 ---

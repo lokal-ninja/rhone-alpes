@@ -1,5 +1,5 @@
 ---
-title: "SAMSE"
+title: "Samse"
 url: /le-pont-de-beauvoisin/samse/
-shop: commerce
+shop: à faire soi-même
 ---

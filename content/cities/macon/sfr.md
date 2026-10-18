@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /macon/sfr/
-shop: chaussures
+shop: téléphone portable
 ---
