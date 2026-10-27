@@ -7,5 +7,5 @@ city: Saint-Égrève
 street: Place Saint-Christophe
 housenumber: "4"
 phone: +33 4 76 75 37 31
-opening_hours: Mo 06:30-12:45; Mo 15:15-19:00; We-Su 06:30-12:45; We-Sa 15:15-19:00
+opening_hours: Mo,We-Sa 06:30-12:45,15:15-19:00; Su 06:30-12:45
 website: ""

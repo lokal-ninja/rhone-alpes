@@ -1,6 +1,6 @@
 ---
 title: Chaponnay
 url: /chaponnay/
-latitude: 45.651
-longitude: 4.927
+latitude: 45.649
+longitude: 4.921
 ---

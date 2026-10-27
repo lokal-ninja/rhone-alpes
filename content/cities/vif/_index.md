@@ -1,6 +1,6 @@
 ---
 title: Vif
 url: /vif/
-latitude: 45.056
-longitude: 5.67
+latitude: 45.055
+longitude: 5.669
 ---
