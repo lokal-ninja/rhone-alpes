@@ -7,5 +7,7 @@ city: Romans-sur-Isère
 street: Avenue Louis Saillans
 housenumber: ""
 phone: ""
-opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00; Su 09:30-12:30,14:00-18:00;
+    2026 Nov 11 09:30-12:30,14:00-18:00; 2026 Dec 23 09:00-19:00; 2026 Dec 24 09:00-18:00;
+    2026 Dec 25 off; 2026 Dec 31 09:00-12:00,14:00-18:00
 website: ""

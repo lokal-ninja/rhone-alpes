@@ -1,5 +1,5 @@
 ---
 title: "Skiset"
 url: /flaine/skiset/
-shop: extérieur
+shop: sports
 ---

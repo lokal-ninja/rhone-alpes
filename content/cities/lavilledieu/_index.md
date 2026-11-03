@@ -1,6 +1,6 @@
 ---
 title: Lavilledieu
 url: /lavilledieu/
-latitude: 44.591
-longitude: 4.442
+latitude: 44.571
+longitude: 4.459
 ---
