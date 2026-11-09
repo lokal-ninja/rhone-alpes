@@ -1,5 +1,5 @@
 ---
 title: "Thévenon Pro"
-url: /lyon/thevenon-pro/
+url: /lyon-3eme-arrondissement/thevenon-pro/
 shop: articles ménagers
 ---

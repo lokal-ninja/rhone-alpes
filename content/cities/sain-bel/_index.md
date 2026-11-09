@@ -1,6 +1,6 @@
 ---
 title: Sain-Bel
 url: /sain-bel/
-latitude: 45.811
-longitude: 4.6
+latitude: 45.81
+longitude: 4.599
 ---
