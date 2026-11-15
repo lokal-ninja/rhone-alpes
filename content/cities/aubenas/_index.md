@@ -1,6 +1,6 @@
 ---
 title: Aubenas
 url: /aubenas/
-latitude: 44.614
-longitude: 4.406
+latitude: 44.619
+longitude: 4.39
 ---

@@ -2,5 +2,5 @@
 title: Craponne
 url: /craponne/
 latitude: 45.747
-longitude: 4.726
+longitude: 4.723
 ---

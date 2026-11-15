@@ -2,5 +2,5 @@
 title: Prades
 url: /prades/
 latitude: 44.644
-longitude: 4.326
+longitude: 4.327
 ---
